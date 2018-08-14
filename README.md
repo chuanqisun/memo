@@ -11,7 +11,7 @@
 - [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/) #technique#a11y#wcag#reference
 - [I Used The Web For A Day With Just A Keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/) #a11y#keyboard
 - [I Used The Web For A Day With JavaScript Turned Off](https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/) #progressiveenhancement#a11y
-- [PQINA designs and builds performant, responsive and polished web components](https://pqina.nl/) #startup#component#library#minimalist#businessstrategy
+- [PQINA designs and builds performant, responsive and polished web components](https://pqina.nl/) #startup#component#library#minimalist#businessstrategy#gooddesign
 - [Itty bitty sites are contained entirely within their own link](https://itty.bitty.site/edit) #tool#url
 - [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/) #typography#fontstack
 - [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/) #typography#fontstack#systemfont
@@ -19,6 +19,19 @@
 - [Better Collaboration By Bringing Designers Into The Code Review Process](https://www.smashingmagazine.com/2018/07/collaboration-designers-code-review-process/) #process#opinion#communication
 - [Email recipient experience design](https://alistapart.com/article/your-emails-and-recipients-deserve-better-context) #email#content#technique
 - [Hyperlinking Beyond the Web](https://css-tricks.com/hyperlinking-beyond-the-web/) deeplink into apps #url#deeplink#nativeapp
+- [Improve resume reader experience](https://www.smashingmagazine.com/2018/06/altruism-dream-design-job/) #writing#resume#content
+- [Code review best practices](https://medium.com/palantir/code-review-best-practices-19e02780015f) #codereview#communication
+- [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/) #animation#performance
+- [SimpleBar](https://github.com/Grsmto/simplebar) lightweight scrollbar #library#scroll
+- [Improving the usability of multi-selecting from a long list](https://medium.com/tripaneer-techblog/improving-the-usability-of-multi-selecting-from-a-long-list-63e1a67aab35) #pattern#multiselect#pill#select
+- [Public APIs](https://github.com/toddmotto/public-apis) request data for anything #api#free#reference
+- [Dotgrid: vector drawing app for icon design](https://hundredrabbits.itch.io/dotgrid) #minimalist#tool#gooddesign#svg#icon
+- [The Secret Law of Page Harmony](http://retinart.net/graphic-design/secret-law-of-page-harmony/) geometric techniques for perfect ratio on paper #technique#layout#gird
+- [Editable CSS and JavaScript source](https://css-tricks.com/did-you-know-that-style-and-script-tags-can-be-set-to-display-block/) use `display: block` on `<style>` and `<script>` elements #technique#editor#wysiwyg#demo#sandbox#playground
+- [pointer-events delegation](https://codepen.io/MartijnCuppens/full/MBjqbM/) change parent or sibling style on hover #technique#hover#eventdelegation
+- [Cloudinary Image management](https://cloudinary.com) CDN and optimization #saas#responsive#image#performance
+- [Notion: CMS, kanban, calendar, notes](https://www.notion.so/product) #gooddesign#businessstrategy#startup#saas#free#editor
+- [2018 Developer road maps](https://css-tricks.com/developer-roadmaps/) frontend, react, backend, vue #roadmap#reference
 
 # Taxonomy
 ## Rules
