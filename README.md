@@ -1,2 +1,4 @@
-[web](https://css-tricks.com/prototyping-in-the-browser/) #prototyping #codepen #technique `[[[url]]]` to compose HTML from components in codepen  
-[web](https://chartgen.frederickallen.co/) #svg #mock #tool #prototyping #chart generate mock svg line chart  
+- [read](https://css-tricks.com/prototyping-in-the-browser/) `[[[url]]]` to compose HTML from components in codepen #prototyping#codepen#technique
+- [read](https://chartgen.frederickallen.co/) ChartGen: generate mock svg line chart #svg#mock#tool#prototyping#chart
+- [read](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166) The guide to integrating and styling icon systems — inline SVG and icon components #icon#svg
+- [read](https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4) Multi-colored icons with SVG symbols and CSS variables #icon#svg#cssvariable
