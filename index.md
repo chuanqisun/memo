@@ -1,2 +1,0 @@
-[web](https://css-tricks.com/prototyping-in-the-browser/) #prototyping #codepen #technique `[[[url]]]` to compose HTML from components in codepen
-[web](https://chartgen.frederickallen.co/) #svg #mock #tool #prototyping #chart generate mock svg line chart
