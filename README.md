@@ -1,5 +1,5 @@
 # Wiki
-- [CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/) #technique#scroll
+- [CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/) snap to scroll positions so target items are in full view #technique#scroll
 - [Mac OS X White/Light Text Sub-Pixel Antialiasing Bug](http://www.lighterra.com/articles/macosxtextaabug/) white text blurry and bold on Mac #technique#typography
 - [How the shared family computer protected us from our worst selves](https://www.theverge.com/2018/8/9/17661466/shared-family-computer) #opinion#antitech
 - [Display After Effects animation in Android, iOS, React Native, and Web](http://airbnb.io/lottie/) #animation#library
