@@ -1,0 +1,5 @@
+- Use content breakpoint, not device breakpoint
+- 1st rule of aria is don't use aria
+- Use em and rem: pixel zoom isn't the only way to zoom. Text alone can zoom.
+- Don't use fixed and absolute position
+- Don't add widget to adjust font-size: CTRL +  is the solution

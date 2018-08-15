@@ -32,6 +32,16 @@
 - [Cloudinary Image management](https://cloudinary.com) CDN and optimization #saas#responsive#image#performance
 - [Notion: CMS, kanban, calendar, notes](https://www.notion.so/product) #gooddesign#businessstrategy#startup#saas#free#editor
 - [2018 Developer road maps](https://css-tricks.com/developer-roadmaps/) frontend, react, backend, vue #roadmap#reference
+- [Font playground](https://play.typedetail.com/) play with variable fonts #typography#variablefont#playground#tool
+- [Key Bindings for Visual Studio Code](https://code.visualstudio.com/docs/getstarted/keybindings) cheatsheet for #vscode#reference
+- [Beacon API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon) browser built-in telemetry API #api#browser#telemetry#reference
+- [Accessibility for Teams](https://accessibility.digital.gov/) US Goverment guide for embedding accessibility and inclusive design practices into your team’s workflow #a11y#introduction#wcag#reference
+- [Announce page titles in a Single Page App](https://hiddedevries.nl/en/blog/2018-07-19-accessible-page-titles-in-a-single-page-app) #a11y#technique
+- [On-demand live regions](https://github.com/Heydon/on-demand-live-region) make screenreader announce text on demand #a11y#library
+- [Subsetting font with unicode-range](https://jakearchibald.com/2014/minimising-font-downloads/) #typography#performance
+- [MIT licensed SVG illustrations](https://undraw.co/) #resource#free#svg
+- [Running untrusted script in Node VM](https://remysharp.com/2018/07/25/when-helpful-turns-into-super-bad-security) runInNewContext #security#nodejs#technique
+- [Writing Less Damned Code](https://vimeo.com/190834530) [video digest](./articles/writing-less-damned-code.md) #a11y#responsive#opinion
 
 # Taxonomy
 ## Rules
