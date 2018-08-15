@@ -24,13 +24,13 @@
 - [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/) #animation#performance
 - [SimpleBar](https://github.com/Grsmto/simplebar) lightweight scrollbar #library#scroll
 - [Improving the usability of multi-selecting from a long list](https://medium.com/tripaneer-techblog/improving-the-usability-of-multi-selecting-from-a-long-list-63e1a67aab35) #pattern#multiselect#pill#select
-- [Public APIs](https://github.com/toddmotto/public-apis) request data for anything #api#free#reference
+- [Public APIs](https://github.com/toddmotto/public-apis) request data for anything #api#free#resource
 - [Dotgrid: vector drawing app for icon design](https://hundredrabbits.itch.io/dotgrid) #minimalist#tool#gooddesign#svg#icon
 - [The Secret Law of Page Harmony](http://retinart.net/graphic-design/secret-law-of-page-harmony/) geometric techniques for perfect ratio on paper #technique#layout#gird
 - [Editable CSS and JavaScript source](https://css-tricks.com/did-you-know-that-style-and-script-tags-can-be-set-to-display-block/) use `display: block` on `<style>` and `<script>` elements #technique#editor#wysiwyg#demo#sandbox#playground
 - [pointer-events delegation](https://codepen.io/MartijnCuppens/full/MBjqbM/) change parent or sibling style on hover #technique#hover#eventdelegation
 - [Cloudinary Image management](https://cloudinary.com) CDN and optimization #saas#responsive#image#performance
-- [Notion: CMS, kanban, calendar, notes](https://www.notion.so/product) #gooddesign#businessstrategy#startup#saas#free#editor
+- [Notion: CMS, kanban, calendar, notes](https://www.notion.so/product) #gooddesign#businessstrategy#startup#saas#free#editor#cms
 - [2018 Developer road maps](https://css-tricks.com/developer-roadmaps/) frontend, react, backend, vue #roadmap#reference
 - [Font playground](https://play.typedetail.com/) play with variable fonts #typography#variablefont#playground#tool
 - [Key Bindings for Visual Studio Code](https://code.visualstudio.com/docs/getstarted/keybindings) cheatsheet for #vscode#reference
@@ -42,6 +42,22 @@
 - [MIT licensed SVG illustrations](https://undraw.co/) #resource#free#svg
 - [Running untrusted script in Node VM](https://remysharp.com/2018/07/25/when-helpful-turns-into-super-bad-security) runInNewContext #security#nodejs#technique
 - [Writing Less Damned Code](https://vimeo.com/190834530) [video digest](./articles/writing-less-damned-code.md) #a11y#responsive#opinion
+- [Typeform](https://www.typeform.com/) interactive form for user-friendly data collection #gooddesign#saas#free
+- [Fix 100vh cropped by mobile url bar](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/) #technique#responsive#mobile
+- [Math and physics for dragging animation](https://uxdesign.cc/how-to-fix-dragging-animation-in-ui-with-simple-math-4bbc10deccf7) #technique#animation
+- [Math and physics for iOS Fluid Interface](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5) including: spring, button, rubberband, momentum #technique#animation
+- [Sticky, smooth, active nav](https://css-tricks.com/sticky-smooth-active-nav/) sidenav that highlights current section #technique#scroll
+- [Various styled accessible form controls](https://scottaohara.github.io/a11y_styled_form_controls/) #component#pattern#a11y#reference#library
+- [Mlab: Database-as-a-Service for MongoDB](https://mlab.com/) #free#saas#database
+- [List of storage or database services](https://blog.codepen.io/2018/06/07/need-to-store-some-data/) #free#saas#database#resource
+- [Sanity](https://www.sanity.io/) Headless CMS solution #saas#library#cms#editor#realtime
+- [Use media query in SVG as container query](https://www.madebymike.com.au/writing/svg-has-more-potential/) #svg#responsive
+- [Automatically switch font color for different backgrounds with CSS variable](https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/) #a11y#designsystem#theming#cssvariable
+- [Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards/) cheatsheet for building accessible form control #component#pattern#a11y#reference
+- [Everything You Need To Know About Alignment In Flexbox](https://www.smashingmagazine.com/2018/08/flexbox-alignment/) align-item vs. align-content #responsive#introduction#reference
+- [Display After Effects animation in Android, iOS, React Native, and Web](http://airbnb.io/lottie/) #animation#library
+- [How the shared family computer protected us from our worst selves](https://www.theverge.com/2018/8/9/17661466/shared-family-computer) #opinion#antitech
+- [Mac OS X White/Light Text Sub-Pixel Antialiasing Bug](http://www.lighterra.com/articles/macosxtextaabug/) white text blurry and bold on Mac #technique#typography
 
 # Taxonomy
 ## Rules
