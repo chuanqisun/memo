@@ -1,4 +1,5 @@
 # Wiki
+- [Let device adjust color](https://css-tricks.com/the-possibilities-of-the-color-adjust-property/) color-adjust allows device e.g. printer to save ink #technique#print#responsive
 - [Prevent overscroll bouncing](https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/) disable rubber-banding or elastic scroll on touch device #scroll#mobile#technique
 - [CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/) snap to scroll positions so target items are in full view #technique#scroll
 - [Mac OS X White/Light Text Sub-Pixel Antialiasing Bug](http://www.lighterra.com/articles/macosxtextaabug/) white text blurry and bold on Mac #technique#typography
