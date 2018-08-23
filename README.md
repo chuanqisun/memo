@@ -1,4 +1,5 @@
 # Wiki
+- [Myth: All pages should be accessible in 3 clicks](https://uxmyths.com/post/654026581/myth-all-pages-should-be-accessible-in-3-clicks) #opinion
 - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#declaration-order) order CSS rules by function, not alphabet #opinion#technique
 - [Large scale css system design principles](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e) #itcss#technique
 - [Let device adjust color](https://css-tricks.com/the-possibilities-of-the-color-adjust-property/) color-adjust allows device e.g. printer to save ink #technique#print#responsive#ethicaldesign
@@ -68,4 +69,4 @@
 ## Rules
 - use singular form
 ## Facets
-- #introduction #technique #tutorial #tool #library #resource #reference
+- #introduction #technique #tutorial #tool #library #resource #reference #opinion
