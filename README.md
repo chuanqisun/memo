@@ -1,4 +1,5 @@
 # Wiki
+- [What Is This Thing Called Design?](https://www.subtraction.com/2018/07/17/what-is-this-thing-called-design/) what is ui/ux design, how we got here, what's next--a historic and evolutionary review. #introduction #opinion
 - [Are we designers shamelessly good at self promotion? — UX Essay #1](https://essays.uxdesign.cc/) An analysis of the state of design publishing and community building in the era of personal branding. #opinion
 - [Coding with Clarity](./articles/coding-with-clarity.md) practical tips and techniques for object oriented coding. #oop #technique
 - [Myth: All pages should be accessible in 3 clicks](https://uxmyths.com/post/654026581/myth-all-pages-should-be-accessible-in-3-clicks) #opinion
