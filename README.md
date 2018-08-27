@@ -1,4 +1,5 @@
 # Wiki
+- [Are we designers shamelessly good at self promotion? — UX Essay #1](https://essays.uxdesign.cc/) An analysis of the state of design publishing and community building in the era of personal branding. #opinion
 - [Coding with Clarity](./articles/coding-with-clarity.md) practical tips and techniques for object oriented coding. #oop #technique
 - [Myth: All pages should be accessible in 3 clicks](https://uxmyths.com/post/654026581/myth-all-pages-should-be-accessible-in-3-clicks) #opinion
 - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#declaration-order) order CSS rules by function, not alphabet #opinion#technique
