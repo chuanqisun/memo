@@ -1,4 +1,5 @@
 # Wiki
+- [Brutalist Websites](http://brutalistwebsites.com/) #resource#inspiration
 - [Solving All the Wrong Problems](https://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html) tech industry's bias to innovate for themselves #opinion
 - [Shrink Me - Compress JPG, PNG and WEBP Images](https://shrinkme.app) image optimization #tool#free#performance
 - [What Is This Thing Called Design?](https://www.subtraction.com/2018/07/17/what-is-this-thing-called-design/) what is ui/ux design, how we got here, what's next--a historic and evolutionary review. #introduction#opinion
