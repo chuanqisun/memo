@@ -1,5 +1,5 @@
 # Wiki
-- [Lobe - Deep Learning Made Simple](https://lobe.ai) intuitive UX for complex deep learning applications #free#library#saas#machinelearning
+- [Lobe - Deep Learning Made Simple](https://lobe.ai) intuitive UX for complex deep learning applications #free#library#saas#machinelearning#gooddesign
 - [Brutalist Websites](http://brutalistwebsites.com/) #resource#inspiration
 - [Solving All the Wrong Problems](https://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html) tech industry's bias to innovate for themselves #opinion
 - [Shrink Me - Compress JPG, PNG and WEBP Images](https://shrinkme.app) image optimization #tool#free#performance
