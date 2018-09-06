@@ -1,4 +1,5 @@
 # Wiki
+- [Designing A Textbox, Unabridged](https://www.smashingmagazine.com/2018/09/designing-a-textbox-unabridged/) differentiate change,keypress,keyup,input events #pattern#technique#textbox
 - [Lobe - Deep Learning Made Simple](https://lobe.ai) intuitive UX for complex deep learning applications #free#library#saas#machinelearning#gooddesign
 - [Brutalist Websites](http://brutalistwebsites.com/) #resource#inspiration
 - [Solving All the Wrong Problems](https://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html) tech industry's bias to innovate for themselves #opinion
@@ -76,4 +77,7 @@
 ## Rules
 - use singular form
 ## Facets
+### Genre
 - #introduction #technique #tutorial #tool #library #resource #reference #opinion
+### Component
+- #textbox
