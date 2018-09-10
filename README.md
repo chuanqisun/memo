@@ -1,4 +1,5 @@
 # Wiki
+- [::before vs :before](https://css-tricks.com/to-double-colon-or-not-do-double-colon/) pseudo-elements vs. pseudo-selector #reference
 - [The Complete CSS Demo for OpenType Features](https://sparanoid.com/lab/opentype-features/) #typography#reference
 - [Helping a Beginner Understand Getting a Website Live](https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/) explain domain, web host, CMS, CDN, repository, deployment #introduction
 - [Design with Difficult Data](https://alistapart.com/article/design-with-difficult-data) fake data < real data < difficult data #opinion
