@@ -1,4 +1,5 @@
 # Wiki
+- [The Mighty Ellipsis](https://medium.com/@jsaito/the-mighty-ellipsis-6c2c00ddc864) how and why the ellipsis is used #technique#pattern#text
 - [The Ecological Impact of Browser Diversity](https://css-tricks.com/the-ecological-impact-of-browser-diversity/) the core engines of each browser #introduction#opinion
 - [::before vs :before](https://css-tricks.com/to-double-colon-or-not-do-double-colon/) pseudo-elements vs. pseudo-selector #reference
 - [The Complete CSS Demo for OpenType Features](https://sparanoid.com/lab/opentype-features/) #typography#reference
@@ -85,4 +86,4 @@
 ### Genre
 - #introduction #technique #tutorial #tool #library #resource #reference #opinion
 ### Component
-- #textbox
+- #textbox #text
