@@ -1,4 +1,5 @@
 # Wiki
+- [Helping a Beginner Understand Getting a Website Live](https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/) explain domain, web host, CMS, CDN, repository, deployment #introduction
 - [Design with Difficult Data](https://alistapart.com/article/design-with-difficult-data) fake data < real data < difficult data #opinion
 - [Designing A Textbox, Unabridged](https://www.smashingmagazine.com/2018/09/designing-a-textbox-unabridged/) differentiate change,keypress,keyup,input events #pattern#technique#textbox
 - [Lobe - Deep Learning Made Simple](https://lobe.ai) intuitive UX for complex deep learning applications #free#library#saas#machinelearning#gooddesign
