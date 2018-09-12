@@ -1,4 +1,5 @@
 # Wiki
+- [sanitize.css](https://github.com/csstools/sanitize.css) a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. #library
 - [Accessible Breadcrumb Navigation Pattern](https://scottaohara.github.io/a11y_breadcrumbs/) #pattern#a11y#breadcrumb
 - [The Mighty Ellipsis](https://medium.com/@jsaito/the-mighty-ellipsis-6c2c00ddc864) how and why the ellipsis is used #technique#pattern#text
 - [The Ecological Impact of Browser Diversity](https://css-tricks.com/the-ecological-impact-of-browser-diversity/) the core engines of each browser #introduction#opinion
