@@ -1,4 +1,5 @@
 # Wiki
+- [JavaScript timers](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/) setTimeout,requestAnimationFrame,requestIdleCallback #technique
 - [Input element properties](https://www.stefanjudis.com/blog/three-input-element-properties-that-i-discovered-while-reading-mdn/) defaultValue,indeterminate,selectionStart,selectionEnd,selectionDirection, tri-state checkbox, retrieve default value #reference#technique#pattern#radio#checkbox#textbox
 - [Best Practices For Mobile Form Design](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/) #technique#pattern#form#textbox
 - [sanitize.css](https://github.com/csstools/sanitize.css) a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. #library
