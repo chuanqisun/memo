@@ -1,4 +1,5 @@
 # Wiki
+- [A Brief Guide About Competitive Analysis](https://www.smashingmagazine.com/2018/08/guide-competitive-analysis/) #introduction
 - [JavaScript timers](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/) setTimeout,requestAnimationFrame,requestIdleCallback #technique
 - [Input element properties](https://www.stefanjudis.com/blog/three-input-element-properties-that-i-discovered-while-reading-mdn/) defaultValue,indeterminate,selectionStart,selectionEnd,selectionDirection, tri-state checkbox, retrieve default value #reference#technique#pattern#radio#checkbox#textbox
 - [Best Practices For Mobile Form Design](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/) #technique#pattern#form#textbox
