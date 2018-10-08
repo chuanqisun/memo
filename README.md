@@ -1,4 +1,5 @@
 # Wiki
+- [Build dialog with the native dialog element](https://www.viget.com/articles/the-dialog-element/) #technique#reference
 - [remarkable](https://github.com/jonschlinkert/remarkable) Markdown parser #library
 - [A Brief Guide About Competitive Analysis](https://www.smashingmagazine.com/2018/08/guide-competitive-analysis/) #introduction
 - [JavaScript timers](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/) setTimeout,requestAnimationFrame,requestIdleCallback #technique
