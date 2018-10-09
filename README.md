@@ -1,4 +1,5 @@
 # Wiki
+- [ColorBox](https://www.colorbox.io/) A color gradient picker by Lyft #tool
 - [Build dialog with the native dialog element](https://www.viget.com/articles/the-dialog-element/) #technique#reference
 - [remarkable](https://github.com/jonschlinkert/remarkable) Markdown parser #library
 - [A Brief Guide About Competitive Analysis](https://www.smashingmagazine.com/2018/08/guide-competitive-analysis/) #introduction
