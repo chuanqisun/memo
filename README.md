@@ -1,4 +1,5 @@
 # Wiki
+- [Book Cover Archive](http://bookcoverarchive.com/) as visual design inspiration #inspiration#resource
 - [ColorBox](https://www.colorbox.io/) A color gradient picker by Lyft #tool
 - [Build dialog with the native dialog element](https://www.viget.com/articles/the-dialog-element/) #technique#reference
 - [remarkable](https://github.com/jonschlinkert/remarkable) Markdown parser #library
@@ -93,6 +94,6 @@
 - use singular form
 ## Facets
 ### Genre
-- #introduction #technique #tutorial #tool #library #resource #reference #opinion
+- #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration
 ### Patterns
 - #breadcrumb #checkbox #form #radio #text #textbox
