@@ -1,4 +1,9 @@
 # Wiki
+- [Dealing with Dependencies Inside Design Systems](https://medium.com/eightshapes-llc/dealing-with-dependencies-inside-design-systems-aa6ce2cf7bc3) Decomposing Features to Master Change Up the Chain #tutorial#designsystem
+- [Visual Breaking Change in Design Systems](https://medium.com/eightshapes-llc/visual-breaking-change-in-design-systems-1e9109fac9c4) We Respect Code APIs. But What About Color, Type and Space? #tutorial#designsystem
+- [Versioning Design Systems](https://medium.com/eightshapes-llc/versioning-design-systems-48cceb5ace4d) Communicating Change Clearly to People Using Systems #tutorial#designsystem
+- [Design System Release Cadence](https://medium.com/eightshapes-llc/design-system-release-cadence-2e3e6694ba21) Modeling How Often and Regularly Your System Delivers #tutorial#designsystem
+- [Releasing Design Systems](https://medium.com/eightshapes-llc/releasing-design-systems-57fca91a23f6) Delivering Interconnected Outputs to Adopters Over Time #tutorial#designsystem
 - [Book Cover Archive](http://bookcoverarchive.com/) as visual design inspiration #inspiration#resource
 - [ColorBox](https://www.colorbox.io/) A color gradient picker by Lyft #tool
 - [Build dialog with the native dialog element](https://www.viget.com/articles/the-dialog-element/) #technique#reference
