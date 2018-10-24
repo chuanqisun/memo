@@ -1,4 +1,5 @@
 # Wiki
+- [Negative Grid Lines](https://css-irl.info/negative-grid-lines/) position item relative to the end of a grid #technique
 - [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) #codereview#communication
 - [The Psychology of Design](https://alistapart.com/article/psychology-of-design) Hick's law to cognitive load, Miller's law to chunking, Jakob's law to mental models #introduction
 - [Use reduce() to sequentially resolve promises](https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/) #technique
