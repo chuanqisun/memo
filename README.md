@@ -1,4 +1,5 @@
 # Wiki
+- [The Psychology of Design](https://alistapart.com/article/psychology-of-design) Hick's law to cognitive load, Miller's law to chunking, Jakob's law to mental models #introduction
 - [Use reduce() to sequentially resolve promises](https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/) #technique
 - [Create CSS border radius for artistic shapes](https://9elements.com/io/css-border-radius/) #tool
 - [Dealing with Dependencies Inside Design Systems](https://medium.com/eightshapes-llc/dealing-with-dependencies-inside-design-systems-aa6ce2cf7bc3) Decomposing Features to Master Change Up the Chain #tutorial#designsystem
