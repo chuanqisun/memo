@@ -1,4 +1,5 @@
 # Wiki
+- [8 Tips for Great Code Reviews](8 Tips for Great Code Reviews) #codereview#communication
 - [The Psychology of Design](https://alistapart.com/article/psychology-of-design) Hick's law to cognitive load, Miller's law to chunking, Jakob's law to mental models #introduction
 - [Use reduce() to sequentially resolve promises](https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/) #technique
 - [Create CSS border radius for artistic shapes](https://9elements.com/io/css-border-radius/) #tool
