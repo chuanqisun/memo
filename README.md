@@ -1,8 +1,10 @@
 # Wiki
-- [The correct usage of \<em\>, \<i\>, \<strong\>](https://logrocket.com/blog/youre-using-em-wrong) #reference
+- [Tags to DOM](https://alistapart.com/article/tags-to-dom) part 2 of the URL to Interactive series #introduction#beginner
+- [The correct usage of `<em>`, `<i>`, `<strong>`](https://logrocket.com/blog/youre-using-em-wrong) #reference
 - [Consently](https://consently.co/) The privacy-friendly and GDPR compliant way to add tracking to your website #gooddesign#saas
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) #reference#beginner
-- [Server to Client](https://alistapart.com/article/server-to-client) flow chart for how a browser loads content after seeing the URL #reference
+- [Server to Client](https://alistapart.com/article/server-to-client) part 1 of the URL to Interactive series #introduction#beginner
+- [URL to Interactive](https://alistapart.com/article/from-url-to-interactive) a series of articles on the end to end flow of web #introduction#beginner
 - [FontBase](https://fontba.se/) font management tool #tool#free
 - [Negative Grid Lines](https://css-irl.info/negative-grid-lines/) position item relative to the end of a grid #technique
 - [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) #codereview#communication
