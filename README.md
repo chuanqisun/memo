@@ -1,4 +1,5 @@
 # Wiki
+- [Palx](https://palx.jxnblk.com/) open source color palette generator using a single brand color #tool#free
 - [Design, track, and analyze 404 no found page](https://www.smashingmagazine.com/2018/11/the-101-course-on-crafting-404-pages/) #tutorial
 - [Design tools are running out of track. Here’s how we can fix them.](https://medium.freecodecamp.org/design-tools-are-running-out-of-track-94f21b6ae939) #opinion
 - [The Design Tool Dilemma](https://medium.freecodecamp.org/the-design-tool-dilemma-225541c4ad1d) code vs vector as source of truth #opinion
