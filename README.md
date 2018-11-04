@@ -1,6 +1,6 @@
 # Wiki
 - [Kendo UI](https://www.telerik.com/kendo-ui) robust enterprise ready UI controls #gooddesign#library
-- [aggrid](https://www.ag-grid.com/) robust enterprise ready grid/table control #gooddesign#table#library
+- [ag-Grid](https://www.ag-grid.com/) robust enterprise ready grid/table control #gooddesign#table#library
 - [Use subset and unicode range to load icon, emoji, and numberals fonts](https://css-tricks.com/subset-numerals-so-theyre-as-awesome-as-the-rest-of-your-content/) #technique#typography#performance
 - [Palx](https://palx.jxnblk.com/) open source color palette generator using a single brand color #tool#free
 - [Design, track, and analyze 404 no found page](https://www.smashingmagazine.com/2018/11/the-101-course-on-crafting-404-pages/) #tutorial
