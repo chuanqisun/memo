@@ -1,4 +1,5 @@
 # Wiki
+- [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) attitudinal to behavioral, qualitative to quantitative. #reference
 - [Kendo UI](https://www.telerik.com/kendo-ui) robust enterprise ready UI controls #gooddesign#library
 - [ag-Grid](https://www.ag-grid.com/) robust enterprise ready grid/table control #gooddesign#table#library
 - [Use subset and unicode range to load icon, emoji, and numberals fonts](https://css-tricks.com/subset-numerals-so-theyre-as-awesome-as-the-rest-of-your-content/) #technique#typography#performance
