@@ -1,4 +1,5 @@
 # Wiki
+- [Facon](https://github.com/terkelg/facon) a tiny utility that makes it easy to create nested DOM elements using template literals and extract references. #library
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) attitudinal to behavioral, qualitative to quantitative. #reference
 - [Kendo UI](https://www.telerik.com/kendo-ui) robust enterprise ready UI controls #gooddesign#library
 - [ag-Grid](https://www.ag-grid.com/) robust enterprise ready grid/table control #gooddesign#table#library
