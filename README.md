@@ -1,4 +1,5 @@
 # Wiki
+- [focus-visible](https://github.com/WICG/focus-visible) polyfill for showing focus ring only on keyboard focus #library
 - [Facon](https://github.com/terkelg/facon) create nested DOM elements using template literals and extract references. #library
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) attitudinal to behavioral, qualitative to quantitative. #reference
 - [Kendo UI](https://www.telerik.com/kendo-ui) robust enterprise ready UI controls #gooddesign#library
