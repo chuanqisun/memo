@@ -1,4 +1,5 @@
 # Wiki
+- [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) #reference
 - [Shopify eCommerce and business tools](https://www.shopify.com/tools) logo, naming, slogan, ops, legal, billing, logistics, branding, image #free#tool
 - [flow](https://danross.co/flow/) a font that renders characters as a shapes, perfect for greeking or shimmering #typography#free
 - [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) #opinion
