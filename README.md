@@ -1,4 +1,5 @@
 # Wiki
+- [Web Design Museum](https://www.webdesignmuseum.org/) archive of old landing pages for influential companies #reference
 - [State of JS 2018 Survey](https://2018.stateofjs.com/introduction/) #reference#survey
 - [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) #reference
 - [Shopify eCommerce and business tools](https://www.shopify.com/tools) logo, naming, slogan, ops, legal, billing, logistics, branding, image #free#tool
