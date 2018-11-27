@@ -1,4 +1,5 @@
 # Wiki
+- [Active descendant](https://www.w3.org/WAI/GL/wiki/Using_aria-activedescendant_to_allow_changes_in_focus_within_widgets_to_be_communicated_to_Assistive_Technology) for indicating selected child within a composite control that keeps focus on root #a11y#technique
 - [Visually hidden](./articles/visually-hidden.md) hide visually but visible to screen reader #a11y#technique
 - [Registration form](http://nostyle.herokuapp.com/examples/registration-form) #demo#form#email#password#validation#pattern
 - [Web Design Museum](https://www.webdesignmuseum.org/) archive of old landing pages for influential companies #reference
