@@ -1,4 +1,5 @@
 # Wiki
+- [Momentum scroll on iOS](https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/) #technique#pattern#scroll
 - [Active descendant](https://www.w3.org/WAI/GL/wiki/Using_aria-activedescendant_to_allow_changes_in_focus_within_widgets_to_be_communicated_to_Assistive_Technology) for indicating selected child within a composite control that keeps focus on root #a11y#technique
 - [Visually hidden](./articles/visually-hidden.md) hide visually but visible to screen reader #a11y#technique
 - [Registration form](http://nostyle.herokuapp.com/examples/registration-form) #demo#form#email#password#validation#pattern
@@ -132,4 +133,4 @@
 ### Genre
 - #demo #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration #survey
 ### Patterns
-- #breadcrumb #checkbox #email #form #password #radio #table #text #textbox #validation
+- #breadcrumb #checkbox #form #radio #scroll #table #text #textbox
