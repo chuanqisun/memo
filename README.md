@@ -1,4 +1,5 @@
 # Wiki
+- [Registration form](http://nostyle.herokuapp.com/examples/registration-form) #demo#form#email#password#validation#pattern
 - [Web Design Museum](https://www.webdesignmuseum.org/) archive of old landing pages for influential companies #reference
 - [State of JS 2018 Survey](https://2018.stateofjs.com/introduction/) #reference#survey
 - [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) #reference
@@ -127,6 +128,6 @@
 - use singular form
 ## Facets
 ### Genre
-- #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration #survey
+- #demo #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration #survey
 ### Patterns
-- #breadcrumb #checkbox #form #radio #table #text #textbox
+- #breadcrumb #checkbox #email #form #password #radio #table #text #textbox #validation
