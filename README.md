@@ -1,4 +1,5 @@
 # Wiki
+- [Show progress for FileReader](https://stackoverflow.com/questions/16443440/how-to-implement-progress-bar-and-callbacks-with-async-nature-of-the-filereader) show feedback when reading large file with file input #pattern#form#file#technique
 - [Cross platform triangle chevron unicode](https://stackoverflow.com/questions/6041209/html-character-codes-for-this-or-this#11537979) #reference#icon#form#pattern#select
 - [Fieldset and legend](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/) when to (not) use #pattern#form#a11y
 - [Momentum scroll on iOS](https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/) #technique#pattern#scroll
@@ -135,4 +136,4 @@
 ### Genre
 - #demo #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration #survey
 ### Patterns
-- #breadcrumb #checkbox #form #radio #scroll #select #table #text #textbox
+- #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
