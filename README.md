@@ -1,4 +1,5 @@
 # Wiki
+- [Fieldset and legend](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/) when to (not) use #pattern#form#a11y
 - [Momentum scroll on iOS](https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/) #technique#pattern#scroll
 - [Active descendant](https://www.w3.org/WAI/GL/wiki/Using_aria-activedescendant_to_allow_changes_in_focus_within_widgets_to_be_communicated_to_Assistive_Technology) for indicating selected child within a composite control that keeps focus on root #a11y#technique
 - [Visually hidden](./articles/visually-hidden.md) hide visually but visible to screen reader #a11y#technique
