@@ -1,5 +1,5 @@
 # Wiki
-- [Cross platform triangle chevron unicode](https://stackoverflow.com/questions/6041209/html-character-codes-for-this-or-this#11537979) #reference#icon
+- [Cross platform triangle chevron unicode](https://stackoverflow.com/questions/6041209/html-character-codes-for-this-or-this#11537979) #reference#icon#form#pattern#select
 - [Fieldset and legend](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/) when to (not) use #pattern#form#a11y
 - [Momentum scroll on iOS](https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/) #technique#pattern#scroll
 - [Active descendant](https://www.w3.org/WAI/GL/wiki/Using_aria-activedescendant_to_allow_changes_in_focus_within_widgets_to_be_communicated_to_Assistive_Technology) for indicating selected child within a composite control that keeps focus on root #a11y#technique
@@ -135,4 +135,4 @@
 ### Genre
 - #demo #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration #survey
 ### Patterns
-- #breadcrumb #checkbox #form #radio #scroll #table #text #textbox
+- #breadcrumb #checkbox #form #radio #scroll #select #table #text #textbox
