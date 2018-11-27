@@ -1,4 +1,5 @@
 # Wiki
+- [Visually hidden](./articles/visually-hidden.md) hide visually but visible to screen reader #a11y#technique
 - [Registration form](http://nostyle.herokuapp.com/examples/registration-form) #demo#form#email#password#validation#pattern
 - [Web Design Museum](https://www.webdesignmuseum.org/) archive of old landing pages for influential companies #reference
 - [State of JS 2018 Survey](https://2018.stateofjs.com/introduction/) #reference#survey
