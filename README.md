@@ -1,4 +1,14 @@
+# Taxonomy
+## Rules
+- use singular form
+## Facets
+### Genre
+- #demo #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration #survey
+### Patterns
+- #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
+
 # Wiki
+- [Squoosh](https://squoosh.app/) image optimization compression #tool#free#performance
 - [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/) fastest way to load css styles #perf#technique
 - [web.dev](https://web.dev/) Google official guide to modern web dev #performance#spa#a11y#seo#tutorial#beginner#security#production
 - [How to build a color palette](https://refactoringui.com/previews/building-your-color-palette/) with good examples #tutorial#color
@@ -132,12 +142,3 @@
 - [Integrating and styling icon systems — inline SVG and icon components](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166) #icon#svg#tutorial
 - [ChartGen: generate mock svg line chart](https://chartgen.frederickallen.co/) #svg#mock#tool#prototyping#chart
 - [Prototyping in the Browser](https://css-tricks.com/prototyping-in-the-browser/) `[[[url]]]` to compose HTML from components in codepen #prototyping#codepen#technique
-
-# Taxonomy
-## Rules
-- use singular form
-## Facets
-### Genre
-- #demo #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration #survey
-### Patterns
-- #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
