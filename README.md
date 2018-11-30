@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [CSS Background-clip](https://webplatform.news/issues/2018-11-02) [spec](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip) shrink background to text, content box, or border box #technique
 - [Squoosh](https://squoosh.app/) image optimization compression #tool#free#performance
 - [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/) fastest way to load css styles #perf#technique
 - [web.dev](https://web.dev/) Google official guide to modern web dev #performance#spa#a11y#seo#tutorial#beginner#security#production
