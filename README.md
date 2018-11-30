@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Include variable font in font stack](https://www.zeichenschatz.net/typografie/implementing-a-variable-font-with-fallback-web-fonts.html) #typography#performance#technique
 - [CSS Background-clip](https://webplatform.news/issues/2018-11-02) [spec](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip) shrink background to text, content box, or border box #technique
 - [Squoosh](https://squoosh.app/) image optimization compression #tool#free#performance
 - [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/) fastest way to load css styles #perf#technique
