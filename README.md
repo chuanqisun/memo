@@ -1,4 +1,5 @@
 # Wiki
+- [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/) fastest way to load css styles #perf#technique
 - [web.dev](https://web.dev/) Google official guide to modern web dev #performance#spa#a11y#seo#tutorial#beginner#security#production
 - [How to build a color palette](https://refactoringui.com/previews/building-your-color-palette/) with good examples #tutorial#color
 - [No style design system](http://nostyle.herokuapp.com/components) progressive enhanced accessible form patterns by Adam Silver #form#pattern#a11y#demo#reference
