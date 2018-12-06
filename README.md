@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [nivo](https://nivo.rocks/) nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries. #library#visualization
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/) how private/public keys, hashing, cyphers or signatures work #reference#beginner
 - [Include variable font in font stack](https://www.zeichenschatz.net/typografie/implementing-a-variable-font-with-fallback-web-fonts.html) #typography#performance#technique
 - [CSS Background-clip](https://webplatform.news/issues/2018-11-02) [spec](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip) shrink background to text, content box, or border box #technique
