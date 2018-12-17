@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Humaaans](https://www.humaaans.com/) stock SVG for human body illustrations #library#free
 - [Why Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) [part2](https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/) [part3](https://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/) on perceived performance #perf#technique
 - [Webtask](https://webtask.io/) serverless endpoints by auth0 #saas#free
 - [nivo](https://nivo.rocks/) nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries. #library#visualization
