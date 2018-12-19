@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Deseat.ms](https://www.deseat.me/) scan email via OAuth2 and delete accounts from service providers #gooddesign#saas
 - [Output font](https://djr.com/output/) optimised for screen reading #typography#gooddesign#resource
 - [Input font](https://djr.com/input/) optimised for programming #typography#gooddesign#resource
 - [CSS in JS to CSS Modules to PostCSS](https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-modules-postcss-and-the-future-of-css/) In depth introduction to css stack #introduction#tutorial
