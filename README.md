@@ -8,6 +8,8 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Output font](https://djr.com/output/) optimised for screen reading #typography#gooddesign#resource
+- [Input font](https://djr.com/input/) optimised for programming #typography#gooddesign#resource
 - [CSS in JS to CSS Modules to PostCSS](https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-modules-postcss-and-the-future-of-css/) In depth introduction to css stack #introduction#tutorial
 - [CSS Modules intro](https://css-tricks.com/css-modules-part-1-need/) 3 part tutorial on setting up CSS Module for client and server side react #tutorial#introduction
 - [Humaaans](https://www.humaaans.com/) stock SVG for human body illustrations #library#free
