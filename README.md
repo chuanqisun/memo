@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [CSS Modules intro](https://css-tricks.com/css-modules-part-1-need/) 3 part tutorial on setting up CSS Module for client and server side react #tutorial#introduction
 - [Humaaans](https://www.humaaans.com/) stock SVG for human body illustrations #library#free
 - [Why Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) [part2](https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/) [part3](https://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/) on perceived performance #perf#technique
 - [Webtask](https://webtask.io/) serverless endpoints by auth0 #saas#free
