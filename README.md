@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Fathom Analytics](https://usefathom.com/) open source self hosted telemetry library #free#library#telemetry
 - [Getform](https://getform.io/) decoupled form submission handling backend as a service #free#saas#gooddesign
 - [Remove image background](https://www.remove.bg/) #free#tool
 - [DIY Ad Sponsorspot manager for newsletter](https://medium.com/@kaibrach/creating-a-fully-customised-weekly-newsletter-b7c31d580b4e) built with Google sheet, Formsite, Zappier #tutorial#free#hack#gooddesign
