@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Remove image background](https://www.remove.bg/) #free#tool
 - [DIY Ad Sponsorspot manager for newsletter](https://medium.com/@kaibrach/creating-a-fully-customised-weekly-newsletter-b7c31d580b4e) built with Google sheet, Formsite, Zappier #tutorial#free#hack#gooddesign
 - [Plex](https://www.ibm.com/plex/) a font designed by IBM #typography#free#gooddesign
 - [Deseat.ms](https://www.deseat.me/) scan email via OAuth2 and delete accounts from service providers #gooddesign#saas
