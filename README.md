@@ -8,7 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
-- [typo/graphic posters](https://www.typographicposters.com/) typographical and graphic poster collection #resource#inspiration
+- [typo/graphic posters](https://www.typographicposters.com/) typographical and graphical poster collection #resource#inspiration
 - [EZGIF](https://ezgif.com/) animated gif editor, maker, converter #tool
 - [Intercom](https://www.intercom.com) customer engagement and support through a chat interface #gooddesign#saas
 - [London Underground Signs manual](http://content.tfl.gov.uk/lu-signs-manual.pdf) a design system for physical application #gooddesign#inspiration#designsystem
