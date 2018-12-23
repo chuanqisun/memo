@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Material intelligence](https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world) how material and craft brings out the beauty of simple objects #opinion
 - [Operation Jane Walk](https://aeon.co/videos/skip-the-bus-this-post-apocalyptic-jaunt-is-the-only-new-york-tour-youll-ever-need) NYC history and architecture tour in Tom Clancy’s The Division #gooddesign#inspiration
 - [typo/graphic posters](https://www.typographicposters.com/) typographical and graphical poster collection #resource#inspiration
 - [EZGIF](https://ezgif.com/) animated gif editor, maker, converter #tool
