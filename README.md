@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [The Vanilla JS Toolkit](https://vanillajstoolkit.com/) snippets, helper, boilerplate, polyfill for vanilla js #reference
 - [Modernizr](https://modernizr.com) overkill for feature detection and browser sniffing #library
 - [preload font](https://css-tricks.com/fighting-foit-and-fout-together/) to fight FOIT and FOUT together #technique#typography
 - [Gradient border](https://css-tricks.com/gradient-borders-in-css/) multiple ways to implement gradient borders #technique
