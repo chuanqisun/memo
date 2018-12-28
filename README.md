@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Modernizr](https://modernizr.com) overkill for feature detection and browser sniffing #library
 - [preload font](https://css-tricks.com/fighting-foit-and-fout-together/) to fight FOIT and FOUT together #technique#typography
 - [Gradient border](https://css-tricks.com/gradient-borders-in-css/) multiple ways to implement gradient borders #technique
 - [CSSOM](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/) manipulate style from JavaScript via CSS Object model #introduction#tutorial
