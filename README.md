@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Meta Tags](https://metatags.io/) preview url in social media open graph cards #saas#tool
 - [Select styles with CSS only](https://www.filamentgroup.com/lab/select-css.html) #technique#pattern#select
 - [CodePen Radio](https://blog.codepen.io/radio/) unique icon for podcast album cover #gooddesign#icon#inspiration
 - [What makes a good front-end developer?](https://gomakethings.com/what-makes-someone-a-good-front-end-developer/) problem-solving critical thinking, googling, empathy, communication #opinion
