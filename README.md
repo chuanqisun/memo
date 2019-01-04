@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Alignment techniques](./articles/alignment.md) #technique#reference
 - [SVG donut circle fill and number transition](https://www.smashingmagazine.com/2019/01/html5-svg-fill-animation-css3-vanilla-javascript/) #technique#tutorial
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink/blob/master/README.md) prefetch links in viewport for better #performance#library
 - [box-decoration-break](https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break) give each line box an separate background, border, shadow, margin, padding #technique
