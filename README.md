@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [quicklink](https://github.com/GoogleChromeLabs/quicklink/blob/master/README.md) prefetch links in viewport for better #perf#library
 - [box-decoration-break](https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break) give each line box an separate background, border, shadow, margin, padding #technique
 - [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/) resources on systematically learning CSS #beginner#resource
 - [Understanding sizing in CSS Layout](https://www.smashingmagazine.com/2018/01/understanding-sizing-css-layout/) grid and flex sizing algorithms #reference#beginner
