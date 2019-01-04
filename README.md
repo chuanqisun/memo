@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [SiteInspire](https://www.siteinspire.com/) a collection of beautifully designed websites #inspiration
 - [Alignment techniques](./articles/alignment.md) #technique#reference
 - [SVG donut circle fill and number transition](https://www.smashingmagazine.com/2019/01/html5-svg-fill-animation-css3-vanilla-javascript/) #technique#tutorial
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink/blob/master/README.md) prefetch links in viewport for better #performance#library
