@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [coolors](https://coolors.co) color palette generator #tool
 - [The Directors Bureau](https://thedirectorsbureau.com/) vintage console like brutalist interface #gooddesign#inspiration
 - [Engineering process at Google](https://arxiv.org/abs/1702.01715) #opinion#gooddesign
 - [SiteInspire](https://www.siteinspire.com/) a collection of beautifully designed websites #inspiration
