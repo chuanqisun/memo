@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Shapy](https://shapy.app/) gradient generator #tool
 - [coolors](https://coolors.co) color palette generator #tool
 - [The Directors Bureau](https://thedirectorsbureau.com/) vintage console like brutalist interface #gooddesign#inspiration
 - [Engineering process at Google](https://arxiv.org/abs/1702.01715) #opinion#gooddesign
