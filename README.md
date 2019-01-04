@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Clippy](https://bennettfeely.com/clippy/) CSS clip-path generator #tool
 - [Shapy](https://shapy.app/) gradient generator #tool
 - [coolors](https://coolors.co) color palette generator #tool
 - [The Directors Bureau](https://thedirectorsbureau.com/) vintage console like brutalist interface #gooddesign#inspiration
