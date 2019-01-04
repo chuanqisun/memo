@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [CSS Doodle](https://css-doodle.com) web component library for drawing patterns and shapes in CSS #library
 - [Clippy](https://bennettfeely.com/clippy/) CSS clip-path generator #tool
 - [Shapy](https://shapy.app/) gradient generator #tool
 - [coolors](https://coolors.co) color palette generator #tool
