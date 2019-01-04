@@ -8,7 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
-- [quicklink](https://github.com/GoogleChromeLabs/quicklink/blob/master/README.md) prefetch links in viewport for better #perf#library
+- [quicklink](https://github.com/GoogleChromeLabs/quicklink/blob/master/README.md) prefetch links in viewport for better #performance#library
 - [box-decoration-break](https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break) give each line box an separate background, border, shadow, margin, padding #technique
 - [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/) resources on systematically learning CSS #beginner#resource
 - [Understanding sizing in CSS Layout](https://www.smashingmagazine.com/2018/01/understanding-sizing-css-layout/) grid and flex sizing algorithms #reference#beginner
@@ -42,14 +42,14 @@
 - [CSS in JS to CSS Modules to PostCSS](https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-modules-postcss-and-the-future-of-css/) In depth introduction to css stack #introduction#tutorial
 - [CSS Modules intro](https://css-tricks.com/css-modules-part-1-need/) 3 part tutorial on setting up CSS Module for client and server side react #tutorial#introduction
 - [Humaaans](https://www.humaaans.com/) stock SVG for human body illustrations #library#free
-- [Why Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) [part2](https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/) [part3](https://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/) on perceived performance #perf#technique
+- [Why Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) [part2](https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/) [part3](https://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/) on perceived #performance#technique
 - [Webtask](https://webtask.io/) serverless endpoints by auth0 #saas#free
 - [nivo](https://nivo.rocks/) nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries. #library#visualization
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/) how private/public keys, hashing, cyphers or signatures work #reference#beginner
 - [Include variable font in font stack](https://www.zeichenschatz.net/typografie/implementing-a-variable-font-with-fallback-web-fonts.html) #typography#performance#technique
 - [CSS Background-clip](https://webplatform.news/issues/2018-11-02) [spec](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip) shrink background to text, content box, or border box #technique
 - [Squoosh](https://squoosh.app/) image optimization compression #tool#free#performance
-- [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/) fastest way to load css styles #perf#technique
+- [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/) fastest way to load css styles #performance#technique
 - [web.dev](https://web.dev/) Google official guide to modern web dev #performance#spa#a11y#seo#tutorial#beginner#security#production
 - [How to build a color palette](https://refactoringui.com/previews/building-your-color-palette/) with good examples #tutorial#color
 - [No style design system](http://nostyle.herokuapp.com/components) progressive enhanced accessible form patterns by Adam Silver #form#pattern#a11y#demo#reference
