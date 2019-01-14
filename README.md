@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [anime.js](https://animejs.com) powerful JavaScript animation engine #library
 - [CSS Doodle](https://css-doodle.com) web component library for drawing patterns and shapes in CSS #library
 - [Clippy](https://bennettfeely.com/clippy/) CSS clip-path generator #tool
 - [Shapy](https://shapy.app/) gradient generator #tool
