@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Serverless ecommerce shopping cart and payment](https://github.com/sdras/sample-stripe-handler) stripe and azure functions #demo
 - [The power of serverless](https://thepowerofserverless.info) a collection of resources for serverless stack #saas#free#resource
 - [Turn off animation/transition globally](https://www.kirupa.com/html5/toggling_animations_on_off.htm) respect reduced motion preference with css variables #technique#a11y
 - [Masonry layout](https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/) css only solutions #technique
