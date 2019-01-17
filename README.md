@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Making Future Interfaces: Algorithmic Layouts](https://www.youtube.com/watch?v=qOUtkN6M52M) foundation of responsive design is not media query #opinion#beginner
 - [Serverless cost calculator](http://serverlesscalc.com/) AWS Lambda, Azure Functions, Google Cloud Functions, and IBM OpenWhisk #tool
 - [Chris Coyier - The All Powerful Front End Developer](https://www.youtube.com/watch?v=grSxHfGoaeg) video: serverless architecture by example #introduction#beginner
 - [Serverless ecommerce shopping cart and payment](https://github.com/sdras/sample-stripe-handler) stripe and azure functions #demo
