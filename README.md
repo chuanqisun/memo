@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [amChart](https://www.amcharts.com/demos/) for data visualization #library#free
 - [Making Future Interfaces: Algorithmic Layouts](https://www.youtube.com/watch?v=qOUtkN6M52M) foundation of responsive design is not media query #opinion#beginner
 - [Serverless cost calculator](http://serverlesscalc.com/) AWS Lambda, Azure Functions, Google Cloud Functions, and IBM OpenWhisk #tool
 - [Chris Coyier - The All Powerful Front End Developer](https://www.youtube.com/watch?v=grSxHfGoaeg) video: serverless architecture by example #introduction#beginner
