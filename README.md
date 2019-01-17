@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/) #introduction#tutorial
 - [amChart](https://www.amcharts.com/demos/) for data visualization #library#free
 - [Making Future Interfaces: Algorithmic Layouts](https://www.youtube.com/watch?v=qOUtkN6M52M) foundation of responsive design is not media query #opinion#beginner
 - [Serverless cost calculator](http://serverlesscalc.com/) AWS Lambda, Azure Functions, Google Cloud Functions, and IBM OpenWhisk #tool
