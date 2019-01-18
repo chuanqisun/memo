@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Dimensions Guide](https://www.dimensions.guide/browse) for physical objects and architecture #reference
 - [Making dialog and tooltip with react portal](https://css-tricks.com/using-react-portals-to-render-children-outside-the-dom-hierarchy/) #tutorial#technique
 - [Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/) #introduction#tutorial
 - [amChart](https://www.amcharts.com/demos/) for data visualization #library#free
