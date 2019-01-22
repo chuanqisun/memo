@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Is Houdini Ready Yet](https://ishoudinireadyyet.com/) status of implementation by vendors #reference
 - [The Great Divide](https://css-tricks.com/the-great-divide/) between JS dev and HTMl/CSS dev #opinion
 - [doka](https://pqina.nl/doka/) high quality image editor component with a license fee #library
 - [filepond](https://pqina.nl/filepond) high quality file uploader with drag and drop and image editor #library#file
