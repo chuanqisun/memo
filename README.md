@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Laws of software development](http://www.globalnerdy.com/2007/07/18/laws-of-software-development/) #opinion#reference
 - [Rule of least power](https://blog.codinghorror.com/the-principle-of-least-power/) information reuse vs language capability #opinion
 - [A visual history of computing](https://www.docubyte.com/works/guide-to-computing) machine as art objects #gooddesign
 - [Is Houdini Ready Yet](https://ishoudinireadyyet.com/) status of implementation by vendors #reference
