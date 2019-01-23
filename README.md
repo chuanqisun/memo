@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Rule of least power](https://blog.codinghorror.com/the-principle-of-least-power/) information reuse vs language capability #opinion
 - [A visual history of computing](https://www.docubyte.com/works/guide-to-computing) machine as art objects #gooddesign
 - [Is Houdini Ready Yet](https://ishoudinireadyyet.com/) status of implementation by vendors #reference
 - [The Great Divide](https://css-tricks.com/the-great-divide/) between JS dev and HTMl/CSS dev #opinion
