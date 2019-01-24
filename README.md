@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Box drawing characters](https://en.wikipedia.org/wiki/Box-drawing_character) charting unicode #typography#reference
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) Brad Frost collection of #patterns#reference
 - [tablesaw](https://github.com/filamentgroup/tablesaw) filament responsive #table#pattern#library
 - [Design better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) #pattern#table#technique#gooddesign
