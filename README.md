@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Indicate scrollability with shadow](http://lea.verou.me/2012/04/background-attachment-local/) background-attachment #scroll#technique
 - [Icons8](https://icons8.com/) icons and photos #resource#free
 - [Laws of software development](http://www.globalnerdy.com/2007/07/18/laws-of-software-development/) #opinion#reference
 - [Rule of least power](https://blog.codinghorror.com/the-principle-of-least-power/) information reuse vs language capability #opinion
