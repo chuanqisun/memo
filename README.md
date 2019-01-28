@@ -3,11 +3,12 @@
 - use singular form
 ## Facets
 ### Genre
-- #demo #introduction #technique #tutorial #tool #library #resource #reference #opinion #inspiration #survey #saas
+- #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial
 ### Patterns
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Statecharts: a visual formalism for complex systems](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf) #philosophy
 - [Digital psychology](https://digitalpsychology.io/) minimalist text based interface #gooddesign
 - [Poor design in automotive industry](https://uxdesign.cc/before-we-allow-ai-to-drive-our-cars-lets-see-if-car-makers-can-fix-a-few-smaller-things-115aeaf4aa53) parking, turn signal, standarization #gooddesign
 - [Pure UI Control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d) apply pure UI to a calculator control example #opinion
