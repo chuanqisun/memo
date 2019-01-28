@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Pure UI Control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d) apply pure UI to a calculator control example #opinion
 - [Pure UI](https://rauchg.com/2015/pure-ui) video player as an example, state driven design dev documentation #opinion
 - [XState](https://github.com/davidkpiano/xstate) javascript finite state machine #library
 - [Achieve container query with flex-basis](http://www.heydonworks.com/article/the-flexbox-holy-albatross-reincarnated) stack flex box when container is narrow #technique
