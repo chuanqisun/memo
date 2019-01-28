@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+-[Digital psychology](https://digitalpsychology.io/) minimalist text based interface #gooddesign
 - [Poor design in automotive industry](https://uxdesign.cc/before-we-allow-ai-to-drive-our-cars-lets-see-if-car-makers-can-fix-a-few-smaller-things-115aeaf4aa53) parking, turn signal, standarization #gooddesign
 - [Pure UI Control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d) apply pure UI to a calculator control example #opinion
 - [Pure UI](https://rauchg.com/2015/pure-ui) video player as an example, state driven design dev documentation #opinion
