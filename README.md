@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Pure UI](https://rauchg.com/2015/pure-ui) video player as an example, state driven design dev documentation #opinion
 - [XState](https://github.com/davidkpiano/xstate) javascript finite state machine #library
 - [Achieve container query with flex-basis](http://www.heydonworks.com/article/the-flexbox-holy-albatross-reincarnated) stack flex box when container is narrow #technique
 - [Box drawing characters](https://en.wikipedia.org/wiki/Box-drawing_character) charting unicode #typography#reference
