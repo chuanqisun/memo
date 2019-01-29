@@ -8,7 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
-- [deno](https://github.com/denoland/deno) native TypeScript interpreter
+- [deno](https://github.com/denoland/deno) native TypeScript interpreter #tool#gooddesign
 - [Statecharts: a visual formalism for complex systems](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf) #philosophy
 - [Digital psychology](https://digitalpsychology.io/) minimalist text based interface #gooddesign
 - [Poor design in automotive industry](https://uxdesign.cc/before-we-allow-ai-to-drive-our-cars-lets-see-if-car-makers-can-fix-a-few-smaller-things-115aeaf4aa53) parking, turn signal, standarization #gooddesign
