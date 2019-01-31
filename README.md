@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
 
 # Wiki
+- [Programmatically select content in textbox](https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/setSelectionRange) #technique
 - [Designing for the web ought to mean making HTML and CSS](https://m.signalvnoise.com/designing-for-the-web-ought-to-mean-making-html-and-css/) #opinion
 - [deno](https://github.com/denoland/deno) native TypeScript interpreter #tool#gooddesign
 - [Statecharts: a visual formalism for complex systems](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf) #philosophy
