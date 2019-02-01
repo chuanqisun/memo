@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) error prevention and handling #reference
 - [HTML, CSS and our vanishing industry entry points](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/) a case for inclusion #opinion
 - [Tooltip Guidelines](https://www.nngroup.com/articles/tooltip-guidelines/) #pattern#tooltip
 - [Programmatically select content in textbox](https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/setSelectionRange) #technique
