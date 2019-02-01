@@ -5,9 +5,10 @@
 ### Genre
 - #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial
 ### Patterns
-- #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox
+- #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Tooltip Guidelines](https://www.nngroup.com/articles/tooltip-guidelines/) #pattern#tooltip
 - [Programmatically select content in textbox](https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/setSelectionRange) #technique
 - [Designing for the web ought to mean making HTML and CSS](https://m.signalvnoise.com/designing-for-the-web-ought-to-mean-making-html-and-css/) #opinion
 - [deno](https://github.com/denoland/deno) native TypeScript interpreter #tool#gooddesign
