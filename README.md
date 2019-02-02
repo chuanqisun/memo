@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [tinyfaces](https://tinyfac.es/) crowd-sourced avatar gallery #resource#free#saas
 - [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) error prevention and handling #reference
 - [HTML, CSS and our vanishing industry entry points](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/) a case for inclusion #opinion
 - [Tooltip Guidelines](https://www.nngroup.com/articles/tooltip-guidelines/) #pattern#tooltip
