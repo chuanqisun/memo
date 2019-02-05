@@ -8,7 +8,8 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
-- [airtable](https://airtable.com/) cms + project management as a service
+- [Newsletter guide](https://newsletterguide.org) One-stop resource for publishing newsletters #tutorial
+- [airtable](https://airtable.com/) cms + project management as a service #saas#free
 - [tinyfaces](https://tinyfac.es/) crowd-sourced avatar gallery #resource#free#saas
 - [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) error prevention and handling #reference
 - [HTML, CSS and our vanishing industry entry points](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/) a case for inclusion #opinion
