@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [figure element](https://www.scottohara.me/blog/2019/01/21/how-do-you-figure.html) semantic and accessible usage #technique#a11y
 - [Newsletter guide](https://newsletterguide.org) One-stop resource for publishing newsletters #tutorial
 - [airtable](https://airtable.com/) cms + project management as a service #saas#free
 - [tinyfaces](https://tinyfac.es/) crowd-sourced avatar gallery #resource#free#saas
