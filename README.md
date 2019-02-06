@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [How To Architect A Complex Web Table](https://www.smashingmagazine.com/2019/02/complex-web-tables/) systematically plan design and document a #table#pattern
 - [figure element](https://www.scottohara.me/blog/2019/01/21/how-do-you-figure.html) semantic and accessible usage #technique#a11y
 - [Newsletter guide](https://newsletterguide.org) One-stop resource for publishing newsletters #tutorial
 - [airtable](https://airtable.com/) cms + project management as a service #saas#free
