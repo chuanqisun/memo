@@ -8,7 +8,9 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
-- [Why we shouldn't take JavaScript for granted] and why to prepare for no-js #opinion#a11y
+- [Paint the picture, not the frame](https://alistapart.com/article/paint-the-picture-not-the-frame) use browser default scroll, highlight, text sizing, theme, focus, and clipboard #opinion#a11y
+- [A case against theming](https://csswizardry.com/2016/10/pragmatic-practical-progressive-theming-with-custom-properties/) and a progressive solution with custom properties #a11y#opinion
+- [Why we shouldn't take JavaScript for granted](https://kryogenix.org/code/browser/everyonehasjs.html) and why to prepare for no-js #opinion#a11y
 - [line-height should be unitless](https://allthingssmitty.com/2017/01/30/nope-nope-nope-line-height-is-unitless/) #typography#opinion#technique#text
 - [Scrollytelling](https://pudding.cool/process/how-to-implement-scrollytelling/) is a good technique that respects native behavior. Scrolljacking is bad. #technique#opinion#pattern#scroll
 - [Consistency](https://developer.paciellogroup.com/blog/2017/08/inclusive-design-principle-be-consistent/#culturalconsistency) default scroll bar is external consistency with the system #a11y#opinion
