@@ -8,6 +8,8 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Inclusive components](https://inclusive-components.design/#components) #pattern#a11y
+- [The A11y Project](https://a11yproject.com/) #opinion#resource#pattern#a11y
 - [Paint the picture, not the frame](https://alistapart.com/article/paint-the-picture-not-the-frame) use browser default scroll, highlight, text sizing, theme, focus, and clipboard #opinion#a11y
 - [A case against theming](https://csswizardry.com/2016/10/pragmatic-practical-progressive-theming-with-custom-properties/) and a progressive solution with custom properties #a11y#opinion
 - [Why we shouldn't take JavaScript for granted](https://kryogenix.org/code/browser/everyonehasjs.html) and why to prepare for no-js #opinion#a11y
