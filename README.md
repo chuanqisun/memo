@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Consistency](https://developer.paciellogroup.com/blog/2017/08/inclusive-design-principle-be-consistent/#culturalconsistency) default scroll bar is external consistency with the system #a11y#opinion
 - [Mixkit](https://mixkit.co/) HD video asset #free#resource
 - [Lapa Ninja](https://www.lapa.ninja/) La gallery featuring the best landing page examples from around the web #resource
 - [How To Architect A Complex Web Table](https://www.smashingmagazine.com/2019/02/complex-web-tables/) systematically plan design and document a #table#pattern
