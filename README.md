@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Why we shouldn't take JavaScript for granted] and why to prepare for no-js #opinion#a11y
 - [line-height should be unitless](https://allthingssmitty.com/2017/01/30/nope-nope-nope-line-height-is-unitless/) #typography#opinion#technique#text
 - [Scrollytelling](https://pudding.cool/process/how-to-implement-scrollytelling/) is a good technique that respects native behavior. Scrolljacking is bad. #technique#opinion#pattern#scroll
 - [Consistency](https://developer.paciellogroup.com/blog/2017/08/inclusive-design-principle-be-consistent/#culturalconsistency) default scroll bar is external consistency with the system #a11y#opinion
