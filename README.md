@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Scrollytelling](https://pudding.cool/process/how-to-implement-scrollytelling/) is a good technique that respects native behavior. Scrolljacking is bad. #technique#opinion#pattern#scroll
 - [Consistency](https://developer.paciellogroup.com/blog/2017/08/inclusive-design-principle-be-consistent/#culturalconsistency) default scroll bar is external consistency with the system #a11y#opinion
 - [Mixkit](https://mixkit.co/) HD video asset #free#resource
 - [Lapa Ninja](https://www.lapa.ninja/) La gallery featuring the best landing page examples from around the web #resource
