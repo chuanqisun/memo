@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Webhosting uptime ranking](https://www.smashingmagazine.com/2019/02/webhosting-compared-testing-uptime-2018/) #reference
 - [Wakamai Fondue](https://wakamaifondue.com/) font capability inspector #tool#typography
 - [Font Inspector](https://opentype.js.org/font-inspector.html) #tool#typography
 - [Intro to Font Metrics](http://westonthayer.com/writing/intro-to-font-metrics/) ascender and baseline alignment #typography#introduction
