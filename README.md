@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Wakamai Fondue](https://wakamaifondue.com/) font capability inspector #tool#typography
 - [Font Inspector](https://opentype.js.org/font-inspector.html) #tool#typography
 - [Intro to Font Metrics](http://westonthayer.com/writing/intro-to-font-metrics/) ascender and baseline alignment #typography#introduction
 - [SVG Filters 101](https://tympanus.net/codrops/2019/01/15/svg-filters-101/) #beginner#tutorial
