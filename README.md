@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Upcoming front-end design and developement](https://conferences.css-tricks.com/) #resource
 - [Webhosting uptime ranking](https://www.smashingmagazine.com/2019/02/webhosting-compared-testing-uptime-2018/) #reference
 - [Wakamai Fondue](https://wakamaifondue.com/) font capability inspector #tool#typography
 - [Font Inspector](https://opentype.js.org/font-inspector.html) #tool#typography
