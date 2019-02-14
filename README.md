@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [11ty.io](https://www.11ty.io/) simple static site generator running on node #library
 - [Upcoming front-end design and developement](https://conferences.css-tricks.com/) #resource
 - [Webhosting uptime ranking](https://www.smashingmagazine.com/2019/02/webhosting-compared-testing-uptime-2018/) #reference
 - [Wakamai Fondue](https://wakamaifondue.com/) font capability inspector #tool#typography
