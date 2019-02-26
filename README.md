@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [IconSvg](https://iconsvg.xyz/) svg icon library for copy, edit, and use #tool#resource
 - [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way) named columns and fr units #technique#tutorial
 - [15-1255 Web and Digital Interface Designers](https://www.bls.gov/soc/2018/soc_2018_definitions.pdf) acknowledged as a job by Bureau of Labor Statistics
 - [11ty.io](https://www.11ty.io/) simple static site generator running on node #library
