@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Instant.page](https://instant.page/) prefetch a url on hover #performance#library
 - [Auto accessible text color with CSS variable](https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/) #technique#a11y
 - [IconSvg](https://iconsvg.xyz/) svg icon library for copy, edit, and use #tool#resource
 - [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way) named columns and fr units #technique#tutorial
