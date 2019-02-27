@@ -8,8 +8,9 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
-- [Responsive Grid and CSS variables](https://css-tricks.com/responsive-designs-and-css-custom-properties-building-a-flexible-grid-system/) replacing bootstrap grid with css grid #technique
-- [ant design](https://ant.design/) a well documentated design system organized by purpose #library
+- [Responsive grid without media query](https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/) with template-auto and minmax() #technique
+- [Responsive grid and CSS variables](https://css-tricks.com/responsive-designs-and-css-custom-properties-building-a-flexible-grid-system/) replacing bootstrap grid with css grid #technique
+- [Ant Design](https://ant.design/) a well documentated design system organized by purpose #library
 - [Instant.page](https://instant.page/) prefetch a url on hover #performance#library
 - [Auto accessible text color with CSS variable](https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/) #technique#a11y
 - [IconSvg](https://iconsvg.xyz/) svg icon library for copy, edit, and use #tool#resource
