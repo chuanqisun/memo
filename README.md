@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Responsive Grid and CSS variables](https://css-tricks.com/responsive-designs-and-css-custom-properties-building-a-flexible-grid-system/) replacing bootstrap grid with css grid #technique
 - [ant design](https://ant.design/) a well documentated design system organized by purpose #library
 - [Instant.page](https://instant.page/) prefetch a url on hover #performance#library
 - [Auto accessible text color with CSS variable](https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/) #technique#a11y
