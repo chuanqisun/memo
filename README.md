@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [CSS Remedy](https://github.com/mozdevs/cssremedy) an alternative to reset and normalize: mordern common sense css rules to start every project #library#opinion
 - [The original NeXT browser](https://worldwideweb.cern.ch/) a replica #gooddesign
 - [pseudo element for external link](https://www.jayfreestone.com/writing/wrapping-and-inline-pseudo-elements/) how to prevent orphan on next line #technique
 - [Game-icons](https://game-icons.net/) free game icons that are stylish and unique #free#resource
