@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [The original NeXT browser](https://worldwideweb.cern.ch/) a replica #gooddesign
 - [pseudo element for external link](https://www.jayfreestone.com/writing/wrapping-and-inline-pseudo-elements/) how to prevent orphan on next line #technique
 - [Game-icons](https://game-icons.net/) free game icons that are stylish and unique #free#resource
 - [Content-based grid tracks and embracing flexibility](https://hiddedevries.nl/en/blog/2019-02-23-content-based-grid-tracks-and-embracing-flexibility) min-content and max-content based grid and challenges #performance#technique#opinions#responsive
