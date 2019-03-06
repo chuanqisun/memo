@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [pseudo element for external link](https://www.jayfreestone.com/writing/wrapping-and-inline-pseudo-elements/) how to prevent orphan on next line #technique
 - [Game-icons](https://game-icons.net/) free game icons that are stylish and unique #free#resource
 - [Content-based grid tracks and embracing flexibility](https://hiddedevries.nl/en/blog/2019-02-23-content-based-grid-tracks-and-embracing-flexibility) min-content and max-content based grid and challenges #performance#technique#opinions#responsive
 - [Responsive grid without media query](https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/) with template-auto and minmax() #technique
