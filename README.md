@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Machine learning to colorize black and white photo](https://colourise.sg/) #gooddesign#saas
 - [CSS Grid course by Wes Bos](https://cssgrid.io/) #free#tutorial
 - [Interneting is hard](https://internetingishard.com/) good html/css/js #beginner#tutorial
 - [Uppy](https://uppy.io/) file uploader from local and cloud #library
