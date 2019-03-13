@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [True Blue](https://truebluestory.com/) stunning illustration in web media [behind the scene](https://medium.com/@eliotpeper/making-true-blue-f66a538d0ea5) #gooddesign
 - [Machine learning to colorize black and white photo](https://colourise.sg/) #gooddesign#saas
 - [CSS Grid course by Wes Bos](https://cssgrid.io/) #free#tutorial
 - [Interneting is hard](https://internetingishard.com/) good html/css/js #beginner#tutorial
