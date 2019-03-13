@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Flatten container with children with display:contents](https://css-tricks.com/get-ready-for-display-contents/) useful for nested grid items #technique
 - [Dev.to](https://dev.to/) A beginner friendly dev community with positive culture #gooddesign#beginner
 - [Details dialog element](https://github.com/github/details-dialog-element) Github's light weight web component for dialog #library#pattern#dialog
 - [A JavaScript-Free Frontend](https://dev.to/winduptoy/a-javascript-free-frontend-2d3e) Use checkbox, label and id for modal ux #technique
