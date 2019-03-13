@@ -5,9 +5,10 @@
 ### Genre
 - #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial
 ### Patterns
-- #breadcrumb #checkbox #file #form #radio #scroll #select #table #text #textbox #tooltip
+- #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Details dialog element](https://github.com/github/details-dialog-element) Github's light weight web component for dialog #library#pattern#dialog
 - [A JavaScript-Free Frontend](https://dev.to/winduptoy/a-javascript-free-frontend-2d3e) Use checkbox, label and id for modal ux #technique
 - [True Blue](https://truebluestory.com/) stunning illustration in web media [behind the scene](https://medium.com/@eliotpeper/making-true-blue-f66a538d0ea5) #gooddesign
 - [Machine learning to colorize black and white photo](https://colourise.sg/) #gooddesign#saas
