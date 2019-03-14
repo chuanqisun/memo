@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Accessible name and description computation](https://w3c.github.io/html-aam/#accessible-name-and-description-computation) mapping from HTML to AT announcement #a11y#reference
 - [Flatten container with children with display:contents](https://css-tricks.com/get-ready-for-display-contents/) useful for nested grid items #technique
 - [Dev.to](https://dev.to/) A beginner friendly dev community with positive culture #gooddesign#beginner
 - [Details dialog element](https://github.com/github/details-dialog-element) Github's light weight web component for dialog #library#pattern#dialog
