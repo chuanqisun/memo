@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Deque University a11y resources](https://dequeuniversity.com/resources/) coding #patterns and screen reader shortcuts #reference
 - [Screen reader and browser usage survey](https://webaim.org/projects/screenreadersurvey7/) #a11y#reference
 - [Accessible name and description computation](https://w3c.github.io/html-aam/#accessible-name-and-description-computation) mapping from HTML to AT announcement #a11y#reference
 - [Flatten container with children with display:contents](https://css-tricks.com/get-ready-for-display-contents/) useful for nested grid items #technique
