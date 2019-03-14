@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Understanding screen reader modes](https://tink.uk/understanding-screen-reader-interaction-modes/) #beginner virtual/browser mode, form/focus mode, and application mode #a11y#reference
 - [Semantics to Screen Readers](https://alistapart.com/article/semantics-to-screen-readers) a developer #beginner guide for understanding how html translates into screen reader announcement with additional #a11y#reference
 - [Deque University a11y resources](https://dequeuniversity.com/resources/) coding #patterns and screen reader shortcuts #reference
 - [Screen reader and browser usage survey](https://webaim.org/projects/screenreadersurvey7/) #a11y#reference
