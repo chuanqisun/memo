@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Checklist Design](https://www.checklist.design/) UX patterns with examples #pattern#reference
 - [Http cache control headers and cache busting](https://csswizardry.com/2019/03/cache-control-for-civilians/) #reference#technique
 - [How to use mailto](https://css-tricks.com/all-about-mailto-links/) #reference
 - [Font Map](http://fontmap.ideo.com/) AI font similarity map #tool#typography
