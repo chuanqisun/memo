@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [React icons](https://react-icons.netlify.com/) popular icon sets ready to be consumed as react components #library
 - [CSS hyphens](http://clagnut.com/blog/2395) hyphenation #technique#typography#text
 - [Checklist Design](https://www.checklist.design/) UX patterns with examples #pattern#reference
 - [Http cache control headers and cache busting](https://csswizardry.com/2019/03/cache-control-for-civilians/) #reference#technique
