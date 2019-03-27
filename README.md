@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Simple & boring](https://css-tricks.com/simple-boring/) boring design and engineering is important for the web #opinion
 - [Firefox Send](https://send.firefox.com/) send large files with expiring download links #tool#saas
 - [Avataaars](https://getavataaars.com/) avatar generator #tool#free
 - [document.activeElement](https://developers.google.com/web/tools/chrome-devtools/accessibility/focus) track currently focused element #technique#debug#a11y
