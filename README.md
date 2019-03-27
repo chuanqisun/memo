@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Ecode svg to background iamge url](https://yoksel.github.io/url-encoder/) #tool
 - [Appearance vs Layout](https://css-tricks.com/the-benefits-of-structuring-css-around-appearance-and-layout/) decouple appearance from layout in CSS #technique#opinion
 - [Netlify CMS](https://css-tricks.com/its-pretty-cool-how-netlify-cms-works-with-any-flat-file-site-generator/) a library that gives a CMS UI for any github static file repos #library#saas
 - [Simple & boring](https://css-tricks.com/simple-boring/) boring design and engineering is important for the web #opinion
