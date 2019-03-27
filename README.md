@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Firefox Send](https://send.firefox.com/) send large files with expiring download links #tool#saas
 - [Avataaars](https://getavataaars.com/) avatar generator #tool#free
 - [document.activeElement](https://developers.google.com/web/tools/chrome-devtools/accessibility/focus) track currently focused element #technique#debug#a11y
 - [React icons](https://react-icons.netlify.com/) popular icon sets ready to be consumed as react components #library
