@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [How to align in CSS](https://www.smashingmagazine.com/2019/03/css-alignment/) distribute space vs. align object #tutorial#beginner
 - [Web Components series](https://css-tricks.com/an-introduction-to-web-components/) HTML Template, Custom Elements, Shadow DOM, and Libraries #introduction
 - [Ecode svg to background iamge url](https://yoksel.github.io/url-encoder/) #tool
 - [Appearance vs Layout](https://css-tricks.com/the-benefits-of-structuring-css-around-appearance-and-layout/) decouple appearance from layout in CSS #technique#opinion
