@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1) use SSR and html and css instead of JavaScript #opinion
 - [Glitch](https://glitch.com/) full stack free app host for prototyping #saas#serverless#free
 - [How to align in CSS](https://www.smashingmagazine.com/2019/03/css-alignment/) distribute space vs. align object #tutorial#beginner
 - [Web Components series](https://css-tricks.com/an-introduction-to-web-components/) HTML Template, Custom Elements, Shadow DOM, and Libraries #introduction
