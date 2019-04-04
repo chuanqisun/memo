@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Empathy for developers](https://design.google/library/john-maeda-interview-new-design-religion/) how interdisciplinary team fueled the success of Material Design #opinion
 - [FontForge](https://fontforge.github.io/en-US/) open source font creation #tool#typography#icon
 - [History of JavaScript libraries](https://css-tricks.com/yet-another-javascript-framework/) from Ajax, to Prototype, to jQuery, to MooTools #opinion#reference
 - [Responsible JavaScript](https://alistapart.com/article/responsible-javascript-part-1) use SSR and html and css instead of JavaScript #opinion
