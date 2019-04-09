@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Public Sans](https://github.com/uswds/public-sans) open font used by US Gov #typography#resource#free
 - [Color.review](https://color.review/) Visualization for color constrat tweaking #a11y#tool#gooddesign
 - [Console API](https://areknawo.com/getting-creative-with-the-console-api/) for debugging and creative use #tutorial#reference
 - [Web dev concepts illustration](https://illustrated.dev/) #gooddesign#beginner
