@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [Design Pattern Patents from Tech Companies](https://medium.com/@christiet/ui-ux-patterns-you-literally-cannot-design-design-patents-from-tech-companies-21ae9643dc9e) #reference
 - [GOV.UK](https://design-system.service.gov.uk/get-started/) UK Government design system #a11y#pattern#library
 - [USWDS](https://github.com/uswds/uswds) US Goverment design system #a11y#pattern#library
 - [Public Sans](https://github.com/uswds/public-sans) open font used by US Gov #typography#resource#free
