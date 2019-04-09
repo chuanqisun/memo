@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [shape-rendering: crispEdges](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering) resolve blurry edges in SVG after scaling #technique
 - [Design Pattern Patents from Tech Companies](https://medium.com/@christiet/ui-ux-patterns-you-literally-cannot-design-design-patents-from-tech-companies-21ae9643dc9e) #reference
 - [GOV.UK](https://design-system.service.gov.uk/get-started/) UK Government design system #a11y#pattern#library
 - [USWDS](https://github.com/uswds/uswds) US Goverment design system #a11y#pattern#library
