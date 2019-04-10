@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
 
 # Wiki
+- [A case for css-in-js by The Guardian](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier) for scale, maintainability, and collaboration #opinion
 - [z-index and stacking context](https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/) why storing all z-index in one place won't work #technique
 - [shape-rendering: crispEdges](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering) resolve blurry edges in SVG after scaling #technique
 - [Design Pattern Patents from Tech Companies](https://medium.com/@christiet/ui-ux-patterns-you-literally-cannot-design-design-patents-from-tech-companies-21ae9643dc9e) #reference
