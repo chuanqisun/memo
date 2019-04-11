@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [features enabled with Chromium Edge](https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/) #reference
 - [Inclusive stock photos](https://broadlygenderphotos.vice.com/) #resource
 - [Nolt](https://nolt.io/) User feedback user voice and roapmap hosting #saas
 - [Ethical alternatives to mainstream software and services](https://ethical.net/resources/) #resource
