@@ -5,9 +5,10 @@
 ### Genre
 - #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial
 ### Patterns
-- #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #tooltip
+- #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Accessible toggle implementation](http://adrianroselli.com/2019/03/under-engineered-toggles.html) including indeterminate state, high contrast, dark mode, and rtl support #a11y#pattern#toggle
 - [A case for css-in-js by The Guardian](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier) for scale, maintainability, and collaboration #opinion
 - [z-index and stacking context](https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/) why storing all z-index in one place won't work #technique
 - [shape-rendering: crispEdges](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering) resolve blurry edges in SVG after scaling #technique
