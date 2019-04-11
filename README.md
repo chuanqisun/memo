@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Ternary statement to simplify if statement](https://css-tricks.com/in-defense-of-the-ternary-statement/) by using `||` and `&&` #technique
 - [Accessible toggle implementation](http://adrianroselli.com/2019/03/under-engineered-toggles.html) including indeterminate state, high contrast, dark mode, and rtl support #a11y#pattern#toggle
 - [A case for css-in-js by The Guardian](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier) for scale, maintainability, and collaboration #opinion
 - [z-index and stacking context](https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/) why storing all z-index in one place won't work #technique
