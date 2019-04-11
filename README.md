@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Get and parse css custom properties in JavaScript](https://andy-bell.design/wrote/get-css-custom-property-value-with-javascript/) #technique
 - [features enabled with Chromium Edge](https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/) #reference
 - [Inclusive stock photos](https://broadlygenderphotos.vice.com/) #resource
 - [Nolt](https://nolt.io/) User feedback user voice and roapmap hosting #saas
