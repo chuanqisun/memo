@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Inclusive stock photos](https://broadlygenderphotos.vice.com/) #resource
 - [Nolt](https://nolt.io/) User feedback user voice and roapmap hosting #saas
 - [Ethical alternatives to mainstream software and services](https://ethical.net/resources/) #resource
 - [Ternary statement to simplify if statement](https://css-tricks.com/in-defense-of-the-ternary-statement/) by using `||` and `&&` #technique
