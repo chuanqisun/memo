@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Ethical alternatives to mainstream software and services](https://ethical.net/resources/) #resource
 - [Ternary statement to simplify if statement](https://css-tricks.com/in-defense-of-the-ternary-statement/) by using `||` and `&&` #technique
 - [Accessible toggle implementation](http://adrianroselli.com/2019/03/under-engineered-toggles.html) including indeterminate state, high contrast, dark mode, and rtl support #a11y#pattern#toggle
 - [A case for css-in-js by The Guardian](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier) for scale, maintainability, and collaboration #opinion
