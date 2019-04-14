@@ -5,9 +5,10 @@
 ### Genre
 - #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial
 ### Patterns
-- #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
+- #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) principles, rules, and tips for the best autocomplete algorithm and ux #technique#reference#pattern#autocomplete
 - [Simplify designs](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9) practical tips #technique
 - [Inline SVG with caching](https://css-tricks.com/inline-svg-cached/) using service worker and SVG symbol #technique
 - [Get and parse css custom properties in JavaScript](https://andy-bell.design/wrote/get-css-custom-property-value-with-javascript/) #technique
