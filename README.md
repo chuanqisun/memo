@@ -8,6 +8,7 @@
 - #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Simplify designs](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9) practical tips #technique
 - [Inline SVG with caching](https://css-tricks.com/inline-svg-cached/) using service worker and SVG symbol #technique
 - [Get and parse css custom properties in JavaScript](https://andy-bell.design/wrote/get-css-custom-property-value-with-javascript/) #technique
 - [features enabled with Chromium Edge](https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/) #reference
