@@ -8,7 +8,8 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
-- [Figma redline and flowchart kit](https://liferay.design/resources/figma/) by Liferay design #resource#tool
+- [Design at Scale: Figma at Liferay](https://www.smashingmagazine.com/2019/04/design-scale-figma/) lessons and tips for design process at scale #tool#technique#pattern#library
+- [Figma redline and flowchart kit](https://liferay.design/resources/figma/) by Liferay design #resource#tool#library
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) principles, rules, and tips for the best autocomplete algorithm and ux #technique#reference#pattern#autocomplete
 - [Simplify designs](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9) practical tips #technique
 - [Inline SVG with caching](https://css-tricks.com/inline-svg-cached/) using service worker and SVG symbol #technique
