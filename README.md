@@ -8,7 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
-- [conditionally include key-value into an object literal](https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7) at the cost of readability #technique
+- [Conditional insert properties into an object literal](https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7) at the cost of readability #technique
 - [replies.cc](https://replies.cc/) Tracking RSVP by CC an email address #service#gooddesign
 - [Generative art with CSS](https://generative-art-with-css.commons.host/) for icon and background image #technique
 - [Front-end Developer handbook](https://frontendmasters.com/books/front-end-handbook/2019) #resource
