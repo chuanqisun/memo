@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Killed by Google](https://killedbygoogle.com/) projects killed by Google #reference
 - [A system for establishing principles](https://nathanbarry.com/principles/) and use principles to guide difficult decisions #opinion
 - [Johnny Five](https://github.com/rwaldron/johnny-five) JavaScript Robotics and IoT programming framework #library
 - [HTTP Caching](https://frontendian.co/http-caching) with request headers a #beginner#introduction
