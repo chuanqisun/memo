@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [A system for establishing principles](https://nathanbarry.com/principles/) and use principles to guide difficult decisions #opinion
 - [Johnny Five](https://github.com/rwaldron/johnny-five) JavaScript Robotics and IoT programming framework #library
 - [HTTP Caching](https://frontendian.co/http-caching) with request headers a #beginner#introduction
 - [Conditional insert properties into an object literal](https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7) at the cost of readability #technique
