@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [When Cancel Buttons Should Not Say “Cancel”](https://uxmovement.com/buttons/when-cancel-buttons-should-not-say-cancel/) #content
 - [Killed by Google](https://killedbygoogle.com/) projects killed by Google #reference
 - [A system for establishing principles](https://nathanbarry.com/principles/) and use principles to guide difficult decisions #opinion
 - [Johnny Five](https://github.com/rwaldron/johnny-five) JavaScript Robotics and IoT programming framework #library
