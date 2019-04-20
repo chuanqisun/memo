@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Restyling form controls](https://24ways.org/2018/inclusive-considerations-when-restyling-form-controls/) #a11y#pattern#technique
 - [When Cancel Buttons Should Not Say “Cancel”](https://uxmovement.com/buttons/when-cancel-buttons-should-not-say-cancel/) #content
 - [Killed by Google](https://killedbygoogle.com/) projects killed by Google #reference
 - [A system for establishing principles](https://nathanbarry.com/principles/) and use principles to guide difficult decisions #opinion
