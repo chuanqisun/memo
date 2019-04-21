@@ -18,7 +18,7 @@
 - [Conditional insert properties into an object literal](https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7) at the cost of readability #technique
 - [replies.cc](https://replies.cc/) Tracking RSVP by CC an email address #service#gooddesign
 - [Generative art with CSS](https://generative-art-with-css.commons.host/) for icon and background image #technique
-- [Front-end Developer handbook](https://frontendmasters.com/books/front-end-handbook/2019) #resource
+- [Front-end Developer handbook](https://frontendmasters.com/books/front-end-handbook/2019) with roadmap, learning resources, and tools #resource
 - [Design at Scale: Figma at Liferay](https://www.smashingmagazine.com/2019/04/design-scale-figma/) lessons and tips for design process at scale #tool#technique#pattern#library
 - [Figma redline and flowchart kit](https://liferay.design/resources/figma/) by Liferay design #resource#tool#library
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) principles, rules, and tips for the best autocomplete algorithm and ux #technique#reference#pattern#autocomplete
