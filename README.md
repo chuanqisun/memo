@@ -8,6 +8,8 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Should I use aria-role in addition to Semantic HTML?](https://www.scottohara.me/blog/2019/04/05/landmarks-exposed.html) test results and recommendation #a11y#reference
+- [Accessible Landmarks](https://www.scottohara.me/blog/2018/03/03/landmarks.html) Landmark explained #a11y#reference
 - [React UI](https://ui.reach.tech/) foundation for building accessible React components #a11y#library
 - [Get progressive web app into Google Play store](https://css-tricks.com/how-to-get-a-progressive-web-app-into-the-google-play-store/) #tutorial
 - [Rebass](https://rebassjs.org/) the bootstrap for react, a design system #library
