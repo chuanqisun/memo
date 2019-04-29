@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Ribbon shape CSS](https://play.silvestar.codes/ribbon/) #pattern#breadcrumb#technique
 - [Styled System](https://styled-system.com/) a constraint-based design system consumable as react props #library
 - [Line height playground](https://aresluna.org/line-height-playground/) compare line height treatment across web ios and android #tool#typography
 - [Line height in Figma](https://www.figma.com/blog/line-height-changes/) great communication on a disruptive change in product #gooddesign#tool#typography
