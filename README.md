@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Podcasts Repo](https://podcasts-repo.surge.sh/) podcast list for on dev, design, and startup #resource
 - [Ways to display SVG](https://www.kirupa.com/tricks/billion_ways_display_svg.htm) #technique#reference
 - [Ribbon shape CSS](https://play.silvestar.codes/ribbon/) #pattern#breadcrumb#technique
 - [Styled System](https://styled-system.com/) a constraint-based design system consumable as react props #library
