@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Ways to display SVG](https://www.kirupa.com/tricks/billion_ways_display_svg.htm) #technique#reference
 - [Ribbon shape CSS](https://play.silvestar.codes/ribbon/) #pattern#breadcrumb#technique
 - [Styled System](https://styled-system.com/) a constraint-based design system consumable as react props #library
 - [Line height playground](https://aresluna.org/line-height-playground/) compare line height treatment across web ios and android #tool#typography
