@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [display: contents](https://www.smashingmagazine.com/2019/05/display-box-generation/) to hoist child elements without losing parent-child semantics #a11y#technique
 - [Podcasts Repo](https://podcasts-repo.surge.sh/) podcast list for on dev, design, and startup #resource
 - [Ways to display SVG](https://www.kirupa.com/tricks/billion_ways_display_svg.htm) #technique#reference
 - [Ribbon shape CSS](https://play.silvestar.codes/ribbon/) #pattern#breadcrumb#technique
