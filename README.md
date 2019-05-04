@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Crawler for JavaScript websites](https://www.screamingfrog.co.uk/seo-spider/) #tool
 - [Animate icons with CSS and SVG](https://www.newmediacampaigns.com/blog/guide-to-css-icon-animations) SVG stroke animation #technique
 - [Lorem picsum](https://picsum.photos/) Random image placeholder service #saas
 - [display: contents](https://www.smashingmagazine.com/2019/05/display-box-generation/) to hoist child elements without losing parent-child semantics #a11y#technique
