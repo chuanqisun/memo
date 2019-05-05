@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Author SVG without design tool](https://www.smashingmagazine.com/2019/05/svg-design-tools-practical-guide/) #reference#tutorial
 - [Split](https://adactio.com/journal/15050) Developer experience at the cost of user experience #opinion
 - [Crawler for JavaScript websites](https://www.screamingfrog.co.uk/seo-spider/) #tool
 - [Animate icons with CSS and SVG](https://www.newmediacampaigns.com/blog/guide-to-css-icon-animations) SVG stroke animation #technique
