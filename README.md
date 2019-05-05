@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Split](https://adactio.com/journal/15050) Developer experience at the cost of user experience #opinion
 - [Crawler for JavaScript websites](https://www.screamingfrog.co.uk/seo-spider/) #tool
 - [Animate icons with CSS and SVG](https://www.newmediacampaigns.com/blog/guide-to-css-icon-animations) SVG stroke animation #technique
 - [Lorem picsum](https://picsum.photos/) Random image placeholder service #saas
