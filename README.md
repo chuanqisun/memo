@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Generate](https://www.frustum.com/product) CAD interactive generative design tool for manufacturing #tool#inspiration#philosophy
 - [Project Phoebe](https://medium.com/project-phoebe) open source mutative design #inspiration #philosophy#opinion
 - [Generative design](https://varun.ca/why-not-both/) as a bridge between design and code #opinion#philosophy
 - [Svgbob](https://ivanceras.github.io/svgbob-editor/) convert ascii art or characters to svg
