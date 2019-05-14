@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Generative design](https://varun.ca/why-not-both/) as a bridge between design and code #opinion
 - [Svgbob](https://ivanceras.github.io/svgbob-editor/) convert ascii art or characters to svg
 - [Sticky hero](https://codyhouse.co/blog/post/sticky-hero-section) with position sticky and intersection observer #pattern
 - [Flex layout break new rows or columns](https://tobiasahlin.com/blog/flexbox-break-to-new-row/) #technique
