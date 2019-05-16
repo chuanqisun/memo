@@ -5,9 +5,10 @@
 ### Genre
 - #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial
 ### Patterns
-- #autocomplete #breadcrumb #checkbox #dialog #file #form #radio #scroll #select #table #text #textbox #toggle #tooltip
+- #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [CSS SVG Progress spinner](https://glennmccomb.com/articles/building-a-pure-css-animated-svg-spinner/) #pattern#progress#technique
 - [Progressive enhanced css grid](https://andy-bell.design/wrote/create-a-responsive-grid-layout-with-no-media-queries-using-css-grid/) #technique#tutorial
 - [Generate](https://www.frustum.com/product) CAD interactive generative design tool for manufacturing #tool#inspiration#philosophy
 - [Project Phoebe](https://medium.com/project-phoebe) open source mutative design #inspiration #philosophy#opinion
