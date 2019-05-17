@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [THe Web's Grain](https://frankchimero.com/writing/the-webs-grain/) philosophical musing on responsive design #opinion
 - [Stop Drawing Dead Fish](https://vimeo.com/64895205) computer as a medium to create interactive art without coding #philosophy#opinion
 - [CSS SVG Progress spinner](https://glennmccomb.com/articles/building-a-pure-css-animated-svg-spinner/) #pattern#progress#technique
 - [Progressive enhanced css grid](https://andy-bell.design/wrote/create-a-responsive-grid-layout-with-no-media-queries-using-css-grid/) #technique#tutorial
