@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Material dark theme](https://www.youtube.com/watch?v=9NDLR3COU7Y) design system thinking #technique#gooddesign
 - [Intersection Observer](https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/) for lazy load image, auto pause video, and track reading progress #technique#scroll#tutorial
 - [THe Web's Grain](https://frankchimero.com/writing/the-webs-grain/) philosophical musing on responsive design #opinion
 - [Stop Drawing Dead Fish](https://vimeo.com/64895205) computer as a medium to create interactive art without coding #philosophy#opinion
