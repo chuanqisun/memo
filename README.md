@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [CSS Triggers](https://csstriggers.com/) layout, paint, and composite changes for animating attribute #performance
 - [Expandable side nav slide in animation](https://www.youtube.com/watch?v=Mhnj3PiPnZw) #technique#performance#tutorial
 - [Swipeable card dismiss slide up animation](https://www.youtube.com/watch?v=F3A6Skckh9c) #technique#animation#tutorial
 - [Material dark theme](https://www.youtube.com/watch?v=9NDLR3COU7Y) design system thinking #technique#gooddesign
