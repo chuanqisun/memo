@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Ways to add color for SVG elements](https://css-tricks.com/change-color-of-svg-on-hover/) #technique#reference
 - [Generate SVG filter to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp) #technique#reference
 - [CSS Triggers](https://csstriggers.com/) layout, paint, and composite changes for animating attribute #performance
 - [Expandable side nav slide in animation](https://www.youtube.com/watch?v=Mhnj3PiPnZw) #technique#performance#tutorial
