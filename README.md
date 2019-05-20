@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Use inputmode to select keyboard layout for input](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/) #form#pattern#technique
 - [Using Bootstrap in React without technical debt by wrapping in styled-components](https://css-tricks.com/iterating-a-react-design-with-styled-components/) #technique
 - [Ways to add color for SVG elements](https://css-tricks.com/change-color-of-svg-on-hover/) #technique#reference
 - [Generate SVG filter to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp) #technique#reference
