@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [How to meet WCAG](https://www.w3.org/WAI/WCAG21/quickref/) #reference#a11y
 - [Full bleed background when parent is any centered element](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/) #technique
 - [Edge to edge full bleed background](https://css-tricks.com/the-inside-problem/) #technique
 - [Bigfoot](http://www.bigfootjs.com/) JQuery library for converting footnote links into inline hover buttons #library
