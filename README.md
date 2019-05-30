@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Generative Planets](http://zehfernandes.com/generativeplanets/) beautiful algorithmically generated planet #experiment#gooddesign
 - [Zdog](https://zzz.dog/) canvas and SVG 3D animation library #library
 - [Against strong opinions loosely held](https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/) #opinion
 - [Fluid typography](https://betterwebtype.com/articles/2019/05/14/the-state-of-fluid-web-typography/) #technique#responsive#typography
