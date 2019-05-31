@@ -8,6 +8,8 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [CSS Grid shephard](https://css-tricks.com/using-the-grid-shepherd-technique-to-order-data-with-css/) use grid and counter to display multiple columns of different types #technique
+- [CSS Counter](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters) display auto generated number. #reference
 - [Mavo](https://mavo.io/) create web app with HTML + CSS only. State management and storage as a service using Github or Dropbox #library#gooddesign
 - [Generative Planets](http://zehfernandes.com/generativeplanets/) beautiful algorithmically generated planet #experiment#gooddesign
 - [Zdog](https://zzz.dog/) canvas and SVG 3D animation library #library
