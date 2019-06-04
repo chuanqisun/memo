@@ -8,6 +8,8 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/) #a11y
+- [Contextually Marking up accessible images and SVGs](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html) #a11y#reference
 - [CSS Grid shephard](https://css-tricks.com/using-the-grid-shepherd-technique-to-order-data-with-css/) use grid and counter to display multiple columns of different types #technique
 - [CSS Counter](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters) display auto generated number. #reference
 - [Mavo](https://mavo.io/) create web app with HTML + CSS only. State management and storage as a service using Github or Dropbox #library#gooddesign
@@ -16,7 +18,6 @@
 - [Against strong opinions loosely held](https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/) #opinion
 - [Fluid typography](https://betterwebtype.com/articles/2019/05/14/the-state-of-fluid-web-typography/) #technique#responsive#typography
 - [Document interactive react components in MDX](https://css-tricks.com/front-end-documentation-style-guides-and-the-rise-of-mdx/) #technique
-- [Image alt title aria-label tags](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html) #a11y#reference
 - [codyhouse](https://codyhouse.co/) open source components library with customization and theming as a service #library
 - [RunKit](https://runkit.com/home) REPL playground, endpoint hosting, live documentation for node #saas#free
 - [Tornis](https://github.com/robb0wen/tornis) viewport and pointer state observer/watcher #library
