@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Github switch from icon font to inline SVG](https://github.blog/2016-02-22-delivering-octicons-with-svg/) #opinion#performance
 - [Swap GIF to static picture with reduced motion preference](http://bradfrost.com/blog/post/reducing-motion-with-the-picture-element/) #a11y#technique
 - [mixkit](https://mixkit.co/art/) Beautiful Art & Illustration #resource#free
 - [JavaScript built-in i18n API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) for number, currency, and time #reference
