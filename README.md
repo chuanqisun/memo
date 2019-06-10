@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Theme UI](https://theme-ui.com/) constraint-based design system for React #library#philosophy
 - [Victor Mono](https://rubjo.github.io/victor-mono/) free font for code editor #tool#typography
 - [Improve scroll performance with passive event handler](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#Improving_scrolling_performance_with_passive_listeners) #technique#performance#scroll
 - [Github switch from icon font to inline SVG](https://github.blog/2016-02-22-delivering-octicons-with-svg/) #opinion#performance
