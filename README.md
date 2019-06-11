@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Functional css perils](https://www.browserlondon.com/blog/2019/06/10/functional-css-perils/) rational criticism on functional css methodology #philosophy#opinion
 - [The Flexbox Holy Albatross](http://www.heydonworks.com/article/the-flexbox-holy-albatross) achieve container query with flexbox #technique#responsive
 - [This page is a truly naked, brutalist html quine.](https://secretgeek.github.io/html_wysiwyg/html.html) display raw html with css #technique#inspiration
 - [Theme UI](https://theme-ui.com/) constraint-based design system for React #library#philosophy
