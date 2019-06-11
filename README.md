@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Black and white paintings by Indonesian artist Elicia Edijanto](https://www.behance.net/eliciaedijanto?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-40) #inspiration
 - [Design with motifs](https://learnui.design/blog/spice-up-designs-create-cohesive-brand.html) logo, typography, empty space filler, divider, special text element #design#technique
 - [Array sort](https://css-tricks.com/level-up-your-sort-game/) reverse, tie-breaker, random, advanced use #technique#reference
 - [Functional css perils](https://www.browserlondon.com/blog/2019/06/10/functional-css-perils/) rational criticism on functional css methodology #philosophy#opinion
