@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Free tools for makers](https://freemium.cc/) freemium #resource
 - [Figma redline kit](https://www.figma.com/resources/assets/figma-redlines/) #resource
 - [Versus](http://versusutil.com/) find competitive products #tool
 - [Black and white paintings by Indonesian artist Elicia Edijanto](https://www.behance.net/eliciaedijanto?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-40) #inspiration
