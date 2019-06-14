@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Pika](https://www.pika.dev/cdn) modern es6 javascript module CDN #saas
 - [Beautiful Web Type](https://beautifulwebtype.com/) free webfonts #typography#resource
 - [Free tools for makers](https://freemium.cc/) freemium #resource
 - [Figma redline kit](https://www.figma.com/resources/assets/figma-redlines/) #resource
