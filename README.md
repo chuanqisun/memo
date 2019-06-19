@@ -1,7 +1,8 @@
 # Taxonomy
-## Rules
-- use singular form
+
 ## Facets
+⚠️ use singular form in hashtags
+
 ### Genre
 - #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial #research
 ### Patterns
