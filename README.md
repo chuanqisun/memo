@@ -8,6 +8,7 @@
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Don't misuse -webkit-font-smoothing](https://betterwebtype.com/articles/2019/06/16/5-keys-to-accessible-web-typography/#font-smoothing) especially on dark background #a11y#technique#typography
 - [Marking required fields in forms](https://www.nngroup.com/articles/required-fields/) all the time #research
 - [The Noun Project](https://thenounproject.com/) free SVG Icon library #resource#icon
 - [Green sock (GSAP)](https://greensock.com/) the best animation library and tool for SVG #tool
