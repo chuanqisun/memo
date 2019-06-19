@@ -2,9 +2,9 @@
 ⚠️ use singular form in hashtags
 
 ## Genre
-- #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial #research
+#demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial #research
 ## Patterns
-- #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
+#autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
 - [Don't misuse -webkit-font-smoothing](https://betterwebtype.com/articles/2019/06/16/5-keys-to-accessible-web-typography/#font-smoothing) especially on dark background #a11y#technique#typography
