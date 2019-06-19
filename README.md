@@ -1,11 +1,9 @@
 # Taxonomy
-
-## Facets
 ⚠️ use singular form in hashtags
 
-### Genre
+## Genre
 - #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial #research
-### Patterns
+## Patterns
 - #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
