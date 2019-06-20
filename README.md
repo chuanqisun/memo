@@ -7,6 +7,8 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Google Fonts optimization](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/) #typography#technique
+- [Google Fonts repo for self hosting](https://github.com/google/fonts) #typography#resource
 - [electron boilerplate](https://github.com/sindresorhus/electron-boilerplate) with publishing and auto-update #reference
 - [Don't misuse -webkit-font-smoothing](https://betterwebtype.com/articles/2019/06/16/5-keys-to-accessible-web-typography/#font-smoothing) especially on dark background #a11y#technique#typography
 - [Marking required fields in forms](https://www.nngroup.com/articles/required-fields/) all the time #research
