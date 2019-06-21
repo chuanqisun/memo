@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Readme generator CLI](https://github.com/kefranabg/readme-md-generator) #tool
 - [basier mono](http://atipofoundry.com/fonts/basier-mono) free monospaced font #typography#resrouce
 - [Google Fonts optimization](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/) #typography#technique
 - [Google Fonts repo for self hosting](https://github.com/google/fonts) #typography#resource
