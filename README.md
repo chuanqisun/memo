@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [freezeframe.js](http://ctrl-freaks.github.io/freezeframe.js/) animate gif only on hover #library#gooddesign
 - [Use a resizable textarea to implement drag and drop](https://codepen.io/scottkellum/details/eaXJJb) #demo#technique
 - [Baseline Grid](https://observablehq.com/@gianordoli/baseline-grid) for the web #technique#demo
 - [A complete guide to iconography](https://www.designsystems.com/iconography-guide/) practical icon design guide #tutorial#beginner
