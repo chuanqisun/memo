@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Hero Patterns](https://www.heropatterns.com/) A collection of repeatable SVG background patterns #free#resource#tool
 - [Duotone](https://duotone.shapefactory.co/) generate two color high res hero images #free#tool
 - [Readme generator CLI](https://github.com/kefranabg/readme-md-generator) #tool
 - [basier mono](http://atipofoundry.com/fonts/basier-mono) free monospaced font #typography#resrouce
