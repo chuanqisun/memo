@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/) #opinion#technique
 - [SeaMonkey Project](https://www.seamonkey-project.org/) HTML authoring WYSIWYG #tool#gooddesign
 - [Serif vs SansSerif theories](https://www.freecodecamp.org/news/to-serif-or-not-to-sans-serif/) based on perception of motion #typography
 - [freezeframe.js](http://ctrl-freaks.github.io/freezeframe.js/) animate gif only on hover #library#gooddesign
