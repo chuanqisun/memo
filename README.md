@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Generate PDF from HTML](https://www.smashingmagazine.com/2019/06/create-pdf-web-application/) #reference#beginner
 - [Learning Synths](https://learningsynths.ableton.com/playground) Ableton recipes for sounds effects #resource#tutorial#beginner
 - [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/) #opinion#technique
 - [SeaMonkey Project](https://www.seamonkey-project.org/) HTML authoring WYSIWYG #tool#gooddesign
