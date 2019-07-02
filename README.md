@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Bounds.js](https://chriscavs.github.io/bounds-demo/) lightweight intersection observer for lazy loading and boundary detection #library
 - [Code-surfer](https://github.com/pomber/code-surfer) code slides author and demo tool in react #library
 - [Generate PDF from HTML](https://www.smashingmagazine.com/2019/06/create-pdf-web-application/) #reference#beginner
 - [Learning Synths](https://learningsynths.ableton.com/playground) Ableton recipes for sounds effects #resource#tutorial#beginner
