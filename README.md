@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Staggered animation](https://css-tricks.com/different-approaches-for-creating-a-staggered-animation/) use inline css custom property and calc #technique
 - [Bounds.js](https://chriscavs.github.io/bounds-demo/) lightweight intersection observer for lazy loading and boundary detection #library
 - [Code-surfer](https://github.com/pomber/code-surfer) code slides author and demo tool in react #library
 - [Generate PDF from HTML](https://www.smashingmagazine.com/2019/06/create-pdf-web-application/) #reference#beginner
