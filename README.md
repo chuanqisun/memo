@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [JavaScript event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop#Event_loop) high level conceptual overview #reference
 - [a11y css reset](https://github.com/mike-engel/a11y-css-reset) #library#technique
 - [TinyURL](https://tinyurl.com/) create short URL with API #saas#free#tool
 - [Staggered animation](https://css-tricks.com/different-approaches-for-creating-a-staggered-animation/) use inline css custom property and calc #technique
