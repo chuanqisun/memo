@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [reveal.js](https://github.com/hakimel/reveal.js) HTML slides presentation #library#tool
 - [Hover menu safe path](https://www.youtube.com/watch?v=o0NtjY17v5w) prevent unwanted mouse out from trigger path #technique#pattern#popout#hover
 - [The Technical Side of Design Systems](http://bradfrost.com/blog/post/the-technical-side-of-design-systems-at-css-day-in-amsterdam/) sketch file != design system #opinion#pattern
 - [Eva deep learning color generator](https://colors.eva.design/) #tool
