@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [The Technical Side of Design Systems](http://bradfrost.com/blog/post/the-technical-side-of-design-systems-at-css-day-in-amsterdam/) sketch file != design system #opinion#pattern
 - [Eva deep learning color generator](https://colors.eva.design/) #tool
 - [Fonts in use](https://fontsinuse.com/) real world font pairing examples #reference#typography
 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) design thinking behind tailwind project #opinion#philosophy
