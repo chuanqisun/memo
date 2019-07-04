@@ -4,9 +4,10 @@
 ## Genre
 #demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial #research
 ## Patterns
-#autocomplete #breadcrumb #checkbox #dialog #file #form #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
+#autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Hover menu safe path](https://www.youtube.com/watch?v=o0NtjY17v5w) prevent unwanted mouse out from trigger path #technique#pattern#popout#hover
 - [The Technical Side of Design Systems](http://bradfrost.com/blog/post/the-technical-side-of-design-systems-at-css-day-in-amsterdam/) sketch file != design system #opinion#pattern
 - [Eva deep learning color generator](https://colors.eva.design/) #tool
 - [Fonts in use](https://fontsinuse.com/) real world font pairing examples #reference#typography
