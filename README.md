@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [The Designer’s Growth Model](https://medium.com/design-leadership-notebook/the-designers-growth-model-8240dafb7137) five states of design career: producer, architect, connector, scientist, visionary #opinion
 - [Balance in Framework Design](https://www.youtube.com/watch?v=ANtSWq-zI0s) A Vue.js perspective by Evan You #philosophy#gooddesign
 - [reveal.js](https://github.com/hakimel/reveal.js) HTML slides presentation #library#tool
 - [Hover menu safe path](https://www.youtube.com/watch?v=o0NtjY17v5w) prevent unwanted mouse out from trigger path #technique#pattern#popout#hover
