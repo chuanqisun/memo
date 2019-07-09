@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Pexels](https://www.pexels.com/) free stock image #resource
 - [Retain aspect ratio for an element](https://youtu.be/ht5oFxpADt4) percentage padding is based on parent width #technique
 - [Photopea](https://www.photopea.com/) free wasm based photoshop alternative web app #tool
 - [Pages.xyz](https://www.pages.xyz/) gallery of web designed pages organized by type #reference#inspiration#gooddesign
