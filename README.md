@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Retain aspect ratio for an element](https://youtu.be/ht5oFxpADt4) percentage padding is based on parent width #technique
 - [Photopea](https://www.photopea.com/) free wasm based photoshop alternative web app #tool
 - [Pages.xyz](https://www.pages.xyz/) gallery of web designed pages organized by type #reference#inspiration#gooddesign
 - [The Designer’s Growth Model](https://medium.com/design-leadership-notebook/the-designers-growth-model-8240dafb7137) five states of design career: producer, architect, connector, scientist, visionary #opinion
