@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Interactive hoverboard game](https://dev.to/devdevcharlie/making-an-interactive-hoverboard-game-using-javascript-and-web-sockets-379j) phone as sensor, web socket as P2P communication #gooddesign
 - [Shape](https://shape.so/) React and SVG icons and illustrations #resource
 - [Pexels](https://www.pexels.com/) free stock image #resource
 - [Retain aspect ratio for an element](https://youtu.be/ht5oFxpADt4) percentage padding is based on parent width #technique
