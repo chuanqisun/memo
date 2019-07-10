@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Use output element as aria-live regions](https://www.scottohara.me//blog/2019/07/10/the-output-element.html) for toast bubbles #pattern#a11y#technique
 - [Grid cheatsheet](http://grid.malven.co/) #reference#gooddesign
 - [LottaTools](https://lottatools.com/) PDF tools run in browser #tool
 - [Interactive hoverboard game](https://dev.to/devdevcharlie/making-an-interactive-hoverboard-game-using-javascript-and-web-sockets-379j) phone as sensor, web socket as P2P communication #gooddesign
