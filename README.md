@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Inconsolata](https://fonts.google.com/specimen/Inconsolata) monospaced font designed for high resolution code printing #typography
 - [Sproutsocial seeds](https://sproutsocial.com/seeds/) design system for a social marketing management app #designsystem#gooddesign
 - [Lona](https://github.com/airbnb/Lona) Airbnb's code-driven design system environment #tool
 - [Figma design system](https://www.figma.com/file/Gj9iMcTbFbHrFq1ZWbDBuyc9/UI2-%E2%80%94-Public-Copy?node-id=0%3A11724) #reference#pattern
