@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Component Styling API](http://mrmrs.cc/writing/component-styling-api/) A comprehensive list of stylable properties of any element #reference
 - [Photoshop in Versions Museum](https://www.versionmuseum.com/history-of/adobe-photoshop) visual evolution of graphics WYSIWYG tool #reference
 - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript) patterns and best practice for js #reference
 - [Chaos design](http://mrmrs.cc/writing/chaos-design/) generative, evolutionary, AI assisted design process #philosophy#opinion
