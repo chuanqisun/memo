@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Chaos design](http://mrmrs.cc/writing/chaos-design/) generative, evolutionary, AI assisted design process #philosophy#opinion
 - [Frontend design, react, and a bridge over the great divide](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/) by Brad Frost #opinion
 - [Inconsolata](https://fonts.google.com/specimen/Inconsolata) monospaced font designed for high resolution code printing #typography
 - [Sproutsocial seeds](https://sproutsocial.com/seeds/) design system for a social marketing management app #designsystem#gooddesign
