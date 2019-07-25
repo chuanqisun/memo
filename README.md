@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS) Deep dive into the javascript language #reference
 - [Free open source typefaces](https://www.smashingmagazine.com/2019/07/gorgeous-free-open-source-typefaces/) #resource#typography
 - [CSS Animation Libraries](https://css-tricks.com/css-animation-libraries/) #reference#library
 - [Component Styling API](http://mrmrs.cc/writing/component-styling-api/) A comprehensive list of stylable properties of any element #reference
