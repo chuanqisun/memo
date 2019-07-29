@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Use Datalist on different types of input](https://css-tricks.com/datalist-is-for-suggesting-values-without-enforcing-values/) date, color #reference
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) Deep dive into the javascript language #reference
 - [Free open source typefaces](https://www.smashingmagazine.com/2019/07/gorgeous-free-open-source-typefaces/) #resource#typography
 - [CSS Animation Libraries](https://css-tricks.com/css-animation-libraries/) #reference#library
