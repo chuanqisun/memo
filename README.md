@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [jExcel](https://github.com/paulhodel/jexcel) javascript lightweight excel table #library
 - [Flexbox and padding](https://www.chenhuijing.com/blog/flexbox-and-padding/) prevent last item padding cropped in horizontal scroll area #technique
 - [Accessible inline list with bullets between items](https://blog.sapegin.me/all/accessible-inline-list/) interpunct #a11y
 - [Progress Tracker](https://nigelotoole.github.io/progress-tracker/) component #pattern#library
