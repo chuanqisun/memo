@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Multi-column layout](https://every-layout.dev/blog/multi-column-manipulation/) prevent scrolling by quantity query #technique#responsive
 - [The Challenges with Single Toggle Buttons](https://uxmovement.com/buttons/the-challenges-with-single-toggle-buttons/) show both state and action #pattern#toggle
 - [Responsive Iframes](https://css-tricks.com/responsive-iframes/) with aspect ratio wrapper #technique
 - [Truncate multiline text](https://css-tricks.com/weekly-news-truncating-muti-line-text-calc-in-custom-property-values-contextual-alternates/) #technique#reference
