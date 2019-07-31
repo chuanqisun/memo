@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Contain](https://www.youtube.com/watch?v=4FeG29pnlwU&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr&index=45&t=0s) prevent layout change to bubble up in css #technique#performance
 - [Nodes](http://nodes.io/) algorithmic parameteric design tool #tool#philosophy
 - [Isometric](https://isometric.online/) free isometric illustration #resource
 - [jExcel](https://github.com/paulhodel/jexcel) javascript lightweight excel table #library
