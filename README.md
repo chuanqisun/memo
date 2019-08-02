@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Flexible data table with CSS Grid](https://adamlynch.com/flexible-data-tables-with-css-grid/) #pattern#table
 - [Quantum computing for the very curious](https://quantum.country/qcvc) experimental menmonic medium as an alternative to textbook #gooddesign
 - [10 Usability Heuristics for UI design](https://www.nngroup.com/articles/ten-usability-heuristics/) #reference#research
 - [Contain](https://www.youtube.com/watch?v=4FeG29pnlwU&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr&index=45&t=0s) prevent layout change to bubble up in css #technique#performance
