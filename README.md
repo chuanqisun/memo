@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Simplest way to load CSS async](https://www.filamentgroup.com/lab/load-css-simpler/) #technique#perf
 - [Flexible data table with CSS Grid](https://adamlynch.com/flexible-data-tables-with-css-grid/) #pattern#table
 - [Quantum computing for the very curious](https://quantum.country/qcvc) experimental menmonic medium as an alternative to textbook #gooddesign
 - [10 Usability Heuristics for UI design](https://www.nngroup.com/articles/ten-usability-heuristics/) #reference#research
