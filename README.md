@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) the problems that frameworks are designed to solve #opinion#philosophy
 - [Simplest way to load CSS async](https://www.filamentgroup.com/lab/load-css-simpler/) #technique#perf
 - [Flexible data table with CSS Grid](https://adamlynch.com/flexible-data-tables-with-css-grid/) #pattern#table
 - [Quantum computing for the very curious](https://quantum.country/qcvc) experimental menmonic medium as an alternative to textbook #gooddesign
