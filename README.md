@@ -7,6 +7,8 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Free Mockups and Design Tools](https://www.ls.graphics/free) device mockup and frames #resource#free
+- [paaatterns](https://lstore.graphics/paaatterns) Free collection of beautiful patterns for all vector formats #resource
 - [Verby](https://www.verby.co/) Create and download natural voices as mp3 audio files #a11y#tool
 - [comlink](https://github.com/GoogleChromeLabs/comlink) web worker abstraction implemented in es6 proxy #library
 - [Components AI](https://components.ai/) Experimental platform for exploring generative design systems #tool
