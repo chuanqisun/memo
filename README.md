@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Oliver](https://freebiesbug.com/free-fonts/oliver/) sans serif free font #typography
 - [Free Mockups and Design Tools](https://www.ls.graphics/free) device mockup and frames #resource#free
 - [paaatterns](https://lstore.graphics/paaatterns) Free collection of beautiful patterns for all vector formats #resource
 - [Verby](https://www.verby.co/) Create and download natural voices as mp3 audio files #a11y#tool
