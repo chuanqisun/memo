@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Verby](https://www.verby.co/) Create and download natural voices as mp3 audio files #a11y#tool
 - [comlink](https://github.com/GoogleChromeLabs/comlink) web worker abstraction implemented in es6 proxy #library
 - [Components AI](https://components.ai/) Experimental platform for exploring generative design systems #tool
 - [Charlie Owen's personal website](https://www.sonniesedge.net/) brutal, simple, fast, and functional #gooddesign
