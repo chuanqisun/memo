@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Charlie Owen's personal website](https://www.sonniesedge.net/) brutal, simple, fast, and functional #gooddesign
 - [Writing a Simple MVC App in Plain JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/) #beginner#tutorial
 - [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) the problems that frameworks are designed to solve #opinion#philosophy
 - [Simplest way to load CSS async](https://www.filamentgroup.com/lab/load-css-simpler/) #technique#perf
