@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Phone number input](https://github.com/jackocnr/intl-tel-input) i18n format and validate phone number #library#input
 - [Predictably Random](https://remysharp.com/2019/08/06/predictably-random) visualizing randomness #gooddesign#tool
 - [Case study factory](https://essays.uxdesign.cc/case-study-factory/) ux portofolio templates no longer works #opinion
 - [Oliver](https://freebiesbug.com/free-fonts/oliver/) sans serif free font #typography
