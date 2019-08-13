@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Inter](https://rsms.me/inter/) high quality UI font #free#typography
 - [Dashblock](https://dashblock.com/) turning web url into API with manual tagging and machine learning #tool#gooddesign
 - [Phone number input](https://github.com/jackocnr/intl-tel-input) i18n format and validate phone number #library#input
 - [Predictably Random](https://remysharp.com/2019/08/06/predictably-random) visualizing randomness #gooddesign#tool
