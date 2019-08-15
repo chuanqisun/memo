@@ -181,7 +181,7 @@
 - [React UI](https://ui.reach.tech/) foundation for building accessible React components #a11y#library
 - [Get progressive web app into Google Play store](https://css-tricks.com/how-to-get-a-progressive-web-app-into-the-google-play-store/) #tutorial
 - [Rebass](https://rebassjs.org/) the bootstrap for react, a design system #library
-- [https://medium.com/@janinaaritao/a-friendly-introduction-to-font-licenses-891ea211b6df](https://medium.com/@janinaaritao/a-friendly-introduction-to-font-licenses-891ea211b6df) understanding font licenses #reference#typography
+- [A Friendly Introduction to Font Licenses](https://medium.com/@janinaaritao/a-friendly-introduction-to-font-licenses-891ea211b6df) understanding font licenses #reference#typography
 - [Inclusively hidden](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html) hide elements for icon, skip links #a11y#icon
 - [Restyling form controls](https://24ways.org/2018/inclusive-considerations-when-restyling-form-controls/) #a11y#pattern#technique
 - [When Cancel Buttons Should Not Say “Cancel”](https://uxmovement.com/buttons/when-cancel-buttons-should-not-say-cancel/) #content
