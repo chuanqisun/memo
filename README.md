@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Snapboard.io](https://snapboard.io/) Dashboard as a service #gooddesign#saas
 - [Animated favicon](https://css-tricks.com/the-making-of-an-animated-favicon/) using canvas API #technique
 - [TinyMCE](https://www.tiny.cloud/features) HTML WYSIWYG rich text editor #library
 - [WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) #tutorial#beginner
