@@ -261,7 +261,7 @@
 - [The original NeXT browser](https://worldwideweb.cern.ch/) a replica #gooddesign
 - [pseudo element for external link](https://www.jayfreestone.com/writing/wrapping-and-inline-pseudo-elements/) how to prevent orphan on next line #technique
 - [Game-icons](https://game-icons.net/) free game icons that are stylish and unique #free#resource
-- [Content-based grid tracks and embracing flexibility](https://hiddedevries.nl/en/blog/2019-02-23-content-based-grid-tracks-and-embracing-flexibility) min-content and max-content based grid and challenges #performance#technique#opinions#responsive
+- [Content-based grid tracks and embracing flexibility](https://hiddedevries.nl/en/blog/2019-02-23-content-based-grid-tracks-and-embracing-flexibility) min-content and max-content based grid and challenges #performance#technique#opinion#responsive
 - [Responsive grid without media query](https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/) with template-auto and minmax() #technique
 - [Responsive grid and CSS variables](https://css-tricks.com/responsive-designs-and-css-custom-properties-building-a-flexible-grid-system/) replacing bootstrap grid with css grid #technique
 - [Ant Design](https://ant.design/) a well documentated design system organized by purpose #library
