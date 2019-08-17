@@ -241,7 +241,7 @@
 - [Font Map](http://fontmap.ideo.com/) AI font similarity map #tool#typography
 - [Understanding screen reader modes](https://tink.uk/understanding-screen-reader-interaction-modes/) #beginner virtual/browser mode, form/focus mode, and application mode #a11y#reference
 - [Semantics to Screen Readers](https://alistapart.com/article/semantics-to-screen-readers) a developer #beginner guide for understanding how html translates into screen reader announcement with additional #a11y#reference
-- [Deque University a11y resources](https://dequeuniversity.com/resources/) coding #patterns and screen reader shortcuts #reference
+- [Deque University a11y resources](https://dequeuniversity.com/resources/) coding patterns and screen reader shortcuts #reference#pattern
 - [Screen reader and browser usage survey](https://webaim.org/projects/screenreadersurvey7/) #a11y#reference
 - [Accessible name and description computation](https://w3c.github.io/html-aam/#accessible-name-and-description-computation) mapping from HTML to AT announcement #a11y#reference
 - [Flatten container with children with display:contents](https://css-tricks.com/get-ready-for-display-contents/) useful for nested grid items #technique
@@ -306,7 +306,7 @@
 - [XState](https://github.com/davidkpiano/xstate) javascript finite state machine #library
 - [Achieve container query with flex-basis](http://www.heydonworks.com/article/the-flexbox-holy-albatross-reincarnated) stack flex box when container is narrow #technique
 - [Box drawing characters](https://en.wikipedia.org/wiki/Box-drawing_character) charting unicode #typography#reference
-- [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) Brad Frost collection of #patterns#reference
+- [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) Brad Frost collection of #pattern#reference
 - [tablesaw](https://github.com/filamentgroup/tablesaw) filament responsive #table#pattern#library
 - [Design better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) #pattern#table#technique#gooddesign
 - [Indicate scrollability with shadow](http://lea.verou.me/2012/04/background-attachment-local/) background-attachment #scroll#technique
