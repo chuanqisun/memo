@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/) margin collapse #technique#reference
 - [Ten principles for good design](https://www.vitsoe.com/us/about/good-design) by Dieter Rams #philosophy#gooddesign
 - [Copychar](https://copychar.cc/) copy unicode character to clipboard #tool
 - [Snapboard.io](https://snapboard.io/) Dashboard as a service #gooddesign#saas
