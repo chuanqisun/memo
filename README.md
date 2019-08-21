@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Startup decks](https://startupdecks.co/) business strategy of success startups #resource
 - [line-clamp](https://css-tricks.com/almanac/properties/l/line-clamp/) ellipsis overflow for multiline text #technique
 - [Block Formatting Context](https://www.smashingmagazine.com//2017/12/understanding-css-layout-block-formatting-context/) BFC contain float, prevent margin collapse and float wrapping #technique#reference
 - [Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/) margin collapse #technique#reference
