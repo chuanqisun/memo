@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [SimpleID](https://www.simpleid.xyz) Authentication and storage as a service #free#saas#library
 - [Startup decks](https://startupdecks.co/) business strategy of success startups #resource
 - [line-clamp](https://css-tricks.com/almanac/properties/l/line-clamp/) ellipsis overflow for multiline text #technique
 - [Block Formatting Context](https://www.smashingmagazine.com//2017/12/understanding-css-layout-block-formatting-context/) BFC contain float, prevent margin collapse and float wrapping #technique#reference
