@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [SVG waves pattern generator](https://getwaves.io/) #tool
 - [Marketing Examples](https://marketingexamples.com/?ref=producthunt) Real world marketing case studies #reference#resource
 - [Using requestAnimationFrame with React Hooks](https://css-tricks.com/using-requestanimationframe-with-react-hooks/) #technique
 - [Full Stack Open](https://fullstackopen.com/en) open course for modern web development #tutorial#beginner#gooddesign#free
