@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Better tooltip design](https://adamsilver.io/articles/the-problem-with-tooltips-and-what-to-do-instead/) hover tooltip isn't a good solution #pattern#tooltip#technique
 - [How DNS works](https://howdns.works/) a comic primer #beginner#reference
 - [Console.assert()](https://developer.mozilla.org/en-US/docs/Web/API/console/assert) for error catching #technique#reference
 - [mini map for web pages](https://larsjung.de/pagemap/) with canvas on a beautiful personal website #library#reference#gooddesign
