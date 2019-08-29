@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [mini map for web pages](https://larsjung.de/pagemap/) with canvas on a beautiful personal website #library#reference#gooddesign
 - [Postal addressing conventions](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) Universal Postal Union #reference
 - [SVG waves pattern generator](https://getwaves.io/) #tool
 - [Marketing Examples](https://marketingexamples.com/?ref=producthunt) Real world marketing case studies #reference#resource
