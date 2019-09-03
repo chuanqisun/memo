@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [X3D + X3Dom](https://blog.scottlogic.com/2019/08/27/declarative-3d-for-the-modern-web.html) Declarative 3D for the Web #library
 - [Leon Sans](https://github.com/cmiscm/leonsans) geometric sans-serif typeface rendered with code  #typography#tool
 - [Buildless web component app](https://css-tricks.com/going-buildless/) using import maps #technique#library
 - [Delaunay](https://codepen.io/DonKarlssonSan/full/VwZPJMO) Bowyer-Watson algorithm to perform the Delaynay triangulation #technique#algorithm
