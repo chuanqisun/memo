@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Navbar Nudging on @keyframers](https://css-tricks.com/navbar-nudging-on-keyframers/) Expand/collapse for icon only buttons #technique
 - [Luxon](https://moment.github.io/luxon/index.html) DateTime formatting built on browser native Itnl API #library#i18n
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) Custom element that uses prefers-color-scheme value as default #library
 - [X3D + X3Dom](https://blog.scottlogic.com/2019/08/27/declarative-3d-for-the-modern-web.html) Declarative 3D for the Web #library
