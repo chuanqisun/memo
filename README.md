@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [js-noisy-gradient](https://github.com/apankrat/js-noisy-gradient) prevent banding in linear-gradient backgrounds. #library
 - [Email inspiration, resources and discovery](https://emaillove.com/) #reference#resource#inspiration
 - [Navbar Nudging on @keyframers](https://css-tricks.com/navbar-nudging-on-keyframers/) Expand/collapse for icon only buttons #technique
 - [Luxon](https://moment.github.io/luxon/index.html) DateTime formatting built on browser native Itnl API #library#i18n
