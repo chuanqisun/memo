@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Array.from()](https://dmitripavlutin.com/javascript-array-from-applications/) init array with number of items #technique
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) for code review #reference
 - [js-noisy-gradient](https://github.com/apankrat/js-noisy-gradient) prevent banding in linear-gradient backgrounds. #library
 - [Email inspiration, resources and discovery](https://emaillove.com/) #reference#resource#inspiration
