@@ -7,7 +7,8 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
-- [ECMAScript new features list](https://github.com/daumann/ECMAScript-new-features-list) #reference
+- [Ghost Buttons with Directional Awareness in CSS](https://css-tricks.com/ghost-buttons-with-directional-awareness-in-css/) #technique
+- [ECMAScript new features list](https://github.com/daumann/ECMAScript-new-features-list) es6 es7 ... es10 #reference
 - [Reverse interview](https://github.com/viraptor/reverse-interview) questions to ask your interviewer #resource
 - [Can I email](https://www.caniemail.com/) caniuse for email html dev #resource#tool
 - [Two Browsers Walked Into a Scrollbar](https://www.filamentgroup.com/lab/scrollbars/) unobtrusive styling #technique#pattern#scroll
