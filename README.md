@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [ECMAScript new features list](https://github.com/daumann/ECMAScript-new-features-list) #reference
 - [Reverse interview](https://github.com/viraptor/reverse-interview) questions to ask your interviewer #resource
 - [Can I email](https://www.caniemail.com/) caniuse for email html dev #resource#tool
 - [Two Browsers Walked Into a Scrollbar](https://www.filamentgroup.com/lab/scrollbars/) unobtrusive styling #technique#pattern#scroll
