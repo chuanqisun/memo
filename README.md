@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Simplicity (II)](https://bastianallgeier.com/notes/simplicity-part-2) consider your js tool chain in 5-10 years #opinion
 - [Source Sans Variable](https://v-fonts.com/fonts/source-sans-variable) #typography#free
 - [Array.from()](https://dmitripavlutin.com/javascript-array-from-applications/) init array with number of items #technique
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) for code review #reference
