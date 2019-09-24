@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Optional/conditional spreading](https://enmascript.com/articles/2019/09/20/two-exceptional-use-cases-for-the-spread-operator-you-may-not-know-of) to include/exclude specific key value pairs when creating an object #technique
 - [overscroll-behavior: contain](https://codepen.io/aaroniker/pen/ZEzmzxj) prevent parent scroll on mobile #scroll#technique
 - [Smoother & sharper shadows with layered box-shadows](https://tobiasahlin.com/blog/layered-smooth-box-shadows/) #technique
 - [Responsive hamburger menu](https://polypane.rocks/blog/the-perfect-responsive-menu-2019/) #a11y#technique
