@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [AI-Generated Faces](https://generated.photos/) #free#resource
 - [Ghost Buttons with Directional Awareness in CSS](https://css-tricks.com/ghost-buttons-with-directional-awareness-in-css/) #technique
 - [ECMAScript new features list](https://github.com/daumann/ECMAScript-new-features-list) es6 es7 ... es10 #reference
 - [Reverse interview](https://github.com/viraptor/reverse-interview) questions to ask your interviewer #resource
