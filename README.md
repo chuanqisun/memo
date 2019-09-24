@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [overscroll-behavior: contain](https://codepen.io/aaroniker/pen/ZEzmzxj) prevent parent scroll on mobile #scroll#technique
 - [Smoother & sharper shadows with layered box-shadows](https://tobiasahlin.com/blog/layered-smooth-box-shadows/) #technique
 - [Responsive hamburger menu](https://polypane.rocks/blog/the-perfect-responsive-menu-2019/) #a11y#technique
 - [AI-Generated Faces](https://generated.photos/) #free#resource
