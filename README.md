@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Variable Fonts Link Dump!](https://css-tricks.com/variable-fonts-link-dump/) #typography#resource
 - [Table with Expandable Rows](http://adrianroselli.com/2019/09/table-with-expando-rows.html) #pattern#table#a11y
 - [A Comparison of Static Form Providers](https://css-tricks.com/a-comparison-of-static-form-providers/) #library
 - [Syntax/182 Practical stack for new SaaS](https://github.com/wesbos/Syntax/blob/master/shows/182%20-%20practical.md) email, auth, media, payment #reference
