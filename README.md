@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Moving Your JavaScript Development To Bash On Windows](https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/) setup linux on windows
 - [IP Geolocation API](https://github.com/apilayer/geolocationapi) including countries raw data #reference#api
 - [Creating Tables In Figma](https://www.smashingmagazine.com/2019/09/creating-tables-in-figma/#figma-table-mockup-download) #tutorial
 - [Variable Fonts Link Dump!](https://css-tricks.com/variable-fonts-link-dump/) #typography#resource
