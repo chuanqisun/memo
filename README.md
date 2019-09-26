@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [IP Geolocation API](https://github.com/apilayer/geolocationapi) including countries raw data #reference#api
 - [Creating Tables In Figma](https://www.smashingmagazine.com/2019/09/creating-tables-in-figma/#figma-table-mockup-download) #tutorial
 - [Variable Fonts Link Dump!](https://css-tricks.com/variable-fonts-link-dump/) #typography#resource
 - [Table with Expandable Rows](http://adrianroselli.com/2019/09/table-with-expando-rows.html) #pattern#table#a11y
