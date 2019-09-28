@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [useScript](https://usehooks.com/useScript/) react hook that injects 3rd party library js into document #technique
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks) plus a set of commonly used hooks #opinion#tutorial#beginner
 - [Generative Artistry](https://generativeartistry.com/) coding algorithmic art sample, podcast, demo #tutorial
 - [Moving Your JavaScript Development To Bash On Windows](https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/) setup linux on windows
