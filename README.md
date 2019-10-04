@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Semantic “breakout” button to make an entire element clickable](https://hankchizljaw.com/wrote/create-a-semantic-breakout-button-to-make-an-entire-element-clickable/) #technique#pattern#button
 - [Designer + Developer Workflow](https://www.youtube.com/watch?time_continue=6229&v=tnkrUt7PpnQ) Dan Mall and Brad Frost collaborating live #philosophy#handoff#communication
 - [useScript](https://usehooks.com/useScript/) react hook that injects 3rd party library js into document #technique
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks) plus a set of commonly used hooks #opinion#tutorial#beginner
