@@ -7,6 +7,8 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [uiprint](https://uiprint.co/all-printable) low fi device mock and draft template #resource
+- [Devices](https://facebook.design/devices) device mocks by facebook #resource
 - [Semantic “breakout” button to make an entire element clickable](https://hankchizljaw.com/wrote/create-a-semantic-breakout-button-to-make-an-entire-element-clickable/) #technique#pattern#button
 - [Designer + Developer Workflow](https://www.youtube.com/watch?time_continue=6229&v=tnkrUt7PpnQ) Dan Mall and Brad Frost collaborating live #philosophy#handoff#communication
 - [useScript](https://usehooks.com/useScript/) react hook that injects 3rd party library js into document #technique
