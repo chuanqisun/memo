@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [JAMstack Themes](https://jamstackthemes.dev/) for all static site generators and cms #resource
 - [A Modern CSS Reset](https://hankchizljaw.com/wrote/a-modern-css-reset/) #technique#reference
 - [Pixelbuddha](https://pixelbuddha.net/freebies) icon, illustration, logo #free#resource
 - [uiprint](https://uiprint.co/all-printable) low fi device mock and draft template #resource
