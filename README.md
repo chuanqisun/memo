@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Pixelbuddha](https://pixelbuddha.net/freebies) icon, illustration, logo #free#resource
 - [uiprint](https://uiprint.co/all-printable) low fi device mock and draft template #resource
 - [Devices](https://facebook.design/devices) device mocks by facebook #resource
 - [Semantic “breakout” button to make an entire element clickable](https://hankchizljaw.com/wrote/create-a-semantic-breakout-button-to-make-an-entire-element-clickable/) #technique#pattern#button
