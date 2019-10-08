@@ -7,7 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
-- [Grifter](https://hansonmethod.com/grifter) bold display font #free#typography
+- [Grifter](https://hansonmethod.com/grifter) bold display font #free#typography#resource
 - [Animate.css](https://daneden.github.io/animate.css/) css only animations #reference#animation
 - [unDraw](https://undraw.co/) high quality illustrations #resource#free
 - [JAMstack Themes](https://jamstackthemes.dev/) for all static site generators and cms #resource
