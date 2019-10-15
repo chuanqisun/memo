@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Breakout Buttons](https://css-tricks.com/breakout-buttons/) Next a link or button inside another clickable target #pattern#technique#card
 - [Mozilla Protocol](https://protocol.mozilla.org/) Design system used by Mozilla and Firefox #designsystem#reference#gooddesign
 - [Fauna](https://fauna.com/) A serverless cloud database for modern applications #saas#serverless
 - [Lunr](https://lunrjs.com/) Self hosted search solution #library
