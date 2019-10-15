@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Fauna](https://fauna.com/) A serverless cloud database for modern applications #saas#serverless
 - [Lunr](https://lunrjs.com/) Self hosted search solution #library
 - [Grifter](https://hansonmethod.com/grifter) bold display font #free#typography#resource
 - [Animate.css](https://daneden.github.io/animate.css/) css only animations #reference#animation
