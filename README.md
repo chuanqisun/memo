@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Oracle Database 12.2. Dev horror.](https://news.ycombinator.com/item?id=18442941) Working in legacy code base #opinion
 - [Moveable](https://github.com/daybrush/moveable) Make anything moveable, draggable, resizable, scalable, rotatable, warpable, pinchable, groupable, snappable #library
 - [This, Bind, Call, and Apply in JavaScript](https://www.digitalocean.com/community/conceptual_articles/understanding-this-bind-call-and-apply-in-javascript) explained in detail #beginner#reference
 - [Breakout Buttons](https://css-tricks.com/breakout-buttons/) Next a link or button inside another clickable target #pattern#technique#card
