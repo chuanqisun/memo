@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Box alignment and overflow](https://www.chenhuijing.com/blog/box-alignment-and-overflow/) Justify content to one end of the flex box while maintaining overflow scroll bar #technique
 - [Making Tables Responsive With Minimal CSS](https://uglyduck.ca/responsive-tables/) using native `table` element #technique#responsive#a11y#pattern#table
 - [Open Doodles](https://www.opendoodles.com/) Free sketchy illustrations #resource#free
 - [The Freelance Life by Sidesupply](https://sidesupply.com/guides/the-freelance-life) Comprehensive guidance on pricing, crm, and time management #freelance#beginner#reference
