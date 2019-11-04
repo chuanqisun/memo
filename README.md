@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [The “Developer Experience” Bait-and-Switch](https://infrequently.org/2018/09/the-developer-experience-bait-and-switch/) Dev experience is not an excuse for js bloat #opinion#performance
 - [Line Awesome](https://icons8.com/line-awesome) font awesome alternative flat line art icons #resource#icon
 - [Accessible Drop Caps](https://adrianroselli.com/2019/10/accessible-drop-caps.html) #typography#technique#a11y
 - [plexis-js/plexis](https://github.com/plexis-js/plexis) powerful, community-driven string manipulation library. #library#text#pattern
