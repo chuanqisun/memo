@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Accessible Drop Caps](https://adrianroselli.com/2019/10/accessible-drop-caps.html) #typography#technique#a11y
 - [plexis-js/plexis](https://github.com/plexis-js/plexis) powerful, community-driven string manipulation library. #library#text#pattern
 - [typical](https://github.com/camwiegert/typical) Animated typing in 400 bytes of JavaScript #library
 - [Box alignment and overflow](https://www.chenhuijing.com/blog/box-alignment-and-overflow/) Justify content to one end of the flex box while maintaining overflow scroll bar #technique
