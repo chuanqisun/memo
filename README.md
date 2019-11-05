@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [A Business Case for Dropping Internet Explorer](https://css-tricks.com/a-business-case-for-dropping-internet-explorer/) reasons for stop supporting IE11 #opinion
 - [Bidirectional horizontal rules in CSS](https://dev.to/hus_hmd/bidirectional-horizontal-rules-in-css-56f4) inline-start and inline-end for rtl and ltr languages #technique#i18n
 - [docsify](https://docsify.js.org/#/) Documentation site generator for markdown #library
 - [Free for developers](https://free-for.dev/#/) collection of free resources and tools for web dev #free#resource
