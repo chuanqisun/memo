@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Free for developers](https://free-for.dev/#/) collection of free resources and tools for web dev #free#resource
 - [Glaze](https://www.glazestock.com/) royalty free illustrations #resource#illustration
 - [Duospace](https://ia.net/topics/in-search-of-the-perfect-writing-font) writing font based on IBM plex mono #typography#free
 - [Better Markdown in Visual Studio Code](https://solomon.io/better-markdown-visual-studio-code/) #tool#reference#typography
