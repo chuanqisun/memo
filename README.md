@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Glaze](https://www.glazestock.com/) royalty free illustrations #resource#illustration
 - [Duospace](https://ia.net/topics/in-search-of-the-perfect-writing-font) writing font based on IBM plex mono #typography#free
 - [Better Markdown in Visual Studio Code](https://solomon.io/better-markdown-visual-studio-code/) #tool#reference#typography
 - [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/#exa) POSIX command line tools in rust #reference
