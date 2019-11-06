@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) feature, dev, release, and master branches in version management #technique#methodology
 - [Fractal](https://fractal.build/) Pattern lab and style guide for web components #library#tool
 - [A Business Case for Dropping Internet Explorer](https://css-tricks.com/a-business-case-for-dropping-internet-explorer/) reasons for stop supporting IE11 #opinion
 - [Bidirectional horizontal rules in CSS](https://dev.to/hus_hmd/bidirectional-horizontal-rules-in-css-56f4) inline-start and inline-end for rtl and ltr languages #technique#i18n
