@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Free templates for freelancers](https://usefyi.com/templates/freelancer-templates/) legal, administrative, business, financial #resource
 - [Guide to Computing](https://www.docubyte.com/works/guide-to-computing/) Vintage computer art project #gooddesign
 - [airbnb/Lona](https://github.com/airbnb/Lona) A tool to generate design system and export to multiple platforms #tool
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) feature, dev, release, and master branches in version management #technique#methodology
