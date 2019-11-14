@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Show Search Button when Search Field is Non-Empty](https://css-tricks.com/show-search-button-when-search-field-is-non-empty/) with `placeholder-show` selector #technique
 - [Draft.js](https://github.com/facebook/draft-js) Open source rich text editor for React by Facebook #library
 - [Free templates for freelancers](https://usefyi.com/templates/freelancer-templates/) legal, administrative, business, financial #resource
 - [Guide to Computing](https://www.docubyte.com/works/guide-to-computing/) Vintage computer art project #gooddesign
