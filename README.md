@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [The Aesthetic-Accessibility Paradox](https://uxmovement.com/thinking/the-aesthetic-accessibility-paradox/) Find the balance point #a11y#opinion
 - [Mailinator](https://www.mailinator.com/) Receive email at a disposable address #tool
 - [Send free anonymous email online](https://sendmail.altmails.com/) #tool
 - [The power of progressive enhancement](https://hankchizljaw.com/wrote/the-power-of-progressive-enhancement/) don't work backwards from the best browser #philosophy#performance
