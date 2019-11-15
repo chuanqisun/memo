@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [The power of progressive enhancement](https://hankchizljaw.com/wrote/the-power-of-progressive-enhancement/) don't work backwards from the best browser #philosophy#performance
 - [Beedle](https://github.com/hankchizljaw/beedle) Super light weight state management for vanilla js #library
 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/) poor usability and accessibility #a11y#pattern#button
 - [Show Search Button when Search Field is Non-Empty](https://css-tricks.com/show-search-button-when-search-field-is-non-empty/) with `placeholder-show` selector #technique
