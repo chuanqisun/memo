@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Lite YouTube Embed](https://github.com/paulirish/lite-youtube-embed) A progressive enhanced YouTube Embed element #progressive#library
 - [Fresh Folk](https://fresh-folk.com/) illustration of people and object #free#resource
 - [Open source illustrations kit](https://illlustrations.co/) stock illustrations #free#resource
 - [SWR](https://swr.now.sh/) React Hooks for Remote Data Fetching using optimistic ux #library
