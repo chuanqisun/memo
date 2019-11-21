@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Open source illustrations kit](https://illlustrations.co/) stock illustrations #free#resource
 - [SWR](https://swr.now.sh/) React Hooks for Remote Data Fetching using optimistic ux #library
 - [Metronomes in JavaScript](https://meowni.ca/posts/metronomes/) setInterval stability #technique
 - [The Aesthetic-Accessibility Paradox](https://uxmovement.com/thinking/the-aesthetic-accessibility-paradox/) Find the balance point #a11y#opinion
