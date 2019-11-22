@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Multiline truncated text with "show more" button](https://paulbakaus.com/tutorials/css/multiline-truncated-text-with-show-more-button-with-just-css/) Using resize observer and line clamp #technique#text#pattern
 - [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/) Site search form with `role="search"` #technique
 - [Lite YouTube Embed](https://github.com/paulirish/lite-youtube-embed) A progressive enhanced YouTube Embed element #progressive#library
 - [Fresh Folk](https://fresh-folk.com/) illustration of people and object #free#resource
