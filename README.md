@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Simplifying code with Maps](https://claritydev.net/blog/simplifying-code-with-maps-in-javascript) replace switch...case with map data structure #technique
 - [Hexabeat: A music sequencer using commits](https://github.com/maxwellito/hexabeat) great use of Space Mono font #gooddesign#typography#reference
 - [Avoiding jagged edges on gradients.](https://medium.com/pixel-and-ink/avoiding-jagged-edges-on-gradients-f485cc7401f5) use subpixel linear gradient to smooth for antialias #technique
 - [A Pixel Is Not A Little Square](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) The underlying physics and optics for pixel display #reference
