@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Flowy](https://github.com/alyssaxuu/flowy) The minimal javascript library to create flowcharts #library
 - [Faster apps with JSON.parse](https://www.youtube.com/watch?v=ff4fgQxPaO0) JSON.parse is faster than object literal #performance#technique
 - [Design APIs: The Evolution of Design Systems](https://matthewstrom.com/writing/design-apis/) early experiments and predictions #philosophy#designsystem
 - [Simplifying code with Maps](https://claritydev.net/blog/simplifying-code-with-maps-in-javascript) replace switch...case with map data structure #technique
