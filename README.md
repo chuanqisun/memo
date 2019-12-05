@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Advent of Code](https://adventofcode.com/) Vintage text interface design TUI #gooddesign
 - [CSS Layout](https://csslayout.io/patterns) Pattern samples made in CSS #pattern#reference
 - [Diagram.Codes](https://www.diagram.codes/) Generate svg diagram with plaintext language. Sequence, Flow, Graph, Tree, Timeline #tool
 - [AppLibsList](https://applibslist.xyz/) Collection of Libraries, Tools and Components for React #library#resource
