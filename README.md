@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Browser Default Styles](https://browserdefaultstyles.com/) cross browser comparison of default styles on built-in elements #reference
 - [Shadow generator](https://brumm.af/shadows) multi-layer natural smooth shadow #tool
 - [Advent of Code](https://adventofcode.com/) Vintage text interface design TUI #gooddesign
 - [CSS Layout](https://csslayout.io/patterns) Pattern samples made in CSS #pattern#reference
