@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Use traditional boxed text input with rounded border](https://uxmovement.com/forms/why-you-shouldnt-use-solid-or-underlined-text-fields/) instead of solid or underlined #pattern#input
 - [Simplified Fluid Typography](https://css-tricks.com/simplified-fluid-typography/) min, max, and increase rate #responsive#typography
 - [Browser Default Styles](https://browserdefaultstyles.com/) cross browser comparison of default styles on built-in elements #reference
 - [Shadow generator](https://brumm.af/shadows) multi-layer natural smooth shadow #tool
