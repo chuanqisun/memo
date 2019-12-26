@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Happy Hues](https://www.happyhues.co/) Curated colors in context #tool#color
 - [woobro](https://woobro.design/) 3D stock illustration #free#resource
 - [The Benefits of Orthogonal React Components](https://dmitripavlutin.com/orthogonal-react-components/) separation of concerns #methodology
 - [BEEPLE](https://beeple.tumblr.com/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-63) politically charged dystopian art #art#inspiration
