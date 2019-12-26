@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [A Blind System Administrator’s Journey to Microsoft](https://www.24a11y.com/2019/a-blind-system-administrators-journey-to-microsoft/) Microsoft C + AI A11y expert Ryan's story #a11y
 - [Happy Hues](https://www.happyhues.co/) Curated colors in context #tool#color
 - [woobro](https://woobro.design/) 3D stock illustration #free#resource
 - [The Benefits of Orthogonal React Components](https://dmitripavlutin.com/orthogonal-react-components/) separation of concerns #methodology
