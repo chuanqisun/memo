@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Aria Tablist](https://mynamesleon.github.io/aria-tablist/) accessible WCAG compliant tabs with vanilla javascript #pattern#tab#a11y
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) Immediate Mode Text-based User Interface
 - [NestJS](https://nestjs.com/) A progressive Node.js framework with TypeScript #library#framework
 - [avajs/ava](https://github.com/avajs/ava) test runner for node.js #library#test
