@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Calcolor](https://calcolor.co/) Calculate colors. Share palettes. Mix and blend. Tint levels. #tool#color
 - [Programming quotes](https://skolakoda.org/programming-quotes/#/) wisdom from computer scientists and programmers #resource#inspiration
 - [Smooth Scrolling Sticky ScrollSpy Navigation](https://www.bram.us/2020/01/10/smooth-scrolling-sticky-scrollspy-navigation/) vanilla javascript side navigation #pattern#scroll#nav
 - [Aria Tablist](https://mynamesleon.github.io/aria-tablist/) accessible WCAG compliant tabs with vanilla javascript #pattern#tab#a11y
