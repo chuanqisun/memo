@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Smooth Scrolling Sticky ScrollSpy Navigation](https://www.bram.us/2020/01/10/smooth-scrolling-sticky-scrollspy-navigation/) vanilla javascript side navigation #pattern#scroll#nav
 - [Aria Tablist](https://mynamesleon.github.io/aria-tablist/) accessible WCAG compliant tabs with vanilla javascript #pattern#tab#a11y
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) Immediate Mode Text-based User Interface
 - [NestJS](https://nestjs.com/) A progressive Node.js framework with TypeScript #library#framework
