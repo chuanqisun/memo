@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [EscherSketch](https://eschersket.ch/) Symmetric pattern drawing for background and hero #tool
 - [Calcolor](https://calcolor.co/) Calculate colors. Share palettes. Mix and blend. Tint levels. #tool#color
 - [Programming quotes](https://skolakoda.org/programming-quotes/#/) wisdom from computer scientists and programmers #resource#inspiration
 - [Smooth Scrolling Sticky ScrollSpy Navigation](https://www.bram.us/2020/01/10/smooth-scrolling-sticky-scrollspy-navigation/) vanilla javascript side navigation #pattern#scroll#nav
