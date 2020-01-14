@@ -39,13 +39,13 @@
 - [Fresh Folk](https://fresh-folk.com/) illustration of people and object #free#resource
 - [Open source illustrations kit](https://illlustrations.co/) stock illustrations #free#resource
 - [SWR](https://swr.now.sh/) React Hooks for Remote Data Fetching using optimistic ux #library
-- [Metronomes in JavaScript](https://meowni.ca/posts/metronomes/) setInterval stability #technique
+- [Metronomes in JavaScript](https://meowni.ca/posts/metronomes/) setInterval setTimeout timing stability #technique
 - [The Aesthetic-Accessibility Paradox](https://uxmovement.com/thinking/the-aesthetic-accessibility-paradox/) Find the balance point #a11y#opinion
 - [Mailinator](https://www.mailinator.com/) Receive email at a disposable address #tool
 - [Send free anonymous email online](https://sendmail.altmails.com/) #tool
 - [The power of progressive enhancement](https://hankchizljaw.com/wrote/the-power-of-progressive-enhancement/) don't work backwards from the best browser #philosophy#performance
 - [Beedle](https://github.com/hankchizljaw/beedle) Super light weight state management for vanilla js #library
-- [Disabl[Metronomes in JavaScript](https://meowni.ca/posts/metronomes/) setInterval stability #techniqueed buttons suck](https://axesslab.com/disabled-buttons-suck/) poor usability and accessibility #a11y#pattern#button
+- [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/) poor usability and accessibility #a11y#pattern#button
 - [Show Search Button when Search Field is Non-Empty](https://css-tricks.com/show-search-button-when-search-field-is-non-empty/) with `placeholder-show` selector #technique
 - [Draft.js](https://github.com/facebook/draft-js) Open source rich text editor for React by Facebook #library
 - [Free templates for freelancers](https://usefyi.com/templates/freelancer-templates/) legal, administrative, business, financial #resource
