@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Multi-Thumb Sliders: Particular Two-Thumb Case](https://css-tricks.com/multi-thumb-sliders-particular-two-thumb-case/) #pattern#slider
 - [EscherSketch](https://eschersket.ch/) Symmetric pattern drawing for background and hero #tool
 - [Calcolor](https://calcolor.co/) Calculate colors. Share palettes. Mix and blend. Tint levels. #tool#color
 - [Programming quotes](https://skolakoda.org/programming-quotes/#/) wisdom from computer scientists and programmers #resource#inspiration
