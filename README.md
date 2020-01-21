@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [terkelg/exifer](https://github.com/terkelg/exifer) A lightweight Exif meta-data decipher #library#image
 - [30 seconds of code](https://www.30secondsofcode.org/) Code snippets for all development needs #reference
 - [Carbon](https://carbon.now.sh/) Create and share beautiful images of source code #tool
 - [The Apple Archive](https://www.applearchive.org/) Historical videos and interviews of Apple #resource#gooddesign
