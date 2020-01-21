@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Design System Checklist](https://designsystemchecklist.com/) Open-source checklist for planning, building, and growing design system #reference
 - [Generative Placeholders](https://generative-placeholders.glitch.me/) parametric algorithmic art for placeholder #saas#tool
 - [Multi-Thumb Sliders: Particular Two-Thumb Case](https://css-tricks.com/multi-thumb-sliders-particular-two-thumb-case/) #pattern#slider
 - [EscherSketch](https://eschersket.ch/) Symmetric pattern drawing for background and hero #tool
