@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [Streams for reactive programming](https://dassur.ma/things/streams-for-reactive-programming/) A small library built with browser native reactive utilities. [Source](https://github.com/surma/observables-with-streams) #library
 - [Design System Checklist](https://designsystemchecklist.com/) Open-source checklist for planning, building, and growing design system #reference
 - [Generative Placeholders](https://generative-placeholders.glitch.me/) parametric algorithmic art for placeholder #saas#tool
 - [Multi-Thumb Sliders: Particular Two-Thumb Case](https://css-tricks.com/multi-thumb-sliders-particular-two-thumb-case/) #pattern#slider
