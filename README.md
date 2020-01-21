@@ -7,6 +7,7 @@
 #autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
 
 # Wiki
+- [30 seconds of code](https://www.30secondsofcode.org/) Code snippets for all development needs #reference
 - [Carbon](https://carbon.now.sh/) Create and share beautiful images of source code #tool
 - [The Apple Archive](https://www.applearchive.org/) Historical videos and interviews of Apple #resource#gooddesign
 - [Streams for reactive programming](https://dassur.ma/things/streams-for-reactive-programming/) A small library built with browser native reactive utilities. [Source](https://github.com/surma/observables-with-streams) #library
