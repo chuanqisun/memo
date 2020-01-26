@@ -1,12 +1,3 @@
-# Taxonomy
-⚠️ use singular form in hashtags
-
-## Genre
-#demo  #library #introduction #inspiration #opinion #philosophy #reference #resource #saas #survey #technique #tool #tutorial #research
-## Patterns
-#autocomplete #breadcrumb #checkbox #dialog #file #form #popout #progress #radio #scroll #select #table #text #textbox #toggle #tooltip
-
-# Wiki
 - [CSS layouts without using media queries](https://polypane.app/blog/4-css-layouts-without-using-media-queries/) flex email name sign-up form #pattern#responsive#form#technique
 - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6) more realistic shadow and natural surface than material #technique#gooddesign#pattern#card
 - [CSS Contain Property](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/) Helping Browsers Optimize #performance#technique
@@ -133,7 +124,7 @@
 - [Luxon](https://moment.github.io/luxon/index.html) DateTime formatting built on browser native Itnl API #library#i18n
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) Custom element that uses prefers-color-scheme value as default #library
 - [X3D + X3Dom](https://blog.scottlogic.com/2019/08/27/declarative-3d-for-the-modern-web.html) Declarative 3D for the Web #library
-- [Leon Sans](https://github.com/cmiscm/leonsans) geometric sans-serif typeface rendered with code  #typography#tool
+- [Leon Sans](https://github.com/cmiscm/leonsans) geometric sans-serif typeface rendered with code #typography#tool
 - [Buildless web component app](https://css-tricks.com/going-buildless/) using import maps #technique#library
 - [Delaunay](https://codepen.io/DonKarlssonSan/full/VwZPJMO) Bowyer-Watson algorithm to perform the Delaynay triangulation #technique#algorithm
 - [svg stroke and fill animation](https://svgartista.net/) #tool#svg
@@ -146,7 +137,7 @@
 - [Marketing Examples](https://marketingexamples.com/?ref=producthunt) Real world marketing case studies #reference#resource
 - [Using requestAnimationFrame with React Hooks](https://css-tricks.com/using-requestanimationframe-with-react-hooks/) #technique
 - [Full Stack Open](https://fullstackopen.com/en) open course for modern web development #tutorial#beginner#gooddesign#free
-- [Roll Your Own Comment System for a Static Site](https://www.taniarascia.com/add-comments-to-static-site/)  #tutorial
+- [Roll Your Own Comment System for a Static Site](https://www.taniarascia.com/add-comments-to-static-site/) #tutorial
 - [SimpleID](https://www.simpleid.xyz) Authentication and storage as a service #free#saas#library
 - [Startup decks](https://startupdecks.co/) business strategy of success startups #resource
 - [line-clamp](https://css-tricks.com/almanac/properties/l/line-clamp/) ellipsis overflow for multiline text #technique
