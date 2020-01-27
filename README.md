@@ -1,3 +1,4 @@
+- [Today, the Trident Era Ends](https://schepp.dev/posts/today-the-trident-era-ends/) Microsoft IE was light years ahead in browser war #businessstrategy#browser
 - [How to copy to the clipboard using JS and the Clipboard API](https://catalin.red/copy-clipboard-js/) Copy on click #technique#pattern#input
 - [Userbase: Logins and persistence for static sites](https://userbase.com/) basic authentication and user management as a service #service#auth#jamstack#serverless
 - [CSS layouts without using media queries](https://polypane.app/blog/4-css-layouts-without-using-media-queries/) flex email name sign-up form #pattern#responsive#form#technique
