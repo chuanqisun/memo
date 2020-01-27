@@ -1,3 +1,4 @@
+- [Userbase: Logins and persistence for static sites](https://userbase.com/) basic authentication and user management as a service #service#auth#jamstack#serverless
 - [CSS layouts without using media queries](https://polypane.app/blog/4-css-layouts-without-using-media-queries/) flex email name sign-up form #pattern#responsive#form#technique
 - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6) more realistic shadow and natural surface than material #technique#gooddesign#pattern#card
 - [CSS Contain Property](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/) Helping Browsers Optimize #performance#technique
