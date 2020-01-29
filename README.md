@@ -1,3 +1,4 @@
+- [CSS-Only Carousel](https://css-tricks.com/css-only-carousel/) touch friendly, with scroll snap, and anchor links #technique#scroll#pattern#carousel
 - [Ableism Language](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html) mindful use of language depending on audience #a11y#reference
 - [Today, the Trident Era Ends](https://schepp.dev/posts/today-the-trident-era-ends/) Microsoft IE was light years ahead in browser war #businessstrategy#browser
 - [How to copy to the clipboard using JS and the Clipboard API](https://catalin.red/copy-clipboard-js/) Copy on click #technique#pattern#input
