@@ -1,3 +1,4 @@
+- [Parsoid](https://www.mediawiki.org/wiki/Parsoid) markdown editor used by WikiMedia #wysiwyg#text#library
 - [CSS-Only Carousel](https://css-tricks.com/css-only-carousel/) touch friendly, with scroll snap, and anchor links #technique#scroll#pattern#carousel
 - [Ableism Language](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html) mindful use of language depending on audience #a11y#reference
 - [Today, the Trident Era Ends](https://schepp.dev/posts/today-the-trident-era-ends/) Microsoft IE was light years ahead in browser war #businessstrategy#browser
