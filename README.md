@@ -1,3 +1,4 @@
+- [Web development with React: from zero to hero!](https://coders.guide/) roadmap, milestones, and resources for new dev #resource#beginner#react
 - [Lingua Franca](https://linguafranca.standardnotation.ai/handbook/agency) Design Language and framework for AI with Handbook, principles, and elements #designsystem#ethicaldesign#ai#reference
 - [Animating CSS Width and Height Without the Squish Effect](https://pqina.nl/blog/animating-width-and-height-without-the-squish-effect/) 9-slice scaling for width and height scale and transform #animation#performance#technique
 - [Parsoid](https://www.mediawiki.org/wiki/Parsoid) markdown editor used by WikiMedia #wysiwyg#text#library
