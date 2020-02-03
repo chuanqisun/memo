@@ -1,3 +1,4 @@
+- [Sticky Table of Contents with Scrolling Active States](https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/) using IntersectionObserver #pattern#scroll#technique
 - []()
 - [Web development with React: from zero to hero!](https://coders.guide/) roadmap, milestones, and resources for new dev #resource#beginner#react
 - [Lingua Franca](https://linguafranca.standardnotation.ai/handbook/agency) Design Language and framework for AI with Handbook, principles, and elements #designsystem#ethicaldesign#ai#reference
