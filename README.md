@@ -1,4 +1,4 @@
-- [Lingua Franca](https://linguafranca.standardnotation.ai/handbook/agency) Design Language for AI with Handbook, principles, and elements #designsystem#ethicaldesign#ai#reference
+- [Lingua Franca](https://linguafranca.standardnotation.ai/handbook/agency) Design Language and framework for AI with Handbook, principles, and elements #designsystem#ethicaldesign#ai#reference
 - [Animating CSS Width and Height Without the Squish Effect](https://pqina.nl/blog/animating-width-and-height-without-the-squish-effect/) 9-slice scaling for width and height scale and transform #animation#performance#technique
 - [Parsoid](https://www.mediawiki.org/wiki/Parsoid) markdown editor used by WikiMedia #wysiwyg#text#library
 - [CSS-Only Carousel](https://css-tricks.com/css-only-carousel/) touch friendly, with scroll snap, and anchor links #technique#scroll#pattern#carousel
