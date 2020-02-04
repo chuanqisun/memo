@@ -1,3 +1,4 @@
+- [Browser Functions: A new serverless platform using Web Browser execution engines](https://medium.com/@richardyoung00/browser-functions-a-new-serverless-platform-using-web-browser-execution-engines-31d2293e650b) Using browser web api as server runtime #technique#hack#gooddesign
 - [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/) avoid white box on white background #design#pattern#textbox
 - [Why Infield Top-Aligned Labels Beat Floating Labels](https://uxmovement.com/forms/infield-top-aligned-labels-floating-labels/) Use simple static infield labels #pattern#textbox#a11y#design
 - [A Whole Bunch of Places to Consider Contrast in a Single Paragraph](https://css-tricks.com/a-whole-bunch-of-places-to-consider-contrast-in-a-single-paragraph/) how to style text for enough contrast during selection, link, background, underline states #a11y#pattern#text
