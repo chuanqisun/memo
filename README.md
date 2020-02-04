@@ -2,7 +2,6 @@
 - [How To Empower Design Teams By Measuring Value](https://www.smashingmagazine.com/2020/01/empower-design-teams-by-measuring-value/#how-diet-works) correlates strategy with outcome #process#strategy#communication#datadriven
 - [Standards for Writing Accessibly](https://alistapart.com/article/standards-for-writing-accessibly/) chronological vs spatial, action vs behavior #a11y#writing#reference
 - [Sticky Table of Contents with Scrolling Active States](https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/) using IntersectionObserver #pattern#scroll#technique
-- []()
 - [Web development with React: from zero to hero!](https://coders.guide/) roadmap, milestones, and resources for new dev #resource#beginner#react
 - [Lingua Franca](https://linguafranca.standardnotation.ai/handbook/agency) Design Language and framework for AI with Handbook, principles, and elements #designsystem#ethicaldesign#ai#reference
 - [Animating CSS Width and Height Without the Squish Effect](https://pqina.nl/blog/animating-width-and-height-without-the-squish-effect/) 9-slice scaling for width and height scale and transform #animation#performance#technique
