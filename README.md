@@ -1,3 +1,4 @@
+- [How To Empower Design Teams By Measuring Value](https://www.smashingmagazine.com/2020/01/empower-design-teams-by-measuring-value/#how-diet-works) correlates strategy with outcome #process#strategy#communication#datadriven
 - [Standards for Writing Accessibly](https://alistapart.com/article/standards-for-writing-accessibly/) chronological vs spatial, action vs behavior #a11y#writing#reference
 - [Sticky Table of Contents with Scrolling Active States](https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/) using IntersectionObserver #pattern#scroll#technique
 - []()
