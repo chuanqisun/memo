@@ -1,3 +1,4 @@
+- [A Whole Bunch of Places to Consider Contrast in a Single Paragraph](https://css-tricks.com/a-whole-bunch-of-places-to-consider-contrast-in-a-single-paragraph/) how to style text for enough contrast during selection, link, background, underline states #a11y#pattern#text
 - [How To Empower Design Teams By Measuring Value](https://www.smashingmagazine.com/2020/01/empower-design-teams-by-measuring-value/#how-diet-works) correlates strategy with outcome #process#strategy#communication#datadriven
 - [Standards for Writing Accessibly](https://alistapart.com/article/standards-for-writing-accessibly/) chronological vs spatial, action vs behavior #a11y#writing#reference
 - [Sticky Table of Contents with Scrolling Active States](https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/) using IntersectionObserver #pattern#scroll#technique
