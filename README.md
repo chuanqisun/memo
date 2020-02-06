@@ -1,3 +1,4 @@
+- [Dynamicland](https://dynamicland.org/#project) Computer as an ubiquitous medium, made of components with agency #iot#gooddesign
 - [zipdecode](https://benfry.com/zipdecode/) zip code visualization search with immediate feedback #gooddesign#demo
 - [Browser Functions: A new serverless platform using Web Browser execution engines](https://medium.com/@richardyoung00/browser-functions-a-new-serverless-platform-using-web-browser-execution-engines-31d2293e650b) Using browser web api as server runtime #technique#hack#gooddesign
 - [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/) avoid white box on white background #design#pattern#textbox
