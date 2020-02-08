@@ -1,3 +1,4 @@
+- [design systems, agile, and industrialization](https://bradfrost.com/blog/post/design-systems-agile-and-industrialization/) criticism of agile and organization culture for distorting the value of design systems  #philosophy#designsystem
 - [The design systems we swim in.](https://ethanmarcotte.com/wrote/the-design-systems-we-swim-in/) Concern of design system not empowering playful situational decision making #philosophy#designsystem
 - [Architects, gardeners, and design systems](https://adactio.com/journal/16369) The dehumanising risk of design systems #philosophy#designsystem
 - [Redesign: Gardening vs. Architecture](https://frankchimero.com/blog/2020/gardening-vs-architecture/) descriptive vs prescriptive work #philosophy
