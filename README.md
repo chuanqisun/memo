@@ -1,3 +1,4 @@
+- [krasimir/octomments](https://github.com/krasimir/octomments#is-octomments-creating-the-github-issues-for-me) A small library that offers GitHub issues as comments for your site/blog #hack#comment#library
 - [Building an accessible autocomplete control](https://adamsilver.io/articles/building-an-accessible-autocomplete-control/) #a11y#pattern#autocomplete#input#form#technique#demo
 - [Magic Ink: Information Software and the Graphical Interface](http://worrydream.com/MagicInk/) Interaction should be replaced by context sensitivity  #philosophy#gooddesign#tool
 - [Dynamicland](https://dynamicland.org/#project) Computer as an ubiquitous medium, made of components with agency #iot#gooddesign
