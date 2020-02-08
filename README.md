@@ -1,3 +1,4 @@
+- [The design systems we swim in.](https://ethanmarcotte.com/wrote/the-design-systems-we-swim-in/) Concern of design system not empowering playful situational decision making #philosophy#designsystem
 - [Architects, gardeners, and design systems](https://adactio.com/journal/16369) The dehumanising risk of design systems #philosophy#designsystem
 - [Redesign: Gardening vs. Architecture](https://frankchimero.com/blog/2020/gardening-vs-architecture/) descriptive vs prescriptive work #philosophy
 - [Light and dark themed SVG favicon using the CSS prefers-color-scheme media feature](https://catalin.red/svg-favicon-light-dark-theme/) adapt to dark mode  #technique#favicon#icon
