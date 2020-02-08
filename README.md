@@ -1,3 +1,4 @@
+- [Architects, gardeners, and design systems](https://adactio.com/journal/16369) The dehumanising risk of design systems #philosophy#designsystem
 - [Redesign: Gardening vs. Architecture](https://frankchimero.com/blog/2020/gardening-vs-architecture/) descriptive vs prescriptive work #philosophy
 - [Light and dark themed SVG favicon using the CSS prefers-color-scheme media feature](https://catalin.red/svg-favicon-light-dark-theme/) adapt to dark mode  #technique#favicon#icon
 - [krasimir/octomments](https://github.com/krasimir/octomments#is-octomments-creating-the-github-issues-for-me) A small library that offers GitHub issues as comments for your site/blog #hack#comment#library
