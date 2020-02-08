@@ -1,3 +1,4 @@
+- [Building an accessible autocomplete control](https://adamsilver.io/articles/building-an-accessible-autocomplete-control/) #a11y#pattern#autocomplete#input#form#technique#demo
 - [Magic Ink: Information Software and the Graphical Interface](http://worrydream.com/MagicInk/) Interaction should be replaced by context sensitivity  #philosophy#gooddesign#tool
 - [Dynamicland](https://dynamicland.org/#project) Computer as an ubiquitous medium, made of components with agency #iot#gooddesign
 - [zipdecode](https://benfry.com/zipdecode/) zip code visualization search with immediate feedback #gooddesign#demo
