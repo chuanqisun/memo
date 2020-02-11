@@ -1,3 +1,4 @@
+- [meeDamian/country-emoji](https://github.com/meeDamian/country-emoji) Converts between country names, ISO 3166-1 codes and flag emojis. #library#text
 - [hapijs/joi](https://github.com/hapijs/joi) The most powerful data validation library for JS using without json schema #library#validation#form
 - [Kikobeats/unavatar](https://github.com/Kikobeats/unavatar) Get unified user avatar from multiple sources #service#avatar#free#api
 - [nickdeny/darkmode-js](https://github.com/nickdeny/darkmode-js) auto detect user's time and switch theme #darkmode#library
