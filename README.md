@@ -1,5 +1,4 @@
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components with hooks #library#form#a11y#input#autocomplete#select
-- [downshift-js/downshift](https://github.com/downshift-js/downshift) Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components with hooks #library#form#a11y
 - [Baretest](https://volument.com/baretest#api-reference) An extremely minimalistic alternative to Jest, fast and small #library#test
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) #technique#timing#react#hook
 - [meeDamian/country-emoji](https://github.com/meeDamian/country-emoji) Converts between country names, ISO 3166-1 codes and flag emojis. #library#text
