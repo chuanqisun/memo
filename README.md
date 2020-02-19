@@ -1,3 +1,4 @@
+- [Framer Motion](https://www.framer.com/motion/) developer friendly animation library #animation#react#library#motion
 - [Neumorphism.io](https://neumorphism.io/#55b9f3) soft realistic 3d shadow generator #tool#design
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components with hooks #library#form#a11y#input#autocomplete#select
 - [Baretest](https://volument.com/baretest#api-reference) An extremely minimalistic alternative to Jest, fast and small #library#test
