@@ -1,3 +1,4 @@
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra)  visual editor and code generator for React using Chakra UI #wysiwyg#library#tool
 - [Begin](https://begin.com/) platform for web apps and apis all in one #serverless#platform#service
 - [Framer Motion](https://www.framer.com/motion/) developer friendly animation library #animation#react#library#motion
 - [Neumorphism.io](https://neumorphism.io/#55b9f3) soft realistic 3d shadow generator #tool#design
