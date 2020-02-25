@@ -1,3 +1,4 @@
+- [basekick](https://github.com/michaeltaranto/basekick/blob/master/README.md) An mixin for realigning your typographic elements with proper graphic design baseline #typography#library
 - [Drag 'n' drop content builder for web apps](https://paperbits.io/) Open source drag n drop interface #library#dragndrop#wysiwyg
 - [Styling The Good Ol' Button Element](https://ishadeed.com/article/styling-the-good-old-button/) comprehensive guide to button styling. Focus and hover ordering. #pattern#button#technique
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra)  visual editor and code generator for React using Chakra UI #wysiwyg#library#tool
