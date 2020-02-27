@@ -1,3 +1,4 @@
+- [Revealing Hero Effect](https://codyhouse.co/tutorials/revealing-hero-effect) Use negative bottom sticky position #technique#hero#pattern#stick
 - [Avengers Endgame Characters Rendered in Ukiyo-e Style by Illustrator Takumi](http://www.spoon-tamago.com/2019/04/24/avengers-endgame-ukiyoe/) Japanese traditional art rendering for comics heros #gooddesign#inspiration#art
 - [Open UI](https://open-ui.org/analysis/component-matrix) Open source documentation of components (API, parts, behavior) across design systems #designsystem#reference#pattern
 - [basekick](https://github.com/michaeltaranto/basekick/blob/master/README.md) An mixin for realigning your typographic elements with proper graphic design baseline #typography#library
