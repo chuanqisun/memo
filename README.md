@@ -1,3 +1,4 @@
+- [Pure CSS Responsive Browser Template](https://codepen.io/AdamMarsden/full/GRRVeBJ) stick side column #responsive#technique#layout#demo
 - [Heroicons](https://github.com/refactoringui/heroicons) SVG icon for UI development #icon#resource#free
 - [Revealing Hero Effect](https://codyhouse.co/tutorials/revealing-hero-effect) Use negative bottom sticky position #technique#hero#pattern#stick
 - [Avengers Endgame Characters Rendered in Ukiyo-e Style by Illustrator Takumi](http://www.spoon-tamago.com/2019/04/24/avengers-endgame-ukiyoe/) Japanese traditional art rendering for comics heros #gooddesign#inspiration#art
