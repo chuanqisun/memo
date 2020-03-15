@@ -1,3 +1,4 @@
+- [midori](https://aeroheim.github.io/midori/) animated background with special cinematic effects #library#background#image#video
 - [vecta.io](https://vecta.io/) Powerful, online SVG editor for teams, come with symbols #tool#svg
 - [Stop Using ‘Drop-down’](https://adrianroselli.com/2020/03/stop-using-drop-down.html) select, datalist, combobox, autocomplete #pattern#a11y
 - [Discount for student dev](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md) discount, credit, and trial for services and products #beginner#resource
