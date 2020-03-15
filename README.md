@@ -1,4 +1,4 @@
-- [Everything You Know About Web Design Just Changed](https://noti.st/jensimmons/h0XWcf) Intrinsic layout inception talk #responsive#beginner#layout
+- [Everything You Know About Web Design Just Changed](https://noti.st/jensimmons/h0XWcf) Intrinsic web design inception talk with history reviews #responsive#beginner#layout
 - [How to animate scrolling to anchor links with one line of CSS](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/) Smooth scroll to hash anchor tags with css #technique#scroll
 - [Conversation](https://twitter.com/argyleink/status/1223026734817087488) Check and use local font before download from remote #typography#technique#performance
 - [css-only fluid modular type scales](https://utopia.fyi/blog/css-modular-scales) responsive type ramp without media query #typography#responsive#technique
