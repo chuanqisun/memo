@@ -1,3 +1,4 @@
+- [How to animate scrolling to anchor links with one line of CSS](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/) Smooth scroll to hash anchor tags with css #technique#scroll
 - [Conversation](https://twitter.com/argyleink/status/1223026734817087488) Check and use local font before download from remote #typography#technique#performance
 - [css-only fluid modular type scales](https://utopia.fyi/blog/css-modular-scales) responsive type ramp without media query #typography#responsive#technique
 - [midori](https://aeroheim.github.io/midori/) animated background with special cinematic effects #library#background#image#video
