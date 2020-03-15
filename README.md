@@ -1,3 +1,4 @@
+- [Conversation](https://twitter.com/argyleink/status/1223026734817087488) Check and use local font before download from remote #typography#technique#performance
 - [css-only fluid modular type scales](https://utopia.fyi/blog/css-modular-scales) responsive type ramp without media query #typography#responsive#technique
 - [midori](https://aeroheim.github.io/midori/) animated background with special cinematic effects #library#background#image#video
 - [vecta.io](https://vecta.io/) Powerful, online SVG editor for teams, come with symbols #tool#svg
