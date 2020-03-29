@@ -1,3 +1,4 @@
+- [Window.matchMedia()](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia) Detect screen size and dark mode using media query in JavaScript #api#documentation#technique#responsive
 - [Brain.js: Neural networks in JavaScript](https://brain.js.org/#/) User friendly neural network framework #beginner#library#machinelearning
 - [Advanced Design System Considerations - Alex Sexton | JSConf Hawaii 2020](https://www.youtube.com/watch?v=EDyiaDJJu-4) Prevent complexity leaking to end user with token, context, and theming by stripe #react#component#architecture#designsystem#technique
 - [Everything You Know About Web Design Just Changed](https://noti.st/jensimmons/h0XWcf) Intrinsic web design inception talk with history reviews #responsive#beginner#layout
