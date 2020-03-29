@@ -1,3 +1,4 @@
+- [Advanced Design System Considerations - Alex Sexton | JSConf Hawaii 2020](https://www.youtube.com/watch?v=EDyiaDJJu-4) Prevent complexity leaking to end user with token and context #react#component#architecture#designsystem#technique
 - [Everything You Know About Web Design Just Changed](https://noti.st/jensimmons/h0XWcf) Intrinsic web design inception talk with history reviews #responsive#beginner#layout
 - [How to animate scrolling to anchor links with one line of CSS](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/) Smooth scroll to hash anchor tags with css #technique#scroll
 - [Conversation](https://twitter.com/argyleink/status/1223026734817087488) Check and use local font before download from remote #typography#technique#performance
