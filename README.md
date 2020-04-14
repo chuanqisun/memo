@@ -1,3 +1,4 @@
+- [Technical writing courses ](https://developers.google.com/tech-writing/overview) by Google #resource#documentation#writing
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) Hooks for fetching, caching and updating asynchronous data in React #react#hook#library
 - [Getting Started | React Table Documentation](https://react-table.js.org/) Hooks for building lightweight, fast and extendable datagrids for React #renderless#library#table#pattern#react#hook
 - [Window.matchMedia()](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia) Detect screen size and dark mode using media query in JavaScript #api#documentation#technique#responsive
