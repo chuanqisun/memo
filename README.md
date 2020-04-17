@@ -1,3 +1,4 @@
+- [Animockup](https://animockup.com/) Animated mockup inside a device frame support custom video upload #tool#marketing
 - [ashthornton-gc/asscroll](https://github.com/ashthornton-gc/asscroll) Ash's Smooth Scroll #scroll#library
 - [Exciting Multi-line Highlights](https://codepen.io/MananTank/pen/qBdyZXR) Background repeat on inline multiline paragraph #technique#highlight#text
 - [Styling Scrollbars with CSS: The Modern Way to Style Scrollbars](https://alligator.io/css/css-scrollbars/) #technique#scroll
