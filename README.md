@@ -1,3 +1,4 @@
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) Zero-config CLI for TypeScript package development #tool#library
 - [RedwoodJS](https://redwoodjs.com/) Full-stack JAMStack framework similar to Rails #framework#jamstack#library
 - [How To Use The HTML Drag-And-Drop API In React](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/#top) #beginner#dragndrop#technique#file
 - [Technical writing courses ](https://developers.google.com/tech-writing/overview) by Google #resource#documentation#writing
