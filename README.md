@@ -1,3 +1,4 @@
+- [Plausible Analytics](https://plausible.io/) Light weight alternative to Google Analytics #analytics#service
 - [Heydon/watched-box](https://github.com/Heydon/watched-box) Container query implemented with ResizeObserver by Heydon Pickering #library#responsive
 - [A minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/) No class names, no CSS frameworks, just semantic HTML. For hackathon and one pager #library#gooddesign
 - [Screely](https://www.screely.com/editor) Generate Beautiful Mockups with browser window #tool#marketing
