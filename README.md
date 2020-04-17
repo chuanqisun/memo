@@ -1,3 +1,4 @@
+- [A minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/) No class names, no CSS frameworks, just semantic HTML. For hackathon and one pager #library#gooddesign
 - [Screely](https://www.screely.com/editor) Generate Beautiful Mockups with browser window #tool#marketing
 - [BEM Naming Cheat Sheet](https://9elements.com/bem-cheat-sheet/) with example blocks #reference#bem#naming
 - [LCH Colour picker](https://css.land/lch/) #tool#color
