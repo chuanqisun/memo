@@ -1,3 +1,4 @@
+- [Exciting Multi-line Highlights](https://codepen.io/MananTank/pen/qBdyZXR) Background repeat on inline multiline paragraph #technique#highlight#text
 - [Styling Scrollbars with CSS: The Modern Way to Style Scrollbars](https://alligator.io/css/css-scrollbars/) #technique#scroll
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects. 24px grid. 2px stroke #free#resource#icon
 - [Payforlayers](http://payforlayers.com/) Minimalist human figure drawing #illustration#free#resource
