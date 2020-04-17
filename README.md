@@ -1,3 +1,4 @@
+- [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/) use image for box-shadow to improve performence #shadow#performance#technique
 - [HTML DOM](https://htmldom.dev/) Common tasks of managing HTML DOM and building web app with vanilla JavaScript #reference#form#technique#tutorial
 - [Animockup](https://animockup.com/) Animated mockup inside a device frame support custom video upload #tool#marketing
 - [ashthornton-gc/asscroll](https://github.com/ashthornton-gc/asscroll) Ash's Smooth Scroll #scroll#library
