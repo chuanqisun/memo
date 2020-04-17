@@ -1,3 +1,4 @@
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects. 24px grid. 2px stroke #free#resource#icon
 - [Payforlayers](http://payforlayers.com/) Minimalist human figure drawing #illustration#free
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) Zero-config CLI for TypeScript package development #tool#library
 - [RedwoodJS](https://redwoodjs.com/) Full-stack JAMStack framework similar to Rails #framework#jamstack#library
