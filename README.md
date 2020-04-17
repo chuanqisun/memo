@@ -1,3 +1,4 @@
+- [HTML DOM](https://htmldom.dev/) Common tasks of managing HTML DOM and building web app with vanilla JavaScript #reference#form#technique#tutorial
 - [Animockup](https://animockup.com/) Animated mockup inside a device frame support custom video upload #tool#marketing
 - [ashthornton-gc/asscroll](https://github.com/ashthornton-gc/asscroll) Ash's Smooth Scroll #scroll#library
 - [Exciting Multi-line Highlights](https://codepen.io/MananTank/pen/qBdyZXR) Background repeat on inline multiline paragraph #technique#highlight#text
