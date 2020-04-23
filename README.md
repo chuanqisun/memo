@@ -1,3 +1,4 @@
+- [40 Free HTML landing page templates](https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp) home, hero, welcome design #inspiration#resource#marketing
 - [67 Free device icons](https://freebiesbug.com/illustrator-freebies/67-device-icons/) phone, screen, media #free#icon#resource
 - [pattern.css](https://bansal.io/pattern-css#zigzag) Hero pattern background, separator, font, and image container #library#resource
 - [98.css](https://jdan.github.io/98.css/) A design system for building faithful recreations of old UIs (windows 98) #designsystem#gooddesign#a11y
