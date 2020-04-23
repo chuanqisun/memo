@@ -1,3 +1,4 @@
+- [98.css](https://jdan.github.io/98.css/) A design system for building faithful recreations of old UIs (windows 98) #designsystem#gooddesign#a11y
 - [CSS for internationalisation](https://www.chenhuijing.com/blog/css-for-i18n/#%F0%9F%91%9F) text emphasis per character, writing direction and East Asian language considerations, and "lang" attribute #technique#i18n
 - [Spacing in CSS](https://ishadeed.com/article/spacing-in-css/) spacer, layout, card, article, flexbox, and grid #technique#beginner#reference
 - [Crank.js](https://crank.js.org/) reactive ui framework with vanilla javascript generator and promise #framework#gooddesign
