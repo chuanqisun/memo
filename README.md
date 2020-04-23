@@ -1,3 +1,4 @@
+- [CSS for internationalisation](https://www.chenhuijing.com/blog/css-for-i18n/#%F0%9F%91%9F) text emphasis per character, writing direction and East Asian language considerations, and "lang" attribute #technique#i18n
 - [Spacing in CSS](https://ishadeed.com/article/spacing-in-css/) spacer, layout, card, article, flexbox, and grid #technique#beginner#reference
 - [Crank.js](https://crank.js.org/) reactive ui framework with vanilla javascript generator and promise #framework#gooddesign
 - [Plausible Analytics](https://plausible.io/) Light weight alternative to Google Analytics #analytics#service
