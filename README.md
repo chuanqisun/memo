@@ -23,7 +23,7 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects. 24px grid. 2px stroke #free#resource#icon
 - [Payforlayers](http://payforlayers.com/) Minimalist human figure drawing #illustration#free#resource
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) Zero-config CLI for TypeScript package development #tool#library
-- [RedwoodJS](https://redwoodjs.com/) Full-stack JAMStack framework similar to Blitz.js #framework#jamstack#library#monolithic#fullstack
+- [RedwoodJS](https://redwoodjs.com/) Full-stack JAMStack framework similar to Blitz.js built on Prisma #framework#jamstack#library#monolithic#fullstack
 - [How To Use The HTML Drag-And-Drop API In React](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/#top) #beginner#dragndrop#technique#file
 - [Technical writing courses ](https://developers.google.com/tech-writing/overview) by Google #resource#documentation#writing
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) Hooks for fetching, caching and updating asynchronous data in React #react#hook#library
