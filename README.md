@@ -1,3 +1,4 @@
+- [Blitz.js](https://blitzjs.com/) Rails-like framework for monolithic, full-stack React apps — built on Next.js. Compete with Redwood.js #framework#monolithic#fullstack
 - [Prisma](https://www.prisma.io/) DB query builder that bridges GraphQL, node, Next.js server with SQL database #database#library
 - [themer](https://themer.dev/) well designed tool that generates themes for text editors, terminals #gooddesign#tool#theming#color
 - [40 Free HTML landing page templates](https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp) home, hero, welcome design #inspiration#resource#marketing
