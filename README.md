@@ -1,3 +1,4 @@
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) Full stack example apps clone of Medium showing for framework evaluation and comparison #framework#demo
 - [chjj/blessed](https://github.com/chjj/blessed#windows-compatibility) A high-level terminal interface library for node.js #gooddesign#tui#library
 - [gqless](https://gqless.dev/) A GraphQL client that auto generates queries based on reference in code #library#graphql#gooddesign#database
 - [Blitz.js](https://blitzjs.com/) Rails-like framework for monolithic, full-stack React apps — built on Next.js. Compete with Redwood.js #framework#monolithic#fullstack
