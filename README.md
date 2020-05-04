@@ -1,3 +1,4 @@
+- [Bookmarkleter](https://chriszarate.github.io/bookmarkleter/) Generate bookmarklet for Chrome #tool
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed) Deep dive into JavaScript language design #tutorial
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) Full stack example apps clone of Medium showing for framework evaluation and comparison #framework#demo
 - [chjj/blessed](https://github.com/chjj/blessed#windows-compatibility) A high-level terminal interface library for node.js #gooddesign#tui#library
