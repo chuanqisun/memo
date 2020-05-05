@@ -1,3 +1,4 @@
+- [microsoft/playwright](https://github.com/microsoft/playwright) Node library to automate Chromium, Firefox and WebKit with a single API. E2E testing. Same team that built Puppeteer acquired by Microsoft #test#automation#library
 - [Bookmarkleter](https://chriszarate.github.io/bookmarkleter/) Generate bookmarklet for Chrome #tool
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed) Deep dive into JavaScript language design #tutorial
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) Full stack example apps clone of Medium showing for framework evaluation and comparison #framework#demo
