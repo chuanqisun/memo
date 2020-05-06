@@ -1,3 +1,4 @@
+- [Container Queries With watched-box & resizeasaurus](https://css-tricks.com/playing-with-fake-container-queries-with-watched-box-resizeasaurus/) Web components for adding resize capability and element query #responsive#technique
 - [List Style Recipes](https://css-tricks.com/list-style-recipes/) styling ol, ul, li elements with custom bullets #list#technique
 - [Using CSS to Control Text Selection](https://codersblock.com/blog/using-css-to-control-text-selection/) click to select all, click again to custom select #technique#text
 - [alpinejs/alpine: ](https://github.com/alpinejs/alpine) A rugged, minimal framework for composing JavaScript behavior in your markup. #framework#library
