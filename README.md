@@ -1,3 +1,4 @@
+- [alpinejs/alpine: ](https://github.com/alpinejs/alpine) A rugged, minimal framework for composing JavaScript behavior in your markup. #framework#library
 - [Formik](https://jaredpalmer.com/formik/docs/overview) For React #form#validation#library
 - [microsoft/playwright](https://github.com/microsoft/playwright) Node library to automate Chromium, Firefox and WebKit with a single API. E2E testing. Same team that built Puppeteer acquired by Microsoft #test#automation#library
 - [Bookmarkleter](https://chriszarate.github.io/bookmarkleter/) Generate bookmarklet for Chrome #tool
