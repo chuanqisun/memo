@@ -1,3 +1,4 @@
+- [Open Peeps](https://blush.design/collections/open-peeps/builder/1J9RpJ41c) #illustration#resource
 - [A case study of complex table design](https://jlongster.com/case-study-complex-table-design) For financial data with sticky header and side column #table#demo
 - [Container Queries With watched-box & resizeasaurus](https://css-tricks.com/playing-with-fake-container-queries-with-watched-box-resizeasaurus/) Web components for adding resize capability and element query #responsive#technique
 - [List Style Recipes](https://css-tricks.com/list-style-recipes/) styling ol, ul, li elements with custom bullets #list#technique
