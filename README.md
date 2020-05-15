@@ -1,3 +1,4 @@
+- [Solving the N+1 Problem for GraphQL through Batching](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching) unpredictable performance caused by nested query  #graphql#database
 - [Progressively enhancing radio buttons with SVG whilst staying accessible](https://christianheilmann.com/2020/05/05/progressively-enhancing-radio-buttons-with-svg-whilst-staying-accessible/) #radio#form
 - [Open Peeps](https://blush.design/collections/open-peeps/builder/1J9RpJ41c) #illustration#resource
 - [A case study of complex table design](https://jlongster.com/case-study-complex-table-design) For financial data with sticky header and side column #table#demo
