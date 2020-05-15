@@ -1,3 +1,4 @@
+- [terminal.sexy](https://terminal.sexy/) Terminal Color Scheme Designer #tool#theming
 - [Solving the N+1 Problem for GraphQL through Batching](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching) unpredictable performance caused by nested query  #graphql#database
 - [Progressively enhancing radio buttons with SVG whilst staying accessible](https://christianheilmann.com/2020/05/05/progressively-enhancing-radio-buttons-with-svg-whilst-staying-accessible/) #radio#form
 - [Open Peeps](https://blush.design/collections/open-peeps/builder/1J9RpJ41c) #illustration#resource
