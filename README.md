@@ -1,3 +1,4 @@
+- [Pepsi logo redesign](https://www.goldennumber.net/wp-content/uploads/pepsi-arnell-021109.pdf?ck_subscriber_id=681173061) A great presentation of rationalizing art direction choices #gooddesign#logo
 - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) How to visualize data with the right tools #visualization#resource
 - [terminal.sexy](https://terminal.sexy/) Terminal Color Scheme Designer #tool#theming
 - [Solving the N+1 Problem for GraphQL through Batching](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching) unpredictable performance caused by nested query  #graphql#database
