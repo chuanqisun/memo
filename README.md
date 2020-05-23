@@ -1,3 +1,4 @@
+- [JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/?ck_subscriber_id=681173061) javascript weak identity table #reference
 - [Excalidraw](https://excalidraw.com/) Ergonomic box drawing #tool
 - [Pepsi logo redesign](https://www.goldennumber.net/wp-content/uploads/pepsi-arnell-021109.pdf?ck_subscriber_id=681173061) A great presentation of rationalizing art direction choices #gooddesign#logo
 - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) How to visualize data with the right tools #visualization#resource
