@@ -1,3 +1,4 @@
+- [Neon Mode: Building a new Dark UI](https://www.codista.com/en/blog/neon-mode-building-new-dark-ui/) dark mode with glowing light emitting effect #darkmode#technique
 - [The Kawaiization of product design](https://vanschneider.com/the-kawaiization-of-product-design) healing and positive emotion from cute design
 - [Welcome to Hoogle](https://hoogle.haskell.org/) Haskell API search engine for all libraries built in the language #reference
 - [JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/?ck_subscriber_id=681173061) javascript weak identity table #reference
