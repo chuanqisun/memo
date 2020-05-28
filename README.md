@@ -1,3 +1,4 @@
+- [Tools for better thinking](https://untools.co/) system thinking, decision making, and problem solving tools #tool
 - [The Third Age of JavaScript](https://www.swyx.io/writing/js-third-age/) evolution of tooling and dev experience for js #philosophy
 - [new.css](https://newcss.net/) classless css framework that uses only semantic HTML #library
 - [Neon Mode: Building a new Dark UI](https://www.codista.com/en/blog/neon-mode-building-new-dark-ui/) dark mode with glowing light emitting effect #darkmode#technique
