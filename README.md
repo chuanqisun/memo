@@ -1,3 +1,4 @@
+- [htmx - high power tools for html](https://htmx.org/) update dom with server rendered html snippet #framework
 - [Tools for better thinking](https://untools.co/) system thinking, decision making, and problem solving tools #tool
 - [The Third Age of JavaScript](https://www.swyx.io/writing/js-third-age/) evolution of tooling and dev experience for js #philosophy
 - [new.css](https://newcss.net/) classless css framework that uses only semantic HTML #library
