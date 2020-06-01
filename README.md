@@ -1,3 +1,4 @@
+- [Here’s what I didn’t know about “content”](https://www.matuzo.at/blog/heres-what-i-didnt-know-about-content/) css pseudo element deep dive #technique#reference
 - [Sorted CSS Colors](https://enes.in/sorted-colors/) by hue, lightness, and saturation #tool
 - [Iconfinder](https://www.iconfinder.com/) huge collection of high quality iconsets #icon#resource#free
 - [htmx - high power tools for html](https://htmx.org/) update dom with server rendered html snippet #framework
