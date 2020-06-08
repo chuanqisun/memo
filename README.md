@@ -1,3 +1,4 @@
+- [TinaCMS](https://tinacms.org/) real-time editing on static site backed by github #cms
 - [Roam Research](https://roamresearch.com/) A note taking tool for networked thought. #tool#gooddesign#knowledgebase
 - [Semilattice](https://www.semilattice.xyz/) design concept for personal knowledge management system #gooddesign#knowledgebase
 - [CUBE (Composition Utility Block Exception) CSS](https://piccalil.li/blog/cube-css/) Using bracket or pipe character in class string to enable grouping #technique
