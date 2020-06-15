@@ -1,3 +1,4 @@
+- [Ricing resources - Ricepedia](https://rizonrice.club/Rice:Resources) customizing desktop enviroments #ricing#resource#customization#theming
 - [Hybrid positioning with CSS variables and max()](https://lea.verou.me/2020/06/hybrid-positioning-with-css-variables-and-max/) sticky sidebar below header #technique#scroll
 - [Grid.js](https://gridjs.io/) developer friendly table for any framework #library#table
 - [No Design Development](https://nodesign.dev/) #typography#hero#illustration#icon#color#video#resource
