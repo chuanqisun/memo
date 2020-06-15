@@ -85,7 +85,7 @@
 - [Drag–and–Drop: How to Design for Ease of Use](https://www.nngroup.com/articles/drag-drop/) #pattern#dragndrop#reference
 - [Pure CSS Responsive Browser Template](https://codepen.io/AdamMarsden/full/GRRVeBJ) stick side column #responsive#technique#layout#demo
 - [Heroicons](https://github.com/refactoringui/heroicons) SVG icon for UI development #icon#resource#free
-- [Revealing Hero Effect](https://codyhouse.co/tutorials/revealing-hero-effect) Use negative bottom sticky position #technique#hero#pattern#stick
+- [Revealing Hero Effect](https://codyhouse.co/tutorials/revealing-hero-effect) Use negative bottom sticky position #technique#hero#pattern#sticky
 - [Avengers Endgame Characters Rendered in Ukiyo-e Style by Illustrator Takumi](http://www.spoon-tamago.com/2019/04/24/avengers-endgame-ukiyoe/) Japanese traditional art rendering for comics heros #gooddesign#inspiration#art
 - [Open UI](https://open-ui.org/analysis/component-matrix) Open source documentation of components (API, parts, behavior) across design systems #designsystem#reference#pattern
 - [basekick](https://github.com/michaeltaranto/basekick/blob/master/README.md) An mixin for realigning your typographic elements with proper graphic design baseline #typography#library
