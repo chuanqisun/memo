@@ -1,3 +1,4 @@
+- [I Don’t Care What Google or Apple or Whoever Did](https://adrianroselli.com/2020/03/i-dont-care-what-google-or-apple-or-whomever-did.html) don't copy design patterns from large companies #opinion#a11y
 - [Better Form Inputs for Better Mobile User Experiences](https://css-tricks.com/better-form-inputs-for-better-mobile-user-experiences/) #pattern#form#input#a11y#technique
 - [Delete all node_modules directories](https://gomakethings.com/how-to-delete-all-node_modules-directories-from-your-computer/) a utility script #tool
 - [Inclusively Hiding & Styling Checkboxes and Radio Buttons](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons/) advanced technique for custom checkbox styling #a11y#checkbox#pattern#technique
