@@ -1,3 +1,4 @@
+- [Collection of free software development tutorials](https://www.tutorialist.io/) Collection of tutorials for software development #tutorial#beginner#resource
 - [Dexie.js](https://dexie.org/) A Minimalistic Wrapper for IndexedDB running in node and browser #library#database
 - [Multi-room audio casting system with Raspberry Pi](https://www.balena.io/blog/turn-your-old-speakers-or-hi-fi-into-bluetooth-receivers-using-only-a-raspberry-pi/?utm_medium=etcher&utm_source=efp&utm_campaign=balena-sound&utm_content=v6#hardwarerequired) support AirPlay and bluetooth #tutorial#iot
 - [Ricing resources - Ricepedia](https://rizonrice.club/Rice:Resources) customizing desktop enviroments #ricing#resource#customization#theming
