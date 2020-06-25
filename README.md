@@ -1,3 +1,4 @@
+- [turbolinks](https://github.com/turbolinks/turbolinks) Turbolinks makes navigating your web application faster by ajax dom body swapping head merging #performance#jamstack#routing#library#navigation
 - [AssemblyScript](https://www.assemblyscript.org/) compile typescript into wasm #language#wasm
 - [Modern DNS Hosting for Everyone](https://desec.io/) free and open source #service#infrastructure
 - [I Don’t Care What Google or Apple or Whoever Did](https://adrianroselli.com/2020/03/i-dont-care-what-google-or-apple-or-whomever-did.html) don't copy design patterns from large companies #opinion#a11y
