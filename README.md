@@ -1,4 +1,4 @@
-- [12 Ways To Improve User Interview Questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/) #interview#uxresearch
+- [12 Ways To Improve User Interview Questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/) how to ask productive unbiased questions #interview#uxresearch
 - [turbolinks](https://github.com/turbolinks/turbolinks) Turbolinks makes navigating your web application faster by ajax dom body swapping head merging #performance#jamstack#routing#library#navigation
 - [AssemblyScript](https://www.assemblyscript.org/) compile typescript into wasm #language#wasm
 - [Modern DNS Hosting for Everyone](https://desec.io/) free and open source #service#infrastructure
