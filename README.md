@@ -1,3 +1,4 @@
+- [AssemblyScript](https://www.assemblyscript.org/) compile typescript into wasm #language#wasm
 - [Modern DNS Hosting for Everyone](https://desec.io/) free and open source #service#infrastructure
 - [I Don’t Care What Google or Apple or Whoever Did](https://adrianroselli.com/2020/03/i-dont-care-what-google-or-apple-or-whomever-did.html) don't copy design patterns from large companies #opinion#a11y
 - [Better Form Inputs for Better Mobile User Experiences](https://css-tricks.com/better-form-inputs-for-better-mobile-user-experiences/) #pattern#form#input#a11y#technique
