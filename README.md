@@ -210,7 +210,7 @@
 - [Duospace](https://ia.net/topics/in-search-of-the-perfect-writing-font) writing font based on IBM plex mono #typography#free
 - [Better Markdown in Visual Studio Code](https://solomon.io/better-markdown-visual-studio-code/) #tool#reference#typography
 - [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/#exa) POSIX command line tools in rust #reference
-- [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) Performant gesture-driven animation on the mobile web written in React #performance#mobile#touch#motino#demo
+- [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) Performant gesture-driven animation on the mobile web written in React #performance#mobile#touch#motion#demo
 - [The “Developer Experience” Bait-and-Switch](https://infrequently.org/2018/09/the-developer-experience-bait-and-switch/) Dev experience is not an excuse for js bloat #opinion#performance
 - [Line Awesome](https://icons8.com/line-awesome) font awesome alternative flat line art icons #resource#icon
 - [Accessible Drop Caps](https://adrianroselli.com/2019/10/accessible-drop-caps.html) #typography#technique#a11y
