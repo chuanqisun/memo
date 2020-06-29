@@ -1,3 +1,4 @@
+- [keen-slider](https://keen-slider.io/examples/#examples) native-like smooth slider and datetime picker #library#animation#slider#carousel#datetime
 - [diagrams.net (drawio)](https://app.diagrams.net/) powerful diagraming tool with github-backed data persistence #tool#draw#diagram#free
 - [12 Ways To Improve User Interview Questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/) how to ask productive unbiased questions #interview#uxresearch
 - [turbolinks](https://github.com/turbolinks/turbolinks) Turbolinks makes navigating your web application faster by ajax dom body swapping head merging #performance#jamstack#routing#library#navigation
