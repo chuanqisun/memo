@@ -1,3 +1,4 @@
+- [RSS Box](https://rssbox.herokuapp.com/) subscribe to RSS feeds for websites that do not support RSS themselves, by using the respective website's API and then translating that data to RSS feeds #rss#service#free
 - [Selection controls — UI component series](https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546) comprehensive ux guide #form#input#radio#checkbox#select#multiselect#toggle
 - [ttalvitie/browservice](https://github.com/ttalvitie/browservice) proxy a browser by streaming its screenshot to a chromium client #technique#library#browser
 - [keen-slider](https://keen-slider.io/examples/#examples) native-like smooth slider and datetime picker #library#animation#slider#carousel#datetime
