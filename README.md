@@ -1,3 +1,4 @@
+- [ttalvitie/browservice](https://github.com/ttalvitie/browservice) proxy a browser by streaming its screenshot to a chromium client #technique#library#browser
 - [keen-slider](https://keen-slider.io/examples/#examples) native-like smooth slider and datetime picker #library#animation#slider#carousel#datetime
 - [diagrams.net (drawio)](https://app.diagrams.net/) powerful diagraming tool with github-backed data persistence #tool#draw#diagram#free
 - [12 Ways To Improve User Interview Questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/) how to ask productive unbiased questions #interview#uxresearch
