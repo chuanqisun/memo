@@ -1,3 +1,4 @@
+- [Free Faces](https://freefaces.gallery/) Free fonts collection #typography#free#resource
 - [HTML Systems](http://html.systems/) Components built with plain html and css #library#webcomponent#reference#pattern
 - [Webring](https://en.wikipedia.org/wiki/Webring) connect Indie publishers with a shared navigation component on all participating websites #standard#social#gooddesign
 - [RSS Box](https://rssbox.herokuapp.com/) subscribe to RSS feeds for websites that do not support RSS themselves, by using the respective website's API and then translating that data to RSS feeds #rss#service#free
