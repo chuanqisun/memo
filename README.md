@@ -1,3 +1,4 @@
+- [Tauri Studio](https://tauri.studio/) electron alternative for native apps built with html css and javascript #nativeapp#framework
 - [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) vvvv "clone" in javascript/webgl, with node based editor #visualization#library#cgi
 - [VVVV.js](http://vvvvjs.com/) Visual Web Client Programming with in browser node editor #visualization#library#webgl#cgi
 - [PixiJS](https://www.pixijs.com/) WebGL renderer for 2D #library#webgl
