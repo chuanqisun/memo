@@ -1,3 +1,4 @@
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) Password protect a static HTML page #library#jamstack
 - [Tauri Studio](https://tauri.studio/) electron alternative for native apps built with html css and javascript #nativeapp#framework
 - [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) vvvv "clone" in javascript/webgl, with node based editor #visualization#library#cgi
 - [VVVV.js](http://vvvvjs.com/) Visual Web Client Programming with in browser node editor #visualization#library#webgl#cgi
