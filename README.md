@@ -1,3 +1,4 @@
+- [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) vvvv "clone" in javascript/webgl, with node based editor #visualization#library#cgi
 - [VVVV.js](http://vvvvjs.com/) Visual Web Client Programming with in browser node editor #visualization#library#webgl#cgi
 - [PixiJS](https://www.pixijs.com/) WebGL renderer for 2D #library#webgl
 - [Apply different color to favicon for dark mode](https://twitter.com/CodyWebHouse/status/1280515162806550529) #darkmode#favicon#technique
