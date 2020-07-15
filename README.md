@@ -1,3 +1,4 @@
+- [Video players and services](https://github.com/wesbos/Syntax/blob/master/shows/266%20-%20video.md) #video#resource#library#service
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) Password protect a static HTML page #library#jamstack
 - [Tauri Studio](https://tauri.studio/) electron alternative for native apps built with html css and javascript #nativeapp#framework
 - [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) vvvv "clone" in javascript/webgl, with node based editor #visualization#library#cgi
