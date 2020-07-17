@@ -1,3 +1,4 @@
+- [Zettelkasten](https://zettelkasten.de/posts/overview/) A method to organize knowledge #knowledgebase
 - [Zettelkasten](https://zettelkasten.de/posts/overview/) A method to organize knowledge
 - [Zettlr](https://www.zettlr.com/) opensource markdown editor for the desktop #tool#markdown#free
 - [Tabler Icons](https://tablericons.com/) Customizable stroke and size SVG icons #free#icon#resource
