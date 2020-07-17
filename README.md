@@ -1,3 +1,4 @@
+- [Zettlr](https://www.zettlr.com/) opensource markdown editor for the desktop #tool#markdown#free
 - [Tabler Icons](https://tablericons.com/) Customizable stroke and size SVG icons #free#icon#resource
 - [The Wet Codebase by Dan Abramov – Deconstruct](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase) A case against DRY principle with pragmatic reason from project organic growth #philosophy#opinion
 - [Video players and services](https://github.com/wesbos/Syntax/blob/master/shows/266%20-%20video.md) #video#resource#library#service
