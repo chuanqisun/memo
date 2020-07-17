@@ -1,3 +1,4 @@
+- [Foam](https://foambubble.github.io/foam/) opensource vs code extension for knowledge management #knowledgebase#tool
 - [Zettelkasten](https://zettelkasten.de/posts/overview/) A method to organize knowledge #knowledgebase
 - [Zettlr](https://www.zettlr.com/) opensource markdown editor for the desktop #tool#markdown#free
 - [Tabler Icons](https://tablericons.com/) Customizable stroke and size SVG icons #free#icon#resource
