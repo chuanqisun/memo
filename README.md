@@ -1,3 +1,4 @@
+- [Stages of team formation](https://www.mindtools.com/pages/article/newLDR_86.htm) Forming, Storming, Norming, and Performing #model#leadership#humanfactor
 - [Lemon.io](https://lemon.io) A developer to startup broker freelancing platform #gooddesign#freelance#platform
 - [Design showcase websites](https://lemon.io/127-design-websites) Submit design to website for award and showcase #resource#marketing
 - [Node Target Mapping](https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping) set up typescript for node environment #reference
