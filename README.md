@@ -1,3 +1,4 @@
+- [Design showcase websites](https://lemon.io/127-design-websites) Submit design to website for award and showcase #resource#marketing
 - [Node Target Mapping](https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping) set up typescript for node environment #reference
 - [AudioMass](https://audiomass.co/) web based audio editor #tool#audio
 - [Foam](https://foambubble.github.io/foam/) opensource vs code extension for knowledge management #knowledgebase#tool
