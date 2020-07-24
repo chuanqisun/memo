@@ -1,3 +1,4 @@
+- [What the fuck is](https://whatthefuck.is/) JavaScript concept explained #reference#language
 - [primo](https://primo.af/) all-in-one IDE, CMS, component library, and static site generator. Free and open source. #cms#service
 - [On dependency](https://v7.robweychert.com/blog/2020/06/v7-on-dependency/) a self-sufficient approach to tooling and tech stack #opinion#philosophy#maintenance
 - [grapesjs](https://github.com/artf/grapesjs) Free and Open source Web Builder Framework. Next generation tool for building templates without coding #dragndrop#library#nocode
