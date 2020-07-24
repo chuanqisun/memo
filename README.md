@@ -1,3 +1,4 @@
+- [Modern CSS Techniques To Improve Legibility](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/) sizing, line-height, color, measure #typography#technique
 - [Import non-ESM libraries in ES Modules, with client-side vanilla JS](https://lea.verou.me/2020/07/import-non-esm-libraries-in-es-modules,-with-client-side-vanilla-js/) let `import` handle `require` #technique
 - [What the fuck is](https://whatthefuck.is/) JavaScript concept explained #reference#language
 - [primo](https://primo.af/) all-in-one IDE, CMS, component library, and static site generator. Free and open source. #cms#service
