@@ -1,3 +1,5 @@
+Original article: https://alistapart.com/article/coding-with-clarity/
+
 [Part 1](https://alistapart.com/article/coding-with-clarity)
 - The single responsibility principle: code smell: "and" in function name
 - Command-query separation: function should be either command or query. When mixing, you get [Missing Missy](http://www.27bslash6.com/missy.html)
