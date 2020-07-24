@@ -1,3 +1,4 @@
+- [Rich HTML in markdown on Github](https://medium.com/@omrilotan/rich-html-in-github-readme-bfb3de791441) embed any HTML as SVG foreignObject #technique#image#markdown
 - [Modern CSS Techniques To Improve Legibility](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/) sizing, line-height, color, measure #typography#technique
 - [Import non-ESM libraries in ES Modules, with client-side vanilla JS](https://lea.verou.me/2020/07/import-non-esm-libraries-in-es-modules,-with-client-side-vanilla-js/) let `import` handle `require` #technique
 - [What the fuck is](https://whatthefuck.is/) JavaScript concept explained #reference#language
