@@ -1,3 +1,4 @@
+- [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#universal-selector) concepts and terminology dictionary with demo code #reference
 - [isomorphic-git](https://isomorphic-git.org/) A pure JavaScript implementation of git for node and browsers #git#library
 - [Rich HTML in markdown on Github](https://medium.com/@omrilotan/rich-html-in-github-readme-bfb3de791441) embed any HTML as SVG foreignObject #technique#image#markdown
 - [Modern CSS Techniques To Improve Legibility](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/) sizing, line-height, color, measure #typography#technique
