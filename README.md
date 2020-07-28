@@ -1,3 +1,4 @@
+- [Pausing a GIF with details/summary](https://css-tricks.com/__trashed-26/) css only #technique#a11y
 - [Unholy Albatross](http://www.miragecraft.com/articles/unholy_albatross.html) Improved Holy Albatross with css clamp and max function #responsive#technique
 - [Bold on Hover Without the Layout Shift](https://css-tricks.com/bold-on-hover-without-the-layout-shift/) use hidden pseudo element with bold weight #technique#hover
 - [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#universal-selector) concepts and terminology dictionary with demo code #reference
