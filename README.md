@@ -1,3 +1,4 @@
+- [Bold on Hover Without the Layout Shift](https://css-tricks.com/bold-on-hover-without-the-layout-shift/) use hidden pseudo element with bold weight #technique#hover
 - [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#universal-selector) concepts and terminology dictionary with demo code #reference
 - [isomorphic-git](https://isomorphic-git.org/) A pure JavaScript implementation of git for node and browsers #git#library
 - [Rich HTML in markdown on Github](https://medium.com/@omrilotan/rich-html-in-github-readme-bfb3de791441) embed any HTML as SVG foreignObject #technique#image#markdown
