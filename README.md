@@ -1,3 +1,4 @@
+- [Noyaki (open burning)](https://japanese-wiki-corpus.github.io/culture/Noyaki%20(open%20burning).html) to kill insect and maintain life #philosophy
 - [Teenyicons Tiny minimal 1px icons](https://teenyicons.com/) 15px grid with svg and figma asset #free#icon
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) for cross platform keybindings and keyboard shortcuts #keyboard#library
 - [The 100 Day Project](https://medium.com/the-100-day-project) Learning journey for 3D, Motion design, illustration, lettering #gooddesign#tutorial#beginner#resource
