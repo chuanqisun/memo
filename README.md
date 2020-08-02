@@ -1,3 +1,4 @@
+- [The 100 Day Project](https://medium.com/the-100-day-project) Learning journey for 3D, Motion design, illustration, lettering #gooddesign#tutorial#beginner#resource
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) padding top and bottom is percentage of parent's width #reference
 - [Screely - Generate Beautiful Mockups](https://www.screely.com/editor) Browser mockup generator #mock#tool
 - [Pausing a GIF with details/summary](https://css-tricks.com/__trashed-26/) css only #technique#a11y
