@@ -1,3 +1,4 @@
+- [A Lightweight Masonry Solution](https://css-tricks.com/a-lightweight-masonry-solution/) with native css grid  #technique#layout
 - [Noyaki (open burning)](https://japanese-wiki-corpus.github.io/culture/Noyaki%20(open%20burning).html) to kill insect and maintain life #philosophy
 - [Teenyicons Tiny minimal 1px icons](https://teenyicons.com/) 15px grid with svg and figma asset #free#icon
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) for cross platform keybindings and keyboard shortcuts #keyboard#library
