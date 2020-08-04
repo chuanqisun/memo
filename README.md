@@ -829,7 +829,7 @@
 - [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/) #typography#fontstack
 - [Itty bitty sites are contained entirely within their own link](https://itty.bitty.site/edit) #tool#url
 - [PQINA designs and builds performant, responsive and polished web components](https://pqina.nl/) #startup#component#library#minimalist#businessstrategy#gooddesign
-- [I Used The Web For A Day With JavaScript Turned Off](https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/) #progressiveenhancement#a11y
+- [I Used The Web For A Day With JavaScript Turned Off](https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/) #progressive#a11y
 - [I Used The Web For A Day With Just A Keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/) #a11y#keyboard
 - [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/) #technique#a11y#wcag#reference
 - [Making the DOM order match the visual order](https://www.w3.org/TR/WCAG20-TECHS/C27.html) #technique#a11y#wcag
