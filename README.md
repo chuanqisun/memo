@@ -1,3 +1,4 @@
+- [React state management roundup](https://github.com/wesbos/Syntax/blob/master/shows/272%20-%20react%20roundup.md) Pros and cons of libraries #statemanagement#library#react#flux
 - [josh-richardson/cadmus](https://github.com/josh-richardson/cadmus/) Pulse Audio real-time noise suppression plugin #audio#tool
 - [Graceful degradation versus progressive enhancement](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement) when to use which #responsive#progressive#philosophy
 - [A Lightweight Masonry Solution](https://css-tricks.com/a-lightweight-masonry-solution/) with native css grid  #technique#layout
