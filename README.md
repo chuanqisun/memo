@@ -1,3 +1,4 @@
+- [react-spring/zustand](https://github.com/react-spring/zustand) Minimal flux pattern for React and non-React #statemanagement#library#react
 - [React Query](https://react-query.tanstack.com/docs/overview) Query library with state management, caching, error handling #react#statemanagement#api
 - [interact.js](https://interactjs.io/) JavaScript drag and drop, resizing and multi-touch gestures for modern browsers #dragndrop#touch#resize#snap#canvas
 - [React state management roundup](https://github.com/wesbos/Syntax/blob/master/shows/272%20-%20react%20roundup.md) Pros and cons of libraries #statemanagement#library#react#flux
