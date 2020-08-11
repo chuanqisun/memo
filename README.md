@@ -1,3 +1,4 @@
+- [gcanti/io-ts](https://github.com/gcanti/io-ts) Runtime type encode, decode, assertion #typescript#language#library
 - [Immer](https://immerjs.github.io/immer/docs/introduction) immutable state mutation #library#immutable#statemanagement
 - [react-spring/zustand](https://github.com/react-spring/zustand) Minimal flux pattern for React and non-React #statemanagement#library#react
 - [React Query](https://react-query.tanstack.com/docs/overview) Query library with state management, caching, error handling #react#statemanagement#api#library
