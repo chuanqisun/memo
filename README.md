@@ -1,3 +1,4 @@
+- [Generative Logo Design](https://components.ai/notes/logo/) variable shape, overlay, frame, typograph with svg #technique
 - [CUBE CSS](https://piccalil.li/cube-css/) Composition, Utility, Block, Exception #methodology
 - [How I Structure My CSS (for Now)](https://matthiasott.com/notes/how-i-structure-my-css) an implementation of ITCSS #itcss#methodology
 - [Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/) index, tokenize, stem, query #tutorial#searchengine
