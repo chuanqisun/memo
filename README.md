@@ -1,3 +1,4 @@
+- [Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/) index, tokenize, stem, query #tutorial#searchengine
 - [Previewed](https://previewed.app/) device mocks with frames for iphone, android, mac. Great for app store and marketing site #tool
 - [Free Vector Illustrations & Animations](https://www.pixeltrue.com/free-illustrations) animated image for error 404 page #illustration#resource#free
 - [Different versions of your site can be running at the same time](https://jakearchibald.com/2020/multiple-versions-same-time/) handling conflict, offline, deploy, conflict #technique#versioning#pwa
