@@ -1,3 +1,4 @@
+- [New insights on poverty](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty?language=en) early application of data visualization #visualization#gooddesign
 - [The Component IDE for
 Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#ide#tool#webcomponent
 - [Generative Logo Design](https://components.ai/notes/logo/) variable shape, overlay, frame, typograph with svg #technique
