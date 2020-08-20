@@ -1,3 +1,4 @@
+- [Manolo ide](https://www.behance.net/manoloide) Generative artist portfolio #processing#inspiration
 - [Logo Design](https://blog.tubikstudio.com/logo-design-free-e-book-by-tubik-studio/) Free E-Book by Tubik Team #resource
 - [New insights on poverty](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty?language=en) early application of data visualization #visualization#gooddesign
 - [The Component IDE for
