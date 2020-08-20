@@ -1,3 +1,4 @@
+- [Creating 3D Illustrations with CSS](https://frontend.horse/articles/creating-3d-illustrations-with-css/) #technique
 - [OK-Cancel or Cancel-OK?](https://www.nngroup.com/articles/ok-cancel-or-cancel-ok/) Order of actions in dialog #uxresearch
 - [theheadless.dev](https://theheadless.dev/) E2E testing code snippets for Puppeteer & Playwright #test#reference#library
 - [Manolo ide](https://www.behance.net/manoloide) Generative artist portfolio #processing#inspiration
