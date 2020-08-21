@@ -1,3 +1,4 @@
+- [HTML for Subheadings and Headings](https://css-tricks.com/html-for-subheadings-and-headings/) how to markup subtitle with aria role doc-subtitle #technique#a11y
 - [System UIcons](https://systemuicons.com/) outline styled icons for modern apps #icon#free#resource
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/format-js-numbers) units, percent, currency #reference#technique
 - [Kinopio](https://kinopio.club/) collaborative canvas mind mapping app with cards/nodes and edges/links #service
