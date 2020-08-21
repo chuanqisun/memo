@@ -1,3 +1,4 @@
+- [System UIcons](https://systemuicons.com/) outline styled icons for modern apps #icon#free#resource
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/format-js-numbers) units, percent, currency #reference#technique
 - [Kinopio](https://kinopio.club/) collaborative canvas mind mapping app with cards/nodes and edges/links #service
 - [Creating 3D Illustrations with CSS](https://frontend.horse/articles/creating-3d-illustrations-with-css/) #technique
