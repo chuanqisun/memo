@@ -1,3 +1,4 @@
+- [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) React MDX-based presentation decks #tool#library
 - [Spectacle](https://formidable.com/open-source/spectacle/docs/basic-concepts/#mdxmarkdown) MDX based slide presentation maker for jsx and markdown #tool#library#mdx
 - [Carbon](https://carbon.now.sh/) code snippet screenshot generator #tool#marketing#mock
 - [HTML for Subheadings and Headings](https://css-tricks.com/html-for-subheadings-and-headings/) how to markup subtitle with aria role doc-subtitle #technique#a11y
