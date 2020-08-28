@@ -1,3 +1,4 @@
+- [Spectacle](https://formidable.com/open-source/spectacle/docs/basic-concepts/#mdxmarkdown) MDX based slide presentation maker for jsx #tool#library#mdx
 - [Carbon](https://carbon.now.sh/) code snippet screenshot generator #tool#marketing#mock
 - [HTML for Subheadings and Headings](https://css-tricks.com/html-for-subheadings-and-headings/) how to markup subtitle with aria role doc-subtitle #technique#a11y
 - [System UIcons](https://systemuicons.com/) outline styled icons for modern apps #icon#free#resource
