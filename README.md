@@ -1,3 +1,4 @@
+- [The Decline of Usability](https://datagubbe.se/decusab/) criticism on how desktop app design were influenced by mobile app trends #opinion
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) Clean Code concepts adapted for JavaScript #coding#reference#methodology#guide#beginner
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) React MDX-based presentation decks #tool#library
 - [Spectacle](https://formidable.com/open-source/spectacle/docs/basic-concepts/#mdxmarkdown) MDX based slide presentation maker for jsx and markdown #tool#library#mdx
