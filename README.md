@@ -1,3 +1,4 @@
+- [Accordion Icons](https://www.nngroup.com/articles/accordion-icons/) use down caret or plus for inline expansion. use side arrow for links #pattern#accordion
 - [Gradient Magic](https://www.gradientmagic.com/) Fantastic and Unique CSS Gradients #resource#background
 - [Flume](https://flume.dev/) React based node and link canvas editor #library#diagram
 - [umami](https://umami.is/) self hosted analytics for modern web stack #library
