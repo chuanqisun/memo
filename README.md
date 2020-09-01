@@ -1,3 +1,4 @@
+- [umami](https://umami.is/) self hosted analytics for modern web stack #library
 - [Eponymous Laws](https://www.swyx.io/writing/eponymous-laws/) Heuristics and rules in software, hardware, business, and technology world #reference#philosophy
 - [swyx Writing | Developer Exception Engineering](https://www.swyx.io/writing/developer-exception/) Deep analysis on developer experience #dx#process#tool
 - [Copy the Browser’s Native Focus Styles](https://css-tricks.com/copy-the-browsers-native-focus-styles/) #technique#a11y
