@@ -1,3 +1,4 @@
+- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) object oriented #reference#language
 - [The Decline of Usability](https://datagubbe.se/decusab/) criticism on how desktop app design were influenced by mobile app trends #opinion
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) Clean Code concepts adapted for JavaScript #coding#reference#methodology#guide#beginner
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) React MDX-based presentation decks #tool#library
