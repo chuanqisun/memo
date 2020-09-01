@@ -1,3 +1,4 @@
+- [Gradient Magic](https://www.gradientmagic.com/) Fantastic and Unique CSS Gradients #resource#background
 - [Flume](https://flume.dev/) React based node and link canvas editor #library#diagram
 - [umami](https://umami.is/) self hosted analytics for modern web stack #library
 - [Eponymous Laws](https://www.swyx.io/writing/eponymous-laws/) Heuristics and rules in software, hardware, business, and technology world #reference#philosophy
