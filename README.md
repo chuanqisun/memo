@@ -1,3 +1,4 @@
+- [Omatsuri](https://omatsuri.app/) base64 encoding, fake/mock/dummy data with profile image, symbols with unicode, and keyboard event debugger #tool
 - [Web Brutalism, Seamfulness, and Notion](https://www.viget.com/articles/web-brutalism-seamfulness-and-notion/) Hide vs reveal of internal material and structure in the context of web design #opinion#philosophy
 - [Guidelines for Brutalist Web Design](https://brutalist-web.design/?email=) #brutalism#opinion
 - [React JSON Graph](http://antonkalinin.github.io/react-json-graph/) node link graph drawing #library
