@@ -1,3 +1,4 @@
+- [Web Brutalism, Seamfulness, and Notion](https://www.viget.com/articles/web-brutalism-seamfulness-and-notion/) Hide vs reveal of internal material and structure in the context of web design #opinion#philosophy
 - [Guidelines for Brutalist Web Design](https://brutalist-web.design/?email=) #brutalism#opinion
 - [React JSON Graph](http://antonkalinin.github.io/react-json-graph/) node link graph drawing #library
 - [Accordion Icons](https://www.nngroup.com/articles/accordion-icons/) use down caret or plus for inline expansion. use side arrow for links #pattern#accordion
