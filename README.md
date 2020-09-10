@@ -1,3 +1,4 @@
+- [Support password manager in password form](https://twitter.com/thearslankhalid/status/1302143480693743616) new-password and current-password hints #form#password#technique
 - [web-padawan/vanilla-colorful](https://github.com/web-padawan/vanilla-colorful) A tiny color picker custom element for modern web apps. #webcomponent#library
 - [Custom, accessible radio/checkbox buttons with perfect alignment](https://codyhouse.co/blog/post/custom-accessible-radio-checkbox-buttons-vertical-alignment) align checkbox and radio marker with multiline text using line-height #technique#pattern#radio#checkbox
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) palette and theme design #technique#theming
