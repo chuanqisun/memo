@@ -1,3 +1,4 @@
+- [web-padawan/vanilla-colorful](https://github.com/web-padawan/vanilla-colorful) A tiny color picker custom element for modern web apps. #webcomponent
 - [Custom, accessible radio/checkbox buttons with perfect alignment](https://codyhouse.co/blog/post/custom-accessible-radio-checkbox-buttons-vertical-alignment) align checkbox and radio marker with multiline text using line-height #technique#pattern#radio#checkbox
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) palette and theme design #technique#theming
 - [Stitches](https://stitches.dev/) tiny size css in js library with server-side rendering (ssr), compare to styled components #library
