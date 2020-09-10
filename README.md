@@ -1,3 +1,4 @@
+- [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) palette and theme design #technique#theming
 - [Stitches](https://stitches.dev/) tiny size css in js library with server-side rendering (ssr), compare to styled components #library
 - [shadeed/headers-css](https://github.com/shadeed/headers-css) The blueprint HTML and CSS for website headers #pattern#reference#layout
 - [Omatsuri](https://omatsuri.app/) base64 encoding, fake/mock/dummy data with profile image, symbols with unicode, and keyboard event debugger #tool
