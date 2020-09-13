@@ -1,3 +1,4 @@
+- [Most common words in English](https://en.wikipedia.org/wiki/Most_common_words_in_English) useful for stop words in NLP, search engine, tokenizer #nlp#reference
 - [Examine.com](https://examine.com/) Independent Analysis on Supplements & Nutrition with scientific evidence #tool#reference
 - [Styling Complex Labels](https://cloudfour.com/thinks/styling-complex-labels/) style radio button option as cards #technique#radio#form#pattern
 - [Support password manager in password form](https://twitter.com/thearslankhalid/status/1302143480693743616) new-password and current-password hints #form#password#technique
