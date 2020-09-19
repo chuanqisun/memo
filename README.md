@@ -1,3 +1,4 @@
+- [Overmind](https://overmindjs.org/) State management library for any framework
 - [Build your own React](https://pomb.us/build-your-own-react/) deep dive of react internals: render, fiber, diffing, hooks #react#tutorial
 - [Most common words in English](https://en.wikipedia.org/wiki/Most_common_words_in_English) useful for stop words in NLP, search engine, tokenizer #nlp#reference
 - [Examine.com](https://examine.com/) Independent Analysis on Supplements & Nutrition with scientific evidence #tool#reference
