@@ -1,3 +1,4 @@
+- [Forms best practice](https://gerireid.com/forms.html#error-messages) #pattern#button#checkbox#datetime#error#radio#select#input#form#reference#notification
 - [BGJar](https://bgjar.com/) SVG background generator #tool
 - [Michael Blackwood Productions](https://www.michaelblackwoodproductions.com/) high quality architecture and art documentaries #resource
 - [Build your own React](https://pomb.us/build-your-own-react/) React internal explained: createElement, render, fiber, Reconciliation, Hooks #tutorial#reference#gooddesign
