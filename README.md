@@ -1,3 +1,4 @@
+- [The tangled webs we weave](https://daverupert.com/2020/09/tangled-webs) trade off between modularity and complexity of dependencies #opinion#philosophy
 - [Sombras.app](https://sombras.app/) 3D projection shadow design #tool
 - [Forms best practice](https://gerireid.com/forms.html#error-messages) #pattern#button#checkbox#datetime#error#radio#select#input#form#reference#notification
 - [BGJar](https://bgjar.com/) SVG background generator #tool
