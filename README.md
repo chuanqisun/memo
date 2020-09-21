@@ -1,3 +1,4 @@
+- [Build your own React](https://pomb.us/build-your-own-react/) React internal explained: createElement, render, fiber, Reconciliation, Hooks #tutorial#reference#gooddesign
 - [strategy](https://sriramk.com/strategy) business, disruption, consumer technology blogs #resource
 - [TypeScript: Create a condition-based subset types](https://medium.com/dailyjs/typescript-create-a-condition-based-subset-types-9d902cea5b8c) #technique
 - [vercel/pkg](https://github.com/vercel/pkg#readme) Package your Node.js project into an executable #tool#container
