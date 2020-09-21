@@ -1,3 +1,4 @@
+- [Bret Victor - Inventing on Principle](https://vimeo.com/36579366) interactive parametric algorithmic design with a time dimension and real-time feedback, code and pixel two-way lookup, and finding your principle and purpose of life #philosophy#tool#gooddesign#dx
 - [The tangled webs we weave](https://daverupert.com/2020/09/tangled-webs) trade off between modularity and complexity of dependencies #opinion#philosophy
 - [Sombras.app](https://sombras.app/) 3D projection shadow design #tool
 - [Forms best practice](https://gerireid.com/forms.html#error-messages) #pattern#button#checkbox#datetime#error#radio#select#input#form#reference#notification
