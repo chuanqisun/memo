@@ -1,3 +1,4 @@
+- [Mono Icons](https://icons.mono.company/) #icon#free#resource
 - [Tools should not only be for experts – they should turn us into them](https://christianheilmann.com/2020/09/15/tools-should-not-only-be-for-experts-they-should-turn-us-into-them/) how to improve developer experience #philosophy#dx
 - [Bret Victor - Inventing on Principle](https://vimeo.com/36579366) interactive parametric algorithmic design with a time dimension and real-time feedback, code and pixel two-way lookup, and finding your principle and purpose of life #philosophy#tool#gooddesign#dx
 - [The tangled webs we weave](https://daverupert.com/2020/09/tangled-webs) trade off between modularity and complexity of dependencies #opinion#philosophy
