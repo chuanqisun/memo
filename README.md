@@ -1,3 +1,4 @@
+- [How does the TypeScript Angular DI magic work?](http://nicholasjohnson.com/blog/how-angular2-di-works-with-typescript/) Reflect metadata, TypeScript emiDecoratorMetadata, dependency injection #technique#framework
 - [Building](https://adactio.com/articles/16334) Jeremy Keith drawing parallelism between building and web development, covering layers of technology and the moral responsibility of developers #philosophy#inspiration#architecture#principle
 - [Mono Icons](https://icons.mono.company/) #icon#free#resource
 - [Tools should not only be for experts – they should turn us into them](https://christianheilmann.com/2020/09/15/tools-should-not-only-be-for-experts-they-should-turn-us-into-them/) how to improve developer experience #philosophy#dx
