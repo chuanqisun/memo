@@ -1,3 +1,4 @@
+- [Meta Tags](https://metatags.io/) meta tag generator and preview for social media share #tool#seo
 - [How does the TypeScript Angular DI magic work?](http://nicholasjohnson.com/blog/how-angular2-di-works-with-typescript/) Reflect metadata, TypeScript emiDecoratorMetadata, dependency injection #technique#framework
 - [Building](https://adactio.com/articles/16334) Jeremy Keith drawing parallelism between building and web development, covering layers of technology and the moral responsibility of developers #philosophy#inspiration#architecture#principle
 - [Mono Icons](https://icons.mono.company/) #icon#free#resource
