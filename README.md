@@ -1,3 +1,4 @@
+- [Modfy](https://app.modfy.video/) Wasm Video Transcoder for editing and combining and resizing #tool#video
 - [visx](https://github.com/airbnb/visx/) airbnb open source data visualization library for React, alternative to D3 #visualization#library#react
 - [IconPark](http://iconpark.bytedance.com/official) 1k+ high quality general purpose multi-color icon for app building by ByDesign #icon#free#resource
 - [a11yresources](https://a11yresources.webflow.io/)  A growing list of accessibility tools and resources #a11y#resource
