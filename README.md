@@ -1,4 +1,4 @@
-- [IconPark](http://iconpark.bytedance.com/official) 1k+ high quality general purpose icon for app building by ByDesign #icon#free#resource
+- [IconPark](http://iconpark.bytedance.com/official) 1k+ high quality general purpose multi-color icon for app building by ByDesign #icon#free#resource
 - [a11yresources](https://a11yresources.webflow.io/)  A growing list of accessibility tools and resources #a11y#resource
 - [The failed promise of Web Components](https://lea.verou.me/2020/09/the-failed-promise-of-web-components/) ignore HTML standard, heavy dependency and javascript requirement #opinion#webcomponent
 - [Github Elements](https://www.webcomponents.org/collection/github/github-elements) web components by Github, time, menu, autocomplete #pattern#webcomponent
