@@ -1,3 +1,4 @@
+- [Org mode for Emacs – Your Life in Plain Text](https://orgmode.org/) todo agenda and calendar management in emacs #editor#plaintext#tool#gooddesign
 - [Checkbox as toggle buttons](https://christianheilmann.com/2020/09/24/checkboxes-make-excellent-buttons/) binary boolean stateful buttons #pattern#technique#checkbox#button#a11y
 - [Modfy](https://app.modfy.video/) Wasm Video Transcoder for editing and combining and resizing #tool#video
 - [visx](https://github.com/airbnb/visx/) airbnb open source data visualization library for React, alternative to D3 #visualization#library#react
