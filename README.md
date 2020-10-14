@@ -1,3 +1,4 @@
+- [css clamp() for typeramp](https://utopia.fyi/blog/clamp/) continuous function exported at quantum steps #technique#typography#responsive
 - [Full bleed layout using simple CSS](https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css/) #technique#layout
 - [Why Tailwind CSS](https://www.swyx.io/why-tailwind/) arguments for and against utility-first methodology #opinion#methodology
 - [How To Name Things](https://www.swyx.io/how-to-name-things/) swyx guide for naming functions and variables #reference#opinion
