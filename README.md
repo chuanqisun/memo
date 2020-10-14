@@ -1,3 +1,4 @@
+- [Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/) WWDC 2018 Apple Motion design principles with extreme attention to designs, human psychology, behavior, and emotion. #motion#animation#hci#gooddesign#inspiration
 - [Org mode for Emacs – Your Life in Plain Text](https://orgmode.org/) todo agenda and calendar management in emacs #editor#plaintext#tool#gooddesign
 - [Checkbox as toggle buttons](https://christianheilmann.com/2020/09/24/checkboxes-make-excellent-buttons/) binary boolean stateful buttons #pattern#technique#checkbox#button#a11y
 - [Modfy](https://app.modfy.video/) Wasm Video Transcoder for editing and combining and resizing #tool#video
