@@ -1,3 +1,4 @@
+- [How To Name Things](https://www.swyx.io/how-to-name-things/) swyx guide for naming functions and variables #reference#opinion
 - [Full Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/) span entire row with max width clamp #technique#layout
 - [Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/) WWDC 2018 Apple Motion design principles with extreme attention to designs, human psychology, behavior, and emotion. #motion#animation#hci#gooddesign#inspiration
 - [Org mode for Emacs – Your Life in Plain Text](https://orgmode.org/) todo agenda and calendar management in emacs #editor#plaintext#tool#gooddesign
