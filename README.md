@@ -1,3 +1,4 @@
+- [beachball](https://microsoft.github.io/beachball/cli/change.html) Semantic version bumper by Microsoft #tool#versioning#monorepo
 - [An alternative to single page apps: multi-page apps with service workers](https://gomakethings.com/an-alternative-to-single-page-apps-multi-page-apps-with-service-workers/) A case against SPA router and for service worker #technique#routing
 - [Beautiful CSS 3D Transform Examples](https://polypane.app/css-3d-transform-examples/) 3d surface with light and shadow #technique#3d#transform#pattern#reference
 - [css clamp() for typeramp](https://utopia.fyi/blog/clamp/) continuous function exported at quantum steps #technique#typography#responsive
