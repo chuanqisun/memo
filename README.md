@@ -1,3 +1,4 @@
+- [Cheating Entropy with Native Web Technologies](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/) native low-tech for better maintenance #opinion#devexperience
 - [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/) optimized for SPA architecture, server push, pre-cache, lazy-load #performance#caching#technique
 - [molefrog/wouter](https://github.com/molefrog/wouter/) minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS. #library#lightweight
 - [The shared component cloud · Bit](https://bit.dev/) searchable repository of components from many frameworks #resource#saas#pattern
