@@ -1,3 +1,4 @@
+- [Radix Icons](https://icons.modulz.app/) optimized for high density interface design tool 15x15 #free#resource
 - [Rudimentary Roam replica with Org-mode](https://github.com/org-roam/org-roam) note taking extension for Emacs #tool#editor
 - [beachball](https://microsoft.github.io/beachball/cli/change.html) Semantic version bumper by Microsoft #tool#versioning#monorepo
 - [An alternative to single page apps: multi-page apps with service workers](https://gomakethings.com/an-alternative-to-single-page-apps-multi-page-apps-with-service-workers/) A case against SPA router and for service worker #technique#routing
