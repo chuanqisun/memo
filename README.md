@@ -1,3 +1,4 @@
+- [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/) optimized for SPA architecture, server push, pre-cache, lazy-load #performance#caching#technique
 - [molefrog/wouter](https://github.com/molefrog/wouter/) minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS. #library#lightweight
 - [The shared component cloud · Bit](https://bit.dev/) searchable repository of components from many frameworks #resource#saas#pattern
 - [armandsalle/butter-slider](https://github.com/armandsalle/butter-slider) Butter is a simple drag and hold slider. With 0 dependencies #carousel#webcomponent#library#lightweight
