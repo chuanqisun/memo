@@ -450,7 +450,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Charlie Owen's personal website](https://www.sonniesedge.net/) brutal, simple, fast, and functional #gooddesign
 - [Writing a Simple MVC App in Plain JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/) #beginner#tutorial
 - [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) the problems that frameworks are designed to solve #opinion#philosophy
-- [Simplest way to load CSS async](https://www.filamentgroup.com/lab/load-css-simpler/) #technique#perf
+- [Simplest way to load CSS async](https://www.filamentgroup.com/lab/load-css-simpler/) #technique#performance
 - [Flexible data table with CSS Grid](https://adamlynch.com/flexible-data-tables-with-css-grid/) #pattern#table
 - [Quantum computing for the very curious](https://quantum.country/qcvc) experimental menmonic medium as an alternative to textbook #gooddesign
 - [10 Usability Heuristics for UI design](https://www.nngroup.com/articles/ten-usability-heuristics/) #reference#research
