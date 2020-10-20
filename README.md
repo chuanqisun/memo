@@ -27,8 +27,8 @@
 - [How does the TypeScript Angular DI magic work?](http://nicholasjohnson.com/blog/how-angular2-di-works-with-typescript/) Reflect metadata, TypeScript emiDecoratorMetadata, dependency injection #technique#framework
 - [Building](https://adactio.com/articles/16334) Jeremy Keith drawing parallelism between building and web development, covering layers of technology and the moral responsibility of developers #philosophy#inspiration#architecture#principle
 - [Mono Icons](https://icons.mono.company/) #icon#free#resource
-- [Tools should not only be for experts – they should turn us into them](https://christianheilmann.com/2020/09/15/tools-should-not-only-be-for-experts-they-should-turn-us-into-them/) how to improve developer experience #philosophy#dx
-- [Bret Victor - Inventing on Principle](https://vimeo.com/36579366) interactive parametric algorithmic design with a time dimension and real-time feedback, code and pixel two-way lookup, and finding your principle and purpose of life #philosophy#tool#gooddesign#dx
+- [Tools should not only be for experts – they should turn us into them](https://christianheilmann.com/2020/09/15/tools-should-not-only-be-for-experts-they-should-turn-us-into-them/) how to improve developer experience #philosophy#devexperience
+- [Bret Victor - Inventing on Principle](https://vimeo.com/36579366) interactive parametric algorithmic design with a time dimension and real-time feedback, code and pixel two-way lookup, and finding your principle and purpose of life #philosophy#tool#gooddesign#devexperience
 - [The tangled webs we weave](https://daverupert.com/2020/09/tangled-webs) trade off between modularity and complexity of dependencies #opinion#philosophy
 - [Sombras.app](https://sombras.app/) 3D projection shadow design #tool
 - [Forms best practice](https://gerireid.com/forms.html#error-messages) #pattern#button#checkbox#datetime#error#radio#select#input#form#reference#notification
@@ -58,7 +58,7 @@
 - [Flume](https://flume.dev/) React based node and link canvas editor #library#diagram
 - [umami](https://umami.is/) self hosted analytics for modern web stack #library
 - [Eponymous Laws](https://www.swyx.io/writing/eponymous-laws/) Heuristics and rules in software, hardware, business, and technology world #reference#philosophy
-- [swyx Writing | Developer Exception Engineering](https://www.swyx.io/writing/developer-exception/) Deep analysis on developer experience #dx#process#tool
+- [swyx Writing | Developer Exception Engineering](https://www.swyx.io/writing/developer-exception/) Deep analysis on developer experience #devexperience#process#tool
 - [Copy the Browser’s Native Focus Styles](https://css-tricks.com/copy-the-browsers-native-focus-styles/) #technique#a11y
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) object oriented #reference#language
 - [The Decline of Usability](https://datagubbe.se/decusab/) criticism on how desktop app design were influenced by mobile app trends #opinion
