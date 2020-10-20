@@ -1,4 +1,4 @@
-- [The shared component cloud · Bit](https://bit.dev/) searchable repository of components from many frameworks #resource#saas
+- [The shared component cloud · Bit](https://bit.dev/) searchable repository of components from many frameworks #resource#saas#pattern
 - [armandsalle/butter-slider](https://github.com/armandsalle/butter-slider) Butter is a simple drag and hold slider. With 0 dependencies #carousel#webcomponent#library#lightweight
 - [Radix Icons](https://icons.modulz.app/) optimized for high density interface design tool 15x15 #free#resource
 - [Rudimentary Roam replica with Org-mode](https://github.com/org-roam/org-roam) note taking extension for Emacs #tool#editor
