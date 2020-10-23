@@ -1,3 +1,4 @@
+- [Hands-Free Coding](https://joshwcomeau.com/accessibility/hands-free-coding/) talon dictation and eye tracking #a11y#editor#humanfactor#tool#productivity
 - [Fig - Visual Apps & Shortcuts for your Terminal](https://withfig.com/) augment terminal with GUI and autocompletion #tool#tui#devexperience#terminal#gooddesign
 - [Cheating Entropy with Native Web Technologies](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/) native low-tech for better maintenance #opinion#devexperience
 - [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/) optimized for SPA architecture, server push, pre-cache, lazy-load #performance#caching#technique
