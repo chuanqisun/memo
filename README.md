@@ -1,3 +1,4 @@
+- [link-to-qr](https://link-to-qr.com/) QR code generator #tool#qrcode
 - [Handsfree.js.org](https://handsfree.js.org/#/) head tracking with tensor flow demo #machinelearning#headtracking#hci#demo#library
 - [Phosphor Icons](https://phosphoricons.com/) duo tone icon set #icon#free#resource
 - [Daily.dev](https://daily.dev/) developer news feed as a service, open sourced #platform#news#rss
