@@ -1,3 +1,4 @@
+- [Phosphor Icons](https://phosphoricons.com/) duo tone icon set #icon#free#resource
 - [Daily.dev](https://daily.dev/) developer news feed as a service, open sourced #platform#news#rss
 - [Old, Good Database Design](https://relinx.io/2020/09/14/old-good-database-design/) entry level explanation of database design basics #beginner#database#reference
 - [Hands-Free Coding](https://joshwcomeau.com/accessibility/hands-free-coding/) talon dictation and eye tracking #a11y#editor#humanfactor#tool#productivity
