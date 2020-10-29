@@ -1,3 +1,4 @@
+- [Nathan Shipley](http://www.nathanshipley.com/) AI and technology artist #inspiration#machinelearning
 - [Popmotion: The animator's JavaScript toolbox](https://popmotion.io/) high performance utilities with javascript transfroms #animation#library
 - [Layout projection: A method for animating browser layouts at 60fps](https://mattperry.is/writing-code/layout-projection-animate-browser-layout-60fps) simpler than FLIP #animation#technique#performance
 - [link-to-qr](https://link-to-qr.com/) QR code generator #tool#qrcode
