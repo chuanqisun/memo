@@ -1,3 +1,4 @@
+- [Layout projection: A method for animating browser layouts at 60fps](https://mattperry.is/writing-code/layout-projection-animate-browser-layout-60fps) simpler than FLIP #animation#technique#performance
 - [link-to-qr](https://link-to-qr.com/) QR code generator #tool#qrcode
 - [Handsfree.js.org](https://handsfree.js.org/#/) head tracking with tensor flow demo #machinelearning#headtracking#hci#demo#library
 - [Phosphor Icons](https://phosphoricons.com/) duo tone icon set #icon#free#resource
