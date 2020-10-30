@@ -1,3 +1,4 @@
+- [ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) A polyfill for Custom Elements builtin extends #webcomponent#library
 - [WordPress and Jamstack](https://css-tricks.com/wordpress-and-jamstack/) comparison #opinion#jamstack
 - [Nathan Shipley](http://www.nathanshipley.com/) AI and technology artist #inspiration#machinelearning
 - [Popmotion: The animator's JavaScript toolbox](https://popmotion.io/) high performance utilities with javascript transfroms #animation#library
