@@ -1,3 +1,4 @@
+- [How to sanitize third-party content with vanilla JS to prevent cross-site scripting (XSS) attacks](https://gomakethings.com/how-to-sanitize-third-party-content-with-vanilla-js-to-prevent-cross-site-scripting-xss-attacks/) #technique#security
 - [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html) for modern web browser #visualization#library
 - [Example Gallery](https://vega.github.io/vega/examples/) json to SVG #visualization#library
 - [ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) A polyfill for Custom Elements builtin extends #webcomponent#library
