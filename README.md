@@ -1,3 +1,4 @@
+- [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html) for modern web browser #visualization#library
 - [Example Gallery](https://vega.github.io/vega/examples/) json to SVG #visualization#library
 - [ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) A polyfill for Custom Elements builtin extends #webcomponent#library
 - [WordPress and Jamstack](https://css-tricks.com/wordpress-and-jamstack/) comparison #opinion#jamstack
