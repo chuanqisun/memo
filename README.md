@@ -1,3 +1,4 @@
+- [Starting a Small Business as a Web Developer](https://www.youtube.com/watch?v=qn6OhK_Irm4) legal and logistics #entrepreneur#startup
 - [How to Build HTML Forms Right: Styling](https://stegosource.com/build-html-forms-right-styling/) details in cross platform accessible plain html css #technique#pattern#form#a11y#input#select#radio#checkbox
 - [How to sanitize third-party content with vanilla JS to prevent cross-site scripting (XSS) attacks](https://gomakethings.com/how-to-sanitize-third-party-content-with-vanilla-js-to-prevent-cross-site-scripting-xss-attacks/) #technique#security
 - [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html) for modern web browser #visualization#library
