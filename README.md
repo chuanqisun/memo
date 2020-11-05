@@ -1,3 +1,4 @@
+- [Copying is the way design works](https://matthewstrom.com/writing/copying/) Matthew Ström musing on copy, open source, and creative learning #opinion#philosophy
 - [Marked](https://github.com/markedjs/marked) A mature markdown parser and compiler #markdown#library#editor
 - [Starting a Small Business as a Web Developer](https://www.youtube.com/watch?v=qn6OhK_Irm4) legal and logistics #entrepreneur#startup
 - [How to Build HTML Forms Right: Styling](https://stegosource.com/build-html-forms-right-styling/) details in cross platform accessible plain html css #technique#pattern#form#a11y#input#select#radio#checkbox
