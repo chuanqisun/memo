@@ -1,3 +1,4 @@
+- [Technical Credit](https://www.stillbreathing.co.uk/2016/10/13/technical-credit) anticipating emergent technology  #philosophy#opinion#progressive
 - [Lean Web Principles](https://leanweb.dev/ebook/lean-web-principles/) criticism on "best practice" of framework based tech stack and promotion of vanilla js #philosophy#performance#opinion
 - [Copying is the way design works](https://matthewstrom.com/writing/copying/) Matthew Ström musing on copy, open source, and creative learning #opinion#philosophy
 - [Marked](https://github.com/markedjs/marked) A mature markdown parser and compiler #markdown#library#editor
