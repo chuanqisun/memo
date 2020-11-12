@@ -1,3 +1,4 @@
+- [React is Fiction](https://www.youtube.com/watch?v=kqh4lz2Lkzs) Jenn Creighton applying creative writing technique to React component composition. Be more declarative and less DRY #opinion#react#philosophy#architecture
 - [Lateral](https://lateral.io/) knowledge block detection, tagging, and grouping #ai#nlp#saas
 - [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) high performance full text file search utility #searchengine#tool
 - [Technical debt as a lack of understanding](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/) justify refactoring/rewriting after reorganization #philosophy#opinion
