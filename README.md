@@ -1,3 +1,4 @@
+- [utterances](https://utteranc.es/) github styled comments anywhere, stored as issues #library#gooddesign
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) epic talk on quine, algorithm, recursion, computer language design, and interactive art #inspiration#algorithm
 - [React is Fiction](https://www.youtube.com/watch?v=kqh4lz2Lkzs) Jenn Creighton applying creative writing technique to React component composition. Be more declarative and less DRY #opinion#react#philosophy#architecture
 - [Lateral](https://lateral.io/) knowledge block detection, tagging, and grouping #ai#nlp#saas
