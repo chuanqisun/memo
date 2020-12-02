@@ -1,3 +1,4 @@
+- [Coding Fonts](https://coding-fonts.css-tricks.com/) monospace, with ligatures, free and paid #typography#resource#variablefont
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) product logo and icons under 1KB each in svg and png #logo#icon#resource
 - [swc](https://swc.rs/docs/installation) javascript/typescript compiler written in Rust #tool#compiler
 - [Mixing Colors in Pure CSS](https://css-tricks.com/mixing-colors-in-pure-css/) using animation time as input #color#technique
