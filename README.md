@@ -1,3 +1,4 @@
+- [swc](https://swc.rs/docs/installation) javascript/typescript compiler written in Rust #tool#compiler
 - [Mixing Colors in Pure CSS](https://css-tricks.com/mixing-colors-in-pure-css/) using animation time as input #color#technique
 - [utterances](https://utteranc.es/) github styled comments anywhere, stored as issues #library#gooddesign
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) epic talk on quine, algorithm, recursion, computer language design, and interactive art #inspiration#algorithm
