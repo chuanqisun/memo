@@ -1,3 +1,4 @@
+- [Using CSS Custom Properties to Adjust Variable Font Weights in Dark Mode](https://css-tricks.com/using-css-custom-properties-to-adjust-variable-font-weights-in-dark-mode/) text appears heavier due to rendering artifact #typography#darkmode#technique
 - [Coding Fonts](https://coding-fonts.css-tricks.com/) monospace, with ligatures, free and paid #typography#resource#variablefont
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) product logo and icons under 1KB each in svg and png #logo#icon#resource
 - [swc](https://swc.rs/docs/installation) javascript/typescript compiler written in Rust #tool#compiler
