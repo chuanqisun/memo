@@ -1,3 +1,4 @@
+- [Aleph.js](https://alephjs.org/docs) Next.js for Deno, without npm overhead #framework
 - [Vanilla javascript Event Bus](https://css-tricks.com/lets-create-a-lightweight-native-event-bus-in-javascript/) using Native DOM events with EventTarget to implement pubsub, emitter-listener. #technique
 - [Using CSS Custom Properties to Adjust Variable Font Weights in Dark Mode](https://css-tricks.com/using-css-custom-properties-to-adjust-variable-font-weights-in-dark-mode/) text appears heavier due to rendering artifact #typography#darkmode#technique
 - [Coding Fonts](https://coding-fonts.css-tricks.com/) monospace, with ligatures, free and paid #typography#resource#variablefont
