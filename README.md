@@ -1,3 +1,4 @@
+- [Label in Name](https://css-tricks.com/whats-new-in-wcag-2-1-label-in-name/) WCAG 2.1 addition. aria-label to match visuial text #a11y#technique#demo
 - [Detecting when focus leaves a group of elements with vanilla JS](https://gomakethings.com/detecting-when-focus-leaves-a-group-of-elements-with-vanilla-js/) onFocusOut implementation for dialog #technique#dialog#modal#focusmanagement#keyboard
 - [ESM](https://esm.sh/) javascript native module CDN, similar to skypack #cdn#prototyping
 - [Aleph.js](https://alephjs.org/docs) Next.js for Deno, without npm overhead #framework
