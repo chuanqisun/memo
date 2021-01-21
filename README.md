@@ -1,3 +1,4 @@
+- [Scrollbars on Hover](https://css-tricks.com/scrollbars-on-hover/) With css mask #scroll#technique
 - [Houdini.how](https://houdini.how/) visual effects packaged as Houdini paint worklet with node connection graph #houdini#resource#background
 - [DevOps Crash Course (Docker, Terraform, and Github Actions)](https://www.youtube.com/watch?v=OXE2a8dqIAI&ab_channel=TraversyMedia) github tag based release trigger setup #devops#tutorial#beginner
 - [Label in Name](https://css-tricks.com/whats-new-in-wcag-2-1-label-in-name/) WCAG 2.1 addition. aria-label to match visuial text #a11y#technique#demo
