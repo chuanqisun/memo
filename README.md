@@ -1,3 +1,4 @@
+- [Desirable Streets](https://senseable.mit.edu/desirable-streets/) MIT Senseable City Lab. Computer vision and big data analytics #visualization#datadriven#gooddesign
 - [The documentation system by divio](https://documentation.divio.com/) tutorial vs. guide vs. explanation/topic vs. reference #documentation#guide#tutorial#gooddesign#content
 - [Scrollbars on Hover](https://css-tricks.com/scrollbars-on-hover/) With css mask #scroll#technique
 - [Houdini.how](https://houdini.how/) visual effects packaged as Houdini paint worklet with node connection graph #houdini#resource#background
