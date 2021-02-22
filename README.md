@@ -1,3 +1,4 @@
+- [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227) Career path, rewrite vs refactor, and disruption theory #philosophy#businessstrategy
 - [Desirable Streets](https://senseable.mit.edu/desirable-streets/) MIT Senseable City Lab. Computer vision and big data analytics #visualization#datadriven#gooddesign
 - [The documentation system by divio](https://documentation.divio.com/) tutorial vs. guide vs. explanation/topic vs. reference #documentation#guide#tutorial#gooddesign#content
 - [Scrollbars on Hover](https://css-tricks.com/scrollbars-on-hover/) With css mask #scroll#technique
