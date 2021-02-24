@@ -1,3 +1,4 @@
+- [Programming Guides](https://roadmap.sh/guides) Visualized learning paths for software technologies #guide#beginner
 - [Getting Deep into Shadows](https://css-tricks.com/getting-deep-into-shadows/) realistic css styling #explanation#shadow#technique
 - [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227) Career path, rewrite vs refactor, and disruption theory #philosophy#businessstrategy
 - [Desirable Streets](https://senseable.mit.edu/desirable-streets/) MIT Senseable City Lab. Computer vision and big data analytics #visualization#datadriven#gooddesign
