@@ -1,3 +1,4 @@
+- [How to Animate the Details Element](https://css-tricks.com/how-to-animate-the-details-element/) rotate chevron and expand details content #technique
 - [How to Animate the Details Element Using WAAPI](https://css-tricks.com/how-to-animate-the-details-element-using-waapi/) web animation api for height #technique
 - [cubic-bezier visualization](https://cubic-bezier.com/#.17,.67,.83,.67) generator for css animation timing function #animation#timing#tool
 - [Developer Roadmaps](https://roadmap.sh/) #guide#resource#reference#beginner
