@@ -1,3 +1,4 @@
+- [How to Animate the Details Element Using WAAPI](https://css-tricks.com/how-to-animate-the-details-element-using-waapi/) web animation api for height #technique
 - [cubic-bezier visualization](https://cubic-bezier.com/#.17,.67,.83,.67) generator for css animation timing function #animation#timing#tool
 - [Developer Roadmaps](https://roadmap.sh/) #guide#resource#reference#beginner
 - [Programming Guides](https://roadmap.sh/guides) Visualized learning paths for software technologies #guide#beginner
