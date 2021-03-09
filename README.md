@@ -1,3 +1,4 @@
+- [Building a Tabs component](https://web.dev/building-a-tabs-component/) Handle scroll, snap, animation, reduced motion, by Chrome team #technique#pattern#tab#tutorial#scroll
 - [URL validation regex](https://mathiasbynens.be/demo/url-regex) Comparison table of all URL regex matchers #reference
 - [How to Animate the Details Element](https://css-tricks.com/how-to-animate-the-details-element/) rotate chevron and expand details content #technique
 - [How to Animate the Details Element Using WAAPI](https://css-tricks.com/how-to-animate-the-details-element-using-waapi/) web animation api for height #technique
