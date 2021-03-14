@@ -1,3 +1,4 @@
+- [The Rust Programming Language](https://doc.rust-lang.org/book/) #beginner
 - [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) #reference
 - [Shortstack](https://github.com/argyleink/shortstack) minimal setup for using future css features in vanilla js app #template#library#devexperience
 - [Building a Tabs component](https://web.dev/building-a-tabs-component/) Handle scroll, snap, animation, reduced motion, by Chrome team #technique#pattern#tab#tutorial#scroll
