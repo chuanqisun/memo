@@ -1,3 +1,4 @@
+- [Better Line Breaks for Long URLs](https://css-tricks.com/better-line-breaks-for-long-urls/) with `wrb` element and string replacement #technique#responsive#url
 - [The Rust Programming Language](https://doc.rust-lang.org/book/) #beginner
 - [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) #reference
 - [Shortstack](https://github.com/argyleink/shortstack) minimal setup for using future css features in vanilla js app #template#library#devexperience
