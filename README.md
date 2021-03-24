@@ -1,3 +1,4 @@
+- [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/#accessible-tap-click-menu) #pattern#a11y#reference
 - [In Praise of the Unambiguous Click Menu](https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/) Drawbacks of mega hover menu  #technique#navigation#menu
 - [Better Line Breaks for Long URLs](https://css-tricks.com/better-line-breaks-for-long-urls/) with `wrb` element and string replacement #technique#responsive#url
 - [The Rust Programming Language](https://doc.rust-lang.org/book/) #beginner
