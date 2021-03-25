@@ -1,3 +1,4 @@
+- [vue-lit](https://github.com/yyx990803/vue-lit) @vue/reactivity and lit-html #statemanagement#library
 - [Takes on State](https://css-tricks.com/takes-on-state/) Statement management with low overhead javascript #statemanagement#technique
 - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/#accessible-tap-click-menu) #pattern#a11y#reference
 - [In Praise of the Unambiguous Click Menu](https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/) Drawbacks of mega hover menu  #technique#navigation#menu
