@@ -1,3 +1,4 @@
+- [Handling Text Over Images in CSS](https://ishadeed.com/article/handling-text-over-image-css/) Overlay gradient #technique#a11y#image
 - [Using JavaScript module system for state management](https://krasimirtsonev.com/blog/article/javascript-module-system-for-state-management) #statemanagement#technique
 - [vue-lit](https://github.com/yyx990803/vue-lit) @vue/reactivity and lit-html #statemanagement#library
 - [Takes on State](https://css-tricks.com/takes-on-state/) Statement management with low overhead javascript #statemanagement#technique
