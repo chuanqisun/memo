@@ -1,3 +1,4 @@
+- [Live vs. static NodeLists and HTMLCollections in vanilla JS](https://gomakethings.com/live-vs.-static-nodelists-and-htmlcollections-in-vanilla-js/) getElementsByTagName returns live collection #technique
 - [Starship](https://starship.rs/) Cross-shell prompt, replace zsh, fish. #shell#cli#tool
 - [Handling Text Over Images in CSS](https://ishadeed.com/article/handling-text-over-image-css/) Overlay gradient #technique#a11y#image
 - [Using JavaScript module system for state management](https://krasimirtsonev.com/blog/article/javascript-module-system-for-state-management) #statemanagement#technique
