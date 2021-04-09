@@ -1,3 +1,4 @@
+- [Ping attribute on anchor links](https://www.stefanjudis.com/today-i-learned/html-defines-a-ping-attribute-on-anchor-elements-links/) For tracking and analytics #technique#analytics
 - [Live vs. static NodeLists and HTMLCollections in vanilla JS](https://gomakethings.com/live-vs.-static-nodelists-and-htmlcollections-in-vanilla-js/) getElementsByTagName returns live collection #technique
 - [Starship](https://starship.rs/) Cross-shell prompt, replace zsh, fish. #shell#cli#tool
 - [Handling Text Over Images in CSS](https://ishadeed.com/article/handling-text-over-image-css/) Overlay gradient #technique#a11y#image
