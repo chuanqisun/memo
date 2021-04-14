@@ -1,3 +1,4 @@
+- [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/) visual patterns for algorithmic and parametric design #tool#visualization#color
 - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/) #guide#reference#beginner#email
 - [SmolCSS](https://smolcss.dev/#smol-article-anchor-title) Minimal snippets for modern CSS layouts and components #reference#layout#responsive
 - [Ping attribute on anchor links](https://www.stefanjudis.com/today-i-learned/html-defines-a-ping-attribute-on-anchor-elements-links/) For tracking and analytics #technique#analytics
