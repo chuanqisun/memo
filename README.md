@@ -1,3 +1,4 @@
+- [Lightweight syntax highlighting code editor](https://css-tricks.com/creating-an-editable-textarea-that-supports-syntax-highlighted-code/) with transparent textarea and prism #technique#wysiwyg#editor
 - [CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/) intro to spec, motivation explained #beginner#responsive#tutorial#technique
 - [CSS Specificity Graph Generator](https://jonassebastianohlsson.com/specificity-graph/?ref=tiny-helpers) visualize the low-to-high trend  #tool#visualization
 - [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/) visual patterns for algorithmic and parametric design #tool#visualization#color
