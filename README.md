@@ -1,3 +1,4 @@
+- [Declarative shadow dom](https://developer.chrome.com/blog/new-in-chrome-90/) use shadow dom without javascript #technique#html#webcomponent
 - [focus-visible](https://css-tricks.com/platform-news-using-focus-visible-bbcs-new-typeface-declarative-shadow-doms-a11y-and-placeholders/) backward compatible #technique#keyboard#focusmanagement
 - [lage](https://microsoft.github.io/lage/) JavaScript topological npm script task runner #monorepo#library#devops#cicd
 - [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/) #performance
