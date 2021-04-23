@@ -1,4 +1,4 @@
-- [ProseMirror](https://prosemirror.net/) crowd funded rich text editor for the web #editor
+- [ProseMirror](https://prosemirror.net/) crowd funded rich text editor for the web. Has monorepo version manager builtin #editor
 - [Declarative shadow dom](https://developer.chrome.com/blog/new-in-chrome-90/) use shadow dom without javascript #technique#html#webcomponent
 - [focus-visible](https://css-tricks.com/platform-news-using-focus-visible-bbcs-new-typeface-declarative-shadow-doms-a11y-and-placeholders/) backward compatible #technique#keyboard#focusmanagement
 - [lage](https://microsoft.github.io/lage/) JavaScript topological npm script task runner #monorepo#library#devops#cicd
