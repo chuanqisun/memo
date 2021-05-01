@@ -1,3 +1,4 @@
+- [Gruvbox themed wall papers](https://www.reddit.com/u/atlas-ark) for various operating systems #gooddesign#resource#darkmode
 - [Tokio](https://tokio.rs/) Binding for v8 used by deno.  #gooddesign#library#rust
 - [Shields.io](https://shields.io/) metadata badges for open source projects and GitHub readme #tool#svg
 - [A Complete Guide To Incremental Static Regeneration (ISR)](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/) With Next.js #performance#guide#beginner
