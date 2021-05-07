@@ -1,3 +1,4 @@
+- [Building a Settings component](https://web.dev/building-a-settings-component/) Browser native slider and checkbox styling #pattern#form#slider#checkbox
 - [Lorem Picsum](https://picsum.photos) random photo placeholder #api#service#mock#image
 - [Localtunnel](https://theboroer.github.io/localtunnel-www/) expose localhost to the internet, with node cli #free#tool#pairprogramming#devexperience
 - [ngrok](https://ngrok.com/) expose localhost to the internet #tool#devexperience#pairprogramming
