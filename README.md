@@ -1,3 +1,4 @@
+- [WinBox - HTML5 window manager](https://nextapps-de.github.io/winbox/) modal window with HTML content, good for lightweight embed #modal#dialog
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) node vm with full access control #sandbox#security
 - [QuickJS Javascript Engine](https://bellard.org/quickjs/quickjs.html#installation) Written in C, can cross compile to web assembly. Secured with no browser or os API #sandbox#wasm
 - [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/) Figma security solution for running user generated javascript #extensibility#sandbox
