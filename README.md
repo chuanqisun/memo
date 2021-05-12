@@ -1,3 +1,4 @@
+- [QuickJS Javascript Engine](https://bellard.org/quickjs/quickjs.html#installation) Written in C, can cross compile to web assembly. Secured with no browser or os API #sandbox#wasm
 - [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/) Figma security solution for running user generated javascript #extensibility#sandbox
 - [Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal](https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/) engaging colorful background using css gradient #responsive#placeholder#emptystate#technique
 - [Building a Settings component](https://web.dev/building-a-settings-component/) Browser native slider and checkbox styling #pattern#form#slider#checkbox
