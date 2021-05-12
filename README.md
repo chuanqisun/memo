@@ -1,3 +1,4 @@
+- [Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal](https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/) engaging colorful background using css gradient #responsive#placeholder#emptystate#technique
 - [Building a Settings component](https://web.dev/building-a-settings-component/) Browser native slider and checkbox styling #pattern#form#slider#checkbox
 - [Lorem Picsum](https://picsum.photos) random photo placeholder #api#service#mock#image
 - [Localtunnel](https://theboroer.github.io/localtunnel-www/) expose localhost to the internet, with node cli #free#tool#pairprogramming#devexperience
