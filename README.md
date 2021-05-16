@@ -1,3 +1,4 @@
+- [Nord color scheme](https://www.nordtheme.com/ports) #theming#color#gooddesign
 - [WinBox - HTML5 window manager](https://nextapps-de.github.io/winbox/) modal window with HTML content, good for lightweight embed #modal#dialog
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) node vm with full access control #sandbox#security
 - [QuickJS Javascript Engine](https://bellard.org/quickjs/quickjs.html#installation) Written in C, can cross compile to web assembly. Secured with no browser or os API #sandbox#wasm
