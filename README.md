@@ -1,4 +1,4 @@
-- [Atomico](https://github.com/atomicojs/atomico) web component with hooks, vdom, and optional jsx #library#webcomponent
+- [Atomico](https://github.com/atomicojs/atomico) web component with hooks, vdom, and optional jsx #webcomponent#framework
 - [Nord color scheme](https://www.nordtheme.com/ports) #theming#color#gooddesign
 - [WinBox - HTML5 window manager](https://nextapps-de.github.io/winbox/) modal window with HTML content, good for lightweight embed #modal#dialog
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) node vm with full access control #sandbox#security
