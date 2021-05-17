@@ -1,3 +1,4 @@
+- [Auto-Generated Social Media Images](https://css-tricks.com/auto-generated-social-media-images/) for open graph cover photo #technique
 - [Atomico](https://github.com/atomicojs/atomico) web component with hooks, vdom, and optional jsx #webcomponent#framework
 - [Nord color scheme](https://www.nordtheme.com/ports) #theming#color#gooddesign
 - [WinBox - HTML5 window manager](https://nextapps-de.github.io/winbox/) modal window with HTML content, good for lightweight embed #modal#dialog
