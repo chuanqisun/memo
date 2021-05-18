@@ -1,3 +1,4 @@
+- [RustBooks](https://github.com/sger/rustbooks) based on difficulty level #resource#rust
 - [Inspect](https://inspect.dev/) Debug iOS from WIndows with Chrome devtool #tool#browser#ios#devexperience
 - [Auto-Generated Social Media Images](https://css-tricks.com/auto-generated-social-media-images/) for open graph cover photo #technique
 - [Atomico](https://github.com/atomicojs/atomico) web component with hooks, vdom, and optional jsx #webcomponent#framework
