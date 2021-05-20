@@ -1,3 +1,4 @@
+- [SVGator](https://www.svgator.com/?utm_source=css-tricks&utm_medium=article&utm_campaign=svgator3_csstricks) Free SVG Animation Creator Online - No Coding #tool#svg#animation#free
 - [Ocean noise generator](https://virtocean.com) Background sound effect #tool#3d#sounddesign
 - [RustBooks](https://github.com/sger/rustbooks) based on difficulty level #resource#rust
 - [Inspect](https://inspect.dev/) Debug iOS from WIndows with Chrome devtool #tool#browser#ios#devexperience
