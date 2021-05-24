@@ -1,3 +1,4 @@
+- [Wox](http://www.wox.one/) The dmenu for windows. quick launcher #tool#keyboard#productivity
 - [Learn CSS](https://web.dev/learn/css/) Google's learning path #beginner#course#guide
 - [xivmap](https://github.com/mccxiv/xivmap) Minimap for websites, a la Sublime Text #library#visualization
 - [pagemap](https://larsjung.de/pagemap/) mini map for web pages #library#visualization
