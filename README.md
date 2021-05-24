@@ -1,3 +1,4 @@
+- [Learn CSS](https://web.dev/learn/css/) Google's learning path #beginner#course#guide
 - [xivmap](https://github.com/mccxiv/xivmap) Minimap for websites, a la Sublime Text #library#visualization
 - [pagemap](https://larsjung.de/pagemap/) mini map for web pages #library#visualization
 - [SVGator](https://www.svgator.com/?utm_source=css-tricks&utm_medium=article&utm_campaign=svgator3_csstricks) Free SVG Animation Creator Online - No Coding #tool#svg#animation#free
