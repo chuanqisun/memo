@@ -1,3 +1,4 @@
+- [CSS-in-JS analysis](https://github.com/andreipfeiffer/css-in-js) Analysis of CSS-in-JS solutions with comparison and pros and cons #reference
 - [Links on Web Components](https://css-tricks.com/links-on-web-components/) Usage and considerations #webcomponent#reference
 - [Wox](http://www.wox.one/) The dmenu for windows. quick launcher #tool#keyboard#productivity
 - [Learn CSS](https://web.dev/learn/css/) Google's learning path #beginner#course#guide
