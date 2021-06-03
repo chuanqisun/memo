@@ -1,3 +1,4 @@
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) Open source security best practice for various vulnerabilities e.g. CSRF, XSS, injection #security#reference
 - [CSS-in-JS analysis](https://github.com/andreipfeiffer/css-in-js) Analysis of CSS-in-JS solutions with comparison and pros and cons #reference
 - [Links on Web Components](https://css-tricks.com/links-on-web-components/) Usage and considerations #webcomponent#reference
 - [Wox](http://www.wox.one/) The dmenu for windows. quick launcher #tool#keyboard#productivity
