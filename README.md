@@ -1,3 +1,4 @@
+- [AngelList](https://angel.co/) Startup hiring and job posting platform  #resource
 - [argyleink/roving-ux](https://github.com/argyleink/roving-ux) stateful roving index for web ui #keyboard#a11y#library
 - [Control focus with tabindex](https://web.dev/control-focus-with-tabindex/) Arrow key controlled focus with Roving tabindex   #technique#keyboard#a11y
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) Open source security best practice for various vulnerabilities e.g. CSRF, XSS, injection #security#reference
