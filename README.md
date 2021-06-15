@@ -1,3 +1,4 @@
+- [Making Tables With Sticky Header and Footers Got a Bit Easier](https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/) #responsive#table#pattern
 - [Crazy, Powerful TypeScript Tuple Types](https://instil.co/blog/crazy-powerful-typescript-tuple-types/) Wrap unwrap each tuple item #technique#tutorial
 - [AngelList](https://angel.co/) Startup hiring and job posting platform  #resource
 - [argyleink/roving-ux](https://github.com/argyleink/roving-ux) stateful roving index for web ui #keyboard#a11y#library
