@@ -1,3 +1,4 @@
+- [Full stack means I'm a programmer who knows how to do some devops](https://twitter.com/sonniesedge/status/1405100821776322566) A thread that expanded to interpreting full stack as a masculinity toxic construct by capitalism #opinion
 - [Asynchronous Design Critique](https://alistapart.com/article/async-design-critique-giving-feedback/) Process for giving/collecting feedback #process#collaboration
 - [Making Tables With Sticky Header and Footers Got a Bit Easier](https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/) #responsive#table#pattern
 - [Crazy, Powerful TypeScript Tuple Types](https://instil.co/blog/crazy-powerful-typescript-tuple-types/) Wrap unwrap each tuple item #technique#tutorial
