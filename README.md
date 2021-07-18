@@ -1,3 +1,4 @@
+- [Breadcrumbs (GUI Challenges)](https://www.youtube.com/watch?v=kHL3gxAlvK8&t=666s) HTML + CSS based, mobile friendly #pattern#responsive#navigation#breadcrumb
 - [System Things](https://css-tricks.com/system-things/) Use system fonts color icon for web #technique#customization#a11y
 - [HTML rendered desktop app framework](https://ultralig.ht/) replacement for Electron #framework#nativeapp
 - [Full stack means I'm a programmer who knows how to do some devops](https://twitter.com/sonniesedge/status/1405100821776322566) A thread that expanded to interpreting full stack as a masculinity toxic construct by capitalism #opinion
