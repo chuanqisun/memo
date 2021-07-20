@@ -1,3 +1,4 @@
+- [Frustrating Design Patterns: Broken Filters](https://www.smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/) Design and engineering considerations on filtering #pattern#filtering#reference
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) Convert HTML to clean plaintext #library
 - [Breadcrumbs (GUI Challenges)](https://www.youtube.com/watch?v=kHL3gxAlvK8&t=666s) HTML + CSS based, mobile friendly #pattern#responsive#navigation#breadcrumb
 - [System Things](https://css-tricks.com/system-things/) Use system fonts color icon for web #technique#customization#a11y
