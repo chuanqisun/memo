@@ -1,3 +1,4 @@
+- [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) Convert HTML to clean plaintext #library
 - [Breadcrumbs (GUI Challenges)](https://www.youtube.com/watch?v=kHL3gxAlvK8&t=666s) HTML + CSS based, mobile friendly #pattern#responsive#navigation#breadcrumb
 - [System Things](https://css-tricks.com/system-things/) Use system fonts color icon for web #technique#customization#a11y
 - [HTML rendered desktop app framework](https://ultralig.ht/) replacement for Electron #framework#nativeapp
