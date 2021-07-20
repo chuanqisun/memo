@@ -1,6 +1,6 @@
 - [Frustrating Design Patterns: Broken Filters](https://www.smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/) Design and engineering considerations on filtering #pattern#filtering#reference
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) Convert HTML to clean plaintext #library
-- [Breadcrumbs (GUI Challenges)](https://www.youtube.com/watch?v=kHL3gxAlvK8&t=666s) HTML + CSS based, mobile friendly #pattern#responsive#navigation#breadcrumb
+- [Breadcrumbs (GUI Challenges)](https://www.youtube.com/watch?v=kHL3gxAlvK8&t=666s) HTML + CSS based, mobile friendly #pattern#responsive#navigation#breadcrumb#demo
 - [System Things](https://css-tricks.com/system-things/) Use system fonts color icon for web #technique#customization#a11y
 - [HTML rendered desktop app framework](https://ultralig.ht/) replacement for Electron #framework#nativeapp
 - [Full stack means I'm a programmer who knows how to do some devops](https://twitter.com/sonniesedge/status/1405100821776322566) A thread that expanded to interpreting full stack as a masculinity toxic construct by capitalism #opinion
