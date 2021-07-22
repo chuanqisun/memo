@@ -1,3 +1,4 @@
+- [DOMPurify](https://github.com/cure53/DOMPurify) HTML sanitization #security#library
 - [Custom deep clone function](https://gomakethings.com/the-best-way-to-clone-an-array-or-object-with-vanilla-js/) #technique#performance
 - [Frustrating Design Patterns: Broken Filters](https://www.smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/) Design and engineering considerations on filtering #pattern#filtering#reference
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) Convert HTML to clean plaintext #library
