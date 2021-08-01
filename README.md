@@ -1,3 +1,4 @@
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) A collection of modern/faster/saner alternatives to common unix commands. #resource#tool
 - [linuxserver/webtop](https://docs.linuxserver.io/images/docker-webtop) Run linux desktop environment in browser served from docker #container
 - [Kdenlive Libre Video Editor](https://kdenlive.org/en/) Open source #free#tool
 - [The Hidden Power of ES6 Generators: Observable Async Flow Control](https://medium.com/javascript-scene/the-hidden-power-of-es6-generators-observable-async-flow-control-cfa4c7f31435) From zero to rxjs #beginner#explanation
