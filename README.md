@@ -1,3 +1,4 @@
+- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) 5kb subset of Vue optimized for progressive enhancement. Compare to Alpine.js #framework#progressive#performance
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) Computer science study plan to become a software engineer. #beginner#resource#interview#education
 - [How to set up Neovim 0.5 + Modern plugins](https://blog.inkdrop.info/how-to-set-up-neovim-0-5-modern-plugins-lsp-treesitter-etc-542c3d9c9887) Status line, Gutter, LSP, Completion, File browser, Font #tutorial#editor
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) A collection of modern/faster/saner alternatives to common unix commands. #resource#tool
