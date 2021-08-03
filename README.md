@@ -1,3 +1,4 @@
+- [Conjuring Generative Blobs With The CSS Paint API](https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/) #houdini#library#technique
 - [Solid](https://www.solidjs.com/) Reactive Javascript Library. React without Virtual DOM. Compare to Crank.js #framework#performance
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) 5kb subset of Vue optimized for progressive enhancement. Compare to Alpine.js #framework#progressive#performance
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) Computer science study plan to become a software engineer. #beginner#resource#interview#education
