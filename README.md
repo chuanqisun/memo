@@ -1,3 +1,4 @@
+- [Refactoring CSS](https://www.smashingmagazine.com/2021/07/refactoring-css-introduction-part1/) CSS refactor strategy that deals with leaky, global, and high specificity selectors, using override.css and defend.css #technique#methodology#refactoring#datadriven
 - [Astro GitHub projects board](https://github.com/snowpackjs/astro/projects) Documentation, RFC, Bug as separate projects #reference#devops#projectmanagement
 - [Conjuring Generative Blobs With The CSS Paint API](https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/) #houdini#library#technique
 - [Solid](https://www.solidjs.com/) Reactive Javascript Library. React without Virtual DOM. Compare to Crank.js #framework#performance
