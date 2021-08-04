@@ -1,3 +1,4 @@
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) Next-Generation full text fuzzy search library for Browser and Node.js. Come with indexer. Used by MDN. #searchengine#performance
 - [Refactoring CSS](https://www.smashingmagazine.com/2021/07/refactoring-css-introduction-part1/) CSS refactor strategy that deals with leaky, global, and high specificity selectors, using override.css and defend.css #technique#methodology#refactoring#datadriven
 - [Astro GitHub projects board](https://github.com/snowpackjs/astro/projects) Documentation, RFC, Bug as separate projects #reference#devops#projectmanagement
 - [Conjuring Generative Blobs With The CSS Paint API](https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/) #houdini#library#technique
