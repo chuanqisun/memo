@@ -1,3 +1,4 @@
+- [browsh-org/browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers. Using headless browser as backend. #tui#browser#tool
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) Tiling window manager, color picker, keyboard mapping tool #tool
 - [Disabled Buttons](https://www.smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/) #pattern#disabled#button
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) Next-Generation full text fuzzy search library for Browser and Node.js. Come with indexer. Used by MDN. #searchengine#performance
