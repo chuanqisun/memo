@@ -1,3 +1,4 @@
+- [Cycle.js](https://cycle.js.org/) Observable based framework for building UI #functional#framework
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers. Using headless browser as backend. #tui#browser#tool
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) Tiling window manager, color picker, keyboard mapping tool #tool
 - [Disabled Buttons](https://www.smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/) #pattern#disabled#button
