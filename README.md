@@ -1,3 +1,4 @@
+- [mermaid](https://mermaid-js.github.io/mermaid/) Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs. #chart#markdown#visualization#library
 - [Cycle.js](https://cycle.js.org/) Observable based framework for building UI #functional#framework
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers. Using headless browser as backend. #tui#browser#tool
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) Tiling window manager, color picker, keyboard mapping tool #tool
