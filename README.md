@@ -1,3 +1,4 @@
+- [Fermat's Library](https://fermatslibrary.com/margins) Crowd sourced paper annoation #gooddesign#tool#community#knowledgebase
 - [mermaid](https://mermaid-js.github.io/mermaid/) Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs. #chart#markdown#visualization#library
 - [Cycle.js](https://cycle.js.org/) Observable based framework for building UI #functional#framework
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers. Using headless browser as backend. #tui#browser#tool
