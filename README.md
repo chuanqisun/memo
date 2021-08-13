@@ -1,3 +1,4 @@
+- [kufii/CodeSnap](https://github.com/kufii/CodeSnap) take beautiful screenshots in VS Code #tool
 - [Thinking on ways to solve SWITCHES](https://www.youtube.com/watch?v=_KqccADghcA) #pattern#toggle
 - [Fermat's Library](https://fermatslibrary.com/margins) Crowd sourced paper annoation #gooddesign#tool#community#knowledgebase
 - [mermaid](https://mermaid-js.github.io/mermaid/) Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs. #chart#markdown#visualization#library
