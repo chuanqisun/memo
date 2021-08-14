@@ -1,3 +1,4 @@
+- [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) git in the browser using libgit2 compiled to WebAssembly #git#wasm#library
 - [kufii/CodeSnap](https://github.com/kufii/CodeSnap) take beautiful screenshots in VS Code #tool
 - [Thinking on ways to solve SWITCHES](https://www.youtube.com/watch?v=_KqccADghcA) #pattern#toggle
 - [Fermat's Library](https://fermatslibrary.com/margins) Crowd sourced paper annoation #gooddesign#tool#community#knowledgebase
