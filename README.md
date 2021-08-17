@@ -1,3 +1,4 @@
+- [Cut-Out Effect: CSS or SVG](https://ishadeed.com/article/thinking-about-the-cut-out-effect/) circular cutout for persona or avatar display #technique#tutorial
 - [Free Open-Source Icons](https://www.smashingmagazine.com/2021/08/open-source-icons/) Flag, avatar, health, weather, people, vector art #icon#resource#illustration
 - [Unicode Arrows](https://unicodearrows.com/all-arrows) #reference#typography
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) git in the browser using libgit2 compiled to WebAssembly #git#wasm#library
