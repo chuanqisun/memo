@@ -1,3 +1,4 @@
+- [steveruizok/perfect-freehand: Draw perfect pressure-sensitive freehand strokes.](https://github.com/steveruizok/perfect-freehand) #library#draw
 - [Star Rating](https://ishadeed.com/article/star-rating-svg/) SVG solution to star ratings control with half star #rating#pattern
 - [Cut-Out Effect: CSS or SVG](https://ishadeed.com/article/thinking-about-the-cut-out-effect/) circular cutout for persona or avatar display #technique#tutorial
 - [Free Open-Source Icons](https://www.smashingmagazine.com/2021/08/open-source-icons/) Flag, avatar, health, weather, people, vector art #icon#resource#illustration
