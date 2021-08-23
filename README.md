@@ -1,3 +1,4 @@
+- [gdbgui](https://github.com/cs01/gdbgui) Browser-based frontend to gdb (gnu debugger). Good for C, C++, Go, Rust, and Fortran. #tool#debug
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) JavaScript syntax highlighter with language auto-detection and zero dependencies. Used by rust documentation site #highlight#documentation#library
 - [steveruizok/perfect-freehand: Draw perfect pressure-sensitive freehand strokes.](https://github.com/steveruizok/perfect-freehand) #library#draw
 - [Star Rating](https://ishadeed.com/article/star-rating-svg/) SVG solution to star ratings control with half star #rating#pattern
