@@ -1,3 +1,4 @@
+- [writewithocto/octo](https://github.com/writewithocto/octo) Markdown editor for connected note taking #editor#markdown#saas#gooddesign
 - [christianliebel/paint](https://github.com/christianliebel/paint) Open source, Web Components-based remake of MS Paint using modern web capabilities. #demo#webcomponent#file
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) html rendering library with template literal. Compare to lit-html #library#webcomponent
 - [wikimedia/VisualEditor](https://github.com/wikimedia/VisualEditor) Rich text editor used by wikipedia #library#editor
