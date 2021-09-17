@@ -1,3 +1,4 @@
+- [W3C Design System](https://design-system.w3.org/) with vanilla js and basic css primitives #gooddesign#designsystem#methodology#itcss#bem#form
 - [KBar](https://kbar.vercel.app/) ctrl+k or command+k to open command box #pattern#library
 - [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal) Flatpak permission management #tool#linux
 - [You want enabling CSS selectors, not disabling ones](https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/) use `not` to author positive selectors, rather than negating ones for better maintainability and readability #technique#maintenance
