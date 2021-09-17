@@ -1,3 +1,4 @@
+- [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal) Flatpak permission management #tool#linux
 - [You want enabling CSS selectors, not disabling ones](https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/) use `not` to author positive selectors, rather than negating ones for better maintainability and readability #technique#maintenance
 - [CSS Pseudo Commas](https://codepen.io/ShadowShahriar/pen/LYyvVjo) css-only solution to display a list separated by commas and joined by and in the end #technique#content#text
 - [writewithocto/octo](https://github.com/writewithocto/octo) Markdown editor for connected note taking #editor#markdown#saas#gooddesign
