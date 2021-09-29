@@ -1,3 +1,4 @@
+- [Haikei](https://haikei.app/) Generate unique SVG design assets #tool#generative
 - [Tiny Helpers](https://tiny-helpers.dev/) Collection of single purpose design and web dev tools #tool
 - [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/) dynamic light source, colored shadow, and layering #shadow#technique#tutorial
 - [W3C Design System](https://design-system.w3.org/) with vanilla js and basic css primitives #gooddesign#designsystem#methodology#itcss#bem#form
