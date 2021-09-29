@@ -1,3 +1,4 @@
+- [Omatsuri](https://omatsuri.app/) Collection of browser tools for design and web dev #generative#tool
 - [Haikei](https://haikei.app/) Generate unique SVG design assets #tool#generative
 - [Tiny Helpers](https://tiny-helpers.dev/) Collection of single purpose design and web dev tools #tool
 - [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/) dynamic light source, colored shadow, and layering #shadow#technique#tutorial
