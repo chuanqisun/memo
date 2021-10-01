@@ -1,3 +1,4 @@
+- [lucydsl/liblucy](https://github.com/lucydsl/liblucy) State machine C to wasm compile #library#performance#statemanagement
 - [Omatsuri](https://omatsuri.app/) Collection of browser tools for design and web dev #generative#tool
 - [Haikei](https://haikei.app/) Generate unique SVG design assets #tool#generative
 - [Tiny Helpers](https://tiny-helpers.dev/) Collection of single purpose design and web dev tools #tool#generative
