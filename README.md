@@ -1,3 +1,4 @@
+- [Memex](https://getmemex.com/) Web bookmarking and annotation #tool
 - [Comparing HTML Preprocessor Features](https://css-tricks.com/comparing-html-preprocessor-features/) Templating, partial, slots, for static site #language#html#jamstack#comparison
 - [lucydsl/liblucy](https://github.com/lucydsl/liblucy) State machine C to wasm compile #library#performance#statemanagement
 - [Omatsuri](https://omatsuri.app/) Collection of browser tools for design and web dev #generative#tool
