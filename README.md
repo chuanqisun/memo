@@ -1,3 +1,4 @@
+- [ct.css](https://csswizardry.com/ct/) CSS debugging bookmarklet for <head> element #tool#performance
 - [Running WSL GUI Apps on Windows 10](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/running-wsl-gui-apps-on-windows-10/ba-p/1493242) Installing X windows server #tutorial#reference#linux
 - [Memex](https://getmemex.com/) Web bookmarking and annotation #tool
 - [Comparing HTML Preprocessor Features](https://css-tricks.com/comparing-html-preprocessor-features/) Templating, partial, slots, for static site #language#html#jamstack#comparison
