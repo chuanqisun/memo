@@ -1,3 +1,4 @@
+- [seek-oss/vanilla-extract: Zero-runtime Stylesheets-in-TypeScript](https://github.com/seek-oss/vanilla-extract) #library#cssinjs#performance
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) A collection of utilities for Windows 10 Linux Subsystems. Create shortcut. Open files. #linux#tool
 - [MD Nichrome](https://css-tricks.com/websites-we-like-md-nichrome/) Typeface site with gradient and noise background effect #background#gooddesign#demo#typography
 - [ct.css](https://csswizardry.com/ct/) CSS debugging bookmarklet for <head> element #tool#performance
