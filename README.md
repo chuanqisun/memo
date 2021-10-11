@@ -1,3 +1,4 @@
+- [200ok-ch/organice](https://github.com/200ok-ch/organice) An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers #saas#editor#progressive
 - [GPU.js](https://gpu.rocks/#/)  GPU accelerated Javascript for parallel computation #library#performance
 - [seek-oss/vanilla-extract: Zero-runtime Stylesheets-in-TypeScript](https://github.com/seek-oss/vanilla-extract) #library#cssinjs#performance
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) A collection of utilities for Windows 10 Linux Subsystems. Create shortcut. Open files. #linux#tool
