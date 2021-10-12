@@ -1,3 +1,4 @@
+- [Blue perception is weaker than other colors](https://gizmodo.com/believe-it-or-not-these-four-squares-move-at-the-same-1559629417) #a11y#color
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers #saas#editor#progressive
 - [GPU.js](https://gpu.rocks/#/)  GPU accelerated Javascript for parallel computation #library#performance
 - [seek-oss/vanilla-extract: Zero-runtime Stylesheets-in-TypeScript](https://github.com/seek-oss/vanilla-extract) #library#cssinjs#performance
