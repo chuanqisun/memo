@@ -1,3 +1,4 @@
+- [Object-oriented UX (OOUX)](https://alistapart.com/article/how-to-sell-ux-research/) How system modeling intersects with user research and UI design #uxresearch#database
 - [Swup](https://swup.js.org/getting-started/demo) Page transition with bare DOM API #library#animation
 - [Identifont](http://www.identifont.com/index.html) Decision tree for identifying fonts #typograph#tool
 - [NASA Color Usage Research Lab](https://colorusage.arc.nasa.gov/index.php) Design methods, color science, and color guidelines #color#tutorial
