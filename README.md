@@ -1,3 +1,4 @@
+- [QEMU](https://www.qemu.org/) A generic and open source machine emulator and virtualizer. Run any vm on any platform #tool
 - [accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey) HTML attribute that allows browser to support keyboard shortcut without javascript #a11y#reference
 - [microsoft/vscode-custom-data](https://github.com/microsoft/vscode-custom-data) Machine readable language spec for HTML and CSS used by vscode #reference
 - [angus-c/just](https://github.com/angus-c/just) Single-purpose utility for javascript #library#performance
