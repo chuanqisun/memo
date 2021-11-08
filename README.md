@@ -1,3 +1,4 @@
+- [Make Sure Browsers Only Download the SVG Version](https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/) #favicon#performance
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) Tiny jQuery alternative #performance#library#dom
 - [enterkeyhint](https://css-tricks.com/enterkeyhint/) customize primary CTA for a form field on mobile device #mobile#form#input
 - [QEMU](https://www.qemu.org/) A generic and open source machine emulator and virtualizer. Run any vm on any platform #tool
