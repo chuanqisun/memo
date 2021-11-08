@@ -1,3 +1,4 @@
+- [fabiospampinato/cash](https://github.com/fabiospampinato/cash) Tiny jQuery alternative #performance#library#dom
 - [enterkeyhint](https://css-tricks.com/enterkeyhint/) customize primary CTA for a form field on mobile device #mobile#form#input
 - [QEMU](https://www.qemu.org/) A generic and open source machine emulator and virtualizer. Run any vm on any platform #tool
 - [accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey) HTML attribute that allows browser to support keyboard shortcut without javascript #a11y#reference
