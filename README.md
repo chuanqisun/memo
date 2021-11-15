@@ -1,3 +1,4 @@
+- [Interactive Rebase](https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/) Git workflow to clean up commit history #workflow#reference
 - [Remove Background from Image](https://www.remove.bg/) #tool
 - [Brooooooklyn/swc-node](https://github.com/Brooooooklyn/swc-node) Faster ts-node without typecheck, powered by swc rust #tool#nodejs#devexperience
 - [Glassmorphism in user interfaces](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9) Trend after neumorphism #design
