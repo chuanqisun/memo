@@ -1,3 +1,4 @@
+- [Open Props: sub-atomic styles](https://open-props.style/) Expertly crafted CSS custom properties #library#cssvariable
 - [md-block](https://md-block.verou.me/) Render styleable Markdown in your HTML #library#markdown
 - [Anthony Fu](https://antfu.me/) Beautifully designed developer home page #gooddesign
 - [antfu/unocss](https://github.com/antfu/unocss) Atomic CSS engine #library#performance#designsystem
