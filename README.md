@@ -1,5 +1,5 @@
 - [Layout patterns by web.dev](https://web.dev/patterns/layout/) Basic, modern layout by Google team #reference#layout#beginner
-- [Learn Forms](https://web.dev/learn/forms/) Comprehensive and systematic intro to HTML forms #beginner#tutorial#course
+- [Learn Forms by web.dev](https://web.dev/learn/forms/) Comprehensive and systematic intro to HTML forms #beginner#tutorial#course
 - [Open Props: sub-atomic styles](https://open-props.style/) Expertly crafted CSS custom properties #library#cssvariable
 - [md-block](https://md-block.verou.me/) Render styleable Markdown in your HTML #library#markdown
 - [Anthony Fu](https://antfu.me/) Beautifully designed developer home page #gooddesign
