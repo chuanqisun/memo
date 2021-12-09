@@ -1,3 +1,4 @@
+- [Defensive CSS](https://ishadeed.com/article/defensive-css/) Ways to gracefully handle error and edge cases #technique#responsive
 - [Layout patterns by web.dev](https://web.dev/patterns/layout/) Basic, modern layout by Google team #reference#layout#beginner
 - [Learn Forms by web.dev](https://web.dev/learn/forms/) Comprehensive and systematic intro to HTML forms #beginner#tutorial#course
 - [Open Props: sub-atomic styles](https://open-props.style/) Expertly crafted CSS custom properties #library#cssvariable
