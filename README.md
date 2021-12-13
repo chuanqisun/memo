@@ -1,3 +1,4 @@
+- [GUI Challenges Toast](https://www.youtube.com/watch?v=R75ZVW4LW5o) CSS Grid based toast with FLIP #pattern#notification#technique#reference#animation
 - [Bartosz Ciechanowski](https://ciechanow.ski/) Interactive blog #gooddesign#demo#webgl
 - [Defensive CSS](https://ishadeed.com/article/defensive-css/) Ways to gracefully handle error and edge cases #technique#responsive
 - [Layout patterns by web.dev](https://web.dev/patterns/layout/) Basic, modern layout by Google team #reference#layout#beginner
