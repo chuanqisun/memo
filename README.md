@@ -1,3 +1,4 @@
+- [jondot/hygen: The simple, fast, and scalable code generator that lives in your project.](https://github.com/jondot/hygen) scaffolding with ejs and markdown templates #library#devexperience#tool
 - [Spicy Sections](https://css-tricks.com/spicy-sections/) Implementation of tabs/pivots with headings and paragraphs #pattern#tab#webcomponent
 - [GUI Challenges Toast](https://www.youtube.com/watch?v=R75ZVW4LW5o) CSS Grid based toast with FLIP #pattern#notification#technique#reference#animation
 - [Bartosz Ciechanowski](https://ciechanow.ski/) Interactive blog #gooddesign#demo#webgl
