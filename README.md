@@ -1,3 +1,4 @@
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) Open-source notification infrastructure for products #library#notification
 - [Star Atlas](https://staratlas.com/) NFT-powered space exploration concept game #webgl#gooddesign#crypto
 - [CSS-Based Fingerprinting](https://css-tricks.com/css-based-fingerprinting/) Serve asset from unique URL #technique#security#privacy#telemetry
 - [How to Create a Browser Extension](https://css-tricks.com/how-to-create-a-browser-extension/) With manifest v3 and locale support, in Chrome #tutorial#i18n#extension
