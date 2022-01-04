@@ -1,3 +1,4 @@
+- [How to Create a Browser Extension](https://css-tricks.com/how-to-create-a-browser-extension/) With manifest v3 and locale support, in Chrome #tutorial#i18n#extension
 - [Vitest](https://vitest.dev/) Fast unit-test framework powered by vite #library#test
 - [jondot/hygen: The simple, fast, and scalable code generator that lives in your project.](https://github.com/jondot/hygen) scaffolding with ejs and markdown templates #library#devexperience#tool
 - [Spicy Sections](https://css-tricks.com/spicy-sections/) Implementation of tabs/pivots with headings and paragraphs #pattern#tab#webcomponent
