@@ -1,3 +1,4 @@
+- [Star Atlas](https://staratlas.com/) NFT-powered space exploration concept game #webgl#gooddesign#crypto
 - [CSS-Based Fingerprinting](https://css-tricks.com/css-based-fingerprinting/) Serve asset from unique URL #technique#security#privacy#telemetry
 - [How to Create a Browser Extension](https://css-tricks.com/how-to-create-a-browser-extension/) With manifest v3 and locale support, in Chrome #tutorial#i18n#extension
 - [Vitest](https://vitest.dev/) Fast unit-test framework powered by vite #library#test
