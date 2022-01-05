@@ -1,3 +1,4 @@
+- [Breaking Out of the Box](https://alistapart.com/article/breaking-out-of-the-box/) CSS for styling title bar #pwa#browser#nativeapp#technique
 - [Free E-Books on Web, App and Logo Design](https://blog.tubikstudio.com/book/) #resource#design#logo#guide
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) Open-source notification infrastructure for products #library#notification
 - [Star Atlas](https://staratlas.com/) NFT-powered space exploration concept game #webgl#gooddesign#crypto
