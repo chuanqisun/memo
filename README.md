@@ -1,3 +1,4 @@
+- [The New CSS Reset](https://elad2412.github.io/the-new-css-reset/) minimum stylesheet for normalizing browser differences #technique#browser
 - [folke/esbuild-runner](https://github.com/folke/esbuild-runner) ts-node alternative #tool
 - [Building a sidenav component](https://web.dev/building-a-sidenav-component/) #pattern#navigation#technique#responsive
 - [Listboxes vs. Dropdown Lists](https://www.nngroup.com/articles/listbox-dropdown/) #pattern#select#multiselect#uxresearch
