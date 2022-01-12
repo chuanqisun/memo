@@ -308,7 +308,6 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) for cross platform keybindings and keyboard shortcuts #keyboard#library
 - [The 100 Day Project](https://medium.com/the-100-day-project) Learning journey for 3D, Motion design, illustration, lettering #gooddesign#tutorial#beginner#resource
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) padding top and bottom is percentage of parent's width #reference
-- [Screely - Generate Beautiful Mockups](https://www.screely.com/editor) Browser mockup generator #mock#tool
 - [Pausing a GIF with details/summary](https://css-tricks.com/__trashed-26/) css only #technique#a11y
 - [Unholy Albatross](http://www.miragecraft.com/articles/unholy_albatross.html) Improved Holy Albatross with css clamp and max function #responsive#technique
 - [Bold on Hover Without the Layout Shift](https://css-tricks.com/bold-on-hover-without-the-layout-shift/) use hidden pseudo element with bold weight #technique#hover
@@ -417,7 +416,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Plausible Analytics](https://plausible.io/) Light weight alternative to Google Analytics #analytics#service
 - [Heydon/watched-box](https://github.com/Heydon/watched-box) Container query implemented with ResizeObserver by Heydon Pickering #library#responsive
 - [A minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/) No class names, no CSS frameworks, just semantic HTML. For hackathon and one pager #library#gooddesign
-- [Screely](https://www.screely.com/editor) Generate Beautiful Mockups with browser window #tool#marketing
+- [Screely](https://www.screely.com/editor) Generate Beautiful Mockups with browser window #tool#marketing#mock
 - [BEM Naming Cheat Sheet](https://9elements.com/bem-cheat-sheet/) with example blocks #reference#bem#naming
 - [LCH Colour picker](https://css.land/lch/) #tool#color
 - [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/) use image for box-shadow to improve performence #shadow#performance#technique
