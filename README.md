@@ -1,3 +1,4 @@
+- [The Symphony of Blockchains](https://symphony.iohk.io/en/) Visualize blockchain, mempool, transaction #crypto#gooddesign#webgl
 - [Laws of UX](https://lawsofux.com/) cognitive biases, design and engineering principles  #reference#principle#psychology
 - [Crafting Organic Patterns With Voronoi Tessellations](https://georgefrancis.dev/writing/crafting-organic-patterns-with-voronoi-tessellations/) #algorithm#generative#art#tutorial#background
 - [text-size-adjust in CSS reset](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) and a compilation of popular resets/normalize #browser#typograph#resource#technique
