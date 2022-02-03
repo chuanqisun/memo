@@ -1,3 +1,4 @@
+- [Vital](https://vital.audio/#getvital) Spectral Warping Wavetable Synth #audio#tool
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) Streaming music player that finds free music for you, built with electron #tool#free#audio
 - [Form Validation Using JavaScript's Constraint Validation API](https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api) Comprehensive guide for client-side use #reference#form#validation
 - [OpenReplay](https://openreplay.com) Session replay Open-Source #service#library#telemetry
