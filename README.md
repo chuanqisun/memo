@@ -1,3 +1,4 @@
+- [Partytown](https://partytown.builder.io/) Run third-party scripts in web worker #performance#library#extensibility#container
 - [Waveform Free](https://www.tracktion.com/products/waveform-free) digital audio workstation band editing software #soundengineering#free#tool
 - [Vital](https://vital.audio/#getvital) Spectral Warping Wavetable Synth #audio#tool
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) Streaming music player that finds free music for you, built with electron #tool#free#audio
