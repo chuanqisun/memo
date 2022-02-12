@@ -1,3 +1,4 @@
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) A Vite-native test framework #test
 - [Partytown](https://partytown.builder.io/) Run third-party scripts in web worker #performance#library#extensibility#container
 - [Waveform Free](https://www.tracktion.com/products/waveform-free) digital audio workstation band editing software #soundengineering#free#tool
 - [Vital](https://vital.audio/#getvital) Spectral Warping Wavetable Synth #audio#tool
