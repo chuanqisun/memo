@@ -428,7 +428,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Plausible Analytics](https://plausible.io/) Light weight alternative to Google Analytics #analytics#service
 - [Heydon/watched-box](https://github.com/Heydon/watched-box) Container query implemented with ResizeObserver by Heydon Pickering #library#responsive
 - [A minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/) No class names, no CSS frameworks, just semantic HTML. For hackathon and one pager #library#gooddesign
-- [Screely](https://www.screely.com/editor) Generate Beautiful Mockups with browser window #tool#marketing#mock
+- [Screely](https://www.screely.com) Generate Beautiful Mockups with browser window #tool#marketing#mock
 - [BEM Naming Cheat Sheet](https://9elements.com/bem-cheat-sheet/) with example blocks #reference#bem#naming
 - [LCH Colour picker](https://css.land/lch/) #tool#color
 - [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/) use image for box-shadow to improve performence #shadow#performance#technique
