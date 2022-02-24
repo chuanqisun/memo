@@ -13,13 +13,13 @@
 - [The Symphony of Blockchains](https://symphony.iohk.io/en/) Visualize blockchain, mempool, transaction #crypto#gooddesign#webgl
 - [Laws of UX](https://lawsofux.com/) cognitive biases, design and engineering principles  #reference#principle#psychology
 - [Crafting Organic Patterns With Voronoi Tessellations](https://georgefrancis.dev/writing/crafting-organic-patterns-with-voronoi-tessellations/) #algorithm#generative#art#tutorial#background
-- [text-size-adjust in CSS reset](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) and a compilation of popular resets/normalize #browser#typograph#resource#technique
+- [text-size-adjust in CSS reset](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) and a compilation of popular resets/normalize #browser#typography#resource#technique
 - [The New CSS Reset](https://elad2412.github.io/the-new-css-reset/) minimum stylesheet for normalizing browser differences #technique#browser
 - [folke/esbuild-runner](https://github.com/folke/esbuild-runner) ts-node alternative #tool
 - [Building a sidenav component](https://web.dev/building-a-sidenav-component/) #pattern#navigation#technique#responsive
 - [Listboxes vs. Dropdown Lists](https://www.nngroup.com/articles/listbox-dropdown/) #pattern#select#multiselect#uxresearch
 - [Color Spaces](https://ciechanow.ski/color-spaces/) Interactive guide to learning color space concepts #explanation#color
-- [A Guide to Recognizing Font Styles](https://betterwebtype.com/articles/2019/07/14/recognising-font-styles/) Old style, transitional, neoclasscial, slab, grotesque, gemmetric, humanist, etc. #typograph#reference#beginner
+- [A Guide to Recognizing Font Styles](https://betterwebtype.com/articles/2019/07/14/recognising-font-styles/) Old style, transitional, neoclasscial, slab, grotesque, gemmetric, humanist, etc. #typography#reference#beginner
 - [Breaking Out of the Box](https://alistapart.com/article/breaking-out-of-the-box/) CSS for styling title bar #pwa#browser#nativeapp#technique
 - [Free E-Books on Web, App and Logo Design](https://blog.tubikstudio.com/book/) #resource#design#logo#guide
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) Open-source notification infrastructure for products #library#notification
@@ -51,7 +51,7 @@
 - [angus-c/just](https://github.com/angus-c/just) Single-purpose utility for javascript #library#performance
 - [Object-oriented UX (OOUX)](https://alistapart.com/article/how-to-sell-ux-research/) How system modeling intersects with user research and UI design #uxresearch#database
 - [Swup](https://swup.js.org/getting-started/demo) Page transition with bare DOM API #library#animation
-- [Identifont](http://www.identifont.com/index.html) Decision tree for identifying fonts #typograph#tool
+- [Identifont](http://www.identifont.com/index.html) Decision tree for identifying fonts #typography#tool
 - [NASA Color Usage Research Lab](https://colorusage.arc.nasa.gov/index.php) Design methods, color science, and color guidelines #color#tutorial
 - [Blue perception is weaker than other colors](https://gizmodo.com/believe-it-or-not-these-four-squares-move-at-the-same-1559629417) #a11y#color
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers #saas#editor#progressive
