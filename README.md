@@ -1,3 +1,4 @@
+- [Thoughts On Markdown](https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/) history and comparison with block editor #wysiwyg
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) on-demand confetti gun #library
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) A Vite-native test framework #test
 - [Partytown](https://partytown.builder.io/) Run third-party scripts in web worker #performance#library#extensibility#container
