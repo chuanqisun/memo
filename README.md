@@ -1,3 +1,4 @@
+- [An Overview Of The Most Common UX Design Deliverables](https://www.smashingmagazine.com/2017/09/comprehensive-overview-ux-design-deliverables/) understand what UX designers do, for career reference #beginner
 - [Thoughts On Markdown](https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/) history and comparison with block editor #wysiwyg
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) on-demand confetti gun #library
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) A Vite-native test framework #test
