@@ -1,3 +1,4 @@
+- [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) Drawing shapes in React #library#cosmetic
 - [Charm](https://charm.sh/) Toolkits for command line #tui#library#git#gooddesign
 - [text-size-adjust](https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/) Use 100% to prevent mobile browser inflating text #ios#typography#responsive#technique
 - [An Overview Of The Most Common UX Design Deliverables](https://www.smashingmagazine.com/2017/09/comprehensive-overview-ux-design-deliverables/) understand what UX designers do, for career reference #beginner
