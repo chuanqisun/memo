@@ -1,3 +1,4 @@
+- [Comment tagged templates](https://marketplace.visualstudio.com/items?itemName=bierner.comment-tagged-templates) syntax highlight for template literals #extension#devexperience#webcomponent#template
 - [Minze](https://minze.dev/) Native web component rendering with template literal #library#webcomponent
 - [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) Drawing shapes in React #library#cosmetic
 - [Charm](https://charm.sh/) Toolkits for command line #tui#library#git#gooddesign
