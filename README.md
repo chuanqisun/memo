@@ -1,3 +1,4 @@
+- [Bottles](https://usebottles.com/) Run Windows application in Linux. Alternative to Wine #vm#linux#emulator
 - [Comment tagged templates](https://marketplace.visualstudio.com/items?itemName=bierner.comment-tagged-templates) syntax highlight for template literals #extension#devexperience#webcomponent#template
 - [Minze](https://minze.dev/) Native web component rendering with template literal #library#webcomponent
 - [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) Drawing shapes in React #library#cosmetic
