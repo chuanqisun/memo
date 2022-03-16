@@ -1,3 +1,4 @@
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. UI on top of QEMU #tool#virtualization
 - [How to automatically size a textarea based on its using vanilla JavaScript](https://gomakethings.com/how-to-automatically-size-a-textarea-based-on-its-using-vanilla-javascript/) auto-grow with initial auto sizing #textbox#input#responsive#form#pattern
 - [Bottles](https://usebottles.com/) Run Windows application in Linux. Alternative to Wine #vm#linux#emulator
 - [Comment tagged templates](https://marketplace.visualstudio.com/items?itemName=bierner.comment-tagged-templates) syntax highlight for template literals #extension#devexperience#webcomponent#template
