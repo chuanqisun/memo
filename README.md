@@ -1,3 +1,4 @@
+- [LUME](https://docs.lume.io) CSS based 3d, WebGL and AR/VR declarative #library#3d
 - [Spline](https://spline.design/) Figma for 3D. In browser modeling and animation #tool#3d
 - [Claymorphism](https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/) 3D based design trend after Neumorphism #trend
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. UI on top of QEMU #tool#virtualization
