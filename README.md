@@ -1,3 +1,4 @@
+- [Spline](https://spline.design/) Figma for 3D. In browser modeling and animation #tool#3d
 - [Claymorphism](https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/) 3D based design trend after Neumorphism #trend
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. UI on top of QEMU #tool#virtualization
 - [How to automatically size a textarea based on its using vanilla JavaScript](https://gomakethings.com/how-to-automatically-size-a-textarea-based-on-its-using-vanilla-javascript/) auto-grow with initial auto sizing #textbox#input#responsive#form#pattern
