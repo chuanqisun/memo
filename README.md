@@ -1,3 +1,4 @@
+- [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/) stylesheet title, enterkeyhint for virtual keyboard, async decoding for img, lazy loading for iframe, detach form action from form body, group select options #html#reference#performance#a11y#form#pattern#select
 - [LUME](https://docs.lume.io) CSS based 3d, WebGL and AR/VR declarative #library#3d
 - [Spline](https://spline.design/) Figma for 3D. In browser modeling and animation #tool#3d
 - [Claymorphism](https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/) 3D based design trend after Neumorphism #trend
