@@ -1,3 +1,4 @@
+- [Optical Effects in User Interfaces](https://medium.muz.li/optical-effects-9fca82b4cd9a) optical imbalance between round and square objects  #technique#design
 - [Preventing layout shift with numbers using CSS](https://gomakethings.com/preventing-layout-shift-with-numbers-using-css/) Use tabular-nums to display monospace numbers in proportional font #typography#responsive#technique
 - [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/) stylesheet title, enterkeyhint for virtual keyboard, async decoding for img, lazy loading for iframe, detach form action from form body, group select options #html#reference#performance#a11y#form#pattern#select
 - [LUME](https://docs.lume.io) CSS based 3d, WebGL and AR/VR declarative #library#3d
