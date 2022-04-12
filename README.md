@@ -1,3 +1,4 @@
+- [Lens Flare Effects](https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/) CSS only solution #technique#visualeffect
 - [discourse](https://github.com/discourse/discourse) Open source solution for discussion based community #library#service#community
 - [mb21/panwriter](https://github.com/mb21/panwriter) Markdown editor with pandoc integration and paginated preview, powered by Electron #markdown#tool#editor
 - [Avvvatars](https://avvvatars.com/) Open Source React UI Avatar Library for user profile images #library#resource
