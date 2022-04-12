@@ -1,3 +1,4 @@
+- [mb21/panwriter](https://github.com/mb21/panwriter) Markdown editor with pandoc integration and paginated preview, powered by Electron #markdown#tool#editor
 - [Avvvatars](https://avvvatars.com/) Open Source React UI Avatar Library for user profile images #library#resource
 - [Optical Effects in User Interfaces](https://medium.muz.li/optical-effects-9fca82b4cd9a) optical imbalance between round and square objects  #technique#design
 - [Preventing layout shift with numbers using CSS](https://gomakethings.com/preventing-layout-shift-with-numbers-using-css/) Use tabular-nums to display monospace numbers in proportional font #typography#responsive#technique
