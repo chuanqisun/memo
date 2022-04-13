@@ -1,3 +1,4 @@
+- [Designing A Better Carousel UX](https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/) #pattern#carousel#guide
 - [react-forked/dnd](https://github.com/react-forked/dnd) Forked from beautiful dnd #dragndrop#library
 - [Lens Flare Effects](https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/) CSS only solution #technique#visualeffect
 - [discourse](https://github.com/discourse/discourse) Open source solution for discussion based community #library#service#community
