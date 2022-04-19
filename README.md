@@ -1,3 +1,4 @@
+- [DiceBear Avatars](https://avatars.dicebear.com) Programmatically generated avatar, profile image, initials, icons #service#library
 - [Building a Vaporwave scene with Three.js](https://blog.maximeheckel.com/posts/vaporwave-3d-scene-with-threejs/) Animated retro style splash UX for landing and home page #hero#3d
 - [Hash string UX](https://gordonbrander.com/pattern/hash-string-ux/) Base 58 encode URL for better copy and reability #url#technique#algorithm
 - [Designing A Better Carousel UX](https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/) #pattern#carousel#guide
