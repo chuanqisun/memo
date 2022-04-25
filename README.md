@@ -1,3 +1,4 @@
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) Screen recorder & annotation #extension#tool
 - [Feedback Ladders](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) The Code Review System at Netlify. Mountain, Boulder, Peddle, Sand, Dust #codereview#methodology#opinion#collaboration
 - [Project Fugu API showcase](https://developer.chrome.com/blog/fugu-showcase/) Demos for Native system APIs on the web #reference#nativeapp#file#api#demo
 - [Leaflet](https://leafletjs.com/) Open-source JavaScript library for interactive maps #map#library
