@@ -1,3 +1,4 @@
+- [Async iteration and generators](https://javascript.info/async-iterators-generators) #reference#language#paradigm
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) terminal UI for git commands, written in Go #tui#git#tool
 - [TLDRLegal](https://tldrlegal.com/) Software Licenses Explained in Plain English #legal#tool#reference
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) Screen recorder & annotation #extension#tool
