@@ -1,3 +1,4 @@
+- [Leaflet](https://leafletjs.com/) Open-source JavaScript library for interactive maps #map#library
 - [DiceBear Avatars](https://avatars.dicebear.com) Programmatically generated avatar, profile image, initials, icons #service#library
 - [Building a Vaporwave scene with Three.js](https://blog.maximeheckel.com/posts/vaporwave-3d-scene-with-threejs/) Animated retro style splash UX for landing and home page #hero#3d
 - [Hash string UX](https://gordonbrander.com/pattern/hash-string-ux/) Base 58 encode URL for better copy and reability #url#technique#algorithm
