@@ -1,3 +1,4 @@
+- [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) High perf grid layout in javascript #algorithm#reference#performance
 - [The Knuth/Plass line-breaking Algorithm](http://defoe.sourceforge.net/folio/knuth-plass.html) Layout algorithm for word wrapping and grid layout #algorithm#reference
 - [mozilla/readability](https://github.com/mozilla/readability) Mercury parser alternative by Mozilla, html content and metadata extraction, mining, crawling #library#nlp
 - [30 Days Of HTML](https://jen4web.substack.com/rss) semantic html elements, one per day #reference#html#beginner#a11y
