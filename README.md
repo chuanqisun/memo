@@ -1,3 +1,4 @@
+- [mozilla/readability](https://github.com/mozilla/readability) Mercury parser alternative by Mozilla, html content and metadata extraction, mining, crawling #library#nlp
 - [30 Days Of HTML](https://jen4web.substack.com/rss) semantic html elements, one per day #reference#html#beginner#a11y
 - [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API) Browser native pubsub across tabs, workers, iframes #reference#api#technique
 - [Async iteration and generators](https://javascript.info/async-iterators-generators) #reference#language#paradigm
