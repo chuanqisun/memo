@@ -1,3 +1,4 @@
+- [Insanely Useful Websites](https://www.insanelyusefulwebsites.com/) toolbox for tasks on the web, mostly unknown unknowns #tool#resource
 - [SVG generative mountain ridge dividers](https://www.alistairshepherd.uk/writing/svg-generative-ridges/) #demo#technique#visualeffect#divider
 - [jondot/hygen](https://github.com/jondot/hygen) scalable code generator #library#devexperience
 - [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) High perf grid layout in javascript #algorithm#reference#performance
