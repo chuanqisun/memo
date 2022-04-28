@@ -1,3 +1,4 @@
+- [Look Scanned](https://lookscanned.io/) Add the scanner look and feel to a PDF document  #tool
 - [Progressively Enhanced Builds](https://blog.jim-nielsen.com/2022/progressively-enhanced-builds/) apply progressive enhancement principles to content authoring in markdown #opinion#philosophy#progressive#webcomponent#technique
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets #table#library
 - [Insanely Useful Websites](https://www.insanelyusefulwebsites.com/) toolbox for tasks on the web, mostly unknown unknowns #tool#resource
