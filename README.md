@@ -1,4 +1,4 @@
-- [flickz/newspaperjs](https://github.com/flickz/newspaperjs) mercury parser alternative #scraping#library#knowledgebase
+- [flickz/newspaperjs](https://github.com/flickz/newspaperjs) mercury parser alternative #scraping#library#knowledgebase#nlp
 - [Dialog (GUI Challenges)](https://www.youtube.com/watch?v=GDzzIlRhEzM) #pattern#dialog#a11y#tutorial
 - [Look Scanned](https://lookscanned.io/) Add the scanner look and feel to a PDF document  #tool
 - [Progressively Enhanced Builds](https://blog.jim-nielsen.com/2022/progressively-enhanced-builds/) apply progressive enhancement principles to content authoring in markdown #opinion#philosophy#progressive#webcomponent#technique
@@ -8,7 +8,7 @@
 - [jondot/hygen](https://github.com/jondot/hygen) scalable code generator #library#devexperience
 - [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) High perf grid layout in javascript #algorithm#reference#performance
 - [The Knuth/Plass line-breaking Algorithm](http://defoe.sourceforge.net/folio/knuth-plass.html) Layout algorithm for word wrapping and grid layout #algorithm#reference
-- [mozilla/readability](https://github.com/mozilla/readability) Mercury parser alternative by Mozilla, html content and metadata extraction, mining, crawling #library#nlp
+- [mozilla/readability](https://github.com/mozilla/readability) Mercury parser alternative by Mozilla, html content and metadata extraction, mining, crawling #library#nlp#scraping
 - [30 Days Of HTML](https://jen4web.substack.com/rss) semantic html elements, one per day #reference#html#beginner#a11y
 - [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API) Browser native pubsub across tabs, workers, iframes #reference#api#technique
 - [Async iteration and generators](https://javascript.info/async-iterators-generators) #reference#language#paradigm
