@@ -1,3 +1,4 @@
+- [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element)  A lightweight emoji picker for the modern web #library#emoji
 - [Render emoji on the web](https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/) challenges and hacks #technique#emoji#icon
 - [Useful Tools for Creating AVIF Images](https://css-tricks.com/useful-tools-for-creating-avif-images/) for compression, one-off or batch conversion #tool#image#performance
 - [flickz/newspaperjs](https://github.com/flickz/newspaperjs) mercury parser alternative #scraping#library#knowledgebase#nlp
