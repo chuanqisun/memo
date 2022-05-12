@@ -1,3 +1,4 @@
+- [Render emoji on the web](https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/) challenges and hacks #technique#emoji#icon
 - [Useful Tools for Creating AVIF Images](https://css-tricks.com/useful-tools-for-creating-avif-images/) for compression, one-off or batch conversion #tool#image#performance
 - [flickz/newspaperjs](https://github.com/flickz/newspaperjs) mercury parser alternative #scraping#library#knowledgebase#nlp
 - [Dialog (GUI Challenges)](https://www.youtube.com/watch?v=GDzzIlRhEzM) #pattern#dialog#a11y#tutorial
