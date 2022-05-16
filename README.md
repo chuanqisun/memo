@@ -1,3 +1,4 @@
+- [Raven Reader](https://ravenreader.app/) open source rss feed reader made with electron #rss#free
 - [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element)  A lightweight emoji picker for the modern web #library#emoji
 - [Render emoji on the web](https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/) challenges and hacks #technique#emoji#icon
 - [Useful Tools for Creating AVIF Images](https://css-tricks.com/useful-tools-for-creating-avif-images/) for compression, one-off or batch conversion #tool#image#performance
