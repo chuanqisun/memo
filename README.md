@@ -1,3 +1,4 @@
+- [Jitsi](https://jitsi.org/) Free Video Conferencing Software for Web & Mobile. Open source alternative to zoom. Self-hostable. #saas#tool#videoconference
 - [Raven Reader](https://ravenreader.app/) open source rss feed reader made with electron #rss#free
 - [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element)  A lightweight emoji picker for the modern web #library#emoji
 - [Render emoji on the web](https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/) challenges and hacks #technique#emoji#icon
