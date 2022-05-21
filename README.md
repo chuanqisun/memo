@@ -1,3 +1,4 @@
+- [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css) A CSS parser, transformer, and minifier written in Rust. #compiler#library#devexperience
 - [Jitsi](https://jitsi.org/) Free Video Conferencing Software for Web & Mobile. Open source alternative to zoom. Self-hostable. #saas#tool#videoconference
 - [Raven Reader](https://ravenreader.app/) open source rss feed reader made with electron #rss#free
 - [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element)  A lightweight emoji picker for the modern web #library#emoji
