@@ -1,3 +1,4 @@
+- [fastify/fastify-vite](https://github.com/fastify/fastify-vite) Sever side rendered vite app with React streaming. Alternative to Next.js #library#devexperience#fullstack#serverless
 - [VectorWiki](https://vectorwiki.com/) Brand logo SVG lookup and download #free#tool#svg#resource
 - [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css) A CSS parser, transformer, and minifier written in Rust. #compiler#library#devexperience
 - [Jitsi](https://jitsi.org/) Free Video Conferencing Software for Web & Mobile. Open source alternative to zoom. Self-hostable. #saas#tool#videoconference
