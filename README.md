@@ -1,3 +1,4 @@
+- [Named access on the window object](https://html.spec.whatwg.org/multipage/window-object.html#named-access-on-the-window-object) Element with id becomes a variable on window object #reference#standard#technique
 - [Dialog Components: Go Native HTML or Roll Your Own?](https://css-tricks.com/dialog-components-roll-your-own/) #a11y#tutorial#technique#dialog#pattern#progressive
 - [Block Protocol](https://blockprotocol.org/) Schema based data driven block registry #standard#library#reference#lowcode
 - [BlurHash](https://blurha.sh/) Convert image to a short string for placeholder display #image#performance#progressive#library#algorithm#technique
