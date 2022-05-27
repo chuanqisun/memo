@@ -1,3 +1,4 @@
+- [Turborepo](https://turborepo.org/) npm monorepo framework, alternative to lerna #devops#workflow#tool#library
 - [3dicons](https://3dicons.co/) #icon#resource#3d
 - [The Block-Paved Path to Structured Data](https://maggieappleton.com/block-data) Comparing block-based editors and knowledge bases #opinion#philosophy
 - [Named access on the window object](https://html.spec.whatwg.org/multipage/window-object.html#named-access-on-the-window-object) Element with id becomes a variable on window object #reference#standard#technique
