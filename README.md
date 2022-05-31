@@ -1,3 +1,4 @@
+- [Firefly III](https://www.firefly-iii.org/) Personal finance manager with accounting for tax reporting #tool#free
 - [Turborepo](https://turborepo.org/) npm monorepo framework, alternative to lerna #devops#workflow#tool#library
 - [3dicons](https://3dicons.co/) #icon#resource#3d
 - [The Block-Paved Path to Structured Data](https://maggieappleton.com/block-data) Comparing block-based editors and knowledge bases #opinion#philosophy
