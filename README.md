@@ -1,3 +1,4 @@
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) Run python in browser with wasm and GUI binding #language#wasm
 - [Firefly III](https://www.firefly-iii.org/) Personal finance manager with accounting for tax reporting #tool#free
 - [Turborepo](https://turborepo.org/) npm monorepo framework, alternative to lerna #devops#workflow#tool#library
 - [3dicons](https://3dicons.co/) #icon#resource#3d
