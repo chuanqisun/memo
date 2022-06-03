@@ -1,3 +1,4 @@
+- [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/) Introduction, architecture overview #monorepo#devexperience#architecture#devops#beginner#tutorial
 - [todotxt/todo.txt: A complete primer on the whys and hows of todo.txt.](https://github.com/todotxt/todo.txt) Plaintext format for TODO #productivity#tool#standard#plaintext
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) Run python in browser with wasm and GUI binding #language#wasm
 - [Firefly III](https://www.firefly-iii.org/) Personal finance manager with accounting for tax reporting #tool#free
