@@ -1,3 +1,4 @@
+- [Hakim El Hattab | CSS Day 2019](https://www.youtube.com/watch?v=o0NtjY17v5w&t=944s) Hover menu SVG Exit Area Path, improved on Amazon dynamic path #menu#hover#technique
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/) Introduction, architecture overview #monorepo#devexperience#architecture#devops#beginner#tutorial
 - [todotxt/todo.txt: A complete primer on the whys and hows of todo.txt.](https://github.com/todotxt/todo.txt) Plaintext format for TODO #productivity#tool#standard#plaintext
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) Run python in browser with wasm and GUI binding #language#wasm
