@@ -1,3 +1,4 @@
+- [Tools for better thinking](https://untools.co/) system thinking, decision making, problem solving #resource#tool
 - [The Comprehensive List of Window Managers for Unix](https://www.gilesorr.com/wm/table.html) #linux#desktop#resource
 - [How to build undo/redo in a multiplayer environment](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment) #undoredo#technique#guide#collaboration
 - [Hakim El Hattab | CSS Day 2019](https://www.youtube.com/watch?v=o0NtjY17v5w&t=944s) Hover menu SVG Exit Area Path, improved on Amazon dynamic path #menu#hover#technique
