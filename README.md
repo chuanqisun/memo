@@ -1,3 +1,4 @@
+- [Inlining literally everything for better performance](https://gomakethings.com/inlining-literally-everything-for-better-performance/) inline css and javascript for Hugo SSG #tutorial#performance#technique
 - [Tools for better thinking](https://untools.co/) system thinking, decision making, problem solving #resource#tool
 - [The Comprehensive List of Window Managers for Unix](https://www.gilesorr.com/wm/table.html) #linux#desktop#resource
 - [How to build undo/redo in a multiplayer environment](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment) #undoredo#technique#guide#collaboration
