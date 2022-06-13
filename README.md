@@ -1,3 +1,4 @@
+- [Should I Use A Carousel?](https://shouldiuseacarousel.com/) satire passive aggressive demo #opinion#carousel#pattern
 - [Inlining literally everything for better performance](https://gomakethings.com/inlining-literally-everything-for-better-performance/) inline css and javascript for Hugo SSG #tutorial#performance#technique
 - [Tools for better thinking](https://untools.co/) system thinking, decision making, problem solving #resource#tool
 - [The Comprehensive List of Window Managers for Unix](https://www.gilesorr.com/wm/table.html) #linux#desktop#resource
