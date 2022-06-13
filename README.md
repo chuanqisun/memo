@@ -1,3 +1,4 @@
+- [Best practices for inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/) Consideration for man page, interoperability, and unix convention #cli#tui#guide#a11y
 - [UX patterns for CLI tools](http://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html) Modern CLI design practices #guide#cli#tui
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) Collaborative cheatsheets for console commands, complements man page #cli#reference#documentation#devexperience
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) open source speech synthesizer that supports more than hundred languages and accents. #nlp#library
