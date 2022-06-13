@@ -1,3 +1,4 @@
+- [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) open source speech synthesizer that supports more than hundred languages and accents. #nlp#library
 - [Damerau–Levenshtein distance](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance) Edit distance, for error recovery, spellcheck, and CLI argument suggestions #algorithm#cli
 - [Should I Use A Carousel?](https://shouldiuseacarousel.com/) satire passive aggressive demo #opinion#carousel#pattern
 - [Inlining literally everything for better performance](https://gomakethings.com/inlining-literally-everything-for-better-performance/) inline css and javascript for Hugo SSG #tutorial#performance#technique
