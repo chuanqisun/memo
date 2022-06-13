@@ -1,3 +1,4 @@
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) Collaborative cheatsheets for console commands, complements man page #cli#reference#documentation#devexperience
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) open source speech synthesizer that supports more than hundred languages and accents. #nlp#library
 - [Damerau–Levenshtein distance](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance) Edit distance, for error recovery, spellcheck, and CLI argument suggestions #algorithm#cli
 - [Should I Use A Carousel?](https://shouldiuseacarousel.com/) satire passive aggressive demo #opinion#carousel#pattern
