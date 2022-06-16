@@ -1,3 +1,4 @@
+- [The Wails Project](https://wails.io/) Electron alternative in Go #desktop#nativeapp#framework
 - [A Git Origin Story](https://www.linuxjournal.com/content/git-origin-story) How Linux wrote Git out of necessity #versioning#git#story
 - [jessegrosjean/mobydickworkout](https://github.com/jessegrosjean/mobydickworkout) Large markdown testing file #resource#markdown
 - [Best practices for inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/) Consideration for man page, interoperability, and unix convention #cli#tui#guide#a11y
