@@ -1,3 +1,4 @@
+- [Ask HN: Is it still conceivable to remain an anonymous developer nowadays](https://news.ycombinator.com/item?id=31763451) #resource#privacy
 - [sciter](https://sciter.com/) Electron alternative, HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application. No V8 engine #desktop#nativeapp#framework
 - [The Wails Project](https://wails.io/) Electron alternative in Go #desktop#nativeapp#framework
 - [A Git Origin Story](https://www.linuxjournal.com/content/git-origin-story) How Linux wrote Git out of necessity #versioning#git#story
