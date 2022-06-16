@@ -1,3 +1,4 @@
+- [sciter](https://sciter.com/) Electron alternative, HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application. No V8 engine #desktop#nativeapp#framework
 - [The Wails Project](https://wails.io/) Electron alternative in Go #desktop#nativeapp#framework
 - [A Git Origin Story](https://www.linuxjournal.com/content/git-origin-story) How Linux wrote Git out of necessity #versioning#git#story
 - [jessegrosjean/mobydickworkout](https://github.com/jessegrosjean/mobydickworkout) Large markdown testing file #resource#markdown
