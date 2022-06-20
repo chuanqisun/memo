@@ -1,3 +1,4 @@
+- [crabtyper](https://www.crabtyper.com/#) speed typing game written in rust for practice touch typing #wasm#tool
 - [Using WebAssembly threads from C, C++ and Rust](https://web.dev/webassembly-threads/) #wasm#performance
 - [NirSoft Utilities Panel](https://www.nirsoft.net/panel/) Huge collection of windows debugging tools #tool#resource#desktop#browser#network
 - [Cool desktops don’t change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/) A case for using old stable programs #opinion#editor
