@@ -1,3 +1,4 @@
+- [Search My Site](https://searchmysite.net/) Open source search engine and search as a service for personal and independent websites. #searchengine#saas#indieweb
 - [Microsoft Donated Money to GNOME: Let's Remember How They Attacked Open Source Before](https://nixsanctuary.com/microsoft-donated-money-to-gnome-lets-remember-how-they-attacked-open-source-before/) With a brief history of software licensing legal cases #reference#opinion
 - [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) Comparison of TypeScript runtimes #reference
 - [crabtyper](https://www.crabtyper.com/#) speed typing game written in rust for practice touch typing #wasm#tool
