@@ -1,3 +1,4 @@
+- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) #resource#animation#progress
 - [kochrt/markwhen](https://github.com/kochrt/markwhen) Make a cascading timeline from markdown-like text #library#markdown#visualization
 - [Building forms with custom elements](https://www.filamentgroup.com/lab/forms-with-custom-elements/) review of browser support, and polyfill #form#technique#a11y#webcomponent
 - [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) comparison across search engine APIs and services #searchengine#comparison#reference
