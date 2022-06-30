@@ -1,3 +1,4 @@
+- [LeaVerou/color.js: Color conversion & manipulation library by the editors of the CSS Color specifications](https://github.com/LeaVerou/color.js) #library#color
 - [The really important job interview questions engineers should ask (but don't)](https://posthog.com/blog/what-to-ask-in-interviews) #career#startup#jobsatisfaction#guide#interview
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) #resource#animation#progress
 - [kochrt/markwhen](https://github.com/kochrt/markwhen) Make a cascading timeline from markdown-like text #library#markdown#visualization
