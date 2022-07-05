@@ -1,3 +1,4 @@
+- [How to Build a Low-tech Website?](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) Static host, Dithered image, No logo and default font #performance#indieweb#selfhosted
 - [utterances](https://utteranc.es) Use github issue tracker as comment service #community#chat#collaboration#service
 - [Single Element Loaders: Going 3D!](https://css-tricks.com/single-element-loaders-going-3d/) 3D cube and progress bar in plain CSS #3d#technique#progress
 - [keeweb/favicon-proxy: CORS-enabled favicon proxy](https://github.com/keeweb/favicon-proxy) Render favicon from other hosts #service#favicon
