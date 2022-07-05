@@ -1,3 +1,4 @@
+- [Single Element Loaders: Going 3D!](https://css-tricks.com/single-element-loaders-going-3d/) 3D cube and progress bar in plain CSS #3d#technique#progress
 - [keeweb/favicon-proxy: CORS-enabled favicon proxy](https://github.com/keeweb/favicon-proxy) Render favicon from other hosts #service#favicon
 - [LeaVerou/color.js: Color conversion & manipulation library by the editors of the CSS Color specifications](https://github.com/LeaVerou/color.js) #library#color
 - [The really important job interview questions engineers should ask (but don't)](https://posthog.com/blog/what-to-ask-in-interviews) #career#startup#jobsatisfaction#guide#interview
