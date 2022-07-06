@@ -1,3 +1,4 @@
+- [Defensive CSS](https://defensivecss.dev/) improve edge case handling and error recovery #pattern#progressive
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) Share local terminal over the web #tui#tool#collaboration
 - [Common Crawl](https://commoncrawl.org/) open source web crawling project #searchengine#resource
 - [How to Build a Low-tech Website?](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) Static host, Dithered image, No logo and default font #performance#indieweb#selfhosted
