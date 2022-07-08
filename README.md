@@ -1,3 +1,4 @@
+- [Building tabs in Web Components](https://darn.es/building-tabs-in-web-components/) elegantly handle overflow and keyboard #pattern#tab#a11y#webcomponent#tutorial
 - [Human Eyes Only](https://humaneyesonly.com/) prevent machine readability on PDF #tool#security
 - [Defensive CSS](https://defensivecss.dev/) improve edge case handling and error recovery #pattern#progressive
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) Share local terminal over the web #tui#tool#collaboration
