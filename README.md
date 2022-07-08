@@ -1,3 +1,4 @@
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) alternative javascript runtime to node and deno, optimized for edge function #language#performance
 - [Building tabs in Web Components](https://darn.es/building-tabs-in-web-components/) elegantly handle overflow and keyboard #pattern#tab#a11y#webcomponent#tutorial
 - [Human Eyes Only](https://humaneyesonly.com/) prevent machine readability on PDF #tool#security
 - [Defensive CSS](https://defensivecss.dev/) improve edge case handling and error recovery #pattern#progressive
