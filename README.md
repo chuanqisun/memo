@@ -1,3 +1,4 @@
+- [An event for CSS position:sticky](https://developer.chrome.com/blog/sticky-headers/) Build sticky header stack #technique#tutorial
 - [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) alternative javascript runtime to node and deno, optimized for edge function #language#performance
 - [Building tabs in Web Components](https://darn.es/building-tabs-in-web-components/) elegantly handle overflow and keyboard #pattern#tab#a11y#webcomponent#tutorial
 - [Human Eyes Only](https://humaneyesonly.com/) prevent machine readability on PDF #tool#security
