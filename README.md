@@ -1,3 +1,4 @@
+- [UX Core](https://keepsimple.io/uxcore) Large database for UX patterns, cognitive biases, heuristics, psychological effects #reference#pattern#psychology
 - [Memory Management Reference](https://www.memorymanagement.org/) with diagram and glossary list  #reference#systemprogramming
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) Jargon from the functional programming world in simple terms #reference#language
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop) API design for better composition #functional
