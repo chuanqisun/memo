@@ -1,3 +1,4 @@
+- [stedolan/jq](https://github.com/stedolan/jq) Command-line JSON processor #cli#tool
 - [Speak Human](https://www.speakhuman.today/) Generate friendly message for UI copy and messaging #content#tool
 - [UX Core](https://keepsimple.io/uxcore) Large database for UX patterns, cognitive biases, heuristics, psychological effects #reference#pattern#psychology
 - [Memory Management Reference](https://www.memorymanagement.org/) with diagram and glossary list  #reference#systemprogramming
