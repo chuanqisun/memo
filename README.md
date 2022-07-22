@@ -1,3 +1,4 @@
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) Interactive Data Visualization in the browser, from Python. Replacement for D3 #library#visualization
 - [Subheadings, subtitles, alternative titles and taglines in HTML](https://www.tpgi.com/subheadings-subtitles-alternative-titles-and-taglines-in-html/) Practical solution to semantic subtitle and subheading using hgroup #a11y#technique
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) C++ improved #language#compiler
 - [Levels.fyi](https://www.levels.fyi) Crowd sourced compensation and career ladder comparison #career#tool#interview
