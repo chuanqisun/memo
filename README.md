@@ -1,3 +1,4 @@
+- [Subheadings, subtitles, alternative titles and taglines in HTML](https://www.tpgi.com/subheadings-subtitles-alternative-titles-and-taglines-in-html/) Practical solution to semantic subtitle and subheading using hgroup #a11y#technique
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) C++ improved #language#compiler
 - [Levels.fyi](https://www.levels.fyi) Crowd sourced compensation and career ladder comparison #career#tool#interview
 - [jawerty/myAlgorithm](https://github.com/jawerty/myAlgorithm) A self hosted recommendation feed generated from your browsing habits, with LDA model #extension#selfhosted
