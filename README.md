@@ -1,3 +1,4 @@
+- [Clipboard Inspector](https://evercoder.github.io/clipboard-inspector/) inspect all formats within the clipboard #tool#debug
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) Interactive Data Visualization in the browser, from Python. Replacement for D3 #library#visualization
 - [Subheadings, subtitles, alternative titles and taglines in HTML](https://www.tpgi.com/subheadings-subtitles-alternative-titles-and-taglines-in-html/) Practical solution to semantic subtitle and subheading using hgroup #a11y#technique
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) C++ improved #language#compiler
