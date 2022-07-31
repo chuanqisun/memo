@@ -1,3 +1,4 @@
+- [aidenybai/million-react](https://github.com/aidenybai/million-react) Fast virtual DOM for React using Pre-compilation #library#performance#dom
 - [tabler/tabler](https://github.com/tabler/tabler) Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap #designsystem#visualization#library
 - [Clipboard Inspector](https://evercoder.github.io/clipboard-inspector/) inspect all formats within the clipboard #tool#debug
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) Interactive Data Visualization in the browser, from Python. Replacement for D3 #library#visualization
