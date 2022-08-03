@@ -1,3 +1,4 @@
+- [rwightman/pytorch-image-models: PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models) integrated in fast.ai #resource#deeplearning
 - [My HCI toolbox: Methods for designing and evaluating UIs](https://austinhenley.com/blog/myhcitoolbox.html) A Microsoft PM's personal playbook for UX research #uxresearch#guide#hci
 - [aidenybai/million-react](https://github.com/aidenybai/million-react) Fast virtual DOM for React using Pre-compilation #library#performance#dom
 - [tabler/tabler](https://github.com/tabler/tabler) Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap #designsystem#visualization#library
