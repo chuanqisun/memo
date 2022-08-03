@@ -1,3 +1,4 @@
+- [Function.prototype.length - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/length) Get number of parameters defined in a function, used for auto-currying #language#technique#functional
 - [damianavila/RISE: RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension](https://github.com/damianavila/RISE) Turn Jupyter notebook into slide presentation #library#tool
 - [rwightman/pytorch-image-models: PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models) integrated in fast.ai #resource#deeplearning
 - [My HCI toolbox: Methods for designing and evaluating UIs](https://austinhenley.com/blog/myhcitoolbox.html) A Microsoft PM's personal playbook for UX research #uxresearch#guide#hci
