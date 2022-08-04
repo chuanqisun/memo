@@ -1,3 +1,4 @@
+- [Gradio](https://www.gradio.app/) UI toolkit for ML apps #library#machinelearning
 - [Gradio + HuggingFace Spaces](https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial) ML service deployment #tutorial#beginner
 - [ramda/ramda: Practical functional Javascript](https://github.com/ramda/ramda) #library
 - [Function.prototype.length - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/length) Get number of parameters defined in a function, used for auto-currying #language#technique#functional
