@@ -1,3 +1,4 @@
+- [angus-c/just](https://github.com/angus-c/just) A library of dependency-free JavaScript utilities that do just one thing. #functional#library
 - [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)  A strictly typed utility library. lodash alternative. #functional#library
 - [Matrix Multiplication](http://matrixmultiplication.xyz/) Visualization #beginner#gooddesign#machinelearning
 - [Gradio](https://www.gradio.app/) UI toolkit for ML apps #library#machinelearning
