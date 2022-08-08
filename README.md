@@ -1,3 +1,4 @@
+- [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)  A strictly typed utility library. lodash alternative. #functional#library
 - [Matrix Multiplication](http://matrixmultiplication.xyz/) Visualization #beginner#gooddesign#machinelearning
 - [Gradio](https://www.gradio.app/) UI toolkit for ML apps #library#machinelearning
 - [Gradio + HuggingFace Spaces](https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial) ML service deployment #tutorial#beginner
