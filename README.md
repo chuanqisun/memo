@@ -1,3 +1,4 @@
+- [Pixilart](http://www.pixilart.com) Online pixel art creation #tool#pixelart#gamedev
 - [Aseprite](https://www.aseprite.org/) Pixel art and sprite animation #tool#gamedev
 - [angus-c/just](https://github.com/angus-c/just) A library of dependency-free JavaScript utilities that do just one thing. #functional#library
 - [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)  A strictly typed utility library. lodash alternative. #functional#library
