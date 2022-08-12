@@ -1,3 +1,4 @@
+- [Zazow](https://www.zazow.com) Algorithmic Generative Art showcase and hosting #generative#art#reference#inspiration
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) Animated sprite editor & pixel art tool based on Aseprite #pixelart#tool#free
 - [Pixilart](http://www.pixilart.com) Online pixel art creation #tool#pixelart#gamedev
 - [Aseprite](https://www.aseprite.org/) Pixel art and sprite animation #tool#gamedev
