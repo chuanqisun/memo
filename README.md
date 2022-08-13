@@ -1,3 +1,4 @@
+- [Open Cognition Project (OpenCog)](http://wiki.opencog.org/w/The_Open_Cognition_Project) for solving Artificial General Intelligence #ai
 - [Zazow](https://www.zazow.com) Algorithmic Generative Art showcase and hosting #generative#art#reference#inspiration
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) Animated sprite editor & pixel art tool based on Aseprite #pixelart#tool#free
 - [Pixilart](http://www.pixilart.com) Online pixel art creation #tool#pixelart#gamedev
