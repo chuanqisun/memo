@@ -1,3 +1,4 @@
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) An open-source UI component library for building high-quality, accessible design systems and web apps #pattern#library
 - [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/) Utility first approach to frontend engineering #library#pattern#a11y#opinion
 - [Open Cognition Project (OpenCog)](http://wiki.opencog.org/w/The_Open_Cognition_Project) for solving Artificial General Intelligence #ai
 - [Zazow](https://www.zazow.com) Algorithmic Generative Art showcase and hosting #generative#art#reference#inspiration
