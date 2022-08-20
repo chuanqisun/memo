@@ -1,3 +1,4 @@
+- [subconsciousnetwork/subtext: Markup for note taking](https://github.com/subconsciousnetwork/subtext) reduced from markdown #language
 - [Pyxel Edit: pixel art and tileset creation tool](https://pyxeledit.com/) #pixelart#tool
 - [AI Weirdness](https://www.aiweirdness.com/) Funny results when AI training when wrong, joke on AI #deeplearning
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) for estimation of algorithm performance #reference#performance
