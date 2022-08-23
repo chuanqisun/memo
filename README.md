@@ -1,3 +1,4 @@
+- [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns) interactive  #visualization#deeplearning#beginner#gooddesign
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) programmatic image editing #library#tool#image
 - [google/sentencepiece: Unsupervised text tokenizer for Neural Network-based text generation.](https://github.com/google/sentencepiece) for non-english tokenization #library
 - [subconsciousnetwork/subtext: Markup for note taking](https://github.com/subconsciousnetwork/subtext) reduced from markdown #language
