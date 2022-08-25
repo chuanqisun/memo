@@ -1,3 +1,4 @@
+- [Why your website should be under 14kb](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/) tcp package size consideration #performance#network
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) Open-source alternative to DALL-E 2 #deeplearning#generative#library
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns) interactive  #visualization#deeplearning#beginner#gooddesign
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) programmatic image editing #library#tool#image
