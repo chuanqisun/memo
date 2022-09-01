@@ -19,7 +19,6 @@
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) Animated sprite editor & pixel art tool based on Aseprite #pixelart#tool#free
 - [Pixilart](http://www.pixilart.com) Online pixel art creation #tool#pixelart#gamedev
 - [Aseprite](https://www.aseprite.org/) Pixel art and sprite animation #tool#gamedev
-- [angus-c/just](https://github.com/angus-c/just) A library of dependency-free JavaScript utilities that do just one thing. #functional#library
 - [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)  A strictly typed utility library. lodash alternative. #functional#library
 - [Matrix Multiplication](http://matrixmultiplication.xyz/) Visualization #beginner#gooddesign#machinelearning
 - [Gradio](https://www.gradio.app/) UI toolkit for ML apps #library#machinelearning
@@ -195,7 +194,7 @@
 - [QEMU](https://www.qemu.org/) A generic and open source machine emulator and virtualizer. Run any vm on any platform #tool
 - [accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey) HTML attribute that allows browser to support keyboard shortcut without javascript #a11y#reference
 - [microsoft/vscode-custom-data](https://github.com/microsoft/vscode-custom-data) Machine readable language spec for HTML and CSS used by vscode #reference
-- [angus-c/just](https://github.com/angus-c/just) Single-purpose utility for javascript #library#performance
+- [angus-c/just](https://github.com/angus-c/just) Single-purpose dependency-free JavaScript utilities that do just one thing. #functional#library#performance
 - [Object-oriented UX (OOUX)](https://alistapart.com/article/how-to-sell-ux-research/) How system modeling intersects with user research and UI design #uxresearch#database
 - [Swup](https://swup.js.org/getting-started/demo) Page transition with bare DOM API #library#animation
 - [Identifont](http://www.identifont.com/index.html) Decision tree for identifying fonts #typography#tool
