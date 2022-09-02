@@ -1,3 +1,4 @@
+- [TIOBE Index](https://www.tiobe.com/tiobe-index/) Overall assessment of programming languages usage and usability #reference
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) A static website compiler library in Haskell #library#jamstack
 - [Why ContentEditable is Terrible](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480) medium engineering blob on text editor design #wysiwyg#reference
 - [Why your website should be under 14kb](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/) tcp package size consideration #performance#network
