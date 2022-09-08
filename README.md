@@ -1,3 +1,4 @@
+- [Goodbye, useEffect: David Khourshid](https://www.youtube.com/watch?v=HPoC-k7Rxwo) effects below in even handler, below in state management, separate from rendering #opinion
 - [Checklist Design](https://www.checklist.design/) A collection of the best design practices, with links to evidence articles #reference#resource#pattern#guide
 - [Gotenberg](https://gotenberg.dev/) Docker image that converts any document to PDF #library#tool
 - [WikiHouse](https://www.wikihouse.cc/) Modular design systems for house #inspiration#gooddesign#designsystem
