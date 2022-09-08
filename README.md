@@ -1,3 +1,4 @@
+- [Checklist Design](https://www.checklist.design/) A collection of the best design practices, with links to evidence articles #reference#resource#pattern#guide
 - [Gotenberg](https://gotenberg.dev/) Docker image that converts any document to PDF #library#tool
 - [WikiHouse](https://www.wikihouse.cc/) Modular design systems for house #inspiration#gooddesign#designsystem
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) Specification for interoperability of common algebraic structures in JavaScript #reference#functional#language
