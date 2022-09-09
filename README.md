@@ -1,3 +1,4 @@
+- [Cyclic.sh](https://www.cyclic.sh/) full stack hosting for hobby project #service#cicd#free
 - [Congress.gov API](https://api.congress.gov/#/summaries/bill_summaries_by_congress) Query bills, amendments, members, committees, treaties #api#resource
 - [Kamby Language](https://kamby.org/#docs) ergonomic lisp in 400 LOC #language#compiler
 - [Goodbye, useEffect: David Khourshid](https://www.youtube.com/watch?v=HPoC-k7Rxwo) effects below in even handler, below in state management, separate from rendering #opinion
