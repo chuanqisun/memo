@@ -1,3 +1,4 @@
+- [Typesense](https://typesense.org/) In memory full text search #library#searchengine#selfhosted
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) Python script that converts arch linux package to appimage #linux#tool#production
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) a structural diff that understands syntax #algorithm#library#editor
 - [Cyclic.sh](https://www.cyclic.sh/) full stack hosting for hobby project #service#cicd#free
