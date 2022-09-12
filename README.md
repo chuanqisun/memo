@@ -1,3 +1,4 @@
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) a structural diff that understands syntax #algorithm#library#editor
 - [Cyclic.sh](https://www.cyclic.sh/) full stack hosting for hobby project #service#cicd#free
 - [Congress.gov API](https://api.congress.gov/#/summaries/bill_summaries_by_congress) Query bills, amendments, members, committees, treaties #api#resource
 - [Kamby Language](https://kamby.org/#docs) ergonomic lisp in 400 LOC #language#compiler
