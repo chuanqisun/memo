@@ -1,3 +1,4 @@
+- [Statistics Estonia](https://www.stat.ee/en) Good search UX #inspiration#searchengine#gooddesign
 - [rclone](https://github.com/rclone/rclone) data sync for cloud storage #library#tool#distributed#storage
 - [Typesense](https://typesense.org/) In memory full text search #library#searchengine#selfhosted
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) Python script that converts arch linux package to appimage #linux#tool#production
