@@ -1,3 +1,4 @@
+- [Visual product comparison](https://www.productchart.com/ssd_drives/) For PC, Laptop, SSD, Camera, Monitor #gooddesign#tool
 - [Statistics Estonia](https://www.stat.ee/en) Good search UX #inspiration#searchengine#gooddesign
 - [rclone](https://github.com/rclone/rclone) data sync for cloud storage #library#tool#distributed#storage
 - [Typesense](https://typesense.org/) In memory full text search #library#searchengine#selfhosted
