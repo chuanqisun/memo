@@ -1,3 +1,4 @@
+- [Purify](https://gigobyte.github.io/purify/getting-started) Functional programming library for TypeScript with focus on data types #library#functional
 - [Visual product comparison](https://www.productchart.com/ssd_drives/) For PC, Laptop, SSD, Camera, Monitor #gooddesign#tool
 - [Statistics Estonia](https://www.stat.ee/en) Good search UX #inspiration#searchengine#gooddesign
 - [rclone](https://github.com/rclone/rclone) data sync for cloud storage #library#tool#distributed#storage
