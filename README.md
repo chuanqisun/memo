@@ -1,3 +1,4 @@
+- [pdfgrep](https://pdfgrep.org/) Search into PDF files #cli#tool#searchengine
 - [Starter Story](https://www.starterstory.com/) Database for startups, with good search and filter #tool#reference#businessstrategy#startup
 - [Game UI Database](https://www.gameuidatabase.com/) great for UI design #reference
 - [JSCheck](https://www.crockford.com/jscheck.html) Randomized property-based testing for javascript, inspired by Haskell QuickCheck #test#library#functional
