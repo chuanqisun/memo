@@ -1,3 +1,4 @@
+- [Digital Journalism Style Guide of Inclusive Language](https://languageplease.org/style-guide/) Considering class, disability, Gender, Mental health, and Race #content#reference
 - [58 bytes of css to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41) Minimal stylesheet for Content heavy HTML pages, without reset or normalize #technique#performance
 - [pdfgrep](https://pdfgrep.org/) Search into PDF files #cli#tool#searchengine
 - [Starter Story](https://www.starterstory.com/) Database for startups, with good search and filter #tool#reference#businessstrategy#startup
