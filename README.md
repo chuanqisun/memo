@@ -1,3 +1,4 @@
+- [Timeline of Computer History](https://www.computerhistory.org/timeline/computers/) Visual stories by Computer History Museum #reference#history
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) Comprehensive list of SSL configs hosted in real sites for client testing. #security#tool#network
 - [Making Disabled Buttons More Inclusive](https://css-tricks.com/making-disabled-buttons-more-inclusive/) #button#disabled#pattern
 - [HTML attribute: autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete) List of supported autocomplete values #autocomplete#reference#form#pattern
