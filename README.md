@@ -1,3 +1,4 @@
+- [snaplet/postgres-wasm:](https://github.com/snaplet/postgres-wasm) Linux VM and PostgresQL server running in your browser using Web Assembly,  #database#wasm
 - [Doug Engelbart Institute](https://dougengelbart.org/) Insights for building revolutionary technology that augments collective intelligence #history#reference
 - [Timeline of Computer History](https://www.computerhistory.org/timeline/computers/) Visual stories by Computer History Museum #reference#history
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) Comprehensive list of SSL configs hosted in real sites for client testing. #security#tool#network
