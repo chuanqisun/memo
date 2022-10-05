@@ -1,3 +1,4 @@
+- [Fluid type scale calculator](https://utopia.fyi/type/calculator/) Configure, visualize, and generate code #typography#responsive#tool
 - [From data to Viz](https://www.data-to-viz.com/) Help decide what visualization to use to the data you have #tool#reference#visualization
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com) detailed guide on how and when to use each type of visualization #guide#reference#visualization
 - [Castopod](https://castopod.org/) open-source podcast hosting with community and social features #library#platform#podcast
