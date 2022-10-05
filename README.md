@@ -1,3 +1,4 @@
+- [Castopod](https://castopod.org/) open-source podcast hosting with community and social features #library#platform#podcast
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) Cross-platform UI components built with lit #library#webcomponent#pattern
 - [Nature 150 Interactive](https://www.nature.com/articles/d41586-019-03308-7) Visualize 150 years of citation network #gooddesign#visualization#knowledgebase
 - [snaplet/postgres-wasm:](https://github.com/snaplet/postgres-wasm) Linux VM and PostgresQL server running in your browser using Web Assembly,  #database#wasm
