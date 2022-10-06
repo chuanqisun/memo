@@ -1,3 +1,4 @@
+- [How to Safely Share Your Email Address on a Website](https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/) Prevent bot and spam but allow user to get email #pattern#email#form
 - [antfu/retypewriter](https://github.com/antfu/retypewriter) Record, replay, and revise coding steps with diff editor #productivity#tool#editor#vscode#extension
 - [muted.io](https://muted.io/) Magical Music Theory Tools to Learn Music Online for Free. Good for guitar and piano #tool#reference#audio
 - [When going somewhere does a thing: on links and buttons](https://kilianvalkhof.com/2022/css-html/when-going-somewhere-does-a-thing-on-links-and-buttons/) On choosing link vs button #pattern#a11y#opinion
