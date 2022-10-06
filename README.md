@@ -1,3 +1,4 @@
+- [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) #algorithm
 - [Cloudflare Turnstile](https://blog.cloudflare.com/turnstile-private-captcha-alternative/) Alternative to CAPTCHA #service#privacy#antispam
 - [Fluid type scale calculator](https://utopia.fyi/type/calculator/) Configure, visualize, and generate code #typography#responsive#tool
 - [From data to Viz](https://www.data-to-viz.com/) Help decide what visualization to use to the data you have #tool#reference#visualization
