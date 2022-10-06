@@ -1,3 +1,4 @@
+- [I turned JS into a compiled language](https://surma.dev/things/compile-js/) from js to wasm and C++ #technique#wasm#tutorial
 - [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) #algorithm
 - [Cloudflare Turnstile](https://blog.cloudflare.com/turnstile-private-captcha-alternative/) Alternative to CAPTCHA #service#privacy#antispam
 - [Fluid type scale calculator](https://utopia.fyi/type/calculator/) Configure, visualize, and generate code #typography#responsive#tool
