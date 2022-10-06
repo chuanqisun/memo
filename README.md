@@ -1,3 +1,4 @@
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) Improved Windows 11 task bar #tool#productivity
 - [How to Safely Share Your Email Address on a Website](https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/) Prevent bot and spam but allow user to get email #pattern#email#form
 - [antfu/retypewriter](https://github.com/antfu/retypewriter) Record, replay, and revise coding steps with diff editor #productivity#tool#editor#vscode#extension
 - [muted.io](https://muted.io/) Magical Music Theory Tools to Learn Music Online for Free. Good for guitar and piano #tool#reference#audio
