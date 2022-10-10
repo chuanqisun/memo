@@ -1,3 +1,4 @@
+- [The Elm Architecture](https://guide.elm-lang.org/architecture/) design pattern for highly interactive UI application #functional#reference#gooddesign
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) Improved Windows 11 task bar #tool#productivity
 - [How to Safely Share Your Email Address on a Website](https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/) Prevent bot and spam but allow user to get email #pattern#email#form
 - [antfu/retypewriter](https://github.com/antfu/retypewriter) Record, replay, and revise coding steps with diff editor #productivity#tool#editor#vscode#extension
