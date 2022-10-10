@@ -1,3 +1,4 @@
+- [Thinking on ways to solve TOOLTIPS](https://www.youtube.com/watch?v=Y5EIC_UyPME) directional animation, reduced motion, keyboard focus #pattern#tooltip#hover#a11y
 - [iced-rs/iced](https://github.com/iced-rs/iced) A cross-platform GUI library for Rust, inspired by Elm, used by Pop OS #library#rust
 - [The Elm Architecture](https://guide.elm-lang.org/architecture/) design pattern for highly interactive UI application #functional#reference#gooddesign
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) Improved Windows 11 task bar #tool#productivity
