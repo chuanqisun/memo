@@ -1,3 +1,4 @@
+- [iced-rs/iced](https://github.com/iced-rs/iced) A cross-platform GUI library for Rust, inspired by Elm, used by Pop OS #library#rust
 - [The Elm Architecture](https://guide.elm-lang.org/architecture/) design pattern for highly interactive UI application #functional#reference#gooddesign
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) Improved Windows 11 task bar #tool#productivity
 - [How to Safely Share Your Email Address on a Website](https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/) Prevent bot and spam but allow user to get email #pattern#email#form
