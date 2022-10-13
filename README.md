@@ -1,3 +1,4 @@
+- [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/) #opinion#maintenance#methodology#framework
 - [A tiling window manager for Windows](komorebi) #rust#productivity#tool
 - [How Brian Eno Created "Ambient 1: Music For Airports"](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/) #audio#gooddesign#synth
 - [Canary in the Photo Mine](https://linuxunplugged.com/476) Open source Google photo and cloud storage alternatives #selfhosted#storage#sync#backup#photo
