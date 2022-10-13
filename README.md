@@ -1,3 +1,4 @@
+- [They Called It LISP for a Reason: List Processing](https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html) recursive data structure and algorithms #functional#language
 - [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/) #opinion#maintenance#methodology#framework
 - [A tiling window manager for Windows](komorebi) #rust#productivity#tool
 - [How Brian Eno Created "Ambient 1: Music For Airports"](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/) #audio#gooddesign#synth
