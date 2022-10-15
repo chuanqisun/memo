@@ -1,3 +1,4 @@
+- [Lose the Very](https://www.losethevery.com/) replace very + any word with a more eloquent word #tool#content#writing
 - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization) #tool
 - [They Called It LISP for a Reason: List Processing](https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html) recursive data structure and algorithms #functional#language
 - [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/) #opinion#maintenance#methodology#framework
