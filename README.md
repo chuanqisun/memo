@@ -1185,6 +1185,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Clippy](https://bennettfeely.com/clippy/) CSS clip-path generator #tool
 - [Shapy](https://shapy.app/) gradient generator #tool
 - [coolors](https://coolors.co) color palette generator #tool
+- [Branition Colors](https://branition.com/colors) collection of color pallets best fitted for branding #tool
 - [The Directors Bureau](https://thedirectorsbureau.com/) vintage console like brutalist interface #gooddesign#inspiration
 - [Engineering process at Google](https://arxiv.org/abs/1702.01715) #opinion#gooddesign
 - [SiteInspire](https://www.siteinspire.com/) a collection of beautifully designed websites #inspiration
