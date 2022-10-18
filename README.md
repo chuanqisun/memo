@@ -1,3 +1,4 @@
+- [Magiconch Lab](https://lab.magiconch.com/) Collection of tools around anime, image processing, language processing for Chinese #tool#image#resource#nlp#generative
 - [vaporwave](https://magiconch.com/vaporwave/) Image processing with advanced filters #tool#image
 - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html) #opinion#history
 - [WebMemex/freeze-dry](https://github.com/WebMemex/freeze-dry) Snapshots a web page to get it as a static, self-contained HTML document. #library#knowledgebase
