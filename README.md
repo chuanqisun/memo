@@ -1,3 +1,4 @@
+- [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html) #opinion#history
 - [WebMemex/freeze-dry](https://github.com/WebMemex/freeze-dry) Snapshots a web page to get it as a static, self-contained HTML document. #library#knowledgebase
 - [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/) Aspects to consider when analyzing the pros and cons of a language #language#reference
 - [bliki: CQRS](https://www.martinfowler.com/bliki/CQRS.html) Command Query Responsibility Segregation #architecture#reference
