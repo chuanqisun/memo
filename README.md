@@ -1,3 +1,4 @@
+- [WebMemex/freeze-dry](https://github.com/WebMemex/freeze-dry) Snapshots a web page to get it as a static, self-contained HTML document. #library#knowledgebase
 - [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/) Aspects to consider when analyzing the pros and cons of a language #language#reference
 - [bliki: CQRS](https://www.martinfowler.com/bliki/CQRS.html) Command Query Responsibility Segregation #architecture#reference
 - [Projectbook](https://github.com/brettchalupa/projectbook) Project ideas with specifications, mock-ups, and assets for learning any programming language #reference#inspiration
