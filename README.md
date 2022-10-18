@@ -1,3 +1,4 @@
+- [Projectbook](https://github.com/brettchalupa/projectbook) Project ideas with specifications, mock-ups, and assets for learning any programming language #reference#inspiration
 - [Feather](https://feathericons.com/) open source iconset #icon#resource
 - [Lose the Very](https://www.losethevery.com/) replace very + any word with a more eloquent word #tool#content#writing
 - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization) #tool
