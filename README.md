@@ -1,3 +1,4 @@
+- [lodash style issue management](https://github.com/jimmejardine/qiqqa-open-source/issues/200) #reference#devops#technique
 - [Magiconch Lab](https://lab.magiconch.com/) Collection of tools around anime, image processing, language processing for Chinese #tool#image#resource#nlp#generative
 - [vaporwave](https://magiconch.com/vaporwave/) Image processing with advanced filters #tool#image
 - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html) #opinion#history
