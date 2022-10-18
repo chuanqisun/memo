@@ -1,3 +1,4 @@
+- [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/) Aspects to consider when analyzing the pros and cons of a language #language#reference
 - [bliki: CQRS](https://www.martinfowler.com/bliki/CQRS.html) Command Query Responsibility Segregation #architecture#reference
 - [Projectbook](https://github.com/brettchalupa/projectbook) Project ideas with specifications, mock-ups, and assets for learning any programming language #reference#inspiration
 - [Feather](https://feathericons.com/) open source iconset #icon#resource
