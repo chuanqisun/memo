@@ -1,3 +1,4 @@
+- [Component patterns by web.dev](https://web.dev/patterns/components/) Superset of GUI Challenges #reference#pattern#button#carousel#dialog#multiselect#breadcrumb#notification#tab
 - [Stellarium Astronomy Software](https://stellarium.org/en/) cross platform, for stargazing and astronomy #tool
 - [vercel/satori](https://github.com/vercel/satori) HTML and CSS to SVG #library#svg
 - [Files and directories patterns](https://web.dev/patterns/files/) #reference#file
