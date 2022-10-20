@@ -1,3 +1,4 @@
+- [Files and directories patterns](https://web.dev/patterns/files/) #reference#file
 - [DiscMaster](http://discmaster.textfiles.com/) Search through internet archive #tool#searchengine
 - [Just for Fun. No, Really.](https://justforfunnoreally.dev/) Joy of programming vs. Commercial culture #opinion#jobsatisfaction
 - [lodash style issue management](https://github.com/jimmejardine/qiqqa-open-source/issues/200) #reference#devops#technique
