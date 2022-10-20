@@ -1,3 +1,4 @@
+- [vercel/satori](https://github.com/vercel/satori) HTML and CSS to SVG #library#svg
 - [Files and directories patterns](https://web.dev/patterns/files/) #reference#file
 - [DiscMaster](http://discmaster.textfiles.com/) Search through internet archive #tool#searchengine
 - [Just for Fun. No, Really.](https://justforfunnoreally.dev/) Joy of programming vs. Commercial culture #opinion#jobsatisfaction
