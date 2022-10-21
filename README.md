@@ -1,3 +1,4 @@
+- [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c) for javascript object composition #technique
 - [Component patterns by web.dev](https://web.dev/patterns/components/) Superset of GUI Challenges #reference#pattern#button#carousel#dialog#multiselect#breadcrumb#notification#tab
 - [Stellarium Astronomy Software](https://stellarium.org/en/) cross platform, for stargazing and astronomy #tool
 - [vercel/satori](https://github.com/vercel/satori) HTML and CSS to SVG #library#svg
