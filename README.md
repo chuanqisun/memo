@@ -1,3 +1,4 @@
+- [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a) use functional composition instead #opinion#philosophy#test
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f) Naming convention inspired by Elements of Style #naming#reference
 - [Why Composition is Harder with Classes](https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa) Replace javascript class with factory #opinion#technique#language
 - [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c) for javascript object composition #technique
