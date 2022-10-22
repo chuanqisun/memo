@@ -1,3 +1,4 @@
+- [Foo to Bar](https://kowainik.github.io/posts/naming-conventions) Naming Conventions in Haskell #technique#documentation
 - [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) convert web URL to figma #tool
 - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a) use functional composition instead #opinion#philosophy#test
 - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f) Naming convention inspired by Elements of Style #naming#reference
