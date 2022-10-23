@@ -1,3 +1,4 @@
+- [Programming Portals](https://maggieappleton.com/programming-portals) Divide between programmer and end user. Coding and TUI in the low-code environment. #pattern#opinion
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) Comparison matrix for rendering speed #performance#framework
 - [Foo to Bar](https://kowainik.github.io/posts/naming-conventions) Naming Conventions in Haskell #technique#documentation#functional
 - [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) convert web URL to figma #tool
