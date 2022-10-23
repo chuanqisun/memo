@@ -1,3 +1,4 @@
+- [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) Comparison matrix for rendering speed #performance#framework
 - [Foo to Bar](https://kowainik.github.io/posts/naming-conventions) Naming Conventions in Haskell #technique#documentation#functional
 - [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) convert web URL to figma #tool
 - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a) use functional composition instead #opinion#philosophy#test
