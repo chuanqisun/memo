@@ -1,3 +1,4 @@
+- [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) Fast, unstyled command menu React component. #menu#modal#library
 - [answerdev/answer](https://github.com/answerdev/answer) Open-source alternative to Stack overflow and discourse #knowledgebase#community#chat#selfhosted
 - [Programming Portals](https://maggieappleton.com/programming-portals) Divide between programmer and end user. Coding and TUI in the low-code environment. #pattern#opinion
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) Comparison matrix for rendering speed #performance#framework
