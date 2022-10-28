@@ -1,3 +1,4 @@
+- [Zettelkasten-Method/10000-markdown-files](https://github.com/Zettelkasten-Method/10000-markdown-files) 10,000 markdown files. Useful for stress testing note-taking tools.
 - [Pandoc](https://pandoc.org/) Universal document converter, with programming API #conversion#tool
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) command line recorder that outputs gif #tool#terminal
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) Fast, unstyled command menu React component. #menu#modal#library
