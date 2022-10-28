@@ -1,3 +1,4 @@
+- [Pandoc](https://pandoc.org/) Universal document converter, with programming API #conversion#tool
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) command line recorder that outputs gif #tool#terminal
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) Fast, unstyled command menu React component. #menu#modal#library
 - [answerdev/answer](https://github.com/answerdev/answer) Open-source alternative to Stack overflow and discourse #knowledgebase#community#chat#selfhosted
