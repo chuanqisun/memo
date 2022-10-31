@@ -1,3 +1,4 @@
+- [GeoJSON](https://geojson.org/) format for encoding a variety of geographic data structures with map preview on GitHub. Good for location tracking #map#standard#reference
 - [Zettelkasten-Method/10000-markdown-files](https://github.com/Zettelkasten-Method/10000-markdown-files) 10,000 markdown files. Useful for stress testing note-taking tools.
 - [Pandoc](https://pandoc.org/) Universal document converter, with programming API #conversion#tool
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) command line recorder that outputs gif #tool#terminal
