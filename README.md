@@ -1,3 +1,4 @@
+- [The Myers Difference Algorithm](https://www.nathaniel.ai/myers-diff/) Convert diffing to BFS graph search problem #algorithm#editor#gooddesign#visualization
 - [ds300/patch-package](https://github.com/ds300/patch-package) Fix broken node modules instantly in the lack of timely maintenance #tool#devops#library#monorepo
 - [GeoJSON](https://geojson.org/) format for encoding a variety of geographic data structures with map preview on GitHub. Good for location tracking #map#standard#reference
 - [Zettelkasten-Method/10000-markdown-files](https://github.com/Zettelkasten-Method/10000-markdown-files) 10,000 markdown files. Useful for stress testing note-taking tools.
