@@ -1,3 +1,4 @@
+- [Learn X in Y Minutes](https://learnxinyminutes.com/) quick start for languages, computer science topics, data structure, and tool  #reference#beginner#language#tool#algorithm
 - [RawTherapee](https://www.rawtherapee.com/) alterative to photoshop #image#tool#photo
 - [The Myers Difference Algorithm](https://www.nathaniel.ai/myers-diff/) Convert diffing to BFS graph search problem #algorithm#editor#gooddesign#visualization
 - [ds300/patch-package](https://github.com/ds300/patch-package) Fix broken node modules instantly in the lack of timely maintenance #tool#devops#library#monorepo
