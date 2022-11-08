@@ -1,3 +1,4 @@
+- [cozodb/cozo](https://github.com/cozodb/cozo) Datalog graph database with embed binary like SQLite #database#library#rust
 - [binwiederhier/ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy) opena-source notification service for apps #notification#library#saas#free
 - [Learn X in Y Minutes](https://learnxinyminutes.com/) quick start for languages, computer science topics, data structure, and tool  #reference#beginner#language#tool#algorithm
 - [RawTherapee](https://www.rawtherapee.com/) alterative to photoshop #image#tool#photo
