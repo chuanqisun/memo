@@ -1,3 +1,4 @@
+- [binwiederhier/ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy) opena-source notification service for apps #notification#library#saas#free
 - [Learn X in Y Minutes](https://learnxinyminutes.com/) quick start for languages, computer science topics, data structure, and tool  #reference#beginner#language#tool#algorithm
 - [RawTherapee](https://www.rawtherapee.com/) alterative to photoshop #image#tool#photo
 - [The Myers Difference Algorithm](https://www.nathaniel.ai/myers-diff/) Convert diffing to BFS graph search problem #algorithm#editor#gooddesign#visualization
