@@ -1099,7 +1099,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [GOV.UK](https://design-system.service.gov.uk/get-started/) UK Government design system #a11y#pattern#library
 - [USWDS](https://github.com/uswds/uswds) US Goverment design system #a11y#pattern#library
 - [Public Sans](https://github.com/uswds/public-sans) open font used by US Gov #typography#resource#free
-- [Color.review](https://color.review/) Visualization for color constrat tweaking #a11y#tool#gooddesign
+- [Color.review](https://color.review/) Visualization for color contrast tweaking #a11y#tool#gooddesign
 - [Console API](https://areknawo.com/getting-creative-with-the-console-api/) for debugging and creative use #tutorial#reference
 - [Web dev concepts illustration](https://illustrated.dev/) #gooddesign#beginner
 - [Empathy for developers](https://design.google/library/john-maeda-interview-new-design-religion/) how interdisciplinary team fueled the success of Material Design #opinion
