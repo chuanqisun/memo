@@ -1,3 +1,4 @@
+- [Bulletproof Background Images](https://backgrounds.cm/) Generator for email banner image HTML and VML code #tool#responsive#email
 - [A Guide to HTML Background Images in Email](https://www.emailonacid.com/blog/article/email-development/html-background-images-in-email/) Background size contain #technique#email#responsive
 - [cozodb/cozo](https://github.com/cozodb/cozo) Datalog graph database with embed binary like SQLite #database#library#rust
 - [binwiederhier/ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy) opena-source notification service for apps #notification#library#saas#free
