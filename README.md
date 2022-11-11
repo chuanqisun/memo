@@ -1,3 +1,4 @@
+- [Linen](https://www.linen.dev/) Slack alternative designed for communities #chat#saas#free
 - [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) Free full stack application hosting for starter projects, alternative to Heroku #reference#paas
 - [Crystal](https://crystal-lang.org/) based on C and Ruby, with Go's concurrency model #language
 - [Swurl](https://swurl.com/) Parallel Search from Google, Wikipedia, Twitter, YouTube #tool#searchengine
