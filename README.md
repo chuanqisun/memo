@@ -1,3 +1,4 @@
+- [HTML includes with web components](https://gomakethings.com/html-includes-with-web-components/) #technique#progressive#performance
 - [github/mona-sans](https://github.com/github/mona-sans) Mona Sans, a variable font from GitHub #typography
 - [Linen](https://www.linen.dev/) Slack alternative designed for communities #chat#saas#free
 - [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) Free full stack application hosting for starter projects, alternative to Heroku #reference#paas
