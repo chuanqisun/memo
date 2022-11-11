@@ -1,3 +1,4 @@
+- [Boldly link where no one has linked before: Text Fragments](https://web.dev/text-fragments/) Deep link into text fragment #technique#url#browser
 - [UI2: Figma's Design System](https://www.figma.com/community/file/928108847914589057) Icons and Colors used by Figma UI #resource#gooddesign#designsystem
 - [Bulletproof Background Images](https://backgrounds.cm/) Generator for email banner image HTML and VML code #tool#responsive#email
 - [A Guide to HTML Background Images in Email](https://www.emailonacid.com/blog/article/email-development/html-background-images-in-email/) Background size contain #technique#email#responsive
