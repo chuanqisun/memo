@@ -1,3 +1,4 @@
+- [Potluck](https://www.inkandswitch.com/potluck/) Dynamic documents as personal software #knowledgebase#demo#realtime#plaintext
 - [The Best PiHole Blocklists](https://avoidthehack.com/best-pihole-blocklists) #privacy#resource
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) Curated and well-maintained hostfile to block ads, tracking, cryptomining #privacy#resource
 - [I Don’t Believe in Sprints](https://www.robinrendle.com/notes/i-don%E2%80%99t-believe-in-sprints/) #opinion#methodology#projectmanagement
