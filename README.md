@@ -1,3 +1,4 @@
+- [The Best PiHole Blocklists](https://avoidthehack.com/best-pihole-blocklists) #privacy#resource
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) Curated and well-maintained hostfile to block ads, tracking, cryptomining #privacy#resource
 - [I Don’t Believe in Sprints](https://www.robinrendle.com/notes/i-don%E2%80%99t-believe-in-sprints/) #opinion#methodology#projectmanagement
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) A curated collection of diagramming tools used by leading software engineering teams #tool#resource#diagram#chart#visualization
