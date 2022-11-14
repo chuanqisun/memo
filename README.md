@@ -1,3 +1,4 @@
+- [Muse app](https://museapp.com/) tool for thoughts with infinite canvas and touch first design #service#gooddesign
 - [Infinite Canvas](https://infinitecanvas.tools/) Literature and history review for tools for thought #reference#gooddesign
 - [Ink & Switch](https://www.inkandswitch.com/) HCI industrial research program, similar to PARC #gooddesign#resource
 - [HTML includes with web components](https://gomakethings.com/html-includes-with-web-components/) #technique#progressive#performance
