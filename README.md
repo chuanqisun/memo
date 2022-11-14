@@ -1,3 +1,4 @@
+- [hak5](https://shop.hak5.org/) White hat hacking utilities #tool#hack
 - [Potluck](https://www.inkandswitch.com/potluck/) Dynamic documents as personal software #knowledgebase#demo#realtime#plaintext
 - [The Best PiHole Blocklists](https://avoidthehack.com/best-pihole-blocklists) #privacy#resource
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) Curated and well-maintained hostfile to block ads, tracking, cryptomining #privacy#resource
