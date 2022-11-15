@@ -1,3 +1,4 @@
+- [Easy Rust](https://dhghomon.github.io/easy_rust/) #rust#beginner#reference
 - [hak5](https://shop.hak5.org/) White hat hacking utilities #tool#hack
 - [Potluck](https://www.inkandswitch.com/potluck/) Dynamic documents as personal software #knowledgebase#demo#realtime#plaintext
 - [The Best PiHole Blocklists](https://avoidthehack.com/best-pihole-blocklists) #privacy#resource
