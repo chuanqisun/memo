@@ -1,3 +1,4 @@
+- [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) For node link graph like UI building #visualization#library#resource
 - [Apple Rankings](https://applerankings.com/) Crowd sourced ratings #tool
 - [The PARA Method](https://fortelabs.com/blog/para/) A Universal System for Organizing Digital Information #knowledgebase#methodology
 - [Easy Rust](https://dhghomon.github.io/easy_rust/) #rust#beginner#reference
