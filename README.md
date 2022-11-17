@@ -1,3 +1,4 @@
+- [Apple Rankings](https://applerankings.com/) Crowd sourced ratings #tool
 - [The PARA Method](https://fortelabs.com/blog/para/) A Universal System for Organizing Digital Information #knowledgebase#methodology
 - [Easy Rust](https://dhghomon.github.io/easy_rust/) #rust#beginner#reference
 - [hak5](https://shop.hak5.org/) White hat hacking utilities #tool#hack
