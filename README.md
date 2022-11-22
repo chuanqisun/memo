@@ -1,3 +1,4 @@
+- [terrastruct/d2](https://github.com/terrastruct/d2) Declarative diagram scripting language that turns text to diagrams with REPL. #tool#visualization#diagram#ide
 - [Named Colors Wheel](https://arantius.github.io/web-color-wheel/) for CSS names #tool#color
 - [Moving away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/) URL safe Base64 as random ID #technique#url#knowledgebase
 - [Tree views in CSS](https://iamkate.com/code/tree-views/) #pattern#tree#visualization#technique
