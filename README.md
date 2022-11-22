@@ -1,3 +1,4 @@
+- [Moving away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/) URL safe Base64 as random ID #technique#url#knowledgebase
 - [Tree views in CSS](https://iamkate.com/code/tree-views/) #pattern#tree#visualization#technique
 - [A star rating widget in CSS](https://iamkate.com/code/star-rating-widget/) #rating#form#input
 - [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) For node link graph like UI building #visualization#library#resource
