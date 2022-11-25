@@ -1,3 +1,4 @@
+- [Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/) Use 25% increments of monospace width for better vertical alignment #typography#technique
 - [Cobalt](https://cobalt.dev/) Web rendering platform as Electron alternative #library#nativeapp
 - [terrastruct/d2](https://github.com/terrastruct/d2) Declarative diagram scripting language that turns text to diagrams with REPL. #tool#visualization#diagram#ide
 - [Named Colors Wheel](https://arantius.github.io/web-color-wheel/) for CSS names #tool#color
