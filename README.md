@@ -1,3 +1,4 @@
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) alternative to postman. Run and test HTTP requests in command line #cli#tool#network#test
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) Remix and Tailwind block editor and page builder #wysiwyg#lowcode#blockeditor#library
 - [Opinionated Guides](https://opguides.info/) On programming, philosophy, math, physics, hardware #opinion#tutorial#beginner
 - [Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/) Use 25% increments of monospace width for better vertical alignment #typography#technique
