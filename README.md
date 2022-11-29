@@ -1,3 +1,4 @@
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) JSON explorer with browse, search and media preview #tool#knowledgebase#visualization
 - [PCjs Machines](https://www.pcjs.org/) Collection of PC emulators for OS and hardware #emulator#reference
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) alternative to postman. Run and test HTTP requests in command line #cli#tool#network#test
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) Remix and Tailwind block editor and page builder #wysiwyg#lowcode#blockeditor#library
