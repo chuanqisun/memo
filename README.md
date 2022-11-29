@@ -1,3 +1,4 @@
+- [PCjs Machines](https://www.pcjs.org/) Collection of PC emulators for OS and hardware #emulator#reference
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) alternative to postman. Run and test HTTP requests in command line #cli#tool#network#test
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) Remix and Tailwind block editor and page builder #wysiwyg#lowcode#blockeditor#library
 - [Opinionated Guides](https://opguides.info/) On programming, philosophy, math, physics, hardware #opinion#tutorial#beginner
