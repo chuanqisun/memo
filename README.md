@@ -1,3 +1,4 @@
+- [Tree sitter](https://tree-sitter.github.io/tree-sitter/) with reference to incremental parsing algorithm design #algorithm#library#reference#technique
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) JSON explorer with browse, search and media preview #tool#knowledgebase#visualization
 - [PCjs Machines](https://www.pcjs.org/) Collection of PC emulators for OS and hardware #emulator#reference
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) alternative to postman. Run and test HTTP requests in command line #cli#tool#network#test
