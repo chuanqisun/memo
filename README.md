@@ -1,3 +1,4 @@
+- [Vim Commands: A Beginner Guide with Examples](https://thevaluable.dev/vim-commands-beginner/) progressive from 0 to expert #guide#beginner#reference
 - [ericchiang/pup](https://github.com/ericchiang/pup) Parsing HTML at the command line #tool#cli#html
 - [Counting unique visitors with HTTP header timestamp](https://notes.normally.com/cookieless-unique-visitor-counts/) without using cookies, UIDs or fingerprinting. #analytics#privacy#technique
 - [Tree sitter](https://tree-sitter.github.io/tree-sitter/) with reference to incremental parsing algorithm design #algorithm#library#reference#technique
