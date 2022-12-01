@@ -1,3 +1,4 @@
+- [oEmbed](https://oembed.com/#section2) Open embed protocol #standard#html#url#api#reference
 - [You don't need HTML](https://no-ht.ml/) implement table, chart, color, image, all in Unicode  #demo#technique#plaintext
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) A GPU-accelerated computing library for physics simulations and other mathematical calculations #simulation#library#gpu#graphics
 - [Vim Commands: A Beginner Guide with Examples](https://thevaluable.dev/vim-commands-beginner/) progressive from 0 to expert #guide#beginner#reference
