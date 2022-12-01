@@ -1,3 +1,4 @@
+- [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) A GPU-accelerated computing library for physics simulations and other mathematical calculations #simulation#library#gpu#graphics
 - [Vim Commands: A Beginner Guide with Examples](https://thevaluable.dev/vim-commands-beginner/) progressive from 0 to expert #guide#beginner#reference
 - [ericchiang/pup](https://github.com/ericchiang/pup) Parsing HTML at the command line #tool#cli#html
 - [Counting unique visitors with HTTP header timestamp](https://notes.normally.com/cookieless-unique-visitor-counts/) without using cookies, UIDs or fingerprinting. #analytics#privacy#technique
