@@ -1,3 +1,4 @@
+- [antonmedv/llama](https://github.com/antonmedv/llama) Terminal file manager #tool#cli#file
 - [The BBC's 15 Web Principles](https://shkspr.mobi/blog/2022/11/the-bbcs-15-web-principles-15-years-later/) #guide#gooddesign#usability#principle#philosophy
 - [oEmbed](https://oembed.com/#section2) Open embed protocol #standard#html#url#api#reference
 - [You don't need HTML](https://no-ht.ml/) implement table, chart, color, image, all in Unicode  #demo#technique#plaintext
