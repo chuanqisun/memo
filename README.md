@@ -1,3 +1,4 @@
+- [Hello: Search engine for developers](https://beta.sayhello.so/) Structured AI search with source citation #tool#machinelearning#productivity
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) A tiling window manager for Windows #tool#desktop
 - [Asynchronous Reprojection](https://www.youtube.com/watch?v=IvqrlgKuowE) exploit perception to create illusion of high frame rate #technique#performance#gpu#graphics
 - [Tech Jobs in Japan](https://japan-dev.com) #resource#jobhunting
