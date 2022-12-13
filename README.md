@@ -1,3 +1,4 @@
+- [LosslessCut](https://mifi.no/losslesscut/) Lossless video audio cut, merge, editing #tool#video#free
 - [OpenDroneMap](https://opendronemap.org/) Convert drone footage and geo-tagged image to models and surface images #tool#graphics#3d
 - [From type to logotype](https://fonts.google.com/knowledge/using_type/from_type_to_logotype) #logotype#typography#casestudy
 - [Complementary Space](https://complementary.space/) A rational approach to spacing, with usability in mind #technique#layout#cssvariable#designsystem
