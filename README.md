@@ -1,3 +1,4 @@
+- [llimllib/wasm_sqlite_with_stats](https://github.com/llimllib/wasm_sqlite_with_stats) Documentation and demonstration of how to build WASM versions of SQLite with extensions embedded #technique#database#sql
 - [sqlite-lines](https://observablehq.com/@asg017/introducing-sqlite-lines) SQLite extension for reading files line-by-line #database#performance#sql
 - [Tools for Online Speech](https://tfos.co/) feed, publishing, indie web #selfhosted#tool
 - [Shipnix](https://shipnix.io/) NixOS hosting with free plan for open source project #paas
