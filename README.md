@@ -1,3 +1,4 @@
+- [Riffusion](https://www.riffusion.com/about) Stable diffusion generated music #ai#tool#algorithm#audio
 - [NodeToy](https://nodetoy.co/) Create and share shader graphs with the world #3d#saas#tool
 - [Blockbench](https://www.blockbench.net/) Low poly modeling  #tool#saas#3d
 - [Scan of the month](https://www.scanofthemonth.com/scans) Industrial CT Scan project #gooddesign#typography#3d
