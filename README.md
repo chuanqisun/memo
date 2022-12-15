@@ -1,3 +1,4 @@
+- [NodeToy](https://nodetoy.co/) Create and share shader graphs with the world #3d#saas#tool
 - [Blockbench](https://www.blockbench.net/) Low poly modeling  #tool#saas#3d
 - [Scan of the month](https://www.scanofthemonth.com/scans) Industrial CT Scan project #gooddesign#typography#3d
 - [llimllib/wasm_sqlite_with_stats](https://github.com/llimllib/wasm_sqlite_with_stats) Documentation and demonstration of how to build WASM versions of SQLite with extensions embedded #technique#database#sql
