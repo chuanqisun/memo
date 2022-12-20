@@ -1,3 +1,4 @@
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) The personal information dashboard for your terminal #tool#visualization#cli
 - [zquestz/s: Open a web search in your terminal.](https://github.com/zquestz/s) #cli#tool#searchengine
 - [Riffusion](https://www.riffusion.com/about) Stable diffusion generated music #ai#tool#algorithm#audio
 - [NodeToy](https://nodetoy.co/) Create and share shader graphs with the world #3d#saas#tool
