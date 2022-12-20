@@ -1,3 +1,4 @@
+- [zquestz/s: Open a web search in your terminal.](https://github.com/zquestz/s) #cli#tool#searchengine
 - [Riffusion](https://www.riffusion.com/about) Stable diffusion generated music #ai#tool#algorithm#audio
 - [NodeToy](https://nodetoy.co/) Create and share shader graphs with the world #3d#saas#tool
 - [Blockbench](https://www.blockbench.net/) Low poly modeling  #tool#saas#3d
