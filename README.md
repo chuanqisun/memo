@@ -1,3 +1,4 @@
+- [Center for the Study of the Public Domain](https://web.law.duke.edu/cspd/) Compiled list of books, movies, music released to the public each year #free#reference
 - [Death by AI](https://deathbyai.com) Jobs, industries, tools, companies threatened by AI #businessstrategy#ai#inspiration
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) The personal information dashboard for your terminal #tool#visualization#cli
 - [zquestz/s: Open a web search in your terminal.](https://github.com/zquestz/s) #cli#tool#searchengine
