@@ -1,3 +1,4 @@
+- [reanimate/reanimate](https://github.com/reanimate/reanimate) Haskell library for building declarative animations based on SVG graphics #animation#functional#visualization
 - [Center for the Study of the Public Domain](https://web.law.duke.edu/cspd/) Compiled list of books, movies, music released to the public each year #free#reference
 - [Death by AI](https://deathbyai.com) Jobs, industries, tools, companies threatened by AI #businessstrategy#ai#inspiration
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) The personal information dashboard for your terminal #tool#visualization#cli
