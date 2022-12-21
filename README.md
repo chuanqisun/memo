@@ -1,3 +1,4 @@
+- [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/) #reference#browser
 - [wg/wrk](https://github.com/wg/wrk) Modern HTTP benchmarking tool #performance#network#tool
 - [reanimate/reanimate](https://github.com/reanimate/reanimate) Haskell library for building declarative animations based on SVG graphics #animation#functional#visualization
 - [Center for the Study of the Public Domain](https://web.law.duke.edu/cspd/) Compiled list of books, movies, music released to the public each year #free#reference
