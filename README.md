@@ -1,3 +1,4 @@
+- [picoCAD by Johan Peitz](https://johanpeitz.itch.io/picocad) low-res 3d modeling #tool#3d#pixelart
 - [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/) For running chrome as a program #reference#browser
 - [wg/wrk](https://github.com/wg/wrk) Modern HTTP benchmarking tool #performance#network#tool
 - [reanimate/reanimate](https://github.com/reanimate/reanimate) Haskell library for building declarative animations based on SVG graphics #animation#functional#visualization
