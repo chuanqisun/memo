@@ -1,4 +1,4 @@
-- [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/) Inner workings of ripgrep #explanation#gooddesign#searchengine#tool#cli
+- [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/) Inner workings of ripgrep #explanation#gooddesign#searchengine#tool#cli#performance
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) A single-header ANSI C immediate mode cross-platform GUI library #library#3d#visualization
 - [picoCAD by Johan Peitz](https://johanpeitz.itch.io/picocad) low-res 3d modeling #tool#3d#pixelart
 - [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/) For running chrome as a program #reference#browser
