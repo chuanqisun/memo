@@ -1,3 +1,4 @@
+- [A Guide To Command-Line Data Manipulation](https://www.smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/) with Miller for tabular data in csv and json #tool#cli
 - [Hacker Typer](https://hackertyper.net/) fake hacking tool, similar to Hollywood #tool#cli
 - [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/) Inner workings of ripgrep #explanation#gooddesign#searchengine#tool#cli#performance
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) A single-header ANSI C immediate mode cross-platform GUI library #library#3d#visualization
