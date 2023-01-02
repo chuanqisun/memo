@@ -1,3 +1,4 @@
+- [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) Probabilistic language based on pattern matching and constraint propagation with examples, applied markov chain #generative#algorithm#performance
 - [A Guide To Command-Line Data Manipulation](https://www.smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/) with Miller for tabular data in csv and json #tool#cli
 - [Hacker Typer](https://hackertyper.net/) fake hacking tool, similar to Hollywood #tool#cli
 - [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/) Inner workings of ripgrep #explanation#gooddesign#searchengine#tool#cli#performance
