@@ -1,3 +1,4 @@
+- [Konjer](https://portal.konjer.xyz/) Talk to a book via GPT-3 #ai#tool
 - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/) reflection on the rise and fall of Agile #opinion#methodology#projectmanagement
 - [Async: What is blocking](https://ryhl.io/blog/async-what-is-blocking/) tokio runtime as an example #rust#performance#beginner
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) Probabilistic language based on pattern matching and constraint propagation with examples, applied markov chain #generative#algorithm#performance
