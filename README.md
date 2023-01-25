@@ -1,3 +1,4 @@
+- [Weaviate](https://weaviate.io/) Vector search engine #searchengine#machinelearning
 - [Pinecone](https://www.pinecone.io/) Vector Database for Vector Search  #database#machinelearning#service
 - [Prompt Engineering Template](https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0) For generative image models #reference#ai
 - [Konjer](https://portal.konjer.xyz/) Talk to a book via GPT-3 #ai#tool
