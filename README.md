@@ -1,3 +1,4 @@
+- [Prompt Engineering Template](https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0) For generative image models #reference#ai
 - [Konjer](https://portal.konjer.xyz/) Talk to a book via GPT-3 #ai#tool
 - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/) reflection on the rise and fall of Agile #opinion#methodology#projectmanagement
 - [Async: What is blocking](https://ryhl.io/blog/async-what-is-blocking/) tokio runtime as an example #rust#performance#beginner
