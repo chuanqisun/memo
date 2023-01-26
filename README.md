@@ -1,3 +1,4 @@
+- [OpenJourney](https://open-journey.github.io/) Alternative to Midjourney #generative#ai#tool
 - [Dev Container Templates](https://devcontainers.github.io/templates.html) List of VS Code Dev Containers maintained by Microsoft #reference#tool#editor#vm
 - [Weaviate](https://weaviate.io/) Vector search engine #searchengine#machinelearning
 - [Pinecone](https://www.pinecone.io/) Vector Database for Vector Search  #database#machinelearning#service
