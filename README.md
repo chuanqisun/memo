@@ -1,3 +1,4 @@
+- [Logggos](https://www.logggos.club/) designs from real companies #reference#logo#inspiration
 - [OpenJourney](https://open-journey.github.io/) Alternative to Midjourney #generative#ai#tool
 - [Dev Container Templates](https://devcontainers.github.io/templates.html) List of VS Code Dev Containers maintained by Microsoft #reference#tool#editor#vm
 - [Weaviate](https://weaviate.io/) Vector search engine #searchengine#machinelearning
