@@ -1,3 +1,4 @@
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) Light weight GPT model for training on PC #model#nlp#machinelearning
 - [Accessible hamburger buttons without JavaScript - Pausly blog](https://www.pausly.app/blog/accessible-hamburger-buttons-without-javascript) a css only solution #technique#navigation#menu#a11y
 - [Logggos](https://www.logggos.club/) designs from real companies #reference#logo#inspiration
 - [OpenJourney](https://open-journey.github.io/) Alternative to Midjourney #generative#ai#tool
