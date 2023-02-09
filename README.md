@@ -1,3 +1,4 @@
+- [BIG-bench](https://github.com/google/BIG-bench) collaborative benchmark intended to probe large language models and extrapolate their future capabilities #machinelearning#reference
 - [Shapecatcher](https://shapecatcher.com/) Draw the Unicode character you want #tool#icon#gooddesign
 - [eBoy TiliX](https://c6y.github.io/tilix-reference/) Design system for isometric pixel art #pixelart#3d#designsystem
 - [All Programming Philosophies Are About State](https://www.worldofbs.com/minimize-state/) Compare OOP, functional, declarative, imperative #philosophy#statemanagement
