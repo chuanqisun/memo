@@ -1,3 +1,4 @@
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) CS subjects books and online education video  #resource#education
 - [GPT Index](https://gpt-index.readthedocs.io/en/latest/index.html) Data structure to compose GPT components #library#technique#machinelearning
 - [The Media Equation](https://en.wikipedia.org/wiki/The_Media_Equation) how people interact with media and establish trust #reference#ai
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) Light weight GPT model for training on PC #model#nlp#machinelearning
