@@ -1,3 +1,4 @@
+- [All Programming Philosophies Are About State](https://www.worldofbs.com/minimize-state/) Compare OOP, functional, declarative, imperative #philosophy#statemanagement
 - [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/) Musing on death, empathy, and chance. #philosophy
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) CS subjects books and online education video  #resource#education
 - [GPT Index](https://gpt-index.readthedocs.io/en/latest/index.html) Data structure to compose GPT components #library#technique#machinelearning
