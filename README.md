@@ -1,4 +1,4 @@
-- [Poline](https://meodai.github.io/poline/)   esoteric color palette generator with non-linear interpolation #tool#color
+- [Poline](https://meodai.github.io/poline/) Esoteric color palette generator with non-linear interpolation #tool#color
 - [ScrollyVideo.js](https://scrollyvideo.js.org/) Control and scrub video play with scroll #library#video#pattern
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex. #devexperience#machinelearning#model
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/) #beginner#tutorial#machinelearning
