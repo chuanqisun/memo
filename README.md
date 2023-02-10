@@ -1,3 +1,4 @@
+- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex. #devexperience#machinelearning#model
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/) #beginner#tutorial#machinelearning
 - [CrowdView](https://crowdview.ai/) Human intelligence powered search engine based on experts, opinions, and folk knowledge #tool#searchengine#machinelearning
 - [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) notes for my AI studies, writing, and product brainstorming #reference#machinelearning
