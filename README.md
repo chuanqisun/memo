@@ -1,3 +1,4 @@
+- [ScrollyVideo.js](https://scrollyvideo.js.org/) Control and scrub video play with scroll #library#video#pattern
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex. #devexperience#machinelearning#model
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/) #beginner#tutorial#machinelearning
 - [CrowdView](https://crowdview.ai/) Human intelligence powered search engine based on experts, opinions, and folk knowledge #tool#searchengine#machinelearning
