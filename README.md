@@ -1,3 +1,4 @@
+- [How to Favicon in 2023](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) with SVG and dark mode support #favicon#technique#guide
 - [Poline](https://meodai.github.io/poline/) Esoteric color palette generator with non-linear interpolation #tool#color
 - [ScrollyVideo.js](https://scrollyvideo.js.org/) Control and scrub video play with scroll #library#video#pattern
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex. #devexperience#machinelearning#model
