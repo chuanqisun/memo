@@ -1,3 +1,4 @@
+- [grep.app](https://grep.app/) Fast code search on public GitHub repos #searchengine#tool#reference
 - [How to Favicon in 2023](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) with SVG and dark mode support #favicon#technique#guide
 - [Poline](https://meodai.github.io/poline/) Esoteric color palette generator with non-linear interpolation #tool#color
 - [ScrollyVideo.js](https://scrollyvideo.js.org/) Control and scrub video play with scroll #library#video#pattern
