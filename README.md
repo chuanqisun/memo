@@ -1,3 +1,4 @@
+- [TabFS](https://omar.website/tabfs/) Mirror browser tabs as folders in a file systems to expose API control #tool#browser
 - [Openverse](https://openverse.org/) Openly Licensed Images, Audio by WordPress #resource#free
 - [grep.app](https://grep.app/) Fast code search on public GitHub repos #searchengine#tool#reference
 - [How to Favicon in 2023](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) with SVG and dark mode support #favicon#technique#guide
