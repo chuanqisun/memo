@@ -1,3 +1,4 @@
+- [Godot Engine](https://godotengine.org/)  Free and open source 2D and 3D game engine #library#gamedev
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) The ultimate set of SQLite extensions #database#library
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) Technical explanation on GPT architecture and its fundamental limits #explanation#beginner#nlp
 - [TabFS](https://omar.website/tabfs/) Mirror browser tabs as folders in a file systems to expose API control #tool#browser
