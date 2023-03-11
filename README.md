@@ -1,3 +1,4 @@
+- [Pure CSS Loader Generator](https://wweb.dev/resources/loader-generator) with code snippets #reference#spinner#pattern
 - [Godot Engine](https://godotengine.org/)  Free and open source 2D and 3D game engine #library#gamedev
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) The ultimate set of SQLite extensions #database#library
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) Technical explanation on GPT architecture and its fundamental limits #explanation#beginner#nlp
