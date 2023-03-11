@@ -1,3 +1,4 @@
+- [Iconhunt](https://www.iconhunt.site/) Free icon library #icon#resource#free
 - [Pure CSS Loader Generator](https://wweb.dev/resources/loader-generator) with code snippets for loading indicator #reference#spinner#pattern
 - [Godot Engine](https://godotengine.org/)  Free and open source 2D and 3D game engine #library#gamedev
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) The ultimate set of SQLite extensions #database#library
