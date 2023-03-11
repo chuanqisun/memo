@@ -1,3 +1,4 @@
+- [Everything You Need to Know About the Gap After the List Marker](https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/) with browser differences #list#pattern#reference
 - [Iconhunt](https://www.iconhunt.site/) Free icon library #icon#resource#free
 - [Pure CSS Loader Generator](https://wweb.dev/resources/loader-generator) with code snippets for loading indicator #reference#spinner#pattern
 - [Godot Engine](https://godotengine.org/)  Free and open source 2D and 3D game engine #library#gamedev
