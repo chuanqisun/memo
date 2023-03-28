@@ -1,3 +1,4 @@
+- [Pirate Weather](https://pirateweather.net/) Dark Sky alternative API for weather data #api
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) Summary of prompt engineering techniques with paper citations as of March 2023 #technique#nlp#machinelearning#guide
 - [ThumbHash](https://evanw.github.io/thumbhash/) A very compact representation of an image placeholder #algorithm#library#compression#image
 - [Transformers.js](https://xenova.github.io/transformers.js/) Run hugging face transformers inside browser with model caching #library#nlp#machinelearning
