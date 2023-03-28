@@ -1,3 +1,4 @@
+- [Transformers.js](https://xenova.github.io/transformers.js/) Run hugging face transformers inside browser with model caching #library#nlp#machinelearning
 - [Why some GitHub labels illegible](https://mo271.github.io/github_labels.html) CSS only auto contrast algorithm bug #color#a11y#theming#technique
 - [Everything You Need to Know About the Gap After the List Marker](https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/) with browser differences #list#pattern#reference
 - [Iconhunt](https://www.iconhunt.site/) Free icon library #icon#resource#free
