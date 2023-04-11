@@ -1,3 +1,4 @@
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) Assemble, configure, and deploy autonomous AI Agents in your browser. #ai#demo#automation
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) Tensor search with image, audio, code support. Alternative to embedding vectors #searchengine#machinelearning#library
 - [Pirate Weather](https://pirateweather.net/) Dark Sky alternative API for weather data #api
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) Summary of prompt engineering techniques with paper citations as of March 2023 #technique#nlp#machinelearning#guide
