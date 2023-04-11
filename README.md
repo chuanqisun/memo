@@ -1,3 +1,4 @@
+- [Livebook.dev](https://livebook.dev/) Automate code & data workflows with interactive notebooks. Jupyter notebook with real-time focus #tool#machinelearning#datadriven
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) Assemble, configure, and deploy autonomous AI Agents in your browser. #ai#demo#automation
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) Tensor search with image, audio, code support. Alternative to embedding vectors #searchengine#machinelearning#library
 - [Pirate Weather](https://pirateweather.net/) Dark Sky alternative API for weather data #api
