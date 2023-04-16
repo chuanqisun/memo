@@ -1,3 +1,4 @@
+- [BoredReading.com](https://boredreading.com/) RSS reader as a service with focus on keyboard and information density #rss#gooddesign
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) Run large-language models and chat to web browsers, using WebGPU #nlp#machinelearning#library
 - [Data Rabbit](https://www.datarabbit.com/) Visual programming environment for data analysis, written in Clojure #service#gooddesign#functional
 - [Livebook.dev](https://livebook.dev/) Automate code & data workflows with interactive notebooks. Jupyter notebook with real-time focus #tool#machinelearning#datadriven
