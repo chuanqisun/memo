@@ -1,3 +1,4 @@
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous. #machinelearning#demo#nlp
 - [BoredReading.com](https://boredreading.com/) RSS reader as a service with focus on keyboard and information density #rss#gooddesign
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) Run large-language models and chat to web browsers, using WebGPU #nlp#machinelearning#library
 - [Data Rabbit](https://www.datarabbit.com/) Visual programming environment for data analysis, written in Clojure #service#gooddesign#functional
