@@ -1,3 +1,4 @@
+- [nbdev](https://nbdev.fast.ai/) Turn Jupyter Notebook into full application #library#lowcode#machinelearning
 - [Bash Shell Scripting/Whiptail](https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail) #dialog#tui#linux
 - [JSON-LD](https://json-ld.org/) A JSON convention for Linking Data used in ontology engineering #standard#knowledgebase
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous. #machinelearning#demo#nlp
