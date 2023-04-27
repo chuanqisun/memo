@@ -1,3 +1,4 @@
+- [50 Shades of Rust, or emerging Rust GUIs in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html) #survey#reference#rust
 - [emilk/egui](https://github.com/emilk/egui) immediate mode GUI in Rust that runs on both web and native #library#webgl#framework
 - [nbdev](https://nbdev.fast.ai/) Turn Jupyter Notebook into full application #library#lowcode#machinelearning
 - [Bash Shell Scripting/Whiptail](https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail) #dialog#tui#linux
