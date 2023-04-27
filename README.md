@@ -1,3 +1,4 @@
+- [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/#) For C++ #tutorial#graphics#3d#webgpu
 - [50 Shades of Rust, or emerging Rust GUIs in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html) #survey#reference#rust
 - [emilk/egui](https://github.com/emilk/egui) immediate mode GUI in Rust that runs on both web and native #library#webgl#framework#rust
 - [nbdev](https://nbdev.fast.ai/) Turn Jupyter Notebook into full application #library#lowcode#machinelearning
