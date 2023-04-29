@@ -1,3 +1,4 @@
+- [Starlink satellite tracker](https://satellitemap.space/) #gooddesign#map#tool
 - [sampsyo/bril](https://github.com/sampsyo/bril) educational compiler intermediate representation, used by Cornel CS 6120 #compiler#language
 - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/#) For C++ #tutorial#graphics#3d#webgpu
 - [50 Shades of Rust, or emerging Rust GUIs in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html) #survey#reference#rust
