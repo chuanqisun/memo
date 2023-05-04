@@ -1,3 +1,4 @@
+- [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html) ALGO, Lisp, ML, Self, Forth, APL, Prolog as type specimen languages #language#reference#philosophy
 - [trpc/trpc](https://github.com/trpc/trpc) End-to-end typesafe APIs library #typescript#api#devexperience
 - [Starlink satellite tracker](https://satellitemap.space/) #gooddesign#map#tool
 - [sampsyo/bril](https://github.com/sampsyo/bril) educational compiler intermediate representation, used by Cornel CS 6120 #compiler#language
