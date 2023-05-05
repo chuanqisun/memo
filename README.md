@@ -1,3 +1,4 @@
+- [FinalizationRegistry](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/FinalizationRegistry) Invoke callback when object is garbage collected #api#dom#language
 - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html) ALGO, Lisp, ML, Self, Forth, APL, Prolog as type specimen languages #language#reference#philosophy
 - [trpc/trpc](https://github.com/trpc/trpc) End-to-end typesafe APIs library #typescript#api#devexperience
 - [Starlink satellite tracker](https://satellitemap.space/) #gooddesign#map#tool
