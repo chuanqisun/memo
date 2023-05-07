@@ -1,3 +1,4 @@
+- [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) Waypoints to the past and future of visual programming. #research#visualization#devexperience#nocode
 - [Glamorous Toolkit](https://gtoolkit.com//) interactive programming and exploration environment #gooddesign#tool#datadriven
 - [FinalizationRegistry](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/FinalizationRegistry) Invoke callback when object is garbage collected #api#dom#language
 - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html) ALGO, Lisp, ML, Self, Forth, APL, Prolog as type specimen languages #language#reference#philosophy
