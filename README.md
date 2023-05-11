@@ -1,3 +1,4 @@
+- [Batocera.linux](https://batocera.org/) Retro gaming platform #gamedev#emulator#linux
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) Recreating Windows 11 with Svelte #demo#prototyping#mock
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) tui widget library for node.js with input components #tui#pattern#input#select#list
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu) Compressive tutorial to WebGPU with detailed code #beginner#graphics#3d#tutorial
