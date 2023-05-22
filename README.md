@@ -1,3 +1,4 @@
+- [web-synth/src/signalAnalyzer](https://github.com/Ameobea/web-synth) Audio synthesizer built with SIMD and atomics #audio#wasm#webgpu#rust
 - [C2](http://wiki.c2.com/) The original wiki concept #searchengine#progressive#gooddesign
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) Open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue #machinelearning#nlp#chat#library#free
 - [Batocera.linux](https://batocera.org/) Retro gaming platform #gamedev#emulator#linux
