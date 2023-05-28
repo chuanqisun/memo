@@ -1,3 +1,4 @@
+- [eth-sri/lmql](https://github.com/eth-sri/lmql) A query language for programming (large) language models. #language#compiler#nlp
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) extract main article from given URL, wrapper for Readability.js #rss#library
 - [web-synth/src/signalAnalyzer](https://github.com/Ameobea/web-synth) Audio synthesizer built with SIMD and atomics #audio#wasm#webgpu#rust
 - [C2](http://wiki.c2.com/) The original wiki concept #searchengine#progressive#gooddesign
