@@ -1,3 +1,4 @@
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) Make JSON greppable! by converting tree into list of assignments #tool#cli#database#searchengine
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) A collection of modern, server-safe React hooks #react#library
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) Browser visual debug extension with floating toolbar for css tweak, inspection, measurement #tool#devexperience#gooddesign#browser
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) A query language for programming (large) language models. #language#compiler#nlp
