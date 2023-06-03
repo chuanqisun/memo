@@ -1,3 +1,4 @@
+- [kochrt/qr-designer](https://github.com/kochrt/qr-designer) Robust QR code generator #tool
 - [SpaceBadgers](https://badgers.space/) Modular SVG badge designer with color and icon options #tool#gooddesign
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) Make JSON greppable! by converting tree into list of assignments #tool#cli#database#searchengine
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) A collection of modern, server-safe React hooks #react#library
