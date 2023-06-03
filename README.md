@@ -1,3 +1,4 @@
+- [Nyxt browser: The hacker's browser](https://nyxt.atlas.engineer/) With inspiration from VIM and Emacs lisp #browser#tool#keyboard
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) Robust QR code generator #tool
 - [SpaceBadgers](https://badgers.space/) Modular SVG badge designer with color and icon options #tool#gooddesign
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) Make JSON greppable! by converting tree into list of assignments #tool#cli#database#searchengine
