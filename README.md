@@ -1,3 +1,4 @@
+- [Handbooks for Startup Founders](https://handbooks.clerky.com/) #resource#businessstrategy#legal
 - [Nyxt browser: Learn Lisp](https://nyxt.atlas.engineer/learn-lisp) Lisp Learning resources by nyxt #resource#beginner#language
 - [Nyxt browser: The hacker's browser](https://nyxt.atlas.engineer/) With inspiration from VIM and Emacs lisp #browser#tool#keyboard
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) Robust QR code generator #tool
