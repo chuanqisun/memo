@@ -1,3 +1,4 @@
+- [Track HN: analyze the survival rate of 120,396 Show HN stories](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html) Helps determine when to post Hacker News announcement #datadriven#analytics#businessstrategy#startup
 - [openai/evals](https://github.com/openai/evals/blob/main/evals/registry/modelgraded/fact.yaml) Rubric based prompt to evaluate LLM output #technique#machinelearning#library
 - [Mind-Video](https://mind-video.com/) fMRI scan to stable diffusion rendering #machinelearning
 - [Handbooks for Startup Founders](https://handbooks.clerky.com/) #resource#businessstrategy#legal
