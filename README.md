@@ -1,3 +1,4 @@
+- [The origin private file system](https://web.dev/origin-private-file-system/) concept and tutorial for simple file I/O operations #beginner#browser#file#database
 - [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/) Allow multiple css variable based values for a single property by intentional use of cyclic dependency to produce empty value #technique#cssvariable
 - [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://localrf.github.io/) High performance video stablization #machinelearning#video#graphics#technique
 - [Effective Rust](https://www.lurklurk.org/effective-rust/intro.html) Intermediate best practice #guide#language#rust
