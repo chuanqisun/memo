@@ -1,3 +1,4 @@
+- [speed-highlight/core](https://github.com/speed-highlight/core) javascript syntax highlighter, with automatic language detection and theming #editor#highlight#language#library
 - [Rebuilding a comment component with modern CSS](https://ishadeed.com/article/comment-component/) Handling recursive comment tree structure with left rail and connector lines between the nodes #technique#comment#pattern#tutorial
 - [Modern CSS For Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/) Comprehensive guide for full project setup with focus on css variables and components #methodology#technique#guide#beginner#reference
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) self-hostable web productivity service, alternative to nextcloud #selfhosted#knowledgebase
