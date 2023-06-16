@@ -1,3 +1,4 @@
+- [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/) Allow multiple css variable based values for a single property by intentional use of cyclic dependency to produce empty value #technique#cssvariable
 - [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://localrf.github.io/) High performance video stablization #machinelearning#video#graphics#technique
 - [Effective Rust](https://www.lurklurk.org/effective-rust/intro.html) Intermediate best practice #guide#language#rust
 - [Track HN: analyze the survival rate of 120,396 Show HN stories](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html) Helps determine when to post Hacker News announcement #datadriven#analytics#businessstrategy#startup
