@@ -1,3 +1,4 @@
+- [minijinja](https://docs.rs/minijinja/latest/minijinja/) rust implementation of jinja template #library#template#html
 - [AST explorer](https://astexplorer.net/) Analyze AST for popular programming languages #tool#language
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) The headless text editor framework for web artisans #editor#blockeditor#customization#knowledgebase#library#wysiwyg
 - [steven-tey/novel](https://github.com/steven-tey/novel) Notion-style WYSYWIG editor with AI-powered autocompletions #editor#service#knowledgebase
