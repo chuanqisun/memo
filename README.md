@@ -1,3 +1,4 @@
+- [vriteio/vrite](https://github.com/vriteio/vrite) WYSIWYG with markdown backend, powered by tiptap and prosemirror #editor#wysiwyg#markdown#library
 - [Style your RSS feed](https://darekkay.com/blog/rss-styling/) Use XML and XSLT to style machine readable feed #technique#rss#selfhosted#indieweb
 - [minijinja](https://docs.rs/minijinja/latest/minijinja/) rust implementation of jinja template #library#template#html
 - [AST explorer](https://astexplorer.net/) Analyze AST for popular programming languages #tool#language
