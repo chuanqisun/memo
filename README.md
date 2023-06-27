@@ -1,3 +1,4 @@
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) tmux alternative, terminal workspace manager with layouts, modal, tab, plugins #terminal#tool#customization#ricing
 - [jtroo/kanata](https://github.com/jtroo/kanata) Layered keyboard re-mapping tool in Rust #keyboard#productivity#tool
 - [mfeemster/keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) AHK alternative with cross platform support #keyboard#tool#productivity
 - [MERN Crash Course](https://www.youtube.com/watch?v=R4AhvYORZRY) JWT Authentication, Redux Toolkit, Deployment, PM2, nginx #tutorial#nodejs
