@@ -1,3 +1,4 @@
+- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) with wasm, alternative to photoshop #tool#image
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) tmux alternative, terminal workspace manager with layouts, modal, tab, plugins #terminal#tool#customization#ricing
 - [jtroo/kanata](https://github.com/jtroo/kanata) Layered keyboard re-mapping tool in Rust #keyboard#productivity#tool
 - [mfeemster/keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) AHK alternative with cross platform support #keyboard#tool#productivity
