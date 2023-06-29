@@ -1,3 +1,4 @@
+- [A Syntax for Self-Tracking](https://www.gibney.org/a_syntax_for_self-tracking) Micro-syntax for timestamp based journal with context-free grammar #technique#knowledgebase#writing
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) with wasm, alternative to photoshop #tool#image
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) tmux alternative, terminal workspace manager with layouts, modal, tab, plugins #terminal#tool#customization#ricing
 - [jtroo/kanata](https://github.com/jtroo/kanata) Layered keyboard re-mapping tool in Rust #keyboard#productivity#tool
