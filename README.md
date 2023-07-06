@@ -1,3 +1,4 @@
+- [Bootstrap Icons](https://icons.getbootstrap.com/) SVG icons optimized for the web, with Figma source #resource#icon
 - [Modern Font Stacks](https://modernfontstacks.com/) system font stacks with platform specific font availability detection by width comparison #typography#browser#reference
 - [poteat/hkt-toolbelt](https://github.com/poteat/hkt-toolbelt) Functional and composable type utilities #typescript#library#functional#devexperience
 - [binpash/try](https://github.com/binpash/try) Inspect a command's effects before modifying your live system #tool#cli#linux
