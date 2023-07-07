@@ -11,7 +11,7 @@
 - [mfeemster/keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) AHK alternative with cross platform support #keyboard#tool#productivity
 - [MERN Crash Course](https://www.youtube.com/watch?v=R4AhvYORZRY) JWT Authentication, Redux Toolkit, Deployment, PM2, nginx #tutorial#nodejs
 - [TypeCell Notebooks](https://www.typecell.org/) Typescript alternative to Jupyter notebook with interactive cell based UI #service
-- [vriteio/vrite](https://github.com/vriteio/vrite) WYSIWYG with markdown backend, powered by tiptap and prosemirror #editor#wysiwyg#markdown#library
+- [vriteio/vrite](https://github.com/vriteio/vrite) WYSIWYG with markdown backend, powered by tiptap and prosemirror #editor#wysiwyg#markdown#library#knowledgebase
 - [Style your RSS feed](https://darekkay.com/blog/rss-styling/) Use XML and XSLT to style machine readable feed #technique#rss#selfhosted#indieweb
 - [minijinja](https://docs.rs/minijinja/latest/minijinja/) rust implementation of jinja template #library#template#html
 - [AST explorer](https://astexplorer.net/) Analyze AST for popular programming languages #tool#language
