@@ -1,3 +1,4 @@
+- [CSS only floating labels](https://muffinman.io/blog/css-only-floating-input-labels/) with placeholder-shown selector #form#input#technique#a11y
 - [egstad-construct/detect-scroll](https://github.com/egstad-construct/detect-scroll) high performance scroll detection library #library#webcomponent
 - [Windows Update Restored](http://windowsupdaterestored.com/) Fix Windows Update on Windows 95. 98, ME, 2000, and XP #tool
 - [Bootstrap Icons](https://icons.getbootstrap.com/) SVG icons optimized for the web, with Figma source #resource#icon
