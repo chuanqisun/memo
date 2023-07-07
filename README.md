@@ -1,3 +1,4 @@
+- [Design for the web without Figma](https://world.hey.com/dhh/design-for-the-web-without-figma-4bc3a218) Direct design with HTML and CSS #opinion#prototyping
 - [CSS only floating labels](https://muffinman.io/blog/css-only-floating-input-labels/) with placeholder-shown selector #form#input#technique#a11y
 - [egstad-construct/detect-scroll](https://github.com/egstad-construct/detect-scroll) high performance scroll detection library #library#webcomponent
 - [Windows Update Restored](http://windowsupdaterestored.com/) Fix Windows Update on Windows 95. 98, ME, 2000, and XP #tool
