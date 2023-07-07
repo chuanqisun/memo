@@ -1,4 +1,4 @@
-- [Windows Update Restored](http://windowsupdaterestored.com/) Fix Windows Update On Windows 95. 98, ME, 2000, and XP #tool
+- [Windows Update Restored](http://windowsupdaterestored.com/) Fix Windows Update on Windows 95. 98, ME, 2000, and XP #tool
 - [Bootstrap Icons](https://icons.getbootstrap.com/) SVG icons optimized for the web, with Figma source #resource#icon
 - [Modern Font Stacks](https://modernfontstacks.com/) system font stacks with platform specific font availability detection by width comparison #typography#browser#reference
 - [poteat/hkt-toolbelt](https://github.com/poteat/hkt-toolbelt) Functional and composable type utilities #typescript#library#functional#devexperience
