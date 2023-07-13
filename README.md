@@ -1,3 +1,4 @@
+- [Browsertech Digest: Figma is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/) Hybrid of S3 storage and Postgres. With Protobuf json serialization #technique#sync#database#realtime
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) Functions and algorithms implemented purely with TypeScript's type system #reference#library
 - [Firefox address bar tips](https://wiki.tilde.institute/w/firefox-address-bar-tips) Special character prefix syntax for search query semantics #technique#knowledgebase#browser#searchengine#input
 - [Design for the web without Figma](https://world.hey.com/dhh/design-for-the-web-without-figma-4bc3a218) Direct design with HTML and CSS #opinion#prototyping
