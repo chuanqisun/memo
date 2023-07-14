@@ -1,3 +1,4 @@
+- [Free Faces](https://www.freefaces.gallery/) Curated type faces preview with fonts download #typography#resource#free
 - [Rauno Craft](https://rauno.me/craft) UX prototype portfolio with technical depth and attention to details  #demo#prototyping#gooddesign
 - [Thinking on ways to solve a MORPHING BUTTON](https://www.youtube.com/watch?v=N2BKAKwGP6M) View Transition API for setting inner HTML #technique#animation#dom
 - [Browsertech Digest: Figma is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/) Hybrid of S3 storage and Postgres. With Protobuf json serialization #technique#sync#database#realtime
