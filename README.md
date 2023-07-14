@@ -1,3 +1,4 @@
+- [Plate](https://platejs.org/) Customizable Rich text editor for React #wysiwyg#library
 - [Free Faces](https://www.freefaces.gallery/) Curated type faces preview with fonts download #typography#resource#free
 - [Rauno Craft](https://rauno.me/craft) UX prototype portfolio with technical depth and attention to details  #demo#prototyping#gooddesign
 - [Thinking on ways to solve a MORPHING BUTTON](https://www.youtube.com/watch?v=N2BKAKwGP6M) View Transition API for setting inner HTML #technique#animation#dom
