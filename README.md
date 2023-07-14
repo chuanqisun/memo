@@ -1,3 +1,4 @@
+- [Thinking on ways to solve a MORPHING BUTTON](https://www.youtube.com/watch?v=N2BKAKwGP6M) View Transition API for setting inner HTML #technique#animation#dom
 - [Browsertech Digest: Figma is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/) Hybrid of S3 storage and Postgres. With Protobuf json serialization #technique#sync#database#realtime
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) Functions and algorithms implemented purely with TypeScript's type system #reference#library
 - [Firefox address bar tips](https://wiki.tilde.institute/w/firefox-address-bar-tips) Special character prefix syntax for search query semantics #technique#knowledgebase#browser#searchengine#input
