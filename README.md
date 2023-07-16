@@ -1,3 +1,4 @@
+- [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library. #tool#conversion#ebook
 - [Val Town](https://www.val.town/#tryNow) Runnable and composable gist like functions #service#gooddesign#lowcode#automation#knowledgebase
 - [Plate](https://platejs.org/) Customizable Rich text editor for React #wysiwyg#library
 - [Free Faces](https://www.freefaces.gallery/) Curated type faces preview with fonts download #typography#resource#free
