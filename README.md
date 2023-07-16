@@ -1,3 +1,4 @@
+- [CSS HD Gradients](https://gradient.style) color picking and gradient visualization for oklch and oklab by Adam Argyle #tool#visualization
 - [Linux keymapping with udev hwdb](https://yulistic.gitlab.io/2017/12/linux-keymapping-with-udev-hwdb/) #technique#keyboard
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) Runtime Executor for selecting node, python, ruby, and go runtime versions #tool#devexperience#cli
 - [wangfenjin/simple](https://github.com/wangfenjin/simple) A SQLite3 fts5 tokenizer which supports Chinese and PinYin #extension#database#searchengine#library
