@@ -1,3 +1,4 @@
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) for DOM, SVG, CSS, and headless JavaScript objects #animation#library#svg
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) fast CSS parser, transformer, bundler, and minifier written in Rust, replacing postcss #library#devexperience#tool#compiler
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library. #tool#conversion#ebook
 - [Val Town](https://www.val.town/#tryNow) Runnable and composable gist like functions #service#gooddesign#lowcode#automation#knowledgebase
