@@ -1,3 +1,4 @@
+- [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) Adding guardrails to large language models with an XML declarative constraint language #library#llm
 - [CSS HD Gradients](https://gradient.style) color picking and gradient visualization for oklch and oklab by Adam Argyle #tool#visualization
 - [Linux keymapping with udev hwdb](https://yulistic.gitlab.io/2017/12/linux-keymapping-with-udev-hwdb/) #technique#keyboard
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) Runtime Executor for selecting node, python, ruby, and go runtime versions #tool#devexperience#cli
