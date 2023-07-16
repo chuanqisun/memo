@@ -1,4 +1,4 @@
-- [wangfenjin/simple](https://github.com/wangfenjin/simple) A SQLite3 fts5 tokenizer which supports Chinese and PinYin #extension#database#searchengine
+- [wangfenjin/simple](https://github.com/wangfenjin/simple) A SQLite3 fts5 tokenizer which supports Chinese and PinYin #extension#database#searchengine#library
 - [Kakoune code editor](http://kakoune.org/) Efficient modal code editing, in the spirit of the vim and unix philosophy #editor#devexperience
 - [Local and regional eSIMs for travelers](https://www.airalo.com/) cost efficient mobile data service for international travel #service
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) for DOM, SVG, CSS, and headless JavaScript objects #animation#library#svg
