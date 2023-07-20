@@ -1,3 +1,4 @@
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) emulate CRT terminal displays #ricing#gooddesign#tool#terminal#cli
 - [automerge/automerge](https://github.com/automerge/automerge) A JSON CRDT library for distributed editing and version control #library#rust
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) Adding guardrails to large language models with an XML declarative constraint language #library#llm
 - [CSS HD Gradients](https://gradient.style) color picking and gradient visualization for oklch and oklab by Adam Argyle #tool#visualization
