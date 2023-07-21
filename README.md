@@ -1,3 +1,4 @@
+- [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/) fix monochrome and missing font issues #emoji#technique#typography
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) programming typeface focused on creating a better reading experience. #typography#free#gooddesign
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) All-in-one website tool for analyzing any website for its networking and tech stack #tool
 - [Pines](https://devdojo.com/pines) Alpine and Tailwind UI Library #pattern#designsystem
