@@ -1,3 +1,4 @@
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) All-in-one website tool for analyzing any website for its networking and tech stack #tool
 - [Pines](https://devdojo.com/pines) Alpine and Tailwind UI Library #pattern#designsystem
 - [GradientGenerator](https://ggradient.com/) multi-layer CSS gradient generator #tool
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) Typescript and JSON based LLM function calling control #llm#chat#library
