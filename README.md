@@ -1,3 +1,4 @@
+- [Pines](https://devdojo.com/pines) Alpine and Tailwind UI Library #pattern#designsystem
 - [GradientGenerator](https://ggradient.com/) multi-layer CSS gradient generator #tool
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) Typescript and JSON based LLM function calling control #llm#chat#library
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) emulate CRT terminal displays #ricing#gooddesign#tool#terminal#cli
