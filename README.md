@@ -1,3 +1,4 @@
+- [sysexits](https://man.freebsd.org/cgi/man.cgi?query=sysexits&apropos=0&sektion=0&manpath=FreeBSD+4.3-RELEASE&format=html) UNIX program exit code convention #reference#linux
 - [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/) fix monochrome and missing font issues #emoji#technique#typography
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) programming typeface focused on creating a better reading experience. #typography#free#gooddesign
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) All-in-one website tool for analyzing any website for its networking and tech stack #tool
