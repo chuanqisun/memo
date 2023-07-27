@@ -1,3 +1,4 @@
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) Reactive Database for JavaScript with offline sync and flexible backend #sql#database#library
 - [OSA Icon Library](https://www.opensecurityarchitecture.org/cms/library/icon-library) For cyber IT security related concepts #icon#resource#free
 - [sysexits](https://man.freebsd.org/cgi/man.cgi?query=sysexits&apropos=0&sektion=0&manpath=FreeBSD+4.3-RELEASE&format=html) UNIX command line program exit code convention #reference#linux#cli#standard
 - [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/) fix monochrome and missing font issues #emoji#technique#typography
