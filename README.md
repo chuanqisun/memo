@@ -1,3 +1,4 @@
+- [Michal Zalobny](https://portfolio2023.michalzalobny.com/) Physics based fragment shader animation at 60FPS #animation#visualization#webgpu
 - [CSS number ticker](https://twitter.com/argyleink/status/1683897409410334720) per digit with view transition API by Adam Argyle #technique#animation
 - [Free Vector Illustrations For Your Projects](https://www.freeillustrations.club/) Human style with Figma source #svg#resource#illustration
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) Reactive Database for JavaScript with offline sync and flexible backend #sql#database#library
