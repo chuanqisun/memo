@@ -1,3 +1,4 @@
+- [Free Vector Illustrations For Your Projects](https://www.freeillustrations.club/) Human style with Figma source #svg#resource#illustration
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) Reactive Database for JavaScript with offline sync and flexible backend #sql#database#library
 - [OSA Icon Library](https://www.opensecurityarchitecture.org/cms/library/icon-library) For cyber IT security related concepts #icon#resource#free
 - [sysexits](https://man.freebsd.org/cgi/man.cgi?query=sysexits&apropos=0&sektion=0&manpath=FreeBSD+4.3-RELEASE&format=html) UNIX command line program exit code convention #reference#linux#cli#standard
