@@ -1,3 +1,4 @@
+- [CSS number ticker](https://twitter.com/argyleink/status/1683897409410334720) per digit with view transition API by Adam Argyle #technique#animation
 - [Free Vector Illustrations For Your Projects](https://www.freeillustrations.club/) Human style with Figma source #svg#resource#illustration
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) Reactive Database for JavaScript with offline sync and flexible backend #sql#database#library
 - [OSA Icon Library](https://www.opensecurityarchitecture.org/cms/library/icon-library) For cyber IT security related concepts #icon#resource#free
