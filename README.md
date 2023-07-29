@@ -1,3 +1,4 @@
+- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) open-source launcher with web search and plugin #ricing#desktop#tool#searchengine#productivity
 - [Coding Randomized Zelda Patterns](https://cloudfour.com/thinks/coding-randomized-zelda-patterns/) concentric circles and parallel grooves #technique#canvas#background
 - [Michal Zalobny](https://portfolio2023.michalzalobny.com/) Physics based fragment shader animation at 60FPS #animation#visualization#webgpu
 - [CSS number ticker](https://twitter.com/argyleink/status/1683897409410334720) per digit with view transition API by Adam Argyle #technique#animation
