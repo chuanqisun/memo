@@ -1,3 +1,4 @@
+- [Scripting with Go](https://benhoyt.com/writings/gogit/) Implementing basic git repo operation #git#versioning#reference#database#knowledgebase
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) open-source launcher with web search and plugin #ricing#desktop#tool#searchengine#productivity
 - [Coding Randomized Zelda Patterns](https://cloudfour.com/thinks/coding-randomized-zelda-patterns/) concentric circles and parallel grooves #technique#canvas#background
 - [Michal Zalobny](https://portfolio2023.michalzalobny.com/) Physics based fragment shader animation at 60FPS #animation#visualization#webgpu
