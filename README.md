@@ -1,3 +1,4 @@
+- [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) Modern implementation of "Basic Computer Games" book #reference#gamedev#demo
 - [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/) Consider human playfulness and rule breaking #opinion#design
 - [Scripting with Go](https://benhoyt.com/writings/gogit/) Implementing basic git repo operation #git#versioning#reference#database#knowledgebase
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) open-source launcher with web search and plugin #ricing#desktop#tool#searchengine#productivity
