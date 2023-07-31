@@ -1,3 +1,4 @@
+- [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/) Consider human playfulness and rule breaking #opinion#design
 - [Scripting with Go](https://benhoyt.com/writings/gogit/) Implementing basic git repo operation #git#versioning#reference#database#knowledgebase
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) open-source launcher with web search and plugin #ricing#desktop#tool#searchengine#productivity
 - [Coding Randomized Zelda Patterns](https://cloudfour.com/thinks/coding-randomized-zelda-patterns/) concentric circles and parallel grooves #technique#canvas#background
