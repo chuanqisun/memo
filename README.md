@@ -1,3 +1,4 @@
+- [FIGlet](http://www.figlet.org/) Text based ASCII art generator for banners #tool#cli#plaintext
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) Make a cascading timeline from markdown-like text #markdown#knowledgebase#language#visualization#tool
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) Modern implementation of "Basic Computer Games" book #reference#gamedev#demo
 - [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/) Consider human playfulness and rule breaking #opinion#design
