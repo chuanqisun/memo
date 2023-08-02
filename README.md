@@ -1,3 +1,4 @@
+- [darkreader/darkreader](https://github.com/darkreader/darkreader) Dark Reader Chrome and Firefox extension with an API #extension#darkmode#library
 - [react95-io/React95](https://github.com/react95-io/React95) Windows 95 style UI component library for React, built with styled components #pattern#theming#library#gooddesign
 - [FIGlet](http://www.figlet.org/) Text based ASCII art generator for banners #tool#cli#plaintext
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) Make a cascading timeline from markdown-like text #markdown#knowledgebase#language#visualization#tool
