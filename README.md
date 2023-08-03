@@ -1,3 +1,4 @@
+- [beeware/briefcase](https://github.com/beeware/briefcase) Bundle Python project into a standalone native application, alternative to electron #nativeapp#desktop#python#devexperience#tool
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) Dark Reader Chrome and Firefox extension with an API #extension#darkmode#library
 - [react95-io/React95](https://github.com/react95-io/React95) Windows 95 style UI component library for React, built with styled components #pattern#theming#library#gooddesign
 - [FIGlet](http://www.figlet.org/) Text based ASCII art generator for banners #tool#cli#plaintext
