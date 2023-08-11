@@ -1,3 +1,4 @@
+- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) #tool#database
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) LLM architecture, design pattern, and theorical basis #reference#pattern#llm
 - [beeware/briefcase](https://github.com/beeware/briefcase) Bundle Python project into a standalone native application, alternative to electron #nativeapp#desktop#python#devexperience#tool
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) Dark Reader Chrome and Firefox extension with an API #extension#darkmode#library
