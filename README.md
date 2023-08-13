@@ -1,3 +1,4 @@
+- [PDF Tool](https://www.pdftool.org/en) split merge rotate PDF offline #tool
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) #tool#database
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) LLM architecture, design pattern, and theorical basis #reference#pattern#llm
 - [beeware/briefcase](https://github.com/beeware/briefcase) Bundle Python project into a standalone native application, alternative to electron #nativeapp#desktop#python#devexperience#tool
