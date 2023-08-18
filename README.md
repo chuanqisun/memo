@@ -1,3 +1,4 @@
+- [Role Of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html) List of algorithms for software engineering, including string search, sort, dynamic programming, tree, FSM and regex #algorithm#reference
 - [normal-computing/outlines](https://github.com/normal-computing/outlines) Syntax grammar guided text generation #llm#library#python
 - [PDF Tool](https://www.pdftool.org/en) split merge rotate PDF offline #tool
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) #tool#database
