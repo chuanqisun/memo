@@ -1,3 +1,4 @@
+- [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/) url, zoom, and history handling on the web #a11y#opinion
 - [Internet Speed Test by Cloudflare](https://speed.cloudflare.com/) #tool#network
 - [Transhumans](https://www.transhumans.xyz/) Open Source Punk Sci-Fi Art Collection by Pablo Stanley #illustration#resource#free
 - [Role Of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html) List of algorithms for software engineering, including string search, sort, dynamic programming, tree, FSM and regex #algorithm#reference
