@@ -817,7 +817,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Lemon.io](https://lemon.io) A developer to startup broker freelancing platform #gooddesign#freelance#platform
 - [Design showcase websites](https://lemon.io/127-design-websites) Submit design to website for award and showcase #resource#marketing
 - [Node Target Mapping](https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping) set up typescript for node environment #reference
-- [AudioMass](https://audiomass.co/) web based audio editor #tool#audio
+- [AudioMass](https://audiomass.co/) web based audio editor, replace Audacity for noise reduction, clipping, splicing #tool#audio
 - [Foam](https://foambubble.github.io/foam/) opensource vs code extension for knowledge management #knowledgebase#tool
 - [Zettelkasten](https://zettelkasten.de/posts/overview/) A method to organize knowledge #knowledgebase
 - [Zettlr](https://www.zettlr.com/) opensource markdown editor for the desktop #tool#markdown#free
