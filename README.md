@@ -1,3 +1,4 @@
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) Handle user names with minimum assumptions #i18n#a11y#opinion
 - [Saving Lives](https://www.folklore.org/StoryView.py?project=Macintosh&story=Saving_Lives.txt&sortOrder=Sort+.) Measure the impact by user's lifetime saved #performance#opinion#philosophy
 - [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/) url, zoom, and history handling on the web #a11y#opinion
 - [Internet Speed Test by Cloudflare](https://speed.cloudflare.com/) #tool#network
