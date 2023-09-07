@@ -1,4 +1,4 @@
-- [Generate a URL from zipped site](https://smolsite.zip) #compression#url#tool
+- [smolsite](https://smolsite.zip) Generate a URL from zipped site #compression#url#tool
 - [Hashify](https://hashify.me) Encode and store Markdown page in URL with Base64 #url#tool#compression
 - [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](/abs/2308.04445) Desiderata for building LLM #llm#knowledgebase#machinelearning#ai
 - [How to add syntax highlighting to code as a user types in realtime with vanilla JavaScript](https://gomakethings.com/how-to-add-syntax-highlighting-to-code-as-a-user-types-in-realtime-with-vanilla-javascript/) Prism js overlay above textarea #technique#highlight#editor
