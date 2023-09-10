@@ -1,3 +1,4 @@
+- [Fetch download progress with web native Stream API](https://twitter.com/wesbos/status/1688914467864903684) Clone http response stream #technique
 - [Exercism](https://exercism.org) Community based programming tutor and learning #service#beginner#resource
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) Simulate optical lens and film chemistry in blender #gooddesign#inspiration#simulation
 - [smolsite](https://smolsite.zip) Generate a URL from zipped site #compression#url#tool
