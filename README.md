@@ -1,3 +1,4 @@
+- [Exercism](https://exercism.org) Community based programming tutor and learning #service#beginner#resource
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) Simulate optical lens and film chemistry in blender #gooddesign#inspiration#simulation
 - [smolsite](https://smolsite.zip) Generate a URL from zipped site #compression#url#tool
 - [Hashify](https://hashify.me) Encode and store Markdown page in URL with Base64 #url#tool#compression
