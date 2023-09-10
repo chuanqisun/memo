@@ -1,3 +1,4 @@
+- [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) Simulate optical lens and film chemistry in blender #gooddesign#inspiration#simulation
 - [smolsite](https://smolsite.zip) Generate a URL from zipped site #compression#url#tool
 - [Hashify](https://hashify.me) Encode and store Markdown page in URL with Base64 #url#tool#compression
 - [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](/abs/2308.04445) Desiderata for building LLM #llm#knowledgebase#machinelearning#ai
