@@ -1,3 +1,4 @@
+- [Common Terminal Commands](https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce) #reference#cli#beginner
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) Accessible rag & drop toolkit for React #dragndrop#library
 - [Fetch download progress with web native Stream API](https://twitter.com/wesbos/status/1688914467864903684) Clone http response stream #technique
 - [Exercism](https://exercism.org) Community based programming tutor and learning #service#beginner#resource
