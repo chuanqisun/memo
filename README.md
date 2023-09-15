@@ -1,3 +1,4 @@
+- [`make` as a Static Site Generator](https://www.karl.berlin/static-site.html) with html templating #technique#tool#selfhosted#indieweb#minimalist
 - [HTTP Status Dogs](https://httpstatusdogs.com/) fun list of http status codes #reference#beginner
 - [Common Terminal Commands](https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce) #reference#cli#beginner
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) Accessible rag & drop toolkit for React #dragndrop#library
