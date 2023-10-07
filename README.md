@@ -1,3 +1,4 @@
+- [ShellCheck](https://www.shellcheck.net) debug lint static analysis for shell scripts #shell#linux#tool#devexperience
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) Lossless video/audio editing #tool#nativeapp
 - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/) D language improvement on top of C for better usability #devexperience#language
 - [ckolderup/postmarks](https://github.com/ckolderup/postmarks/actions) Tag based personal bookmark manager hosted on glitch #knowledgebase#selfhosted#service#url
