@@ -1,3 +1,4 @@
+- [berry-lang/berry](https://github.com/berry-lang/berry) A ultra-lightweight embedded scripting language optimized for microcontrollers. #language
 - [ShellCheck](https://www.shellcheck.net) debug lint static analysis for shell scripts #shell#linux#tool#devexperience
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) Lossless video/audio editing #tool#nativeapp
 - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/) D language improvement on top of C for better usability #devexperience#language
