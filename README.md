@@ -1,3 +1,4 @@
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) Building a modern alternative to Salesforce, powered by the community #selfhosted#crm#saas#startup
 - [berry-lang/berry](https://github.com/berry-lang/berry) A ultra-lightweight embedded scripting language optimized for microcontrollers. #language
 - [ShellCheck](https://www.shellcheck.net) debug lint static analysis for shell scripts #shell#linux#tool#devexperience
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) Lossless video/audio editing #tool#nativeapp
