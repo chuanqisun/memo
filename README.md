@@ -1,3 +1,4 @@
+- [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=) Run ffmpeg encoder with wasm #video#tool#compression
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) rust based api hosting for backends without writing any infrastructure files. #rust#platform#free#service
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) Building a modern alternative to Salesforce, powered by the community #selfhosted#crm#saas#startup
 - [berry-lang/berry](https://github.com/berry-lang/berry) A ultra-lightweight embedded scripting language optimized for microcontrollers. #language
