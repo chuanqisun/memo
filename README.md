@@ -1,3 +1,4 @@
+- [Variable Fonts](https://v-fonts.com/) With dynamic preview and licensing info #typography#resource
 - [Wei Ren (Yui) personal website](https://yuiisuniquegenius.myportfolio.com/truth) #art#gamedev#inspiration
 - [stateful/runme](https://github.com/stateful/runme) Execute commands inside your runbooks, docs. Interactive and literate programming extension to vscode #notebook#repl
 - [Learn to Read Korean in 5 Minutes](https://www.youtube.com/watch?v=TE4eplsFSms) #resource#mnemonics
