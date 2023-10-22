@@ -1,3 +1,4 @@
+- [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) A case against framework-specialized developers #opinion
 - [Avatar as a service](https://obem.be/2023/10/08/avatars.html) gravatar, unavatar, vervel, tiley, boring avatar #avatar#service#reference
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/spectrogram) real time spectrogram visualization with 3d and heat map #tool#audio#visualization
 - [Variable Fonts](https://v-fonts.com/) With dynamic preview and licensing info #typography#resource
