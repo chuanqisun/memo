@@ -1,3 +1,4 @@
+- [Avatar as a service](https://obem.be/2023/10/08/avatars.html) gravatar, unavatar, vervel, tiley, boring avatar #avatar#service#reference
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/spectrogram) real time spectrogram visualization with 3d and heat map #tool#audio#visualization
 - [Variable Fonts](https://v-fonts.com/) With dynamic preview and licensing info #typography#resource
 - [Wei Ren (Yui) personal website](https://yuiisuniquegenius.myportfolio.com/truth) #art#gamedev#inspiration
