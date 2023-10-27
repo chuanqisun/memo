@@ -1,3 +1,4 @@
+- [shadow](https://goose.icu/introducing-shadow/) A browser entirely written in javascript #browser#wasm
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) API schema discovery by observed network requests #extension#tool#api#scraping
 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) A case against framework-specialized developers #opinion
 - [Avatar as a service](https://obem.be/2023/10/08/avatars.html) gravatar, unavatar, vervel, tiley, boring avatar #avatar#service#reference
