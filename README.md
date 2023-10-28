@@ -1,3 +1,4 @@
+- [ChimeraOS](https://chimeraos.org) Turn PC into gaming console #os#gaming#selfhosted#free
 - [ChimeraOS](https://chimeraos.org/) turn PC into gaming console #os#free#selfhosted
 - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html) Case against Microsoft service #opinion#architecture
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) Static low-bandwidth search at scale, works with static site generators #searchengine#library#jamstack#wasm#performance
