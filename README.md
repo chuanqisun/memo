@@ -1,3 +1,4 @@
+- [Animated knots](https://www.animatedknots.com/) Knots tutorial for climbing, boating, fishing #reference#tutorial
 - [So you want to write a GUI framework](http://www.cmyr.net/blog/gui-framework-ingredients.html) Complexity of GUI framework programming #os#introduction#reference
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) Network boot into any Linux OS #tool#os
 - [Ventoy](https://www.ventoy.net/en/index.html) USB bootloader for multiple OS images #tool#os
