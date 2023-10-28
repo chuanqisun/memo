@@ -1,3 +1,4 @@
+- [ChimeraOS](https://chimeraos.org/about/) for gaming #os#free#selfhosted
 - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html) Case against Microsoft service #opinion#architecture
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) Static low-bandwidth search at scale, works with static site generators #searchengine#library#jamstack#wasm#performance
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) concurrent, composable, functional, async programming in typescript, compare to rxjs #library#functional
