@@ -1,3 +1,4 @@
+- [SpiderMonkey](https://spidermonkey.dev/) Embedded JavasSript engine in Firefox and Servo browsers #browser#language#repl
 - [ChimeraOS](https://chimeraos.org) Turn PC into gaming console #os#gaming#selfhosted#free
 - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html) Case against Microsoft service #opinion#architecture
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) Static low-bandwidth search at scale, works with static site generators #searchengine#library#jamstack#wasm#performance
