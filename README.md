@@ -1,3 +1,4 @@
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) Static low-bandwidth search at scale, works with static site generators #searchengine#library#jamstack#wasm#performance
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) concurrent, composable, functional, async programming in typescript, compare to rxjs #library#functional
 - [shadow](https://goose.icu/introducing-shadow/) A browser entirely written in javascript #browser#wasm
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) API schema discovery by observed network requests #extension#tool#api#scraping
