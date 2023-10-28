@@ -1,3 +1,4 @@
+- [Medicat](https://medicatusb.com/) Computer Diagnostic and Recovery Toolkit, booting, partition, diagnosis, backup recovery #tool#password#os
 - [SpiderMonkey](https://spidermonkey.dev/) Embedded JavasSript engine in Firefox and Servo browsers #browser#language#repl
 - [ChimeraOS](https://chimeraos.org) Turn PC into gaming console #os#gaming#selfhosted#free
 - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html) Case against Microsoft service #opinion#architecture
