@@ -1,3 +1,4 @@
+- [A free and open source map of the world](https://protomaps.com/) Single static file based progressive rendered #map#performance#jamstack
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/) density and content dispersion problem #uxresearch
 - [Textpattern CMS](https://textpattern.com/) WordPress alternative #free#selfhosted#cms
 - [Animated knots](https://www.animatedknots.com/) Knots tutorial for climbing, boating, fishing #reference#tutorial
