@@ -1,3 +1,4 @@
+- [AI for Web Devs: Faster Responses with HTTP Streaming](https://austingil.com/ai-for-web-devs-streaming/) #tutorial#technique#performance#chat#llm
 - [asciinema](https://asciinema.org/) terminal session record and share #tool#cli
 - [Matter.js](http://brm.io/matter-js/) 2D physics engine for browser games #gamedev#library#simulation
 - [A free and open source map of the world](https://protomaps.com/) Single static file based progressive rendered #map#performance#jamstack
