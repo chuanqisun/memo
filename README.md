@@ -1,3 +1,4 @@
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) Flash player emulator in Rust #tool#animation#library
 - [Vectorpea](https://www.vectorpea.com/) Online Vector Editor with Figma, Adobe, and PDF support #tool#image
 - [AI for Web Devs: Faster Responses with HTTP Streaming](https://austingil.com/ai-for-web-devs-streaming/) #tutorial#technique#performance#chat#llm
 - [asciinema](https://asciinema.org/) terminal session record and share #tool#cli
