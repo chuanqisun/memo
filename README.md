@@ -1,3 +1,4 @@
+- [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/) interactive infographics project for urbanism #visualization#inspiration#gooddesign
 - [Unpacking some Rust ergonomics: getting a single Result from an iterator of them](https://ntietz.com/blog/rust-vec-of-result/) #technique#rust
 - [The proper design process in web development](https://unixsheikh.com/articles/the-proper-design-process-in-web-development.html) #opinion
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) Flash player emulator in Rust #tool#animation#library
