@@ -1,3 +1,4 @@
+- [Unpacking some Rust ergonomics: getting a single Result from an iterator of them](https://ntietz.com/blog/rust-vec-of-result/) #technique#rust
 - [The proper design process in web development](https://unixsheikh.com/articles/the-proper-design-process-in-web-development.html) #opinion
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) Flash player emulator in Rust #tool#animation#library
 - [Vectorpea](https://www.vectorpea.com/) Online Vector Editor with Figma, Adobe, and PDF support #tool#image
