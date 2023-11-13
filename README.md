@@ -1,3 +1,4 @@
+- [Fast and Portable Llama2 Inference on the Heterogeneous Edge](https://www.secondstate.io/articles/fast-llm-inference/) #rust#llm#tutorial#performance
 - [Bulletpapers](https://www.bulletpapers.ai/) Understand complex papers easily with LLM summary, conceptual exploration, stunning AI generated art #llm#gooddesign#knowledgebase#service#searchengine
 - [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/) interactive infographics project for urbanism #visualization#inspiration#gooddesign
 - [Unpacking some Rust ergonomics: getting a single Result from an iterator of them](https://ntietz.com/blog/rust-vec-of-result/) #technique#rust
