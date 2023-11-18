@@ -1,3 +1,4 @@
+- [pyglide](https://codeberg.org/jrm-omg/pyglide) python package that converts markdown to html slideshow #tool#conversion
 - [Vectorizer.AI](https://vectorizer.ai/pricing) Convert raster image to vector svg #conversion#tool#image
 - [Thinking on ways to solve PICKLISTS](https://www.youtube.com/watch?v=d2O-8n-UnrI&list=WL&index=5&t=29s) #technique#radio#checkbox#tag#form#pattern
 - [Fast and Portable Llama2 Inference on the Heterogeneous Edge](https://www.secondstate.io/articles/fast-llm-inference/) #rust#llm#tutorial#performance
