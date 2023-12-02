@@ -1,3 +1,4 @@
+- [MagicaVoxel](https://ephtracy.github.io/index.html?page=mv_main) Voxel drawing #tool#cgi#gamedev
 - [rkk3/ad-accelerator](https://github.com/rkk3/ad-accelerator) Speed up YouTube ad instead of blocking it #tool
 - [pyglide](https://codeberg.org/jrm-omg/pyglide) python package that converts markdown to html slideshow #tool#conversion
 - [Vectorizer.AI](https://vectorizer.ai/pricing) Convert raster image to vector svg #conversion#tool#image
