@@ -1,3 +1,4 @@
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) Convert UNIX command line tool output to JSON for parsing #tool#conversion#cli
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/) Building reactive frontend with template literal #tutorial#framework#react#dom
 - [MagicaVoxel](https://ephtracy.github.io/index.html?page=mv_main) Voxel drawing #tool#cgi#gamedev
 - [rkk3/ad-accelerator](https://github.com/rkk3/ad-accelerator) Speed up YouTube ad instead of blocking it #tool
