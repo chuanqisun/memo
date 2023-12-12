@@ -1,3 +1,4 @@
+- [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks) Advanced debugging techniques in Chrome browsers #technique#debug#browser
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) build performant TUI apps #cli#tui#rust#library
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) Convert UNIX command line tool output to JSON for parsing #tool#conversion#cli
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/) Building reactive frontend with template literal #tutorial#framework#react#dom
