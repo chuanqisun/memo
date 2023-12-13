@@ -1,3 +1,4 @@
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) Convert PDF, EPUB, MODI to Markdown, with auto OCR #conversion#library#tool#machinelearning
 - [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks) Advanced debugging techniques in Chrome browsers #technique#debug#browser
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) build performant TUI apps #cli#tui#rust#library
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) Convert UNIX command line tool output to JSON for parsing #tool#conversion#cli
