@@ -1,3 +1,4 @@
+- [I tried making Zelda The Wind Waker in JavaScript in 2 months](https://www.youtube.com/watch?v=IyAOCwUWkNE) Display ocean surface with custom shader, texture, model #gamedev#tutorial
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) Convert PDF, EPUB, MODI to Markdown, with auto OCR #conversion#library#tool#machinelearning
 - [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks) Advanced debugging techniques in Chrome browsers #technique#debug#browser
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) build performant TUI apps #cli#tui#rust#library
