@@ -1,3 +1,4 @@
+- [Causal Trees](https://www.farley.ai/posts/causal) text input as example with CRDT #algorithm#explanation#sync
 - [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio) generate 3D from image and text #library#generative#machinelearning#tool
 - [I tried making Zelda The Wind Waker in JavaScript in 2 months](https://www.youtube.com/watch?v=IyAOCwUWkNE) Display ocean surface with custom shader, texture, model #gamedev#tutorial
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) Convert PDF, EPUB, MODI to Markdown, with auto OCR #conversion#library#tool#machinelearning
