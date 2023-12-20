@@ -1,3 +1,4 @@
+- [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/) Fractional indexing #technique#realtime#collaboration#algorithm
 - [TS Docs](https://tsdocs.dev/) TypeScript document for any npm packages #typescript#tool#documentation
 - [Aileron](https://dotcolon.net/font/aileron/) Font for web and print #typography#free
 - [The UX of HTML](https://www.htmhell.dev/adventcalendar/2023/1/) Teaching HTML semantics from a UX lens #philosophy#a11y
