@@ -1,3 +1,4 @@
+- [Prompt Engineering Guide](https://learnprompting.org/docs/intro) #beginner#llm
 - [Monaspace](https://monaspace.githubnext.com/) Typeface optimized for code by GitHub #typography#resource
 - [Globe Engineer](https://github.com/Globe-Engineer) Applied AI with experiments and demos on human-ai interactions #demo#inspiration#llm
 - [pheralb/svgl](https://github.com/pheralb/svgl) logos of popular software products #resource#logo#svg
