@@ -1,3 +1,4 @@
+- [Globe Engineer](https://github.com/Globe-Engineer) Applied AI with experiments and demos on human-ai interactions #demo#inspiration#llm
 - [pheralb/svgl](https://github.com/pheralb/svgl) logos of popular software products #resource#logo#svg
 - [The Art of HPC](https://theartofhpc.com/) textbook for high performance scientific computing #course#resource
 - [google/re2](https://github.com/google/re2) high performance regular expression engine used by google #algorithm#library#searchengine
