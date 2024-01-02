@@ -1,3 +1,4 @@
+- [Thinking on ways to solve PICKLISTS](https://www.youtube.com/watch?v=d2O-8n-UnrI) choice group implementation #component#radio#tutorial
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) Blueprint for Agents with planning, memory, and tool use #explanation#reference
 - [Prompt Engineering Guide](https://learnprompting.org/docs/intro) #beginner#llm
 - [Monaspace](https://monaspace.githubnext.com/) Typeface optimized for code by GitHub #typography#resource
