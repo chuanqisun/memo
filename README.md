@@ -1,3 +1,4 @@
+- [pheralb/svgl](https://github.com/pheralb/svgl) logos of popular software products #resource#logo#svg
 - [The Art of HPC](https://theartofhpc.com/) textbook for high performance scientific computing #course#resource
 - [google/re2](https://github.com/google/re2) high performance regular expression engine used by google #algorithm#library#searchengine
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/) Fractional indexing #technique#realtime#collaboration#algorithm
