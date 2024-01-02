@@ -1,3 +1,4 @@
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) Blueprint for Agents with planning, memory, and tool use #explanation#reference
 - [Prompt Engineering Guide](https://learnprompting.org/docs/intro) #beginner#llm
 - [Monaspace](https://monaspace.githubnext.com/) Typeface optimized for code by GitHub #typography#resource
 - [Globe Engineer](https://github.com/Globe-Engineer) Applied AI with experiments and demos on human-ai interactions #demo#inspiration#llm
