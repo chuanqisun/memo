@@ -1,3 +1,4 @@
+- [Fix My Blinds](https://fixmyblinds.com/) Database for parts used in blind repair #reference
 - [Better Seater](https://seater.steam-oven.net/) wedding seat planning to gather friends and separate enemies #tool
 - [Thinking on ways to solve PICKLISTS](https://www.youtube.com/watch?v=d2O-8n-UnrI) choice group implementation #component#radio#tutorial
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) Blueprint for Agents with planning, memory, and tool use #explanation#reference
