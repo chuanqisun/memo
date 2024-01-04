@@ -1,3 +1,4 @@
+- [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) techniques, principles, AI tools #reference#tutorial#tool#generative
 - [Bfxr](https://www.bfxr.net/) Random sound generator for games #tool#gamedev#audio
 - [Fix My Blinds](https://fixmyblinds.com/) Database for parts used in blind repair #reference
 - [Better Seater](https://seater.steam-oven.net/) wedding seat planning to gather friends and separate enemies #tool
