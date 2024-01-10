@@ -1,3 +1,4 @@
+- [Box2D](https://box2d.org/) Physics engine for games, used by Angry Birds #gamedev#simulation#physics
 - [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) List of learning resources #resource#graphics#webgpu
 - [Freesound](https://freesound.org/) #audio#resource#gamedev
 - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) techniques, principles, AI tools #reference#tutorial#tool#generative
