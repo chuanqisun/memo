@@ -1,3 +1,4 @@
+- [Shadertoy BETA](https://www.shadertoy.com/) Library of shader effects #graphics#shader#resource
 - [Box2D](https://box2d.org/) Physics engine for games, used by Angry Birds #gamedev#simulation#physics
 - [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) List of learning resources #resource#graphics#webgpu
 - [Freesound](https://freesound.org/) #audio#resource#gamedev
