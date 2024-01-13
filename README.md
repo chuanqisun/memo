@@ -1,3 +1,4 @@
+- [DevDocs](https://devdocs.io/) Offline documentation for languages and library #reference#documentation#tool
 - [Catlike Coding](https://catlikecoding.com/) Unity and Godot #tutorial#gamedev#technique#procedural
 - [Shadertoy BETA](https://www.shadertoy.com/) Library of shader effects #graphics#shader#resource
 - [Box2D](https://box2d.org/) Physics engine for games, used by Angry Birds #gamedev#simulation#physics
