@@ -1,3 +1,4 @@
+- [Picyard](https://www.picyard.in/) for product screenshot with text and QR layers #mock#tool#marketing
 - [Fontpair](https://www.fontpair.co/) font pairing and preview #typography#tool
 - [Fontpair](https://www.fontpair.co/) font pairing and preview #typography#tool
 - [PeepsLab](https://peepslab.com/) Avatar generator #tool#gooddesign#gamedev#generative
