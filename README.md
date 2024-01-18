@@ -1,4 +1,5 @@
 - [Fontpair](https://www.fontpair.co/) font pairing and preview #typography#tool
+- [Fontpair](https://www.fontpair.co/) font pairing and preview #typography#tool
 - [PeepsLab](https://peepslab.com/) Avatar generator #tool#gooddesign#gamedev#generative
 - [SVG Chart Generator](https://www.magicpattern.design/tools/svg-chart-generator) #illustration#mock#svg#tool
 - [Free Icons](https://free-icons.github.io/free-icons) collection of product brand svgs #icon#resource#free
