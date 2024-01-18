@@ -1,3 +1,4 @@
+- [SVG Chart Generator](https://www.magicpattern.design/tools/svg-chart-generator) #illustration#mock#svg#tool
 - [Free Icons](https://free-icons.github.io/free-icons) collection of product brand svgs #icon#resource#free
 - [hattipjs/hattip](https://github.com/hattipjs/hattip) Express.js alternative for multiple javascript runtimes #framework#serverless
 - [Draggable objects](https://www.redblobgames.com/making-of/draggable/) #technique#touch#dragndrop
