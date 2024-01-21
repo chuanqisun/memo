@@ -1,3 +1,4 @@
+- [Collision Detection](https://www.jeffreythompson.org/collision-detection/table_of_contents.php) #algorithm#reference#gamedev
 - [Pikimov](https://pikimov.com/) local web based video editor replacing after effect #tool#video#wasm
 - [Picyard](https://www.picyard.in/) for product screenshot with text and QR layers #mock#tool#marketing
 - [Fontpair](https://www.fontpair.co/) font pairing and preview #typography#tool
