@@ -1,3 +1,4 @@
+- [demoscene programming](https://www.youtube.com/playlist?list=PLRQwR4-_0PR9HBI_GZs1nTn7q5LTkGeCN) Short interviews and demos with computer graphics artists #inspiration
 - [Foundations of Vector Retrieval](https://arxiv.org/abs/2401.09350) for working with embeddings and high dimensional vectors #technique#reference#machinelearning#llm
 - [Collision Detection](https://www.jeffreythompson.org/collision-detection/table_of_contents.php) #algorithm#reference#gamedev
 - [Pikimov](https://pikimov.com/) local web based video editor replacing after effect #tool#video#wasm
