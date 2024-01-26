@@ -1,3 +1,4 @@
+- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) list of vector databases for search and embedding storage #database#llm#library#searchengine
 - [Portfolio Visualizer](https://www.portfoliovisualizer.com) Sharpe curve and efficient frontier visualizer #tool#investment
 - [Introduction to Computational Finance and Financial Econometrics with R](https://bookdown.org/compfinezbook/introcompfinr/) #reference#investment#finance#beginner
 - [demoscene programming](https://www.youtube.com/playlist?list=PLRQwR4-_0PR9HBI_GZs1nTn7q5LTkGeCN) Short interviews and demos with computer graphics artists #inspiration
