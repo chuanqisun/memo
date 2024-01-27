@@ -1,3 +1,4 @@
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) Rust training material used by Google #tutorial#beginner#rust
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) list of vector databases for search and embedding storage #database#llm#library#searchengine
 - [Portfolio Visualizer](https://www.portfoliovisualizer.com) Sharpe curve and efficient frontier visualizer #tool#investment
 - [Introduction to Computational Finance and Financial Econometrics with R](https://bookdown.org/compfinezbook/introcompfinr/) #reference#investment#finance#beginner
