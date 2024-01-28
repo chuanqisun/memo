@@ -1,3 +1,4 @@
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) run docker container in browser via CPU emulation #technique#wasm#container#library
 - [Click Spark](https://ryanmulligan.dev/blog/click-spark/) mouse click visual feedback #visualeffect#animation#gooddesign
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) Rust training material used by Google #tutorial#beginner#rust
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) list of vector databases for search and embedding storage #database#llm#library#searchengine
