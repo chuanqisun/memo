@@ -1,3 +1,4 @@
+- [Inigo Quilez](https://iquilezles.org) Rendering techniques, SDF, Raytracing, Raymarching, Noise, Texture, Light, Math #reference#graphics#webgl
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) run docker container in browser via CPU emulation #technique#wasm#container#library
 - [Click Spark](https://ryanmulligan.dev/blog/click-spark/) mouse click visual feedback #visualeffect#animation#gooddesign
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) Rust training material used by Google #tutorial#beginner#rust
