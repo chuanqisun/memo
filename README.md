@@ -1,3 +1,4 @@
+- [JMBeresford/webgpu-kit](https://github.com/JMBeresford/webgpu-kit) low level abstractions in typescript #library#graphics#webgpu
 - [Inigo Quilez](https://iquilezles.org) Rendering techniques, SDF, Raytracing, Raymarching, Noise, Texture, Light, Math #reference#graphics#webgl
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) run docker container in browser via CPU emulation #technique#wasm#container#library
 - [Click Spark](https://ryanmulligan.dev/blog/click-spark/) mouse click visual feedback #visualeffect#animation#gooddesign
