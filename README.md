@@ -1,3 +1,4 @@
+- [Origami Simulator](https://origamisimulator.org/) #tool#gooddesign#physics
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html) idiomatic rust design pattern #guide#reference#rust
 - [JMBeresford/webgpu-kit](https://github.com/JMBeresford/webgpu-kit) low level abstractions in typescript #library#graphics#webgpu
 - [Inigo Quilez](https://iquilezles.org) Rendering techniques, SDF, Raytracing, Raymarching, Noise, Texture, Light, Math #reference#graphics#webgl
