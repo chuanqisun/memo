@@ -1,3 +1,4 @@
+- [Command Line Interface Guidelines](https://clig.dev/#foreword) #guide#reference#cli
 - [See-the-Forest](http://www.see-the-forest.com/G4/Main.act) Citation graph visualization for US patents #tool#startup#businessstrategy#reference
 - [Origami Simulator](https://origamisimulator.org/) #tool#gooddesign#physics
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html) idiomatic rust design pattern #guide#reference#rust
