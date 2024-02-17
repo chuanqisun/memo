@@ -1,3 +1,4 @@
+- [UI is a function of states](https://daverupert.com/2024/02/ui-states/) Extensive analysis on the source of states #reference
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) GitHub's programming language detection #library#language#nlp
 - [Command Line Interface Guidelines](https://clig.dev/#foreword) #guide#reference#cli
 - [See-the-Forest](http://www.see-the-forest.com/G4/Main.act) Citation graph visualization for US patents #tool#startup#businessstrategy#reference
