@@ -1,3 +1,4 @@
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) #algorithm#reference
 - [UI is a function of states](https://daverupert.com/2024/02/ui-states/) Extensive analysis on the source of states #reference
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) GitHub's programming language detection #library#language#nlp
 - [Command Line Interface Guidelines](https://clig.dev/#foreword) #guide#reference#cli
