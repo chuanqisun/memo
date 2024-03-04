@@ -1,3 +1,4 @@
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) natural language programming with LLM agents #language#generative#llm
 - [The Shape of AI](https://www.shapeof.ai/) #pattern#ai#guide
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) #browser#extension#framework
 - [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) #linux#scheduler#rust#performance
