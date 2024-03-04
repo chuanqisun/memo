@@ -1,3 +1,4 @@
+- [The Shape of AI](https://www.shapeof.ai/) #pattern#ai#guide
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) #browser#extension#framework
 - [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) #linux#scheduler#rust#performance
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) #algorithm#reference
