@@ -1,3 +1,4 @@
+- [SDXL Lightning](https://fastsdxl.ai/) Real-time image generation #generative#ai#tool
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) natural language programming with LLM agents #language#generative#llm
 - [The Shape of AI](https://www.shapeof.ai/) #pattern#ai#guide
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) #browser#extension#framework
