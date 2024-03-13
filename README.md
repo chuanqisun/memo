@@ -1,3 +1,4 @@
+- [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) with size preference #technique#print
 - [Nordic Names](https://www.nordicnames.de/wiki/Main_Page) #reference#tool
 - [SDXL Lightning](https://fastsdxl.ai/) Real-time image generation #generative#ai#tool
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) natural language programming with LLM agents #language#generative#llm
