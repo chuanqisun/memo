@@ -1,3 +1,4 @@
+- [requestSubmit](https://www.raymondcamden.com/2024/03/01/til-submit-versus-requestsubmit) trigger browser built-in form validation before submit #technique#form#validation
 - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) with size preference #technique#print
 - [Nordic Names](https://www.nordicnames.de/wiki/Main_Page) #reference#tool
 - [SDXL Lightning](https://fastsdxl.ai/) Real-time image generation #generative#ai#tool
