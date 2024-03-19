@@ -1,3 +1,4 @@
+- [Using Intl.RelativeTimeFormat for Localized Relative Timings](https://www.raymondcamden.com/2024/03/07/using-intlrelativetimeformat-for-localized-relative-timings) #technique#datetime#tutorial
 - [requestSubmit](https://www.raymondcamden.com/2024/03/01/til-submit-versus-requestsubmit) trigger browser built-in form validation before submit #technique#form#validation
 - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) with size preference #technique#print
 - [Nordic Names](https://www.nordicnames.de/wiki/Main_Page) #reference#tool
