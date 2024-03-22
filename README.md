@@ -1,3 +1,4 @@
+- [Memories](https://memories.gallery/) Open source alternative to Google Photos #tool#selfhosted
 - [Eclipsetracks.org](https://eclipsetracks.org/) Interactive Solar Eclipses with CesiumJS #tool#3d#visualization
 - [ynqa/jnv](https://github.com/ynqa/jnv) interactive json query and exploration #tool#gooddesign#cli
 - [Using Intl.RelativeTimeFormat for Localized Relative Timings](https://www.raymondcamden.com/2024/03/07/using-intlrelativetimeformat-for-localized-relative-timings) #technique#datetime#tutorial
