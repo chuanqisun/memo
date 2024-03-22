@@ -1,3 +1,4 @@
+- [magick.css](https://css.winterveil.net) classless minimalist css framework #framework#component#library
 - [Memories](https://memories.gallery/) Open source alternative to Google Photos #tool#selfhosted
 - [Eclipsetracks.org](https://eclipsetracks.org/) Interactive Solar Eclipses with CesiumJS #tool#3d#visualization
 - [ynqa/jnv](https://github.com/ynqa/jnv) interactive json query and exploration #tool#gooddesign#cli
