@@ -1,3 +1,4 @@
+- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/) #technique#typography#icon#casestudy
 - [magick.css](https://css.winterveil.net) classless minimalist css framework #component#library
 - [Memories](https://memories.gallery/) Open source alternative to Google Photos #tool#selfhosted
 - [Eclipsetracks.org](https://eclipsetracks.org/) Interactive Solar Eclipses with CesiumJS #tool#3d#visualization
