@@ -1,3 +1,4 @@
+- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html) Comparison of server to client communication #technique#reference#realtime
 - [Microservices Crash Course](https://www.youtube.com/watch?v=fEDT4lWWe9g) Pros and Cons of microservice #course#reference#architecture
 - [Hybrid Logical Clock (HLC)](https://sergeiturukin.com/2017/06/26/hybrid-logical-clocks.html) for distributed systems event ordering #algorithm#sync
 - [WebReflection/linkedom](https://github.com/WebReflection/linkedom) Alternative to JSDOM with optimal API for server side processing #library#dom#scraping
