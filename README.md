@@ -1,3 +1,4 @@
+- [Teranoptia](https://www.tunera.xyz/fonts/teranoptia/) Medieval chimeric fonts #typography#gooddesign
 - [Reading QR codes without a computer](https://qr.blinry.org/) understanding QR code system design #explanation#reference
 - [biomejs/biome](https://github.com/biomejs/biome) alternative to prettier and eslint with better performance #devexperience#tool#language
 - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html) Comparison of server to client communication #technique#reference#realtime
