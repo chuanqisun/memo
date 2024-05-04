@@ -1,3 +1,4 @@
+- [magicbookproject/magicbook](https://github.com/magicbookproject/magicbook) publishing html books authored in html #publishing#print#authoring
 - [abi/secret-llama](https://github.com/abi/secret-llama) In browser LLM chat experience #llm#chat
 - [Teranoptia](https://www.tunera.xyz/fonts/teranoptia/) Medieval chimeric fonts #typography#gooddesign
 - [Reading QR codes without a computer](https://qr.blinry.org/) understanding QR code system design #explanation#reference
