@@ -1,4 +1,4 @@
-- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) open source alternative to github copilot #tool#devexperience#llm
+- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) open source alternative to github copilot #tool#devexperience#llm#selfhosted
 - [magicbookproject/magicbook](https://github.com/magicbookproject/magicbook) publishing html books authored in html #publishing#print#authoring
 - [abi/secret-llama](https://github.com/abi/secret-llama) In browser LLM chat experience #llm#chat
 - [Teranoptia](https://www.tunera.xyz/fonts/teranoptia/) Medieval chimeric fonts #typography#gooddesign
