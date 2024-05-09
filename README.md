@@ -1,3 +1,4 @@
+- [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun ](https://blog.wilsonl.in/hackerverse/) UMAP dimension reduction on embeddings #visualization#technique
 - [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) open source alternative to github copilot #tool#devexperience#llm#selfhosted
 - [magicbookproject/magicbook](https://github.com/magicbookproject/magicbook) publishing html books authored in html #publishing#print#authoring
 - [abi/secret-llama](https://github.com/abi/secret-llama) In browser LLM chat experience #llm#chat
