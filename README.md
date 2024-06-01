@@ -1,3 +1,4 @@
+- [Nokja Original 3310 Cellphone Font Reproduction](https://webdraft.hu/fonts/nokja-original/) LCD dot matrix display #typography#free#resource
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) Sketch style graphics in browser #svg#visualization#library
 - [UI Density](https://matthewstrom.com/writing/ui-density/) Deep analysis on spatial and temporal density in UI #reference#visualization
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) A massively parallel, high-level programming language #performance#rust#language#functional
