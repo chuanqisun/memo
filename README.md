@@ -1,3 +1,4 @@
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) Sketch style graphics in browser #svg#visualization#library
 - [UI Density](https://matthewstrom.com/writing/ui-density/) Deep analysis on spatial and temporal density in UI #reference#visualization
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) A massively parallel, high-level programming language #performance#rust#language#functional
 - [InboxPurge](https://inboxpurge.com/) Bulk Gmail clean up and unsubscribe #tool#email
