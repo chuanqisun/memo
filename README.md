@@ -1,3 +1,4 @@
+- [oimo.io](https://oimo.io/works) high performance simulation and VFX #webgl#demo#gpu
 - [partykit/partykit](https://github.com/partykit/partykit) #realtime#collaboration#library
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/) Convert image to ASCII art in browser #tool#cli
 - [Ice](https://icemenubar.app/) Menu Bar Manager with easy customization #gooddesign#nativeapp#free
