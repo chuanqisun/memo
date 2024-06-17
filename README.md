@@ -1,3 +1,4 @@
+- [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) data viewer and query editor #tool#database
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) versatile converter supporting multiple formats #library#conversion#html#markdown
 - [Fine-tuning Text Inputs](https://garrettdimon.com/journal/posts/fine-tuning-text-inputs) spellcheck autofocus autocapitalize autocomplete and autocorrect #form#input#text
 - [oimo.io](https://oimo.io/works) high performance simulation and VFX #webgl#demo#gpu
