@@ -1,3 +1,4 @@
+- [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/) tactical, operational, and strategy #guide#prompt#llm#technique#reference
 - [Maneken](https://maneken.app/pricing) product mockup image generator #tool#marketing
 - [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) data viewer and query editor #tool#database
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) versatile converter supporting multiple formats #library#conversion#html#markdown
