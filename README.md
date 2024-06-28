@@ -1,3 +1,4 @@
+- [shikijs/shiki](https://github.com/shikijs/shiki) syntax highlight html generator #library
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) Logitech drivers for linux #tool#linux
 - [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/) tactical, operational, and strategy #guide#prompt#llm#technique#reference
 - [Maneken](https://maneken.app/pricing) product mockup image generator #tool#marketing
