@@ -1,3 +1,4 @@
+- [Link Lock](https://jstrieb.github.io/link-lock/create/) URL Embedded self encryption #tool#url
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) Hex editor for reverse engineering #tool#editor
 - [shikijs/shiki](https://github.com/shikijs/shiki) syntax highlight html generator #library
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) Logitech drivers for linux #tool#linux
