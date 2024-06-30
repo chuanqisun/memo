@@ -1,3 +1,4 @@
+- [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/) #tutorial#reference#dotfile#editor
 - [Link Lock](https://jstrieb.github.io/link-lock/create/) URL Embedded self encryption #tool#url
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) Hex editor for reverse engineering #tool#editor
 - [shikijs/shiki](https://github.com/shikijs/shiki) syntax highlight html generator #library
