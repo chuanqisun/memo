@@ -1,3 +1,4 @@
+- [saulpw/visidata](https://github.com/saulpw/visidata) data visualization in command line for any input format #tool#cli#tui#visualization#table
 - [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/) #tutorial#reference#dotfile#editor
 - [Link Lock](https://jstrieb.github.io/link-lock/create/) URL Embedded self encryption #tool#url
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) Hex editor for reverse engineering #tool#editor
