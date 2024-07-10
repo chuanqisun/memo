@@ -1,3 +1,4 @@
+- [how fast is javascript simulating 20 000 000 particles](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles) with shared array buffer #performance#technique
 - [saulpw/visidata](https://github.com/saulpw/visidata) data visualization in command line for any input format #tool#cli#tui#visualization#table
 - [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/) #tutorial#reference#dotfile#editor
 - [Link Lock](https://jstrieb.github.io/link-lock/create/) URL Embedded self encryption #tool#url
