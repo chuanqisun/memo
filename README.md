@@ -1,3 +1,4 @@
+- [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) Build HTML in browser #tool#email
 - [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda) Display clickable hyperlink in terminal emulators #technique#cli
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) Linux emulation in browser #os#linux#wasm
 - [how fast is javascript simulating 20 000 000 particles](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles) with shared array buffer #performance#technique
