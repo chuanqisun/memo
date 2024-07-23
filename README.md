@@ -1,3 +1,4 @@
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) prisma alternative with runtime typescript schema #database#devexperience
 - [Handy Arrows](https://handyarrows.com/) sketch handdrawing style #svg#resource#illustration
 - [Zoom, zoom, and zoom](https://www.oddbird.net/2024/07/09/zoomies/) CSS zooming, scaling #technique
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) Build HTML in browser #tool#email
