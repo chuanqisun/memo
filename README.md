@@ -1,3 +1,4 @@
+- [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground) AI making coding prototype faster than vector prototype #hypothesis
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) prisma alternative with runtime typescript schema #database#devexperience
 - [Handy Arrows](https://handyarrows.com/) sketch handdrawing style #svg#resource#illustration
 - [Zoom, zoom, and zoom](https://www.oddbird.net/2024/07/09/zoomies/) CSS zooming, scaling #technique
