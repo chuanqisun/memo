@@ -1,3 +1,4 @@
+- [A virtual DOM in 200 lines of JavaScript](https://lazamar.github.io/virtual-dom/) with diffing render #tutorial#technique#library
 - [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground) AI making coding prototype faster than vector prototype #hypothesis#opinion
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) prisma alternative with runtime typescript schema #database#devexperience
 - [Handy Arrows](https://handyarrows.com/) sketch handdrawing style #svg#resource#illustration
