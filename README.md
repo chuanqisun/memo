@@ -1,3 +1,4 @@
+- [Semantic Chunking with RegExp](https://x.com/JinaAI_/status/1823756993108304135) #technique#llm
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) Compile JavaScript to wasm #compiler#language#performance#vm#library
 - [A virtual DOM in 200 lines of JavaScript](https://lazamar.github.io/virtual-dom/) with diffing render #tutorial#technique#library
 - [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground) AI making coding prototype faster than vector prototype #hypothesis#opinion
