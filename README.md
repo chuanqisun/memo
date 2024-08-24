@@ -1,3 +1,4 @@
+- [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows) Ray tracing implemented in CSS shadows #performance#graphics#experiment
 - [Wordware](https://www.wordware.ai/) Notion-like interactive notebook for AI task flows #notebook#llm#tool
 - [Semantic Chunking with RegExp](https://x.com/JinaAI_/status/1823756993108304135) #technique#llm
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) Compile JavaScript to wasm #compiler#language#performance#vm#library
