@@ -1,3 +1,4 @@
+- [Eraser](https://www.eraser.io/)  Docs and Diagrams for Engineering Teams #service#diagram#tool
 - [Scroll-driven Animations](https://scroll-driven-animations.style/) #demo#technique#animation
 - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows) Ray tracing implemented in CSS shadows #performance#graphics#experiment
 - [Wordware](https://www.wordware.ai/) Notion-like interactive notebook for AI task flows #notebook#llm#tool
