@@ -1,4 +1,4 @@
-- [Declarative Shadow DOM](https://web.dev/articles/declarative-shadow-dom) server side render html template #webcomponent#technique
+- [Declarative Shadow DOM](https://web.dev/articles/declarative-shadow-dom) server side render html template #webcomponent#technique#tutorial
 - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/) Emulate text interface with CSS #designsystem#tui#gooddesign#responsive
 - [Eraser](https://www.eraser.io/)  Docs and Diagrams for Engineering Teams #service#diagram#tool
 - [Scroll-driven Animations](https://scroll-driven-animations.style/) #demo#technique#animation
