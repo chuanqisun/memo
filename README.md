@@ -1,3 +1,4 @@
+- [Rendering Markdown with the GitHub Markdown API](https://til.simonwillison.net/markdown/github-markdown-api) #technique#api
 - [Vanilla JSX](https://vanillajsx.com/) proof of concept of using JSX to render regular DOM elements #demo#library#framework
 - [Server Mono](https://servermono.com/) monospace typeface interfaced by typewriters #typography#resource#free
 - [Declarative Shadow DOM](https://web.dev/articles/declarative-shadow-dom) server side render html template #webcomponent#technique#tutorial
