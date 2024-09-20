@@ -1,3 +1,4 @@
+- [Simple Icons](https://simpleicons.org) for popular brands #resource#svg#logo
 - [Atkinson Hyperlegible Font - Braille Institute](https://www.brailleinstitute.org/freefont/) readable, legible font #typography#free
 - [Rendering Markdown with the GitHub Markdown API](https://til.simonwillison.net/markdown/github-markdown-api) #technique#api
 - [Vanilla JSX](https://vanillajsx.com/) proof of concept of using JSX to render regular DOM elements #demo#library#framework
