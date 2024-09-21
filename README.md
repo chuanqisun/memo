@@ -1,3 +1,4 @@
+- [The Annotated Hacker Test](https://www.datagubbe.se/hackertest/) Culture background for the original hackers #reference#tool
 - [CSS Triggers](https://css-triggers.com/) How css property triggers Layout, Paint, Composite in browsers #reference#performance#browser
 - [Simple Icons](https://simpleicons.org) for popular brands #resource#svg#logo
 - [Atkinson Hyperlegible Font - Braille Institute](https://www.brailleinstitute.org/freefont/) readable, legible font #typography#free
