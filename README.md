@@ -1,3 +1,4 @@
+- [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis) correct handling with multi-byte character decoding #technique#llm
 - [The Annotated Hacker Test](https://www.datagubbe.se/hackertest/) Culture background for the original hackers #reference#tool
 - [CSS Triggers](https://css-triggers.com/) How css property triggers Layout, Paint, Composite in browsers #reference#performance#browser
 - [Simple Icons](https://simpleicons.org) for popular brands #resource#svg#logo
