@@ -1,3 +1,4 @@
+- [Easing Graphs](https://www.easing.dev/) css animation timing function #tool#animation
 - [Best Free Fonts](https://bestfreefonts.com/) #free#resource#typography
 - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis) correct handling with multi-byte character decoding #technique#llm
 - [The Annotated Hacker Test](https://www.datagubbe.se/hackertest/) Culture background for the original hackers #reference#tool
