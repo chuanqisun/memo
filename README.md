@@ -1,3 +1,4 @@
+- [Shopify/draggable](https://github.com/Shopify/draggable) #library#dragndrop
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) for vanilla js #library#dragndrop
 - [OpenFreeMap](https://openfreemap.org/) #map#library#selfhosted
 - [An Interesting HTML Parser Conundrum](https://dbushell.com/2024/10/01/html-parser-conundrum/) Closing tag in inline javascript will be parsed #html#browser
