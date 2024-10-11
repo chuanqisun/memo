@@ -1,3 +1,4 @@
+- [The Copenhagen Book](https://thecopenhagenbook.com/) guideline for auth in web apps #auth#guide#reference
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) #audio#video#webcomponent#library
 - [Shopify/draggable](https://github.com/Shopify/draggable) #library#dragndrop
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) for vanilla js #library#dragndrop
