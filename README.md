@@ -1,3 +1,4 @@
+- [Jen Kramer: HTML, CSS, No-Code, Teaching Tips | Substack](https://jen4web.substack.com/) 30 days of HTML and 15 days of CSS #beginner#tutorial#html
 - [The Copenhagen Book](https://thecopenhagenbook.com/) guideline for auth in web apps #auth#guide#reference
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) #audio#video#webcomponent#library
 - [Shopify/draggable](https://github.com/Shopify/draggable) #library#dragndrop
