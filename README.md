@@ -1,3 +1,4 @@
+- [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) console inspired blog theme #gooddesign#tui
 - [Plain Vanilla](https://plainvanillaweb.com/index.html) Use plain HTML, CSS, and JavaScript towards production #webcomponent#beginner#reference#technique
 - [Rombo](https://rombo.co/tailwind/) noise effect with SVG #gooddesign
 - [Jen Kramer: HTML, CSS, No-Code, Teaching Tips | Substack](https://jen4web.substack.com/) 30 days of HTML and 15 days of CSS #beginner#tutorial#html
