@@ -1,3 +1,4 @@
+- [honojs/hono](https://github.com/honojs/hono) web standards based js server  #framework#fullstack
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) console inspired blog theme #gooddesign#tui
 - [Plain Vanilla](https://plainvanillaweb.com/index.html) Use plain HTML, CSS, and JavaScript towards production #webcomponent#beginner#reference#technique
 - [Rombo](https://rombo.co/tailwind/) noise effect with SVG #gooddesign
