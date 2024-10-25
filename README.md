@@ -1,4 +1,4 @@
-- [HadrienGardeur/web-speech-recommended-voices](https://github.com/HadrienGardeur/web-speech-recommended-voices) list of high quality voices from browser native api #speech
+- [HadrienGardeur/web-speech-recommended-voices](https://github.com/HadrienGardeur/web-speech-recommended-voices) list of high quality voices from browser native api #speech#reference
 - [highlight note in github markdown](https://github.com/orgs/community/discussions/16925) #technique#plaintext
 - [honojs/hono](https://github.com/honojs/hono) web standards based js server  #framework#fullstack
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) console inspired blog theme #gooddesign#tui
