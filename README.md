@@ -1,3 +1,4 @@
+- [OpenWebTorrent](https://openwebtorrent.com/) An open webtorrent tracker project for seeding p2p file sharing #service#free#p2p
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) p2p file sharing in the browser without backend #technique#network#library
 - [chr15m/slingcode](https://github.com/chr15m/slingcode) Single HTML js VM for personal apps #vm#browser
 - [Now in Baseline: animating entry effects](https://web.dev/blog/baseline-entry-animations) starting styles query allow animation entry effects without javascript #technique#animation
