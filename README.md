@@ -1,3 +1,4 @@
+- [Grainy Gradients](https://css-tricks.com/grainy-gradients/) with computed noise #technique#visualeffect#svg
 - [rsms/scripter](https://github.com/rsms/scripter) figma scripting vm #technique#language
 - [CSS for JavaScript Developers](https://css-for-js.dev/) highly rated online course for web dev #course#tutorial#beginner
 - [Textualize/toolong](https://github.com/Textualize/toolong) visually appealing log file viewer/explorer/search #gooddesig#tui#cli#tool
