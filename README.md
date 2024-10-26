@@ -1,5 +1,5 @@
 - [OpenWebTorrent](https://openwebtorrent.com/) An open webtorrent tracker project for seeding p2p file sharing #service#free#p2p
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) p2p file sharing in the browser without backend #technique#network#library
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)  file sharing in the browser with any tracker service #technique#network#library#p2p
 - [chr15m/slingcode](https://github.com/chr15m/slingcode) Single HTML js VM for personal apps #vm#browser
 - [Now in Baseline: animating entry effects](https://web.dev/blog/baseline-entry-animations) starting styles query allow animation entry effects without javascript #technique#animation
 - [Unlocking the Power of JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch) for incremental update of structured data #standard#language#llm
