@@ -1,3 +1,4 @@
+- [domferr/tilingshell](https://github.com/domferr/tilingshell) tiling window manager for gnome #linux
 - [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/) hierarchical outline progressive enhancement #technique#knowledgebase#philosophy
 - [OpenWebTorrent](https://openwebtorrent.com/) An open webtorrent tracker project for seeding p2p file sharing #service#free#p2p
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)  file sharing in the browser with any tracker service #technique#network#library#p2p
