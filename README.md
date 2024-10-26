@@ -1,3 +1,4 @@
+- [Unlocking the Power of JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch) for incremental update of structured data #standard#language#llm
 - [nhh/zero](https://github.com/nhh/zero) Use jsx to output plain dom nodes #technique#compiler
 - [Grainy Gradients](https://css-tricks.com/grainy-gradients/) with computed noise #technique#visualeffect#svg
 - [rsms/scripter](https://github.com/rsms/scripter) figma scripting vm #technique#language
