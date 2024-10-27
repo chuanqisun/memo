@@ -1,3 +1,4 @@
+- [Lucide Icons](https://lucide.dev/) beautiful and consistent #icon#resource#free
 - [Tables with Fixed Headers and Horizontal Scroll](https://www.taniarascia.com/horizontal-scroll-fixed-headers-table/) #pattern#table#technique
 - [Drag to Select](https://www.joshuawootonn.com/react-drag-to-select) implementation in react #pattern#technique
 - [How to compose JavaScript functions that take multiple parameters](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/) compose of react state hooks #functional#technique
