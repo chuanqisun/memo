@@ -1,3 +1,4 @@
+- [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) #audio#library
 - [Lucide Icons](https://lucide.dev/) beautiful and consistent #icon#resource#free
 - [Tables with Fixed Headers and Horizontal Scroll](https://www.taniarascia.com/horizontal-scroll-fixed-headers-table/) #pattern#table#technique
 - [Drag to Select](https://www.joshuawootonn.com/react-drag-to-select) implementation in react #pattern#technique
