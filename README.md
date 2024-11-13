@@ -1,3 +1,4 @@
+- [The Monospace Web](https://owickstrom.github.io/the-monospace-web/#the-basics) monospace applied to design system #tui#designsystem#gooddesign
 - [Hyprland: Dynamic tiling window compositor with the looks](https://hyprland.org/) for wayland #linux#ricing
 - [uifonts.app](https://www.uifonts.app/) test and preview font pairing live #tool#typography
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) react for interactive cli apps #cli#library
