@@ -1,3 +1,4 @@
+- [Motion](https://motion.dev/) Alternative to gsap for physics and scroll driven animation #motion#library
 - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/#the-basics) monospace applied to design system #tui#designsystem#gooddesign
 - [Hyprland: Dynamic tiling window compositor with the looks](https://hyprland.org/) for wayland #linux#ricing
 - [uifonts.app](https://www.uifonts.app/) test and preview font pairing live #tool#typography
