@@ -1,3 +1,4 @@
+- [AI Voice Generator: Realistic Text to Speech and AI Voiceover](https://play.ht/) #voice#generative#service
 - [baunov/gradients-bg](https://github.com/baunov/gradients-bg) reference implementation for blur svg gradient background #visualeffect#technique#tutorial
 - [Orbit](https://zumerlab.github.io/orbit-docs) CSS radial layout rendering #library
 - [Motion](https://motion.dev/) Alternative to gsap for physics and scroll driven animation #motion#library
