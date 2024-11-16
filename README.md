@@ -1,3 +1,4 @@
+- [dbismut/draggable-slider](https://github.com/dbismut/draggable-slider) #pattern#carousel#library
 - [AI Voice Generator: Realistic Text to Speech and AI Voiceover](https://play.ht/) #voice#generative#service
 - [baunov/gradients-bg](https://github.com/baunov/gradients-bg) reference implementation for blur svg gradient background #visualeffect#technique#tutorial
 - [Orbit](https://zumerlab.github.io/orbit-docs) CSS radial layout rendering #library
