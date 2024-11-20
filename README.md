@@ -1,3 +1,4 @@
+- [Nature of Code](https://natureofcode.com/) Daniel Shiffman book with rich example and illustration for algorithmic art #art#generative
 - [@celine/celine](https://maxbo.me/celine/) HTML as a reactive notebook programming running #library#technique#documentation#notebook
 - [Online MP3 Cutter](https://mp3cut.net/) Cut Songs, Make Ringtones #tool#audio
 - [dbismut/draggable-slider](https://github.com/dbismut/draggable-slider) #pattern#carousel#library
