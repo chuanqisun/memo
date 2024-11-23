@@ -1,3 +1,4 @@
+- [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) simulating sun light and shadow casting #visualeffect#demo
 - [Overflow Clip](https://ishadeed.com/article/overflow-clip/) #explanation#technique
 - [Nature of Code](https://natureofcode.com/) Daniel Shiffman book with rich example and illustration for algorithmic art #art#generative
 - [@celine/celine](https://maxbo.me/celine/) HTML as a reactive notebook programming running #library#technique#documentation#notebook
