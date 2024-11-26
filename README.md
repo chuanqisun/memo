@@ -1,3 +1,4 @@
+- [Colorixor](https://www.colorixor.xyz/?utm_source=thecollectivenewsletter.beehiiv.com&utm_medium=referral&utm_campaign=the-collective-884) Generative Ai Recolor Tool for Instant Image Objects Transformation #tool#image#generative
 - [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) simulating sun light and shadow casting #visualeffect#demo
 - [Overflow Clip](https://ishadeed.com/article/overflow-clip/) #explanation#technique
 - [Nature of Code](https://natureofcode.com/) Daniel Shiffman book with rich example and illustration for algorithmic art #art#generative
