@@ -1,3 +1,4 @@
+- [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/?utm_source=thecollectivenewsletter.beehiiv.com&utm_medium=referral&utm_campaign=the-collective-885) compose two native range input into a single dual-range #pattern#slider
 - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/) #fun#gooddesign
 - [Colorixor](https://www.colorixor.xyz/?utm_source=thecollectivenewsletter.beehiiv.com&utm_medium=referral&utm_campaign=the-collective-884) Generative Ai Recolor Tool for Instant Image Objects Transformation #tool#image#generative
 - [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) simulating sun light and shadow casting #visualeffect#demo
