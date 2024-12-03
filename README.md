@@ -1,3 +1,4 @@
+- [ASCII shader with WebGPU and threejs](https://www.youtube.com/watch?v=NxeRcnLr0ko) #demo#tui#3d#technique#tutorial
 - [shuding/svg-shaders](https://github.com/shuding/svg-shaders) use svg as filter for html dom element #technique#visualeffect#svg
 - [Cap](https://cap.so/) screen recording, alternative to loop #tool#video
 - [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/?utm_source=thecollectivenewsletter.beehiiv.com&utm_medium=referral&utm_campaign=the-collective-885) compose two native range input into a single dual-range #pattern#slider#technique
