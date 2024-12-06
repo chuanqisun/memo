@@ -1,3 +1,4 @@
+- [Frosted Glass from Games to the Web](https://www.tyleo.com/html-glass.html?utm_source=thecollectivenewsletter.beehiiv.com&utm_medium=referral&utm_campaign=the-collective-887) realistic backdrop filter for glass panel #technique#visualeffect#tutorial
 - [ASCII shader with WebGPU and threejs](https://www.youtube.com/watch?v=NxeRcnLr0ko) #demo#tui#3d#technique#tutorial
 - [shuding/svg-shaders](https://github.com/shuding/svg-shaders) use svg as filter for html dom element #technique#visualeffect#svg
 - [Cap](https://cap.so/) screen recording, alternative to loop #tool#video
