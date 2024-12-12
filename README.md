@@ -1,3 +1,4 @@
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) Automated short video creation #automation#tool
 - [tonghohin/screen-sharing](https://github.com/tonghohin/screen-sharing) web based screen sharing app #service#free
 - [Photo Gradient](https://photogradient.com/) sophisticated gradient with noise and warp #visualeffect#tool
 - [Make creative borders with background-clip border-area](https://webkit.org/blog/16214/background-clip-border-area/) radial, pattern, image, gradient effects #technique#demo
