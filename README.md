@@ -1,3 +1,4 @@
+- [Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0) high performance map of github projects #visualization#demo
 - [The Book of Shaders](https://thebookofshaders.com/) shader programming guide #beginner#webgl#graphics#tutorial
 - [Nitro](https://nitro.build/) full stack serverless toolkit for js ecosystem #library#framework
 - [TimeMap.org](https://www.oldmapsonline.org/en/history/battles#position=3/47.67/-122.13&year=1782) World History Atlas with interactive timeline scrub #tool#gooddesign#map
