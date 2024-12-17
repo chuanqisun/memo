@@ -1,3 +1,4 @@
+- [IsometricShot](https://isometricshot.com/) Create Isometric Screenshots #tool#mock
 - [Whisk](https://labs.google/fx/tools/whisk) Style and subject transfer for image generation #tool#generative
 - [Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0) high performance map of github projects #visualization#demo
 - [The Book of Shaders](https://thebookofshaders.com/) shader programming guide #beginner#webgl#graphics#tutorial
