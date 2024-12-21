@@ -1,3 +1,4 @@
+- [The Pixel Canvas Shimmer Effect](https://ryanmulligan.dev/blog/pixel-canvas/) #visualeffect#webcomponent
 - [Creating the Morphing Effect of the Luma Dream Machine Website](https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/) Use generative image blend to create web static morphing #technique#visualeffect#generative
 - [IsometricShot](https://isometricshot.com/) Create Isometric Screenshots #tool#mock
 - [Whisk](https://labs.google/fx/tools/whisk) Style and subject transfer for image generation #tool#generative
