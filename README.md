@@ -1,3 +1,4 @@
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) Small language model by Linux AI project #generative#llm
 - [Termo](https://termo.rajnandan.com/?utm_source=thecollectivenewsletter.beehiiv.com&utm_medium=referral&utm_campaign=the-collective-891) simulate terminal in web #library#tui
 - [The Pixel Canvas Shimmer Effect](https://ryanmulligan.dev/blog/pixel-canvas/) #visualeffect#webcomponent
 - [Creating the Morphing Effect of the Luma Dream Machine Website](https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/) Use generative image blend to create web static morphing #technique#visualeffect#generative
