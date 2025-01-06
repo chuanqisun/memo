@@ -1,3 +1,4 @@
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) node based graph visualization in React #nodelink#library
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) A graph node engine and editor #nodelink#library
 - [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/) render Sable art style 3d with bold outline #tutorial#technique#3d
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) Small language model by Linux AI project #generative#llm
