@@ -1,3 +1,4 @@
+- [egoist/tsup](https://github.com/egoist/tsup) typepscript library bundler #library#tool#devexperience
 - [Expo](https://expo.dev/) cross platform app development for React #framework#mobile
 - [EYG](https://eyg.run/) structured programming with functional, typed, and scriptable features #language
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) node based graph visualization in React #nodelink#library
