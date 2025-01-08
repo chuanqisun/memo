@@ -1,3 +1,4 @@
+- [Expo](https://expo.dev/) cross platform app development for React #framework#mobile
 - [EYG](https://eyg.run/) structured programming with functional, typed, and scriptable features #language
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) node based graph visualization in React #nodelink#library
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) A graph node engine and editor #nodelink#library
