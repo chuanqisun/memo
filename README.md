@@ -1,3 +1,4 @@
+- [Browserbase: A web browser for AI agents & applications](https://www.browserbase.com) Browser automation platform for AI #service#browser#ai
 - [egoist/tsup](https://github.com/egoist/tsup) typepscript library bundler #library#tool#devexperience
 - [Expo](https://expo.dev/) cross platform app development for React #framework#mobile
 - [EYG](https://eyg.run/) structured programming with functional, typed, and scriptable features #language
