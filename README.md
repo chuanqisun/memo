@@ -1,3 +1,4 @@
+- [Standards first web framework](https://nuejs.org/) #webcomponent#library#component#designsystem
 - [fand/vfx-js](https://github.com/fand/vfx-js) with threejs #visualeffect#3d#library
 - [thetarnav/streaming-markdown](https://github.com/thetarnav/streaming-markdown) #markdown#language#library
 - [Agents](https://huyenchip.com/2025/01/07/agents.html) 2025 area summary on Gen AI agent engineering  #beginner#llm
