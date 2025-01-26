@@ -1,3 +1,4 @@
+- [wunderwuzzi23/scratch](https://github.com/wunderwuzzi23/scratch) collection of llm system prompts #reference#llm
 - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/) can be used as compressed documentation for code gen #reference#llm
 - [cs16.css](https://cs16.samke.me/) Low res UI based on counter strike #component#library
 - [Standards first web framework](https://nuejs.org/) #webcomponent#library#component#designsystem
