@@ -1,3 +1,4 @@
+- [Responsive tables](https://gomakethings.com/responsive-tables/) #technique#table#pattern#responsive
 - [wunderwuzzi23/scratch](https://github.com/wunderwuzzi23/scratch) collection of llm system prompts #reference#llm
 - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/) can be used as compressed documentation for code gen #reference#llm
 - [cs16.css](https://cs16.samke.me/) Low res UI based on counter strike #component#library
