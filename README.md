@@ -1,3 +1,4 @@
+- [We are destroying software](https://antirez.com/news/145) on quality and engineering principles #opinion
 - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/) #git#reference#guide
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/) #reference#network#guide
 - [Responsive tables](https://gomakethings.com/responsive-tables/) #technique#table#pattern#responsive
