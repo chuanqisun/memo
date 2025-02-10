@@ -1,3 +1,4 @@
+- [a portrait of Tenochtitlan](https://tenochtitlan.thomaskole.nl/) 3D reconstruction of the capital of the Aztec Empire #gooddesign
 - [We are destroying software](https://antirez.com/news/145) on quality and engineering principles #opinion
 - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/) #git#reference#guide
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/) #reference#network#guide
