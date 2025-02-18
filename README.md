@@ -1,3 +1,4 @@
+- [Zen Browser](https://zen-browser.app/) firefox fork open source #browser
 - [NeverCease/uchu](https://github.com/NeverCease/uchu) Color palette for the web #color#theming
 - [Creating My First Game Prototype in a Browser](https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/) with threejs react #tutorial#3d#gamedev
 - [a portrait of Tenochtitlan](https://tenochtitlan.thomaskole.nl/) 3D reconstruction of the capital of the Aztec Empire #gooddesign
