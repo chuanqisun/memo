@@ -1,3 +1,4 @@
+- [hexagon map indexer](https://simonwillison.net/2025/Mar/9/h3-viewer/) for scale and zoom #demo#algorithm#map#visualization
 - [Free Storyboarding Software](https://www.storyboardthat.com/) Online Storyboard Creator #tool#design
 - [Zen Browser](https://zen-browser.app/) firefox fork open source #browser
 - [NeverCease/uchu](https://github.com/NeverCease/uchu) Color palette for the web #color#theming
