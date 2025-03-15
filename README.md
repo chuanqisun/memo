@@ -1,3 +1,4 @@
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) good API design for unifying multiple LLM model providers #library#llm
 - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) React syntax applied to solve node based workflow programming #library#language
 - [Beyond Autocomplete: Introducing TypeLeap UI/UX](https://www.typeleap.com/) Enhance command palette with near-real time AI command parser #autocomplete#searchengine#llm
 - [hexagon map indexer](https://simonwillison.net/2025/Mar/9/h3-viewer/) for scale and zoom #demo#algorithm#map#visualization
