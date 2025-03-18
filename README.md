@@ -1,3 +1,4 @@
+- [Neobrutalism components](https://www.neobrutalism.dev/) after neumorphism #trend
 - [Home | Cartesia](https://cartesia.ai/) voice cloning #generative#service#llm
 - [keepworking/nash](https://github.com/keepworking/nash) single file HTML note taking #knowledgebase#html
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) good API design for unifying multiple LLM model providers #library#llm
