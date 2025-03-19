@@ -1,3 +1,4 @@
+- [konvajs/konva](https://github.com/konvajs/konva) Declarative API for rendering #canvas#library
 - [Watchfaces](https://apps.rebble.io/en_US/watchfaces) pixel miniature design for watch face #pixelart#tui#os
 - [Neobrutalism components](https://www.neobrutalism.dev/) after neumorphism #trend
 - [Home | Cartesia](https://cartesia.ai/) voice cloning #generative#service#llm
