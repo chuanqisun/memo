@@ -1,3 +1,4 @@
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) visualize vdom re-render performance issue #performance#tool#react
 - [A system to organise your life](https://johnnydecimal.com/) terminal aesthetic with box drawing character  #gooddesign#knowledgebase
 - [unjs/fontaine](https://github.com/unjs/fontaine) Font metric based web font fallback #library#typography#fontstack#systemfont
 - [konvajs/konva](https://github.com/konvajs/konva) Declarative API for rendering #canvas#library
