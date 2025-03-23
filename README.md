@@ -1,3 +1,4 @@
+- [A system to organise your life](https://johnnydecimal.com/) terminal aesthetic with box drawing character  #gooddesign#knowledgebase
 - [unjs/fontaine](https://github.com/unjs/fontaine) Font metric based web font fallback #library#typography#fontstack#systemfont
 - [konvajs/konva](https://github.com/konvajs/konva) Declarative API for rendering #canvas#library
 - [Watchfaces](https://apps.rebble.io/en_US/watchfaces) pixel miniature design for watch face #pixelart#tui#os
