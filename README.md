@@ -84,7 +84,7 @@
 - [Grainy Gradients](https://css-tricks.com/grainy-gradients/) with computed noise #technique#visualeffect#svg
 - [rsms/scripter](https://github.com/rsms/scripter) figma scripting vm #technique#language
 - [CSS for JavaScript Developers](https://css-for-js.dev/) highly rated online course for web dev #course#tutorial#beginner
-- [Textualize/toolong](https://github.com/Textualize/toolong) visually appealing log file viewer/explorer/search #gooddesig#tui#cli#tool
+- [Textualize/toolong](https://github.com/Textualize/toolong) visually appealing log file viewer/explorer/search #gooddesign#tui#cli#tool
 - [Gosub Web Browser Engine](https://gosub.io/) Rust based modular browser making project #browser
 - [HadrienGardeur/web-speech-recommended-voices](https://github.com/HadrienGardeur/web-speech-recommended-voices) list of high quality voices from browser native api #speech#reference
 - [highlight note in github markdown](https://github.com/orgs/community/discussions/16925) #technique#plaintext
