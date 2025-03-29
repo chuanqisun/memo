@@ -1,3 +1,4 @@
+- [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) represent japanese grammar as typescript types #language#compiler
 - [Blogroll by chriskirknielsen](https://chriskirknielsen.com/blogroll/) for web devs #blogroll
 - [Genesis](https://genesis-embodied-ai.github.io/) robotics and physics simulation and rendering engine #graphics#generative#library#machinelearning#robotics
 - [srcl](https://www.sacred.computer/) terminal aesthetics #component#tui#react
