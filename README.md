@@ -1,3 +1,4 @@
+- [Blogroll by chriskirknielsen](https://chriskirknielsen.com/blogroll/) for web devs #blogroll
 - [Genesis](https://genesis-embodied-ai.github.io/) robotics and physics simulation and rendering engine #graphics#generative#library#machinelearning#robotics
 - [srcl](https://www.sacred.computer/) terminal aesthetics #component#tui#react
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) visualize vdom re-render performance issue #performance#tool#react
