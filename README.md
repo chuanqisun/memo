@@ -1,3 +1,4 @@
+- [ucbepic/docetl](https://github.com/ucbepic/docetl) yaml based pipeline runtime for llm and algorithm interop #python#library#notebook
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) system font with preview for each environment and emoji support #typography#fontstack
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) represent japanese grammar as typescript types #language#compiler
 - [Blogroll by chriskirknielsen](https://chriskirknielsen.com/blogroll/) for web devs #blogroll
