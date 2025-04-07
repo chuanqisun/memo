@@ -1,3 +1,4 @@
+- [AI 2027](https://ai-2027.com/) info graphic fiction #gooddesign#ai#visualization
 - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/) #technique#pattern#image
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) yaml based pipeline runtime for llm and algorithm interop #python#library#notebook
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) system font with preview for each environment and emoji support #typography#fontstack
