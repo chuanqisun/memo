@@ -1,3 +1,4 @@
+- [BrowserMCP/mcp: Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser](https://github.com/BrowserMCP/mcp) Turn browser into MCP server #library#browser#automation
 - [AI 2027](https://ai-2027.com/) info graphic fiction #gooddesign#ai#visualization
 - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/) #technique#pattern#image
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) yaml based pipeline runtime for llm and algorithm interop #python#library#notebook
