@@ -1,3 +1,4 @@
+- [Mintlify](https://mintlify.com/) documentation hosting, cms, and search platform #documentation#service#searchengine
 - [Carousel Gallery](https://chrome.dev/carousel/) css only carousel spec #carousel#pattern#component
 - [47ng/nuqs](https://github.com/47ng/nuqs) URL based react state management system #routing#react#library
 - [BrowserMCP/mcp: Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser](https://github.com/BrowserMCP/mcp) Turn browser into MCP server #library#browser#automation
