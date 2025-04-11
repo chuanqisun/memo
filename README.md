@@ -1,3 +1,4 @@
+- [But what if I really want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse) #opinion
 - [Mintlify](https://mintlify.com/) documentation hosting, cms, and search platform #documentation#service#searchengine
 - [Carousel Gallery](https://chrome.dev/carousel/) css only carousel spec #carousel#pattern#component
 - [47ng/nuqs](https://github.com/47ng/nuqs) URL based react state management system #routing#react#library
