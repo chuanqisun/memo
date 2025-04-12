@@ -1,3 +1,4 @@
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) zod alternative for runtime type validation #library#typescript
 - [But what if I really want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse) #opinion
 - [Mintlify](https://mintlify.com/) documentation hosting, cms, and search platform #documentation#service#searchengine
 - [Carousel Gallery](https://chrome.dev/carousel/) css only carousel spec #carousel#pattern#component
