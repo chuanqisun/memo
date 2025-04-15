@@ -1,3 +1,4 @@
+- [Unsure Calculator](https://filiph.github.io/unsure/) calculate with probabilistic values as input #visualization#tool#gooddesign
 - [Stevenic/vectra](https://github.com/Stevenic/vectra) local file based vector database #database#llm
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) zod alternative for runtime type validation #library#typescript
 - [But what if I really want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse) #opinion
