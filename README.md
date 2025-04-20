@@ -1,3 +1,4 @@
+- [zapsplat](https://www.zapsplat.com/) AI generated sound effects library #sounddesign#resource
 - [MAKING SOFTWARE](https://www.makingsoftware.com/) illustrated technical reference for low level software engineering #gooddesign#beginner
 - [Unsure Calculator](https://filiph.github.io/unsure/) calculate with probabilistic values as input #visualization#tool#gooddesign
 - [Stevenic/vectra](https://github.com/Stevenic/vectra) local file based vector database #database#llm
