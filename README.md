@@ -1,3 +1,4 @@
+- [The Zen of GitHub](https://ben.balter.com/2015/08/12/the-zen-of-github/) engineering principles at github #opinion#principle
 - [Reverse UI](https://reverseui.com) minor animation patterns from popular web sites #pattern#visualeffect
 - [zapsplat](https://www.zapsplat.com/) AI generated sound effects library #sounddesign#resource
 - [MAKING SOFTWARE](https://www.makingsoftware.com/) illustrated technical reference for low level software engineering #gooddesign#beginner
