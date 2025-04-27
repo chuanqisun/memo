@@ -1,3 +1,4 @@
+- [candycode](https://candycode.com/) creative brand design and React development agency #gooddesign
 - [Waku, the minimal React framework](https://waku.gg/) Next.js alternative with React Server Component #framework#react
 - [The Zen of GitHub](https://ben.balter.com/2015/08/12/the-zen-of-github/) engineering principles at github #opinion#principle
 - [Reverse UI](https://reverseui.com) minor animation patterns from popular web sites #pattern#visualeffect
