@@ -1,3 +1,4 @@
+- [pytudes/ipynb/Economics.ipynb](https://github.com/norvig/pytudes/blob/main/ipynb/Economics.ipynb) interactive essay on the distribution of wealth written in jupyter notebook #notebook#gooddesign
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) turn figma layout into LLM context #mcp#tool
 - [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) Generate tutorial from codebase #documentation#tool#generative
 - [candycode](https://candycode.com/) creative brand design and React development agency #gooddesign
