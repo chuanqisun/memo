@@ -1,3 +1,4 @@
+- [getzep/graphiti](https://github.com/getzep/graphiti) graph db for LLM #database#library
 - [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) designing memory systems for innovations #philosophy#knowledgebase
 - [pytudes/ipynb/Economics.ipynb](https://github.com/norvig/pytudes/blob/main/ipynb/Economics.ipynb) interactive essay on the distribution of wealth written in jupyter notebook #notebook#gooddesign
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) turn figma layout into LLM context #mcp#tool
