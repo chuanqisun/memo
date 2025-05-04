@@ -1,4 +1,4 @@
-- [Best PDF Editor](https://breezepdf.com/) edit, sign, merge PDF pages #tool#pdf
+- [Best PDF Editor](https://breezepdf.com/) edit, sign, merge pages #tool#pdf
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) for bootloader screen #theming
 - [stanford-mast/blast](https://github.com/stanford-mast/blast) concurrent web browsing #library#llm
 - [webtui/webtui](https://github.com/webtui/webtui) terminal aesthetics in CSS #component#tui
