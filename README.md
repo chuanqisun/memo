@@ -1,3 +1,4 @@
+- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) for bootloader screen #theming
 - [stanford-mast/blast](https://github.com/stanford-mast/blast) concurrent web browsing #library#llm
 - [webtui/webtui](https://github.com/webtui/webtui) terminal aesthetics in CSS #component#tui
 - [getzep/graphiti](https://github.com/getzep/graphiti) graph db for LLM #database#library
