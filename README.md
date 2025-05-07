@@ -1,3 +1,4 @@
+- [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) chat AI with retro UI #chat#gooddesign
 - [Best PDF Editor](https://breezepdf.com/) edit, sign, merge pages #tool#pdf
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) for bootloader screen #theming
 - [stanford-mast/blast](https://github.com/stanford-mast/blast) concurrent web browsing #library#llm
