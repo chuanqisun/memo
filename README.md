@@ -1,3 +1,4 @@
+- [AI Artwork Prompts](https://promptcache.com/ai-artwork-prompts) atomic concepts for image generation prompt engineering #reference#prompt
 - [ASCII Art Generator](https://promptcache.com/tools/ascii-art-generator) #generative#tui#tool
 - [Turn your logo into liquid metal](https://liquid.paper.design/) #visualeffect#tool
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) chat AI with retro UI #chat#gooddesign
