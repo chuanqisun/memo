@@ -1,3 +1,4 @@
+- [aspizu/goboscript](https://github.com/aspizu/goboscript) compile text to scratch #compiler
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) open source framework, alternative to passport #library#auth
 - [Muscle Mem - Removing LLM calls from Agents](https://erikdunteman.com/blog/muscle-mem/) #llm#technique
 - [AI Artwork Prompts](https://promptcache.com/ai-artwork-prompts) atomic concepts for image generation prompt engineering #reference#prompt
