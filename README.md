@@ -1,3 +1,4 @@
+- [CSS Minecraft](https://benjaminaster.com/css-minecraft/) #demo
 - [Terminal Trove](https://terminaltrove.com/) collection #tool#tui#terminal
 - [aspizu/goboscript](https://github.com/aspizu/goboscript) compile text to scratch #compiler
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) open source framework, alternative to passport #library#auth
