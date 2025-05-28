@@ -1,3 +1,4 @@
+- [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) stream markdown output in CLI #tool#llm#tui
 - [CSS Minecraft](https://benjaminaster.com/css-minecraft/) #demo
 - [Terminal Trove](https://terminaltrove.com/) collection #tool#tui#terminal
 - [aspizu/goboscript](https://github.com/aspizu/goboscript) compile text to scratch #compiler
