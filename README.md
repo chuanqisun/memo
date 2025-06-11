@@ -1,3 +1,4 @@
+- [PostHog](https://posthog.com/) observability platform with cartoon themed home page #gooddesign#service#telemetry
 - [Forester](https://www.forester-notes.org/index/index.xml) hypertext url based #knowledgebase#gooddesign
 - [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) stream markdown output in CLI #tool#llm#tui
 - [CSS Minecraft](https://benjaminaster.com/css-minecraft/) #demo
