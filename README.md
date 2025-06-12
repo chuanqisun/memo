@@ -1,3 +1,4 @@
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) open source text to speech model #selfhosted#voice#generative
 - [PostHog](https://posthog.com/) observability platform with cartoon themed home page #gooddesign#service#telemetry
 - [Forester](https://www.forester-notes.org/index/index.xml) hypertext url based #knowledgebase#gooddesign
 - [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) stream markdown output in CLI #tool#llm#tui
