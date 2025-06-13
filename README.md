@@ -1,3 +1,4 @@
+- [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) interactive map of the Solar System #visualization#gooddesign#scroll
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) open source text to speech model #selfhosted#voice#generative
 - [PostHog](https://posthog.com/) observability platform with cartoon themed home page #gooddesign#service#telemetry
 - [Forester](https://www.forester-notes.org/index/index.xml) hypertext url based #knowledgebase#gooddesign
