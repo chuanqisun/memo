@@ -1,3 +1,4 @@
+- [ysm-dev/cpdown](https://github.com/ysm-dev/cpdown) copy YouTube subtitle as markdown #tool#scraping
 - [The Thiings Collection](https://www.thiings.co/things) downloadable image of everyday objects in game 3d model style #resource#free#3d#gamedev
 - [Charlie Clark](https://www.builtby.cc/) creative developer portfolio with gen AI focus #homepage#gooddesign
 - [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) interactive map of the Solar System #visualization#gooddesign#scroll
