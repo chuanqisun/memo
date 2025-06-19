@@ -1,3 +1,4 @@
+- [Model Atlas](https://huggingface.co/spaces/Eliahu/Model-Atlas) visualize model development and forking #visualization#reference
 - [Mintlify](https://mintlify.com) documentation hosting platform compatible with github #saas#documentation
 - [ysm-dev/cpdown](https://github.com/ysm-dev/cpdown) copy YouTube subtitle as markdown #tool#scraping
 - [The Thiings Collection](https://www.thiings.co/things) downloadable image of everyday objects in game 3d model style #resource#free#3d#gamedev
