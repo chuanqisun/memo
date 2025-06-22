@@ -1,3 +1,4 @@
+- [DOI References](https://references.mireklzicar.com) Extract and Convert Academic Citations #tool#research
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) concat github content to a single text file #tool#mcp
 - [Gitingest](https://gitingest.com/) convert github to model context #tool#mcp
 - [Model Atlas](https://huggingface.co/spaces/Eliahu/Model-Atlas) visualize model development and forking #visualization#reference
