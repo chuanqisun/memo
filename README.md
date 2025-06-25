@@ -1,4 +1,4 @@
-- [Inverse text-sizing based on text-length with attr()](https://daverupert.com/2025/06/fittext-too-attr-boogaloo/) #technique#typography#responsive
+- [Inverse text-sizing](https://daverupert.com/2025/06/fittext-too-attr-boogaloo/) css function `attr` and `type` to shrink text as it grows using #technique#typography#responsive
 - [htmz](https://leanrada.com/htmz/) using iframe to render remote HTML partials into the DOM, similar to htmx #technique#hack#library
 - [DOI References](https://references.mireklzicar.com) Extract and Convert Academic Citations #tool#research
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) concat github content to a single text file #tool#mcp
