@@ -1,3 +1,4 @@
+- [Hyprland](https://hypr.land/) dynamic tiling window compositor #linux#desktop
 - [xmcp](https://xmcp.dev/) typescript framework for building servers #mcp#framework
 - [remusao/tldts](https://github.com/remusao/tldts) URL analysis #tool#scraping
 - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/) call to expose system prompt #opinion
