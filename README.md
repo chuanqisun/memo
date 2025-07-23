@@ -1,3 +1,4 @@
+- [Apply to GitHub Education as a teacher - GitHub Docs](https://docs.github.com/en/education/about-github-education/github-education-for-teachers/apply-to-github-education-as-a-teacher)
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) convert asciinema recording to svg #svg#cli#tool
 - [Hyprland](https://hypr.land/) dynamic tiling window compositor #linux#desktop
 - [xmcp](https://xmcp.dev/) typescript framework for building servers #mcp#framework
