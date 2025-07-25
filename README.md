@@ -1,4 +1,4 @@
-- [LLM pricing calculator](https://www.llm-prices.com/) #tool#comparison
+- [LLM pricing calculator](https://www.llm-prices.com/) cost for input and output tokens #tool#comparison
 - [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/) design pattern for effective AI tool #pattern#ai#philosophy
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) convert asciinema recording to svg #svg#cli#tool
 - [Hyprland](https://hypr.land/) dynamic tiling window compositor #linux#desktop
