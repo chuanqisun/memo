@@ -1,3 +1,4 @@
+- [A Quick Guide to Bayer Dithering](https://tympanus.net/codrops/2025/07/30/interactive-webgl-backgrounds-a-quick-guide-to-bayer-dithering/) #technique#visualeffect#webgl
 - [9001/copyparty](https://github.com/9001/copyparty) file server #selfhosted#library#backup
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) Windows 7 Vintage UI library #designsystem#library
 - [LLM pricing calculator](https://www.llm-prices.com/) cost for input and output tokens #tool#comparison
