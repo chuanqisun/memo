@@ -1,3 +1,4 @@
+- [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model) predict wind based on air traffic data #datadriven#visualization#gooddesign
 - [nunchaku-tech/nunchaku](https://github.com/nunchaku-tech/nunchaku) Highly efficient Diffusion Models #image#generative#algorithm
 - [Cosmos](https://www.cosmos.so/discover) industrial design moodboard pinterest #tool#resource
 - [Dzine](https://www.dzine.ai/) Controllable image generation with style transfer #tool#image#generat
