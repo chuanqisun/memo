@@ -1,3 +1,4 @@
+- [Cosmos](https://www.cosmos.so/discover) industrial design moodboard pinterest #tool#resource
 - [Dzine](https://www.dzine.ai/) Controllable image generation with style transfer #tool#image#generat
 - [Krea](https://www.krea.ai/) Realtime symbolic image manipulation #tool#image#generative
 - [A Quick Guide to Bayer Dithering](https://tympanus.net/codrops/2025/07/30/interactive-webgl-backgrounds-a-quick-guide-to-bayer-dithering/) #technique#visualeffect#webgl
