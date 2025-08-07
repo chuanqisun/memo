@@ -1,4 +1,4 @@
-- [Charts.css](https://chartscss.org/) A css only data viz framework #diagram#visualization#library
+- [Charts.css](https://chartscss.org/) A css only data viz framework alternative to d3 #diagram#visualization#library
 - [Historical Tech Tree](https://www.historicaltechtree.com/) trace the connection of human technology development throughout the history #reference#gooddesign#visualization
 - [Offline Kids](https://offline.kids/) Screen-Free Activities for Kids #resource#gooddesign
 - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model) predict wind based on air traffic data #datadriven#visualization#gooddesign
