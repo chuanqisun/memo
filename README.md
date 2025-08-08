@@ -1,3 +1,4 @@
+- [The Way of Code](https://wayofcode.com/) interactive essay on vibe coding #visualization#gooddesign#generative
 - [copy/v86](https://github.com/copy/v86) run linux or windows inside a browser emulator #os#virtualization#library#wasm
 - [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) minimalist mcp server in bash #mcp#technique
 - [AI Sprite Generator](https://www.godmodeai.co) Create Professional Game Sprites & Animations #tool#gamedev#pixelart#animation#generative
