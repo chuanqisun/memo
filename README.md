@@ -1,3 +1,4 @@
+- [marimo](https://marimo.io/) a next-generation Python notebook replacement for jupyter #notebook#library
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) connect two devices directly #p2p#network#library
 - [AI Coding Guide for Developers](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code) system prompt for pro devs with user controlled command prefix #technique#prompt
 - [k2-fsa/ZipVoice](https://github.com/k2-fsa/ZipVoice) high performance voice cloning and text to speech #voice#library#model
