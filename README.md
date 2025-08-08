@@ -1,3 +1,4 @@
+- [GameTorch](https://gametorch.app/) Generate pixel art and animation #tool#generative#pixelart#gamedev
 - [Strudel REPL](https://strudel.cc/) music programming environment #gooddesign#synth#realtime
 - [marimo](https://marimo.io/) a next-generation Python notebook replacement for jupyter #notebook#library
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) connect two devices directly #p2p#network#library
