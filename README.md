@@ -1,5 +1,5 @@
 - [k2-fsa/ZipVoice](https://github.com/k2-fsa/ZipVoice) high performance voice cloning and text to speech #model#voice
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) light weight embedded text to speech library #library#voice
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) light weight embedded text to speech library #library#voice#model
 - [feathers-studio/comptime.ts](https://github.com/feathers-studio/comptime.ts) typescript ahead of time compiler #devexperience#library#typescript#gooddesign
 - [andrewmcwattersandco/git-fetch-file](https://github.com/andrewmcwattersandco/git-fetch-file) light weight alternative to git submodules #versioning#git#library
 - [Charts.css](https://chartscss.org/) A css only data viz framework alternative to d3 #diagram#visualization#library
