@@ -1,3 +1,4 @@
+- [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) minimalist mcp server in bash #mcp#technique
 - [AI Sprite Generator](https://www.godmodeai.co) Create Professional Game Sprites & Animations #tool#gamedev#pixelart#animation#generative
 - [GameTorch](https://gametorch.app/) Generate pixel art and animation #tool#generative#pixelart#gamedev
 - [Strudel REPL](https://strudel.cc/) music programming environment #gooddesign#synth#realtime
