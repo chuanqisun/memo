@@ -1,3 +1,4 @@
+- [AI Sprite Generator](https://www.godmodeai.co) Create Professional Game Sprites & Animations #tool#gamedev#pixelart#animation#generative
 - [GameTorch](https://gametorch.app/) Generate pixel art and animation #tool#generative#pixelart#gamedev
 - [Strudel REPL](https://strudel.cc/) music programming environment #gooddesign#synth#realtime
 - [marimo](https://marimo.io/) a next-generation Python notebook replacement for jupyter #notebook#library
