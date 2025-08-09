@@ -1,3 +1,4 @@
+- [dnlzro/horizon](https://github.com/dnlzro/horizon) render sky color at current location and time #gooddesign#iot
 - [Autocomplete in typescript of literal type and string](https://stackoverflow.com/questions/74467392/autocomplete-in-typescript-of-literal-type-and-string) allow string literal and other values #technique#typescript
 - [kepano/defuddle](https://github.com/kepano/defuddle) HTML cleaning and normalization #library#dom#scraping#html
 - [The Way of Code](https://wayofcode.com/) interactive essay on vibe coding #visualization#gooddesign#generative
