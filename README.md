@@ -1,3 +1,4 @@
+- [All the concerns that make you a boring developer](https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/) prototype vs production mindset #opinion#career
 - [Modal](https://modal.com/) Serverless GPU #service#ai
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) open sourced tts with caption subtitle on screen overlay #model#voice
 - [meta http-equiv attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/http-equiv) for auto refresh the page #technique#html
