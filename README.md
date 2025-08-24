@@ -1,3 +1,4 @@
+- [Modal](https://modal.com/) Serverless GPU #service#ai
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) open sourced tts with caption subtitle on screen overlay #model#voice
 - [meta http-equiv attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/http-equiv) for auto refresh the page #technique#html
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) render sky color at current location and time #gooddesign#iot
