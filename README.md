@@ -1,3 +1,4 @@
+- [noodl](https://www.noodl.net/) diagram programming for the web #service#gooddesign#tool
 - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth) #explanation#auth
 - [All the concerns that make you a boring developer](https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/) prototype vs production mindset #opinion#career
 - [Modal](https://modal.com/) Serverless GPU #service#ai
