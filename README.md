@@ -1,3 +1,4 @@
+- [Pong Clock digital clock](https://www.sandermulder.com/pong_clock.html) #gooddesign#inspiration
 - [adamhl8/filterql](https://github.com/adamhl8/filterql) A tiny query language for filtering structured data #library#language#database#compiler
 - [noodl](https://www.noodl.net/) diagram programming for the web #service#gooddesign#tool
 - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth) #explanation#auth
