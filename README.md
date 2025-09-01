@@ -1,4 +1,4 @@
-- [Eternal Struggle](https://news.ycombinator.com/item?id=45086020) #inspiration
+- [Eternal Struggle](https://news.ycombinator.com/item?id=45086020) #inspiration#art
 - [Pong Clock digital clock](https://www.sandermulder.com/pong_clock.html) #gooddesign#inspiration
 - [adamhl8/filterql](https://github.com/adamhl8/filterql) A tiny query language for filtering structured data #library#language#database#compiler
 - [noodl](https://www.noodl.net/) diagram programming for the web #service#gooddesign#tool
