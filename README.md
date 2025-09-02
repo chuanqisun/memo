@@ -1,3 +1,4 @@
+- [Implementing a foil sticker effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker) #visualeffect#webgl#shader
 - [Blocky Planet](https://www.bowerbyte.com/posts/blocky-planet/) Making Minecraft Spherical #graphics#3d#gamedev#gooddesign
 - [Eternal Struggle](https://news.ycombinator.com/item?id=45086020) #inspiration#art
 - [Pong Clock digital clock](https://www.sandermulder.com/pong_clock.html) #gooddesign#inspiration
