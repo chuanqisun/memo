@@ -1,3 +1,4 @@
+- [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations) when no to animate and the perception of performance #animation#technique#performance
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/) #beginner#explanation#animation#gooddesign
 - [Implementing a foil sticker effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker) #visualeffect#webgl#shader
 - [Blocky Planet](https://www.bowerbyte.com/posts/blocky-planet/) Making Minecraft Spherical #graphics#3d#gamedev#gooddesign
