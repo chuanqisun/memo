@@ -1,3 +1,4 @@
+- [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/) personal type #typography
 - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations) when no to animate and the perception of performance #animation#technique#performance
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/) #beginner#explanation#animation#gooddesign
 - [Implementing a foil sticker effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker) #visualeffect#webgl#shader
