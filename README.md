@@ -1,3 +1,4 @@
+- [Elements of Rust](https://rustcurious.com/elements/) Core Types and Traits #reference#rust
 - [Liquid Glass in the Browser](https://kube.io/blog/liquid-glass-css-svg) Refraction with CSS and SVG #visualeffect#technique#graphics
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) minimalist css reset #framework#designsystem
 - [Pico CSS](https://picocss.com) Minimal CSS Framework for semantic HTML #framework#designsystem
