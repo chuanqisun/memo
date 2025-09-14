@@ -1,3 +1,4 @@
+- [github/spec-kit](https://github.com/github/spec-kit) CLI for spec generation and management for both human and coding agent #cli#devexperience#extension
 - [dawsonhuang0/Wcwidth-O1](https://github.com/dawsonhuang0/Wcwidth-O1) correctly calculate unicode width #typography#i18n#library
 - [Elements of Rust](https://rustcurious.com/elements/) Core Types and Traits #reference#rust
 - [Liquid Glass in the Browser](https://kube.io/blog/liquid-glass-css-svg) Refraction with CSS and SVG #visualeffect#technique#graphics
