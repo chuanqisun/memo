@@ -1,3 +1,4 @@
+- [URL Snake](/snake/) Using dynamic hash in URL bar for display #gooddesign#tui#browser
 - [Sampling and structured outputs](https://parthsareen.com/blog.html#sampling.md) #technique#explanation#beginner#llm
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) simulate arduino #tool#embedded
 - [github/spec-kit](https://github.com/github/spec-kit) CLI for spec generation and management for both human and coding agent #cli#devexperience#extension
