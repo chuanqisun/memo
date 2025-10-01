@@ -1,3 +1,4 @@
+- [chr15m/minimal-pwa](https://github.com/chr15m/minimal-pwa) generate PWA with javascript #technique#pwa
 - [URL Snake](https://demian.ferrei.ro/) Using dynamic hash in URL bar for display #gooddesign#tui#browser
 - [Sampling and structured outputs](https://parthsareen.com/blog.html#sampling.md) #technique#explanation#beginner#llm
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) simulate arduino #tool#embedded
