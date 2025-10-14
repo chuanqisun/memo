@@ -1,3 +1,4 @@
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) anthropic official prompt engineering primer #prompt#guide
 - [WinBoat](https://winboat.app/) Run Windows Apps on Linux with Seamless Integration #virtualization
 - [irony/aspipes](https://github.com/irony/aspipes) use javascript toPrimitive API to implement pipe as bitwise operation #technique#functional#hack
 - [chr15m/minimal-pwa](https://github.com/chr15m/minimal-pwa) generate PWA with javascript #technique#pwa
