@@ -1,3 +1,4 @@
+- [microsoft/node-pty](https://github.com/microsoft/node-pty) spawn a terminal for node #terminal#tui#library
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) anthropic official prompt engineering primer #prompt#guide
 - [WinBoat](https://winboat.app/) Run Windows Apps on Linux with Seamless Integration #virtualization
 - [irony/aspipes](https://github.com/irony/aspipes) use javascript toPrimitive API to implement pipe as bitwise operation #technique#functional#hack
