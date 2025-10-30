@@ -1,3 +1,4 @@
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) classic cs papers #reference
 - [YuhangChen1/Paper2All](https://github.com/YuhangChen1/Paper2All) convert academic paper to websites, presentations, posters #tool
 - [FLORA](https://www.florafauna.ai/) node link programming for creative image and video generation #generative#tool
 - [Zoo: ML CAD Model Generator](https://zoo.dev/text-to-cad) text-to-cad browser app #service
