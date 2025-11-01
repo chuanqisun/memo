@@ -1,3 +1,4 @@
+- [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html) interactive call graph #visualization#compiler
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) classic cs papers #reference
 - [YuhangChen1/Paper2All](https://github.com/YuhangChen1/Paper2All) convert academic paper to websites, presentations, posters #tool
 - [FLORA](https://www.florafauna.ai/) node link programming for creative image and video generation #generative#tool
