@@ -1,3 +1,4 @@
+- [Swiping card interaction on web UI](https://www.arducam.com/) #gooddesign#card#touch
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) shader code with typescript #library#graphics#webgpu
 - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html) interactive call graph #visualization#compiler
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) classic cs papers #reference
