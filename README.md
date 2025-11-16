@@ -1,3 +1,4 @@
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) control airpods from linux and android #tool
 - [stickertop](https://stickertop.art/main/) crowd sourced laptop sticker gallery #art#gooddesign#inspiration
 - [Swiping card interaction on web UI](https://www.arducam.com/) #gooddesign#card#touch
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) shader code with typescript #library#graphics#webgpu
