@@ -1,3 +1,4 @@
+- [Rewriting memory with nodes.io](https://www.linkedin.com/posts/marcinignac_an-autonomous-process-rewriting-your-memory-activity-7390033311588380672-fIYU/) Interactive art with segmenter #generative#demo
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) control airpods from linux and android #tool
 - [stickertop](https://stickertop.art/main/) crowd sourced laptop sticker gallery #art#gooddesign#inspiration
 - [Swiping card interaction on web UI](https://www.arducam.com/) #gooddesign#card#touch
