@@ -840,7 +840,7 @@
 - [Damerau–Levenshtein distance](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance) Edit distance, for error recovery, spellcheck, and CLI argument suggestions #algorithm#cli
 - [Should I Use A Carousel?](https://shouldiuseacarousel.com/) satire passive aggressive demo #opinion#carousel#pattern
 - [Inlining literally everything for better performance](https://gomakethings.com/inlining-literally-everything-for-better-performance/) inline css and javascript for Hugo SSG #tutorial#performance#technique
-- [Tools for better thinking](https://untools.co/) system thinking, decision making, problem solving #resource#tool
+- [Tools for better thinking](https://untools.co/) system thinking, critical thinking decision making, problem solving, tools for thought #resource#tool
 - [The Comprehensive List of Window Managers for Unix](https://www.gilesorr.com/wm/table.html) #linux#desktop#resource
 - [How to build undo/redo in a multiplayer environment](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment) #undoredo#technique#guide#collaboration
 - [Hakim El Hattab | CSS Day 2019](https://www.youtube.com/watch?v=o0NtjY17v5w&t=944s) Hover menu SVG Exit Area Path, improved on Amazon dynamic path #menu#hover#technique
