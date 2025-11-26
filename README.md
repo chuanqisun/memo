@@ -1,3 +1,4 @@
+- [LLM SVG Generation](https://gally.net/temp/20251107pelican-alternatives/index.html) #benchmark#generative
 - [GenAI Image Showdown](https://genai-showdown.specr.net/image-editing) image generative AI model comparison #benchmark#generative
 - [Rewriting memory with nodes.io](https://www.linkedin.com/posts/marcinignac_an-autonomous-process-rewriting-your-memory-activity-7390033311588380672-fIYU/) Interactive art with segmenter #generative#demo
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) control airpods from linux and android #tool
