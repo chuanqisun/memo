@@ -1,3 +1,4 @@
+- [Thinking Toolbox Ness Labs](https://toolbox.nesslabs.com/tools) tools for thought against cognitive bias #knowledgebase#tool
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) typescript and rolldown powered package bundler #library#devexperience
 - [Scriptable](https://scriptable.app/) programming iOS with no code flow #tool#automation#mobile
 - [Spencer Change personal website](https://spencer.place/creation/) web art, internet sculpture, and computing shrines #homepage#art
