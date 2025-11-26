@@ -1,3 +1,4 @@
+- [Scriptable](https://scriptable.app/) programming iOS with no code flow #tool#automation#mobile
 - [Spencer Change personal website](https://spencer.place/creation/) web art, internet sculpture, and computing shrines #homepage#art
 - [LLM SVG Generation](https://gally.net/temp/20251107pelican-alternatives/index.html) #benchmark#generative
 - [GenAI Image Showdown](https://genai-showdown.specr.net/image-editing) image generative AI model comparison #benchmark#generative
