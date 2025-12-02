@@ -1,3 +1,4 @@
+- [coder/ghostty-web](https://github.com/coder/ghostty-web) xterm.js alterantive #terminal#emulator#wasm#tui
 - [Thinking Toolbox Ness Labs](https://toolbox.nesslabs.com/tools) tools for thought against cognitive bias #knowledgebase#tool
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) typescript and rolldown powered package bundler #library#devexperience
 - [Scriptable](https://scriptable.app/) programming iOS with no code flow #tool#automation#mobile
