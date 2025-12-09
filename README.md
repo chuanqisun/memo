@@ -1,3 +1,4 @@
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) zero latency local speech recognition #library#voice
 - [AncientJames/multivox](https://github.com/AncientJames/multivox) open source volumetric displays #hardware#maker
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) xterm.js alterantive #terminal#emulator#wasm#tui
 - [Thinking Toolbox Ness Labs](https://toolbox.nesslabs.com/tools) tools for thought against cognitive bias #knowledgebase#tool
