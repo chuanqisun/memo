@@ -1,3 +1,4 @@
+- [SQLite JSON Superpower: Virtual Columns + Indexing](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing) index json with sqlite virtual columns #technique#database#wasm#performance
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) zero latency local speech recognition #library#voice
 - [AncientJames/multivox](https://github.com/AncientJames/multivox) open source volumetric displays #hardware#maker
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) xterm.js alterantive #terminal#emulator#wasm#tui
