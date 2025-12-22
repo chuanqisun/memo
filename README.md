@@ -1,3 +1,4 @@
+- [Spencer Change](https://spencer.place/) Computing Shrine and Communal Computer #inspiration#art
 - [Windsurf Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps) visual representation of structure and algorithm  #visualization#agent#llm
 - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/) single page vibe-coded apps #pattern#technique#prompt
 - [SQLite JSON Superpower: Virtual Columns + Indexing](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing) index json with sqlite virtual columns #technique#database#wasm#performance
