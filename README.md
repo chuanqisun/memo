@@ -1,3 +1,4 @@
+- [OpenWorkers](https://openworkers.com/) Cloudflare worker alternative #serverless
 - [Gaming Couch](https://gamingcouch.com) online co-op multiplayer gaming with phone controller and PC host #gamedev#gooddesign#service#realtime#collaboration
 - [Spencer Change](https://spencer.place/) Computing Shrine and Communal Computer #inspiration#art
 - [Windsurf Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps) visual representation of structure and algorithm  #visualization#agent#llm
