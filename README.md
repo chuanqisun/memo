@@ -1,3 +1,4 @@
+- [A Website To End All Websites](https://henry.codes/writing/a-website-to-destroy-all-websites/) problems with web and call to self publishing #opinion#indieweb
 - [OpenWorkers](https://openworkers.com/) Cloudflare worker alternative #serverless
 - [Gaming Couch](https://gamingcouch.com) online co-op multiplayer gaming with phone controller and PC host #gamedev#gooddesign#service#realtime#collaboration
 - [Spencer Change](https://spencer.place/) Computing Shrine and Communal Computer #inspiration#art
