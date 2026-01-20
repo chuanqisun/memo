@@ -1,3 +1,4 @@
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) pdf orc system for ai #llm#library
 - [Ripple](https://ripplegame.app/) Practice causal inference with a daily game #inspiration#knowledgebase
 - [Prompting People](https://kuber.studio/blog/Reflections/Prompting-People) how we talk to each other in prompting style #llm#philosophy
 - [A Website To End All Websites](https://henry.codes/writing/a-website-to-destroy-all-websites/) problems with web and call to self publishing #opinion#indieweb
