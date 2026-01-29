@@ -1,3 +1,4 @@
+- [The Don’t “Contact Us” Page](https://blog.jim-nielsen.com/2026/dont-contact-us-page/) #opinion
 - [ReliCSS](https://css-tricks.com/relicss/) detecting outdated css #tool
 - [A brief history of programming](https://www.youtube.com/watch?v=9uW6B9LPntY) by starship #beginner#history#fun
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) pdf orc system for ai #llm#library
