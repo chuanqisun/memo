@@ -1,3 +1,4 @@
+- [Transformers.js demos](https://huggingface.co/collections/Xenova/transformersjs-demos) using wasm and webgpu for local first ml and vision #webgpu#demo#reference#library
 - [The Don’t “Contact Us” Page](https://blog.jim-nielsen.com/2026/dont-contact-us-page/) #opinion
 - [ReliCSS](https://css-tricks.com/relicss/) detecting outdated css #tool
 - [A brief history of programming](https://www.youtube.com/watch?v=9uW6B9LPntY) by starship #beginner#history#fun
