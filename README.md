@@ -1,3 +1,4 @@
+- [What Colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) on copyright of raw data vs contextual provenance #philosophy#legal
 - [Web Audio Scheduling](https://loophole-letters.vercel.app/web-audio-scheduling) maintain clock precision #technique#audio
 - [Transformers.js demos](https://huggingface.co/collections/Xenova/transformersjs-demos) using wasm and webgpu for local first ml and vision #webgpu#demo#reference#library
 - [The Don’t “Contact Us” Page](https://blog.jim-nielsen.com/2026/dont-contact-us-page/) #opinion
