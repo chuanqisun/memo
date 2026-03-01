@@ -1,3 +1,4 @@
+- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) extract vector representation of fonts #typography#variablefont#library
 - [Oat - Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/) #designsystem#webcomponent#library
 - [What Colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) on copyright of raw data vs contextual provenance #philosophy#legal
 - [Web Audio Scheduling](https://loophole-letters.vercel.app/web-audio-scheduling) maintain clock precision #technique#audio
