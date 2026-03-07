@@ -1,3 +1,4 @@
+- [60 years old re-ingnited by Claude code](https://news.ycombinator.com/item?id=47282777) #opinion
 - [LibreSprite](https://libresprite.github.io/#!/) Aesprite alternative #tool#pixelart
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) extract vector representation of fonts #typography#variablefont#library
 - [Oat - Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/) #designsystem#webcomponent#library
