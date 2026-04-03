@@ -1,3 +1,4 @@
+- [CMU motion capture library](https://mocap.cs.cmu.edu/subjects.php) in machine readable formats #dataset#machinelearning#computervision#resource
 - [rahuldshetty/llm.js](https://github.com/rahuldshetty/llm.js) local models #llm#library
 - [tropes.md](https://tropes.fyi/tropes-md) AI writing giveaways for negative prompts #reference#llm#prompt
 - [60 years old re-ingnited by Claude code](https://news.ycombinator.com/item?id=47282777) #opinion
