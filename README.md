@@ -1,4 +1,4 @@
-- [FluidCAD](https://fluidcad.dev/) Parametric CAD for everyone #tool
+- [FluidCAD](https://fluidcad.dev/) Parametric CAD in javascript alternative to SCAD #tool
 - [Charcuterie](https://charcuterie.elastiq.ch/) visual similarity search for unicode glyphs #demo#gooddesign#tool
 - [WXT](https://wxt.dev/) Web Extension Framework based on vite #extension#framework#browser
 - [CMU motion capture library](https://mocap.cs.cmu.edu/subjects.php) in machine readable formats #dataset#machinelearning#computervision#resource
