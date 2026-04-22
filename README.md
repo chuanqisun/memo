@@ -1,3 +1,4 @@
+- [Flipbook](https://flipbook.page/) image based infinite browser with animated transition #demo#gooddesign#3d#generative
 - [FluidCAD](https://fluidcad.dev/) Parametric CAD in javascript alternative to SCAD #tool
 - [Charcuterie](https://charcuterie.elastiq.ch/) visual similarity search for unicode glyphs #demo#gooddesign#tool
 - [WXT](https://wxt.dev/) Web Extension Framework based on vite #extension#framework#browser
