@@ -1,3 +1,4 @@
+- [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com)  Words for Deep Emotions for naming projects and concepts #reference#naming
 - [Flipbook](https://flipbook.page/) image based infinite browser with animated transition #demo#gooddesign#3d#generative
 - [FluidCAD](https://fluidcad.dev/) Parametric CAD in javascript alternative to SCAD #tool
 - [Charcuterie](https://charcuterie.elastiq.ch/) visual similarity search for unicode glyphs #demo#gooddesign#tool
