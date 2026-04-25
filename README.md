@@ -1,3 +1,4 @@
+- [PikaPods](https://www.pikapods.com/) Instant Open Source App Hosting #infrastructure#businessstrategy#selfhosted
 - [CrowdHealth](https://www.joincrowdhealth.com/) Healthcare Crowdfunding for self-employed #resource#freelance
 - [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com) sad emotion words for naming projects and concepts #reference#naming
 - [Flipbook](https://flipbook.page/) image based infinite browser with animated transition #demo#gooddesign#3d#generative
