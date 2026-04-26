@@ -1,3 +1,4 @@
+- [Mahjong: a Visual Guide](https://themahjong.guide/) #reference
 - [Google Scholar Lab](https://scholar.google.com/scholar_labs/search?hl=en) Agentic search for literature discovery #tool#research
 - [PikaPods](https://www.pikapods.com/) Instant Open Source App Hosting #infrastructure#businessstrategy#selfhosted
 - [CrowdHealth](https://www.joincrowdhealth.com/) Healthcare Crowdfunding for self-employed #resource#freelance
