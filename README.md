@@ -1,3 +1,4 @@
+- [Jina AI](https://jina.ai/) Endpoint for the machine readable internet #searchengine#markdown#service#api
 - [Mahjong: a Visual Guide](https://themahjong.guide/) #reference
 - [Google Scholar Lab](https://scholar.google.com/scholar_labs/search?hl=en) Agentic search for literature discovery #tool#research
 - [PikaPods](https://www.pikapods.com/) Instant Open Source App Hosting #infrastructure#businessstrategy#selfhosted
