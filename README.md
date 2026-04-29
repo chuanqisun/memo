@@ -1,3 +1,4 @@
+- [Cursor Camp](https://neal.fun/cursor-camp/) Multi cursor multi player game #gamedev#gooddesign#realtime#collaboration
 - [Jina AI](https://jina.ai/) Endpoint for the machine readable internet #searchengine#markdown#service#api
 - [Mahjong: a Visual Guide](https://themahjong.guide/) #reference
 - [Google Scholar Lab](https://scholar.google.com/scholar_labs/search?hl=en) Agentic search for literature discovery #tool#research
