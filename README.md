@@ -1,3 +1,4 @@
+- [Empty Screenings](https://walzr.com/empty-screenings) AMC screens with zero or few audience #tool#gooddesign
 - [Cursor Camp](https://neal.fun/cursor-camp/) Multi cursor multi player game #gamedev#gooddesign#realtime#collaboration
 - [Jina AI](https://jina.ai/) Endpoint for the machine readable internet #searchengine#markdown#service#api
 - [Mahjong: a Visual Guide](https://themahjong.guide/) #reference
