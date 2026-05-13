@@ -1,3 +1,4 @@
+- [giscus](https://github.com/giscus/giscus) blog commenting system based on github #selfhosted#jamstack#auth
 - [guitar-tuner-accel](https://tautme.github.io/phone-sensors/accel-tuner.html) tune guitar using accelerometer  #tool#hardware
 - [Empty Screenings](https://walzr.com/empty-screenings) AMC screens with zero or few audience #tool#gooddesign
 - [Cursor Camp](https://neal.fun/cursor-camp/) Multi cursor multi player game #gamedev#gooddesign#realtime#collaboration
