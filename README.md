@@ -1,3 +1,4 @@
+- [MinishLab/semble](https://github.com/MinishLab/semble) fast semantic code search #searchengine#llm#library
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) high performance semantic chunking #llm#library
 - [minishlab/potion-code-16M](https://huggingface.co/minishlab/potion-code-16M) embedding model optimized for code #model#ai#llm
 - [giscus](https://github.com/giscus/giscus) blog commenting system based on github #selfhosted#jamstack#auth
