@@ -1,3 +1,4 @@
+- [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) high performance semantic chunking #llm#library
 - [minishlab/potion-code-16M](https://huggingface.co/minishlab/potion-code-16M) embedding model optimized for code #model#ai#llm
 - [giscus](https://github.com/giscus/giscus) blog commenting system based on github #selfhosted#jamstack#auth
 - [guitar-tuner-accel](https://tautme.github.io/phone-sensors/accel-tuner.html) tune guitar using accelerometer  #tool#hardware
