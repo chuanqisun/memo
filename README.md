@@ -1,3 +1,4 @@
+- [Collaborative Editing in ProseMirror](https://marijnhaverbeke.nl/blog/collaborative-editing.html) concerns in collaborative text editing #editor#collaboration
 - [MinishLab/semble](https://github.com/MinishLab/semble) fast semantic code search #searchengine#llm#library
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) high performance semantic chunking #llm#library
 - [minishlab/potion-code-16M](https://huggingface.co/minishlab/potion-code-16M) embedding model optimized for code #model#ai#llm
