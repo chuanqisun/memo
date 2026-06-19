@@ -1,3 +1,4 @@
+- [Handy](https://handy.computer/) dictation, transcript, stt for linux desktop environment #tool#voice
 - [Standord CS336 CLAUDE.md](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) agent instructions for learning #llm#prompt#gooddesign
 - [Collaborative Editing in ProseMirror](https://marijnhaverbeke.nl/blog/collaborative-editing.html) concerns in collaborative text editing #editor#collaboration
 - [MinishLab/semble](https://github.com/MinishLab/semble) fast semantic code search #searchengine#llm#library
