@@ -1,3 +1,4 @@
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) high speed PDF to text parser #wasm#library#computervision
 - [nubjs/nub](https://github.com/nubjs/nub) all in one node cli tool chain #devexperience#tool#framework
 - [Handy](https://handy.computer/) dictation, transcript, stt for linux desktop environment #tool#voice
 - [Standord CS336 CLAUDE.md](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) agent instructions for learning #llm#prompt#gooddesign
