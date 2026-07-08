@@ -1,4 +1,4 @@
-- [hexgrad/Kokoro-82M · Hugging Face](https://huggingface.co/hexgrad/Kokoro-82M) CPU friendly TTS #voice#ai#model
+- [hexgrad/Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) CPU friendly TTS #voice#ai#model
 - [shuruheel/mnestic](https://github.com/shuruheel/mnestic) Cozo DB fork for graph and logic programming #database#library#searchengine
 - [Mitos ASCII Tool](https://mitos-pied.vercel.app/) programmable ascii art #tool#art#terminal
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) high speed PDF to text parser #wasm#library#computervision
