@@ -1,3 +1,4 @@
+- [Puter AI Gateway](https://developer.puter.com/ai/) Offload payment and authentication to the user #ai#platform
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) Generate docx file with a typescript declarative API #library
 - [hexgrad/Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) CPU friendly TTS #voice#ai#model
 - [shuruheel/mnestic](https://github.com/shuruheel/mnestic) Cozo DB fork for graph and logic programming #database#library#searchengine
