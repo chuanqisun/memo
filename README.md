@@ -1,3 +1,4 @@
+- [Bento/Suite](https://bento.page/) Entire slide deck in a single html file with edit replace powerpoint #service#blockeditor#selfhosted
 - [Puter AI Gateway](https://developer.puter.com/ai/) Offload payment and authentication to the user #ai#platform
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) Generate docx file with a typescript declarative API #library
 - [hexgrad/Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) CPU friendly TTS #voice#ai#model
