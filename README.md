@@ -2120,3 +2120,4 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Integrating and styling icon systems — inline SVG and icon components](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166) #icon#svg#tutorial
 - [ChartGen: generate mock svg line chart](https://chartgen.frederickallen.co/) #svg#mock#tool#prototyping#chart
 - [Prototyping in the Browser](https://css-tricks.com/prototyping-in-the-browser/) `[[[url]]]` to compose HTML from components in codepen #prototyping#codepen#technique
+- [Sez](https://sez.c-sharptutorial.com/) Instantly apply and generate color palettes for HTML website themes without opening an editor or IDE. #tool
