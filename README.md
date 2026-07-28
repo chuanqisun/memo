@@ -13,7 +13,7 @@
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) high performance semantic chunking #llm#library
 - [minishlab/potion-code-16M](https://huggingface.co/minishlab/potion-code-16M) embedding model optimized for code #model#ai#llm
 - [giscus](https://github.com/giscus/giscus) blog commenting system based on github #selfhosted#jamstack#auth
-- [guitar-tuner-accel](https://tautme.github.io/phone-sensors/accel-tuner.html) tune guitar using accelerometer  #tool#hardware
+- [guitar-tuner-accel](https://tautme.github.io/phone-sensors/accel-tuner.html) tune guitar using accelerometer #tool#hardware
 - [Empty Screenings](https://walzr.com/empty-screenings) AMC screens with zero or few audience #tool#gooddesign
 - [Cursor Camp](https://neal.fun/cursor-camp/) Multi cursor multi player game #gamedev#gooddesign#realtime#collaboration
 - [Jina AI](https://jina.ai/) Endpoint for the machine readable internet #searchengine#markdown#service#api
@@ -46,7 +46,7 @@
 - [OpenWorkers](https://openworkers.com/) Cloudflare worker alternative #serverless
 - [Gaming Couch](https://gamingcouch.com) online co-op multiplayer gaming with phone controller and PC host #gamedev#gooddesign#service#realtime#collaboration
 - [Spencer Change](https://spencer.place/) Computing Shrine and Communal Computer #inspiration#art
-- [Windsurf Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps) visual representation of structure and algorithm  #visualization#agent#llm
+- [Windsurf Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps) visual representation of structure and algorithm #visualization#agent#llm
 - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/) single page vibe-coded apps #pattern#technique#prompt
 - [SQLite JSON Superpower: Virtual Columns + Indexing](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing) index json with sqlite virtual columns #technique#database#wasm#performance
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) zero latency local speech recognition #library#voice
@@ -60,7 +60,7 @@
 - [GenAI Image Showdown](https://genai-showdown.specr.net/image-editing) image generative AI model comparison #benchmark#generative
 - [Rewriting memory with nodes.io](https://www.linkedin.com/posts/marcinignac_an-autonomous-process-rewriting-your-memory-activity-7390033311588380672-fIYU/) Interactive art with segmenter #generative#demo
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) control airpods from linux and android #tool
-- [stickertop](https://stickertop.art/main/) crowd sourced laptop sticker gallery #art#gooddesign#inspiration
+- [stickertop](https://stickertop.art/laptop/318) crowd sourced laptop sticker gallery #art#gooddesign#inspiration
 - [Swiping card interaction on web UI](https://www.arducam.com/) #gooddesign#card#touch
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) shader code with typescript #library#graphics#webgpu
 - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html) interactive call graph #visualization#compiler
@@ -186,7 +186,7 @@
 - [Genesis](https://genesis-embodied-ai.github.io/) robotics and physics simulation and rendering engine #graphics#generative#library#machinelearning#robotics
 - [srcl](https://www.sacred.computer/) terminal aesthetics #component#tui#react
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) visualize vdom re-render performance issue #performance#tool#react
-- [A system to organise your life](https://johnnydecimal.com/) terminal aesthetic with box drawing character  #gooddesign#knowledgebase
+- [A system to organise your life](https://johnnydecimal.com/) terminal aesthetic with box drawing character #gooddesign#knowledgebase
 - [unjs/fontaine](https://github.com/unjs/fontaine) Font metric based web font fallback #library#typography#fontstack#systemfont
 - [konvajs/konva](https://github.com/konvajs/konva) Declarative API for rendering #canvas#library
 - [Watchfaces](https://apps.rebble.io/en_US/watchfaces) pixel miniature design for watch face #pixelart#tui#os
@@ -212,7 +212,7 @@
 - [Standards first web framework](https://nuejs.org/) #webcomponent#library#component#designsystem
 - [fand/vfx-js](https://github.com/fand/vfx-js) with threejs #visualeffect#3d#library
 - [thetarnav/streaming-markdown](https://github.com/thetarnav/streaming-markdown) #markdown#language#library
-- [Agents](https://huyenchip.com/2025/01/07/agents.html) 2025 area summary on Gen AI agent engineering  #beginner#llm
+- [Agents](https://huyenchip.com/2025/01/07/agents.html) 2025 area summary on Gen AI agent engineering #beginner#llm
 - [mathuo/dockview](https://github.com/mathuo/dockview) in browser window manager with drag and drop and grid based layout #library#layout
 - [Browserbase: A web browser for AI agents & applications](https://www.browserbase.com) Browser automation platform for AI #service#browser#ai
 - [egoist/tsup](https://github.com/egoist/tsup) typepscript library bundler #library#tool#devexperience
@@ -263,7 +263,7 @@
 - [domferr/tilingshell](https://github.com/domferr/tilingshell) tiling window manager for gnome #linux
 - [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/) hierarchical outline progressive enhancement #technique#knowledgebase#philosophy
 - [OpenWebTorrent](https://openwebtorrent.com/) An open webtorrent tracker project for seeding p2p file sharing #service#free#p2p
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)  file sharing in the browser with any tracker service #technique#network#library#p2p
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) file sharing in the browser with any tracker service #technique#network#library#p2p
 - [chr15m/slingcode](https://github.com/chr15m/slingcode) Single HTML js VM for personal apps #vm#browser
 - [Now in Baseline: animating entry effects](https://web.dev/blog/baseline-entry-animations) starting styles query allow animation entry effects without javascript #technique#animation
 - [Unlocking the Power of JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch) for incremental update of structured data #standard#language#llm
@@ -275,7 +275,7 @@
 - [Gosub Web Browser Engine](https://gosub.io/) Rust based modular browser making project #browser
 - [HadrienGardeur/web-speech-recommended-voices](https://github.com/HadrienGardeur/web-speech-recommended-voices) list of high quality voices from browser native api #speech#reference
 - [highlight note in github markdown](https://github.com/orgs/community/discussions/16925) #technique#plaintext
-- [honojs/hono](https://github.com/honojs/hono) web standards based js server  #framework#fullstack
+- [honojs/hono](https://github.com/honojs/hono) web standards based js server #framework#fullstack
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) console inspired blog theme #gooddesign#tui
 - [Plain Vanilla](https://plainvanillaweb.com/index.html) Use plain HTML, CSS, and JavaScript towards production #webcomponent#beginner#reference#technique
 - [Rombo](https://rombo.co/tailwind/) noise effect with SVG #gooddesign
@@ -299,7 +299,7 @@
 - [Server Mono](https://servermono.com/) monospace typeface interfaced by typewriters #typography#resource#free
 - [Declarative Shadow DOM](https://web.dev/articles/declarative-shadow-dom) server side render html template #webcomponent#technique#tutorial
 - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/) Emulate text interface with CSS #designsystem#tui#gooddesign#responsive
-- [Eraser](https://www.eraser.io/)  Docs and Diagrams for Engineering Teams #service#diagram#tool
+- [Eraser](https://www.eraser.io/) Docs and Diagrams for Engineering Teams #service#diagram#tool
 - [Scroll-driven Animations](https://scroll-driven-animations.style/) #demo#technique#animation
 - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows) Ray tracing implemented in CSS shadows #performance#graphics#experiment
 - [Wordware](https://www.wordware.ai/) Notion-like interactive notebook for AI task flows #notebook#llm#tool
@@ -528,7 +528,7 @@
 - [Val Town](https://www.val.town/#tryNow) Runnable and composable gist like functions #service#gooddesign#lowcode#automation#knowledgebase
 - [Plate](https://platejs.org/) Customizable Rich text editor for React #wysiwyg#library
 - [Free Faces](https://www.freefaces.gallery/) Curated type faces preview with fonts download #typography#resource#free
-- [Rauno Craft](https://rauno.me/craft) UX prototype portfolio with technical depth and attention to details  #demo#prototyping#gooddesign
+- [Rauno Craft](https://rauno.me/craft) UX prototype portfolio with technical depth and attention to details #demo#prototyping#gooddesign
 - [Thinking on ways to solve a MORPHING BUTTON](https://www.youtube.com/watch?v=N2BKAKwGP6M) View Transition API for setting inner HTML #technique#animation#dom
 - [Browsertech Digest: Figma is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/) Hybrid of S3 storage and Postgres. With Protobuf json serialization #technique#sync#database#realtime
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) Functions and algorithms implemented purely with TypeScript's type system #reference#library
@@ -610,7 +610,7 @@
 - [Everything You Need to Know About the Gap After the List Marker](https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/) with browser differences #list#pattern#reference
 - [Iconhunt](https://www.iconhunt.site/) Free icon library #icon#resource#free
 - [Pure CSS Loader Generator](https://wweb.dev/resources/loader-generator) with code snippets for loading indicator #reference#spinner#pattern
-- [Godot Engine](https://godotengine.org/)  Free and open source 2D and 3D game engine #library#gamedev
+- [Godot Engine](https://godotengine.org/) Free and open source 2D and 3D game engine #library#gamedev
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) The ultimate set of SQLite extensions #database#library
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) Technical explanation on GPT architecture and its fundamental limits #explanation#beginner#nlp
 - [TabFS](https://omar.website/tabfs/) Mirror browser tabs as folders in a file systems to expose API control #tool#browser
@@ -628,7 +628,7 @@
 - [eBoy TiliX](https://c6y.github.io/tilix-reference/) Design system for isometric pixel art #pixelart#3d#designsystem
 - [All Programming Philosophies Are About State](https://www.worldofbs.com/minimize-state/) Compare OOP, functional, declarative, imperative #philosophy#statemanagement
 - [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/) Musing on death, empathy, and chance. #philosophy
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/) CS subjects books and online education video  #resource#education
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) CS subjects books and online education video #resource#education
 - [GPT Index](https://gpt-index.readthedocs.io/en/latest/index.html) Data structure to compose GPT components #library#technique#machinelearning
 - [The Media Equation](https://en.wikipedia.org/wiki/The_Media_Equation) how people interact with media and establish trust #reference#ai
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) Light weight GPT model for training on PC #model#nlp#machinelearning
@@ -637,7 +637,7 @@
 - [OpenJourney](https://open-journey.github.io/) Alternative to Midjourney #generative#ai#tool
 - [Dev Container Templates](https://devcontainers.github.io/templates.html) List of VS Code Dev Containers maintained by Microsoft #reference#tool#editor#vm
 - [Weaviate](https://weaviate.io/) Vector search engine #searchengine#machinelearning
-- [Pinecone](https://www.pinecone.io/) Vector Database for Vector Search  #database#machinelearning#service
+- [Pinecone](https://www.pinecone.io/) Vector Database for Vector Search #database#machinelearning#service
 - [Prompt Engineering Template](https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0) For generative image models #reference#ai
 - [Konjer](https://portal.konjer.xyz/) Talk to a book via GPT-3 #ai#tool
 - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/) reflection on the rise and fall of Agile #opinion#methodology#projectmanagement
@@ -657,7 +657,7 @@
 - [zquestz/s: Open a web search in your terminal.](https://github.com/zquestz/s) #cli#tool#searchengine
 - [Riffusion](https://www.riffusion.com/about) Stable diffusion generated music #ai#tool#algorithm#audio
 - [NodeToy](https://nodetoy.co/) Create and share shader graphs with the world #3d#saas#tool
-- [Blockbench](https://www.blockbench.net/) Low poly modeling  #tool#saas#3d
+- [Blockbench](https://www.blockbench.net/) Low poly modeling #tool#saas#3d
 - [Scan of the month](https://www.scanofthemonth.com/scans) Industrial CT Scan project #gooddesign#typography#3d
 - [llimllib/wasm_sqlite_with_stats](https://github.com/llimllib/wasm_sqlite_with_stats) Documentation and demonstration of how to build WASM versions of SQLite with extensions embedded #technique#database#sql
 - [sqlite-lines](https://observablehq.com/@asg017/introducing-sqlite-lines) SQLite extension for reading files line-by-line #database#performance#sql
@@ -676,7 +676,7 @@
 - [antonmedv/llama](https://github.com/antonmedv/llama) Terminal file manager #tool#cli#file
 - [The BBC's 15 Web Principles](https://shkspr.mobi/blog/2022/11/the-bbcs-15-web-principles-15-years-later/) #guide#gooddesign#usability#principle#philosophy
 - [oEmbed](https://oembed.com/#section2) Open embed protocol #standard#html#url#api#reference
-- [You don't need HTML](https://no-ht.ml/) implement table, chart, color, image, all in Unicode  #demo#technique#plaintext
+- [You don't need HTML](https://no-ht.ml/) implement table, chart, color, image, all in Unicode #demo#technique#plaintext
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) A GPU-accelerated computing library for physics simulations and other mathematical calculations #simulation#library#gpu#graphics
 - [Vim Commands: A Beginner Guide with Examples](https://thevaluable.dev/vim-commands-beginner/) progressive from 0 to expert #guide#beginner#reference
 - [ericchiang/pup](https://github.com/ericchiang/pup) Parsing HTML at the command line #tool#cli#html
@@ -704,7 +704,7 @@
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) Curated and well-maintained hostfile to block ads, tracking, cryptomining #privacy#resource
 - [I Don’t Believe in Sprints](https://www.robinrendle.com/notes/i-don%E2%80%99t-believe-in-sprints/) #opinion#methodology#projectmanagement
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) A curated collection of diagramming tools used by leading software engineering teams #tool#resource#diagram#chart#visualization
-- [merbanan/rtl_433](https://github.com/merbanan/rtl_433)  Program to decode radio transmissions from devices on the ISM bands #hack#iot#wireless
+- [merbanan/rtl_433](https://github.com/merbanan/rtl_433) Program to decode radio transmissions from devices on the ISM bands #hack#iot#wireless
 - [Hosting SQLite databases as static files](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/) with built-in sharding and page size control #technique#database#jamstack#searchengine
 - [Compression and decompression in the browser with the Compression Streams API](https://developer.chrome.com/blog/compression-streams-api/) #technique#tutorial
 - [Muse app](https://museapp.com/) tool for thoughts with infinite canvas and touch first design #service#gooddesign
@@ -723,7 +723,7 @@
 - [A Guide to HTML Background Images in Email](https://www.emailonacid.com/blog/article/email-development/html-background-images-in-email/) Background size contain #technique#email#responsive
 - [cozodb/cozo](https://github.com/cozodb/cozo) Datalog graph database with embed binary like SQLite #database#library#rust
 - [binwiederhier/ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy) opena-source notification service for apps #notification#library#saas#free
-- [Learn X in Y Minutes](https://learnxinyminutes.com/) quick start for languages, computer science topics, data structure, and tool  #reference#beginner#language#tool#algorithm
+- [Learn X in Y Minutes](https://learnxinyminutes.com/) quick start for languages, computer science topics, data structure, and tool #reference#beginner#language#tool#algorithm
 - [RawTherapee](https://www.rawtherapee.com/) alterative to photoshop #image#tool#photo
 - [The Myers Difference Algorithm](https://www.nathaniel.ai/myers-diff/) Convert diffing to BFS graph search problem #algorithm#editor#gooddesign#visualization
 - [ds300/patch-package](https://github.com/ds300/patch-package) Fix broken node modules instantly in the lack of timely maintenance #tool#devops#library#monorepo
@@ -780,7 +780,7 @@
 - [Castopod](https://castopod.org/) open-source podcast hosting with community and social features #library#platform#podcast
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) Cross-platform UI components built with lit #library#webcomponent#pattern
 - [Nature 150 Interactive](https://www.nature.com/articles/d41586-019-03308-7) Visualize 150 years of citation network #gooddesign#visualization#knowledgebase
-- [snaplet/postgres-wasm:](https://github.com/snaplet/postgres-wasm) Linux VM and PostgresQL server running in your browser using Web Assembly,  #database#wasm
+- [snaplet/postgres-wasm:](https://github.com/snaplet/postgres-wasm) Linux VM and PostgresQL server running in your browser using Web Assembly, #database#wasm
 - [Doug Engelbart Institute](https://dougengelbart.org/) Insights for building revolutionary technology that augments collective intelligence #history#reference
 - [Timeline of Computer History](https://www.computerhistory.org/timeline/computers/) Visual stories by Computer History Museum #reference#history
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) Comprehensive list of SSL configs hosted in real sites for client testing. #security#tool#network
@@ -816,7 +816,7 @@
 - [Why ContentEditable is Terrible](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480) medium engineering blob on text editor design #wysiwyg#reference
 - [Why your website should be under 14kb](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/) tcp package size consideration #performance#network
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) Open-source alternative to DALL-E 2 #deeplearning#generative#library
-- [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns) interactive  #visualization#deeplearning#beginner#gooddesign
+- [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns) interactive #visualization#deeplearning#beginner#gooddesign
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) programmatic image editing #library#tool#image
 - [google/sentencepiece: Unsupervised text tokenizer for Neural Network-based text generation.](https://github.com/google/sentencepiece) for non-english tokenization #library
 - [subconsciousnetwork/subtext: Markup for note taking](https://github.com/subconsciousnetwork/subtext) reduced from markdown #language
@@ -834,7 +834,7 @@
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) Animated sprite editor & pixel art tool based on Aseprite #pixelart#tool#free
 - [Pixilart](http://www.pixilart.com) Online pixel art creation #tool#pixelart#gamedev
 - [Aseprite](https://www.aseprite.org/) Pixel art and sprite animation #tool#gamedev
-- [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)  A strictly typed utility library. lodash alternative. #functional#library
+- [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel) A strictly typed utility library. lodash alternative. #functional#library
 - [Matrix Multiplication](http://matrixmultiplication.xyz/) Visualization #beginner#gooddesign#machinelearning
 - [Gradio](https://www.gradio.app/) UI toolkit for ML apps #library#machinelearning
 - [Gradio + HuggingFace Spaces](https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial) ML service deployment #tutorial#beginner
@@ -855,7 +855,7 @@
 - [stedolan/jq](https://github.com/stedolan/jq) Command-line JSON processor #cli#tool
 - [Speak Human](https://www.speakhuman.today/) Generate friendly message for UI copy and messaging #content#tool
 - [UX Core](https://keepsimple.io/uxcore) Large database for UX patterns, cognitive biases, heuristics, psychological effects #reference#pattern#psychology
-- [Memory Management Reference](https://www.memorymanagement.org/) with diagram and glossary list  #reference#systemprogramming
+- [Memory Management Reference](https://www.memorymanagement.org/) with diagram and glossary list #reference#systemprogramming
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) Jargon from the functional programming world in simple terms #reference#language
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop) API design for better composition #functional
 - [An event for CSS position:sticky](https://developer.chrome.com/blog/sticky-headers/) Build sticky header stack #technique#tutorial
@@ -914,12 +914,12 @@
 - [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css) A CSS parser, transformer, and minifier written in Rust. #compiler#library#devexperience
 - [Jitsi](https://jitsi.org/) Free Video Conferencing Software for Web & Mobile. Open source alternative to zoom. Self-hostable. #saas#tool#videoconference
 - [Raven Reader](https://ravenreader.app/) open source rss feed reader made with electron #rss#free
-- [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element)  A lightweight emoji picker for the modern web #library#emoji
+- [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element) A lightweight emoji picker for the modern web #library#emoji
 - [Render emoji on the web](https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/) challenges and hacks #technique#emoji#icon
 - [Useful Tools for Creating AVIF Images](https://css-tricks.com/useful-tools-for-creating-avif-images/) for compression, one-off or batch conversion #tool#image#performance
 - [flickz/newspaperjs](https://github.com/flickz/newspaperjs) mercury parser alternative #scraping#library#knowledgebase#nlp
 - [Dialog (GUI Challenges)](https://www.youtube.com/watch?v=GDzzIlRhEzM) #pattern#dialog#a11y#tutorial
-- [Look Scanned](https://lookscanned.io/) Add the scanner look and feel to a PDF document  #tool
+- [Look Scanned](https://lookscanned.io/) Add the scanner look and feel to a PDF document #tool
 - [Progressively Enhanced Builds](https://blog.jim-nielsen.com/2022/progressively-enhanced-builds/) apply progressive enhancement principles to content authoring in markdown #opinion#philosophy#progressive#webcomponent#technique
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets #table#library
 - [Insanely Useful Websites](https://www.insanelyusefulwebsites.com/) toolbox for tasks on the web, mostly unknown unknowns #tool#resource
@@ -946,7 +946,7 @@
 - [discourse](https://github.com/discourse/discourse) Open source solution for discussion based community #library#service#community
 - [mb21/panwriter](https://github.com/mb21/panwriter) Markdown editor with pandoc integration and paginated preview, powered by Electron #markdown#tool#editor
 - [Avvvatars](https://avvvatars.com/) Open Source React UI Avatar Library for user profile images #library#resource
-- [Optical Effects in User Interfaces](https://medium.muz.li/optical-effects-9fca82b4cd9a) optical imbalance between round and square objects  #technique#design
+- [Optical Effects in User Interfaces](https://medium.muz.li/optical-effects-9fca82b4cd9a) optical imbalance between round and square objects #technique#design
 - [Preventing layout shift with numbers using CSS](https://gomakethings.com/preventing-layout-shift-with-numbers-using-css/) Use tabular-nums to display monospace numbers in proportional font #typography#responsive#technique
 - [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/) stylesheet title, enterkeyhint for virtual keyboard, async decoding for img, lazy loading for iframe, detach form action from form body, group select options #html#reference#performance#a11y#form#pattern#select
 - [LUME](https://docs.lume.io) CSS based 3d, WebGL and AR/VR declarative #library#3d
@@ -972,7 +972,7 @@
 - [OpenReplay](https://openreplay.com) Session replay Open-Source #service#library#telemetry
 - [ColorBrewer: Color Advice for Maps](https://colorbrewer2.org/) #tool#color#visualization#a11y
 - [The Symphony of Blockchains](https://symphony.iohk.io/en/) Visualize blockchain, mempool, transaction #crypto#gooddesign#webgl
-- [Laws of UX](https://lawsofux.com/) cognitive biases, design and engineering principles  #reference#principle#psychology
+- [Laws of UX](https://lawsofux.com/) cognitive biases, design and engineering principles #reference#principle#psychology
 - [Crafting Organic Patterns With Voronoi Tessellations](https://georgefrancis.dev/writing/crafting-organic-patterns-with-voronoi-tessellations/) #algorithm#generative#art#tutorial#background
 - [text-size-adjust in CSS reset](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) and a compilation of popular resets/normalize #browser#typography#resource#technique
 - [The New CSS Reset](https://elad2412.github.io/the-new-css-reset/) minimum stylesheet for normalizing browser differences #technique#browser
@@ -1016,7 +1016,7 @@
 - [NASA Color Usage Research Lab](https://colorusage.arc.nasa.gov/index.php) Design methods, color science, and color guidelines #color#tutorial
 - [Blue perception is weaker than other colors](https://gizmodo.com/believe-it-or-not-these-four-squares-move-at-the-same-1559629417) #a11y#color
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers #saas#editor#progressive
-- [GPU.js](https://gpu.rocks/#/)  GPU accelerated Javascript for parallel computation #library#performance
+- [GPU.js](https://gpu.rocks/#/) GPU accelerated Javascript for parallel computation #library#performance
 - [seek-oss/vanilla-extract: Zero-runtime Stylesheets-in-TypeScript](https://github.com/seek-oss/vanilla-extract) #library#cssinjs#performance
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) A collection of utilities for Windows 10 Linux Subsystems. Create shortcut. Open files. #linux#tool
 - [MD Nichrome](https://css-tricks.com/websites-we-like-md-nichrome/) Typeface site with gradient and noise background effect #background#gooddesign#demo#typography
@@ -1078,9 +1078,9 @@
 - [Asynchronous Design Critique](https://alistapart.com/article/async-design-critique-giving-feedback/) Process for giving/collecting feedback #process#collaboration
 - [Making Tables With Sticky Header and Footers Got a Bit Easier](https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/) #responsive#table#pattern
 - [Crazy, Powerful TypeScript Tuple Types](https://instil.co/blog/crazy-powerful-typescript-tuple-types/) Wrap unwrap each tuple item #technique#tutorial
-- [AngelList](https://angel.co/) Startup hiring and job posting platform  #resource
+- [AngelList](https://angel.co/) Startup hiring and job posting platform #resource
 - [argyleink/roving-ux](https://github.com/argyleink/roving-ux) stateful roving index for web ui #keyboard#a11y#library
-- [Control focus with tabindex](https://web.dev/control-focus-with-tabindex/) Arrow key controlled focus with Roving tabindex   #technique#keyboard#a11y
+- [Control focus with tabindex](https://web.dev/control-focus-with-tabindex/) Arrow key controlled focus with Roving tabindex #technique#keyboard#a11y
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) Open source security best practice for various vulnerabilities e.g. CSRF, XSS, injection #security#reference
 - [CSS-in-JS analysis](https://github.com/andreipfeiffer/css-in-js) Analysis of CSS-in-JS solutions with comparison and pros and cons #reference
 - [Links on Web Components](https://css-tricks.com/links-on-web-components/) Usage and considerations #webcomponent#reference
@@ -1105,7 +1105,7 @@
 - [Localtunnel](https://theboroer.github.io/localtunnel-www/) expose localhost to the internet, with node cli #free#tool#pairprogramming#devexperience
 - [ngrok](https://ngrok.com/) expose localhost to the internet #tool#devexperience#pairprogramming
 - [Gruvbox themed wall papers](https://www.reddit.com/u/atlas-ark) for various operating systems #gooddesign#resource#darkmode
-- [Tokio](https://tokio.rs/) Binding for v8 used by deno.  #gooddesign#library#rust
+- [Tokio](https://tokio.rs/) Binding for v8 used by deno. #gooddesign#library#rust
 - [Shields.io](https://shields.io/) metadata badges for open source projects and GitHub readme #tool#svg
 - [A Complete Guide To Incremental Static Regeneration (ISR)](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/) With Next.js #performance#guide#beginner
 - [ProseMirror](https://prosemirror.net/) crowd funded rich text editor for the web. Has monorepo version manager builtin #editor
@@ -1115,7 +1115,7 @@
 - [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/) #performance
 - [Lightweight syntax highlighting code editor](https://css-tricks.com/creating-an-editable-textarea-that-supports-syntax-highlighted-code/) with transparent textarea and prism #technique#wysiwyg#editor
 - [CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/) intro to spec, motivation explained #beginner#responsive#tutorial#technique
-- [CSS Specificity Graph Generator](https://jonassebastianohlsson.com/specificity-graph/?ref=tiny-helpers) visualize the low-to-high trend  #tool#visualization
+- [CSS Specificity Graph Generator](https://jonassebastianohlsson.com/specificity-graph/?ref=tiny-helpers) visualize the low-to-high trend #tool#visualization
 - [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/) visual patterns for algorithmic and parametric design #tool#visualization#color
 - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/) #guide#reference#beginner#email
 - [SmolCSS](https://smolcss.dev/#smol-article-anchor-title) Minimal snippets for modern CSS layouts and components #reference#layout#responsive
@@ -1127,7 +1127,7 @@
 - [vue-lit](https://github.com/yyx990803/vue-lit) @vue/reactivity and lit-html #statemanagement#library
 - [Takes on State](https://css-tricks.com/takes-on-state/) Statement management with low overhead javascript #statemanagement#technique
 - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/#accessible-tap-click-menu) #pattern#a11y#reference
-- [In Praise of the Unambiguous Click Menu](https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/) Drawbacks of mega hover menu  #technique#navigation#menu
+- [In Praise of the Unambiguous Click Menu](https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/) Drawbacks of mega hover menu #technique#navigation#menu
 - [Better Line Breaks for Long URLs](https://css-tricks.com/better-line-breaks-for-long-urls/) with `wrb` element and string replacement #technique#responsive#url
 - [The Rust Programming Language](https://doc.rust-lang.org/book/) #beginner
 - [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) #reference
@@ -1162,7 +1162,7 @@
 - [Lateral](https://lateral.io/) knowledge block detection, tagging, and grouping #ai#nlp#saas
 - [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) high performance full text file search utility #searchengine#tool
 - [Technical debt as a lack of understanding](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/) justify refactoring/rewriting after reorganization #philosophy#opinion
-- [Technical Credit](https://www.stillbreathing.co.uk/2016/10/13/technical-credit) anticipating emergent technology  #philosophy#opinion#progressive
+- [Technical Credit](https://www.stillbreathing.co.uk/2016/10/13/technical-credit) anticipating emergent technology #philosophy#opinion#progressive
 - [Lean Web Principles](https://leanweb.dev/ebook/lean-web-principles/) criticism on "best practice" of framework based tech stack and promotion of vanilla js #philosophy#performance#opinion
 - [Copying is the way design works](https://matthewstrom.com/writing/copying/) Matthew Ström musing on copy, open source, and creative learning #opinion#philosophy
 - [Marked](https://github.com/markedjs/marked) A mature markdown parser and compiler #markdown#library#editor
@@ -1204,7 +1204,7 @@
 - [Modfy](https://app.modfy.video/) Wasm Video Transcoder for editing and combining and resizing #tool#video
 - [visx](https://github.com/airbnb/visx/) airbnb open source data visualization library for React, alternative to D3 #visualization#library#react
 - [IconPark](http://iconpark.bytedance.com/official) 1k+ high quality general purpose multi-color icon for app building by ByDesign #icon#free#resource
-- [a11yresources](https://a11yresources.webflow.io/)  A growing list of accessibility tools and resources #a11y#resource
+- [a11yresources](https://a11yresources.webflow.io/) A growing list of accessibility tools and resources #a11y#resource
 - [The failed promise of Web Components](https://lea.verou.me/2020/09/the-failed-promise-of-web-components/) ignore HTML standard, heavy dependency and javascript requirement #opinion#webcomponent
 - [Github Elements](https://www.webcomponents.org/collection/github/github-elements) web components by Github, time, menu, autocomplete #pattern#webcomponent
 - [Keyboard Simulator](https://keyboardsimulator.xyz/) color theme design for mechanical keyboards #tool#keyboard
@@ -1262,7 +1262,7 @@
 - [Logo Design](https://blog.tubikstudio.com/logo-design-free-e-book-by-tubik-studio/) Free E-Book by Tubik Team #resource
 - [New insights on poverty](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty?language=en) early application of data visualization #visualization#gooddesign
 - [The Component IDE for
-Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#ide#tool#webcomponent
+  Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#ide#tool#webcomponent
 - [Generative Logo Design](https://components.ai/notes/logo/) variable shape, overlay, frame, typograph with svg #technique
 - [CUBE CSS](https://piccalil.li/cube-css/) Composition, Utility, Block, Exception #methodology
 - [How I Structure My CSS (for Now)](https://matthiasott.com/notes/how-i-structure-my-css) an implementation of ITCSS #itcss#methodology
@@ -1279,8 +1279,8 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [React state management roundup](https://github.com/wesbos/Syntax/blob/master/shows/272%20-%20react%20roundup.md) Pros and cons of libraries #statemanagement#library#react#flux
 - [josh-richardson/cadmus](https://github.com/josh-richardson/cadmus/) Pulse Audio real-time noise suppression plugin #audio#tool
 - [Graceful degradation versus progressive enhancement](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement) when to use which #responsive#progressive#philosophy
-- [A Lightweight Masonry Solution](https://css-tricks.com/a-lightweight-masonry-solution/) with native css grid  #technique#layout
-- [Noyaki (open burning)](https://japanese-wiki-corpus.github.io/culture/Noyaki%20(open%20burning).html) to kill insect and maintain life #philosophy
+- [A Lightweight Masonry Solution](https://css-tricks.com/a-lightweight-masonry-solution/) with native css grid #technique#layout
+- [Noyaki (open burning)](<https://japanese-wiki-corpus.github.io/culture/Noyaki%20(open%20burning).html>) to kill insect and maintain life #philosophy
 - [Teenyicons Tiny minimal 1px icons](https://teenyicons.com/) 15px grid with svg and figma asset #free#icon
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) for cross platform keybindings and keyboard shortcuts #keyboard#library
 - [The 100 Day Project](https://medium.com/the-100-day-project) Learning journey for 3D, Motion design, illustration, lettering #gooddesign#tutorial#beginner#resource
@@ -1310,7 +1310,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Video players and services](https://github.com/wesbos/Syntax/blob/master/shows/266%20-%20video.md) #video#resource#library#service
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) Password protect a static HTML page #library#jamstack
 - [Tauri Studio](https://tauri.studio/) electron alternative for native apps built with html css and javascript #nativeapp#framework
-- [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) vvvv "clone" in javascript/webgl, with node based editor. UI is good for parametric pipeline building  #visualization#library#cgi
+- [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) vvvv "clone" in javascript/webgl, with node based editor. UI is good for parametric pipeline building #visualization#library#cgi
 - [VVVV.js](http://vvvvjs.com/) Visual Web Client Programming with in browser node editor #visualization#library#webgl#cgi
 - [PixiJS](https://www.pixijs.com/) WebGL renderer for 2D #library#webgl
 - [Apply different color to favicon for dark mode](https://twitter.com/CodyWebHouse/status/1280515162806550529) #darkmode#favicon#technique
@@ -1365,7 +1365,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Pepsi logo redesign](https://www.goldennumber.net/wp-content/uploads/pepsi-arnell-021109.pdf?ck_subscriber_id=681173061) A great presentation of rationalizing art direction choices #gooddesign#logo
 - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) How to visualize data with the right tools #visualization#resource
 - [terminal.sexy](https://terminal.sexy/) Terminal Color Scheme Designer #tool#theming
-- [Solving the N+1 Problem for GraphQL through Batching](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching) unpredictable performance caused by nested query  #graphql#database
+- [Solving the N+1 Problem for GraphQL through Batching](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching) unpredictable performance caused by nested query #graphql#database
 - [Progressively enhancing radio buttons with SVG whilst staying accessible](https://christianheilmann.com/2020/05/05/progressively-enhancing-radio-buttons-with-svg-whilst-staying-accessible/) #radio#form
 - [Open Peeps](https://blush.design/collections/open-peeps/builder/1J9RpJ41c) #illustration#resource
 - [A case study of complex table design](https://jlongster.com/case-study-complex-table-design) For financial data with sticky header and side column #table#demo
@@ -1431,7 +1431,7 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [basekick](https://github.com/michaeltaranto/basekick/blob/master/README.md) An mixin for realigning your typographic elements with proper graphic design baseline #typography#library
 - [Drag 'n' drop content builder for web apps](https://paperbits.io/) Open source drag n drop interface #library#dragndrop#wysiwyg
 - [Styling The Good Ol' Button Element](https://ishadeed.com/article/styling-the-good-old-button/) comprehensive guide to button styling. Focus and hover ordering. #pattern#button#technique
-- [premieroctet/openchakra](https://github.com/premieroctet/openchakra)  visual editor and code generator for React using Chakra UI #wysiwyg#library#tool
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) visual editor and code generator for React using Chakra UI #wysiwyg#library#tool
 - [Begin](https://begin.com/) platform for web apps and apis all in one #serverless#platform#service
 - [Framer Motion](https://www.framer.com/motion/) developer friendly animation library #animation#react#library#motion
 - [Neumorphism.io](https://neumorphism.io/#55b9f3) soft realistic 3d shadow generator #tool#design
@@ -1443,14 +1443,14 @@ Web Platform Developers](https://webcomponents.dev/) host, demo and IDE #saas#id
 - [Kikobeats/unavatar](https://github.com/Kikobeats/unavatar) Get unified user avatar from multiple sources #service#avatar#free#api
 - [nickdeny/darkmode-js](https://github.com/nickdeny/darkmode-js) auto detect user's time and switch theme #darkmode#library
 - [There Is No Design System](https://24ways.org/2019/there-is-no-design-system/) Think of design system as a way of work, not object. Put people above all #designsystem#philosophy
-- [design systems, agile, and industrialization](https://bradfrost.com/blog/post/design-systems-agile-and-industrialization/) criticism of agile and organization culture for distorting the value of design systems  #philosophy#designsystem
+- [design systems, agile, and industrialization](https://bradfrost.com/blog/post/design-systems-agile-and-industrialization/) criticism of agile and organization culture for distorting the value of design systems #philosophy#designsystem
 - [The design systems we swim in.](https://ethanmarcotte.com/wrote/the-design-systems-we-swim-in/) Concern of design system not empowering playful situational decision making #philosophy#designsystem
 - [Architects, gardeners, and design systems](https://adactio.com/journal/16369) The dehumanising risk of design systems #philosophy#designsystem
 - [Redesign: Gardening vs. Architecture](https://frankchimero.com/blog/2020/gardening-vs-architecture/) descriptive vs prescriptive work #philosophy
-- [Light and dark themed SVG favicon using the CSS prefers-color-scheme media feature](https://catalin.red/svg-favicon-light-dark-theme/) adapt to dark mode  #technique#favicon#icon
+- [Light and dark themed SVG favicon using the CSS prefers-color-scheme media feature](https://catalin.red/svg-favicon-light-dark-theme/) adapt to dark mode #technique#favicon#icon
 - [krasimir/octomments](https://github.com/krasimir/octomments#is-octomments-creating-the-github-issues-for-me) A small library that offers GitHub issues as comments for your site/blog #hack#comment#library
 - [Building an accessible autocomplete control](https://adamsilver.io/articles/building-an-accessible-autocomplete-control/) #a11y#pattern#autocomplete#input#form#technique#demo
-- [Magic Ink: Information Software and the Graphical Interface](http://worrydream.com/MagicInk/) Interaction should be replaced by context sensitivity  #philosophy#gooddesign#tool
+- [Magic Ink: Information Software and the Graphical Interface](http://worrydream.com/MagicInk/) Interaction should be replaced by context sensitivity #philosophy#gooddesign#tool
 - [Dynamicland](https://dynamicland.org/#project) Computer as an ubiquitous medium, made of components with agency #iot#gooddesign
 - [zipdecode](https://benfry.com/zipdecode/) zip code visualization search with immediate feedback #gooddesign#demo
 - [Browser Functions: A new serverless platform using Web Browser execution engines](https://medium.com/@richardyoung00/browser-functions-a-new-serverless-platform-using-web-browser-execution-engines-31d2293e650b) Using browser web api as server runtime #technique#hack#gooddesign
