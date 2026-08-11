@@ -1,3 +1,4 @@
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) tiny LLM that runs on Pi and ESP-32 #llm#selfhosted#model
 - [ZhengPeng7/BiRefNet](https://github.com/zhengpeng7/birefnet) image segmentation for subject extraction #model#deeplearning
 - [Wiki Spy](https://neal.fun/wiki-spy/) visual tiling of wikipedia objects #gooddesign#visualization
 - [Bento/Suite](https://bento.page/) Entire slide deck in a single html file with edit replace powerpoint #service#blockeditor#selfhosted
