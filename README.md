@@ -1,3 +1,4 @@
+- [ZhengPeng7/BiRefNet](https://github.com/zhengpeng7/birefnet) image segmentation for subject extraction #model#deeplearning
 - [Wiki Spy](https://neal.fun/wiki-spy/) visual tiling of wikipedia objects #gooddesign#visualization
 - [Bento/Suite](https://bento.page/) Entire slide deck in a single html file with edit replace powerpoint #service#blockeditor#selfhosted
 - [Puter AI Gateway](https://developer.puter.com/ai/) Offload payment and authentication to the user #ai#platform
