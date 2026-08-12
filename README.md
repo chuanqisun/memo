@@ -1,3 +1,4 @@
+- [PairDrop](https://pairdrop.net/) file transfer and sharing #service#tool#p2p
 - [Simulate sun shadows](https://shademap.app) #tool#map
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) tiny LLM that runs on Pi and ESP-32 #llm#selfhosted#model
 - [ZhengPeng7/BiRefNet](https://github.com/zhengpeng7/birefnet) image segmentation for subject extraction #model#deeplearning
