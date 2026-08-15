@@ -1,3 +1,4 @@
+- [ThoughtDAG](https://chenxiachan.github.io/thoughtdag/) LLM context visible and editable #visualization#ai#tool
 - [PairDrop](https://pairdrop.net/) file transfer and sharing #service#tool#p2p
 - [Simulate sun shadows](https://shademap.app) #tool#map
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) tiny LLM that runs on Pi and ESP-32 #llm#selfhosted#model
