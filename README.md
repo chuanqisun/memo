@@ -1,4 +1,4 @@
-- [dither-kit](https://tripwire.sh/dither-kit) dithered style charts, buttons, avatar #library#designsystem#component
+- [dither-kit](https://tripwire.sh/dither-kit) dithered style charts, buttons, avatar #library#designsystem#component#gooddesign
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) compile typescript to native code #compiler#performance#typescript#nativeapp
 - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) modern html with interactivity #beginner#html
 - [ThoughtDAG](https://chenxiachan.github.io/thoughtdag/) LLM context visible and editable #visualization#ai#tool
