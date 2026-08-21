@@ -1,3 +1,4 @@
+- [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) compile typescript to native code #compiler#performance#typescript
 - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) modern html with interactivity #beginner#html
 - [ThoughtDAG](https://chenxiachan.github.io/thoughtdag/) LLM context visible and editable #visualization#ai#tool
 - [PairDrop](https://pairdrop.net/) file transfer and sharing #service#tool#p2p
