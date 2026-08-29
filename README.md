@@ -1,3 +1,4 @@
+- [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck) separate parts of music #soundengineering#tool
 - [davatron5000/microlighter](https://github.com/davatron5000/microlighter) syntax highlighting without dom pollution #highlight#library
 - [dither-kit](https://tripwire.sh/dither-kit) dithered style charts, buttons, avatar #library#designsystem#component#gooddesign
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) compile typescript to native code #compiler#performance#typescript#nativeapp
