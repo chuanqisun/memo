@@ -1,3 +1,4 @@
+- [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) deterministic language generation on CPU without LLM #library#nlp
 - [Xanadu Was Waiting for Agents](https://zed.dev/blog/agentic-xanadu) #opinion#knowledgebase#agent
 - [Japanese course based on Tae Kim's grammar guide](https://ankiweb.net/shared/info/911122782) flash cards for learning japanese from anime clips #language#tool
 - [Soniox](https://soniox.com/speech-to-text) fast accurate speech to text #service#nlp
