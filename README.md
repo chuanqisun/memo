@@ -1,3 +1,4 @@
+- [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers) primer for note, chord, progressives in web audio API #tutorial#audio
 - [Cloud in a Bottle](https://cloudinabottle.org/) app platform for personal cloud #selfhosted
 - [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) deterministic language generation on CPU without LLM #library#nlp
 - [Xanadu Was Waiting for Agents](https://zed.dev/blog/agentic-xanadu) #opinion#knowledgebase#agent
