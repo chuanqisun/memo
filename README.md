@@ -1,3 +1,4 @@
+- [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY) how to present verbal+ visuial #beginner#communication
 - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) strong case against LLM writing #opinion
 - [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers) primer for note, chord, progressives in web audio API #tutorial#audio
 - [Cloud in a Bottle](https://cloudinabottle.org/) app platform for personal cloud #selfhosted
