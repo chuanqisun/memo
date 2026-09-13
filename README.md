@@ -1,3 +1,4 @@
+- [JetKVM](https://jetkvm.com) remote control PC with keyboard, mouse, HDMI I/O #hardware#selfhosted
 - [YuE2 Music with Symbolic Planning](https://map-yue2.github.io/#top) generate music from an editable score #generative#soundengineering#ai
 - [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY) how to present verbal+ visuial #beginner#communication
 - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) strong case against LLM writing #opinion
