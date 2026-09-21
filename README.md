@@ -1,3 +1,4 @@
+- [TypeSafe AI](https://typesafe.ai/) special model for structured json output #performance#api#service#llm
 - [Quick Tunnels](https://try.cloudflare.com/#how) expose localhost to the internet compare to ngrok #tool#devexperience#network
 - [Bend](https://bend-lang.com/) parallel programming language for AI with proof #language
 - [JetKVM](https://jetkvm.com) remote control PC with keyboard, mouse, HDMI I/O #hardware#selfhosted
