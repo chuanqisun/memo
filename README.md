@@ -1,3 +1,4 @@
+- [Bounce](https://bounce.com) low cost luggage storage #gooddesign#businessstrategy#freelance
 - [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) typesafe ai alternative #ai#model#performance
 - [GEA](https://geastack.com/) typescript and css for iot device and esp32 #embedded#hardware#framework
 - [StyleX](https://stylexjs.com/) composable styling #library#cssinjs
