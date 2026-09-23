@@ -1,3 +1,4 @@
+- [HelixDB](https://www.helix-db.com) The Database for AI Memory #gooddesign#database#agent
 - [Open source UI kit for documents](https://www.extend.ai/ui) ui for excel, pdf, word, json #component#library
 - [Bounce](https://bounce.com) low cost luggage storage #gooddesign#businessstrategy#freelance
 - [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) typesafe ai alternative #ai#model#performance
