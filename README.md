@@ -1,3 +1,4 @@
+- [GEA](https://geastack.com/) typescript and css for iot device and esp32 #embedded#hardware#framework
 - [StyleX](https://stylexjs.com/) composable styling #library#cssinjs
 - [Mixfont](https://www.mixfont.com/) AI Font Generator #typography#tool#generative
 - [Video Games Inspire Great UX](https://jenson.org/games/) learn ux from gaming #beginner#opinion#design#gaming#gamedev
