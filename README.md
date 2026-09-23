@@ -1,3 +1,4 @@
+- [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) typesafe ai alternative #ai#model#performance
 - [GEA](https://geastack.com/) typescript and css for iot device and esp32 #embedded#hardware#framework
 - [StyleX](https://stylexjs.com/) composable styling #library#cssinjs
 - [Mixfont](https://www.mixfont.com/) AI Font Generator #typography#tool#generative
