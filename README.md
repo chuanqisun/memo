@@ -1,3 +1,4 @@
+- [Mixfont](https://www.mixfont.com/) AI Font Generator #typography#tool#generative
 - [Video Games Inspire Great UX](https://jenson.org/games/) learn ux from gaming #beginner#opinion#design#gaming#gamedev
 - [TypeSafe AI](https://typesafe.ai/) special model for structured json output #performance#api#service#llm
 - [Quick Tunnels](https://try.cloudflare.com/#how) expose localhost to the internet compare to ngrok #tool#devexperience#network
