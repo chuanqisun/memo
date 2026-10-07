@@ -1,3 +1,4 @@
+- [szabadkai/c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font/) retro styled #typography
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) library behind opencode #cli#library#tui
 - [HelixDB](https://www.helix-db.com) The Database for AI Memory #gooddesign#database#agent
 - [Open source UI kit for documents](https://www.extend.ai/ui) ui for excel, pdf, word, json #component#library
