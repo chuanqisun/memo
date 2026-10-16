@@ -1,3 +1,4 @@
+- [yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/) prototype pollution #technique#hack
 - [Iosevka](https://typeof.net/Iosevka/) monospace font with high density and space efficiency #typography#tui#terminal
 - [guitoro](https://guitoro.com/) Virtual Guitar #gooddesign#gamedev#sounddesign
 - [szabadkai/c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font/) retro styled #typography
