@@ -1,3 +1,4 @@
+- [Inline rendering with document​.currentScript](/notes/inline-rendering-currentscript/) inside <script> tag #technique#html
 - [Pele](https://pele.run/) Mermaid diagrams as themeable SVG #library#visualization#diagram
 - [Furifont](https://furifont.antfu.me/) furigana built into the japanese kanji #typography
 - [yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/) prototype pollution #technique#hack
