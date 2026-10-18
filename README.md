@@ -1,3 +1,4 @@
+- [Furifont](https://furifont.antfu.me/) furigana built into the japanese kanji #typography
 - [yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/) prototype pollution #technique#hack
 - [Iosevka](https://typeof.net/Iosevka/) monospace font with high density and space efficiency #typography#tui#terminal
 - [guitoro](https://guitoro.com/) Virtual Guitar #gooddesign#gamedev#sounddesign
