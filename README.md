@@ -1,3 +1,4 @@
+- [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) for compact coding #typography#tui
 - [Inline rendering with document​.currentScript](/notes/inline-rendering-currentscript/) inside <script> tag #technique#html
 - [Pele](https://pele.run/) Mermaid diagrams as themeable SVG #library#visualization#diagram
 - [Furifont](https://furifont.antfu.me/) furigana built into the japanese kanji #typography
