@@ -1,3 +1,4 @@
+- [Dessa](https://block.xyz/dessa) Conversation Model trained only on speech #voice#generative#model#nlp
 - [WorldTUI](https://simedw.com/2026/10/21/world-model-terminal/) 360M model to pretend to be a terminal #tui#generative#model
 - [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) for compact coding #typography#tui
 - [Inline rendering with document​.currentScript](/notes/inline-rendering-currentscript/) inside <script> tag #technique#html
