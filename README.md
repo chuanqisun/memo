@@ -1,3 +1,4 @@
+- [Blooms](https://vimeo.com/117674269) Strobe Animated Sculptures Invented by John Edmark #animation#art
 - [I Spent 11 Years Working on This Line Rider Track](https://delu.medium.com/i-spent-11-years-working-on-this-line-rider-track-96742fc0b709) #story#art#physics#draw
 - [Dessa](https://block.xyz/dessa) Conversation Model trained only on speech #voice#generative#model#nlp
 - [WorldTUI](https://simedw.com/2026/10/21/world-model-terminal/) 360M model to pretend to be a terminal #tui#generative#model
