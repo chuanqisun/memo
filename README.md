@@ -1808,7 +1808,7 @@
 - [Swipeable card dismiss slide up animation](https://www.youtube.com/watch?v=F3A6Skckh9c) #technique#animation#tutorial
 - [Material dark theme](https://www.youtube.com/watch?v=9NDLR3COU7Y) design system thinking #technique#gooddesign
 - [Intersection Observer](https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/) for lazy load image, auto pause video, and track reading progress #technique#scroll#tutorial
-- [THe Web's Grain](https://frankchimero.com/writing/the-webs-grain/) philosophical musing on responsive design #opinion
+- [The Web's Grain](https://frankchimero.com/writing/the-webs-grain/) philosophical musing on responsive design #opinion
 - [Bret Victor - Stop Drawing Dead Fish](https://vimeo.com/64895205) computer as a medium to create interactive art without coding #philosophy#opinion
 - [CSS SVG Progress spinner](https://glennmccomb.com/articles/building-a-pure-css-animated-svg-spinner/) #pattern#progress#technique
 - [Progressive enhanced css grid](https://andy-bell.design/wrote/create-a-responsive-grid-layout-with-no-media-queries-using-css-grid/) #technique#tutorial
