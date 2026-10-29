@@ -1,3 +1,4 @@
+- [Qwenputer](https://divagr.com/blog/qwenputer) RISC-V CPU inside Qwen3.5 model weights #technique#model#llm
 - [morluto/rea](https://github.com/morluto/rea) reverse engineer anything #technique#framework#wasm
 - [Blooms](https://vimeo.com/117674269) Strobe Animated Sculptures Invented by John Edmark #animation#art
 - [I Spent 11 Years Working on This Line Rider Track](https://delu.medium.com/i-spent-11-years-working-on-this-line-rider-track-96742fc0b709) #story#art#physics#draw
