@@ -1,3 +1,4 @@
+- [Pretext](https://pretextjs.dev/) text layout type setting engine #typography#library#performance
 - [Qwenputer](https://divagr.com/blog/qwenputer) RISC-V CPU inside Qwen3.5 model weights #technique#model#llm
 - [morluto/rea](https://github.com/morluto/rea) reverse engineer anything #technique#framework#wasm
 - [Blooms](https://vimeo.com/117674269) Strobe Animated Sculptures Invented by John Edmark #animation#art
