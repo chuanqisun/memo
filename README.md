@@ -1,3 +1,4 @@
+- [Sand3D](https://sandflow.ai/sand3d/) 3D-as-code dataset asset library #3d#library#model
 - [Pretext](https://pretextjs.dev/) text layout type setting engine #typography#library#performance
 - [Qwenputer](https://divagr.com/blog/qwenputer) RISC-V CPU inside Qwen3.5 model weights #technique#model#llm
 - [morluto/rea](https://github.com/morluto/rea) reverse engineer anything #technique#framework#wasm
