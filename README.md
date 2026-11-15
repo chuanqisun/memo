@@ -1,3 +1,4 @@
+- [Ductus](https://ductus.sorenblank.com) handwriting font generator #typography#tool
 - [e-means](https://arxiv.org/abs/2611.09501) fast k-means #algorithm#machinelearning#performance
 - [Declarative Dragging](https://declarative-dragging.github.io/) state and constraint driven drag and drop #dragndrop#library#gooddesign
 - [Polyfork](https://polyfork.dev/assets) Low-Poly 3D Assets for three.js #3d#library
