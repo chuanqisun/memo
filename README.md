@@ -1,3 +1,4 @@
+- [ml5](https://ml5js.org/) body tracking, object detection, hand and face similar to p5 #library#computervision
 - [CS Learn at Carnegie Mellon](https://www.youtube.com/@CMULearn) free online course on YouTube #course#resource
 - [Ductus](https://ductus.sorenblank.com) handwriting font generator #typography#tool
 - [e-means](https://arxiv.org/abs/2611.09501) fast k-means #algorithm#machinelearning#performance
