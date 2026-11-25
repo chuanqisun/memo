@@ -1,3 +1,4 @@
+- [Button Sounds](https://buttons.joshwcomeau.com/) tactile SFX for your UI #library#sounddesign
 - [PenGPT](https://greydanus.github.io/2026/11/12/pengpt/) Generative Transformer for Handwriting and Sketches #model#llm
 - [ml5](https://ml5js.org/) body tracking, object detection, hand and face similar to p5 #library#computervision
 - [CS Learn at Carnegie Mellon](https://www.youtube.com/@CMULearn) free online course on YouTube #course#resource
