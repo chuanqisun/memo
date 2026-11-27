@@ -1,3 +1,4 @@
+- [Watch YouTube Videos with No Ads on Auto-Repeat in Full Screen](https://www.yout-ube.com/#how) #tool#service
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) #typography#tui
 - [Button Sounds](https://buttons.joshwcomeau.com/) tactile SFX for your UI #library#sounddesign
 - [PenGPT](https://greydanus.github.io/2026/11/12/pengpt/) Generative Transformer for Handwriting and Sketches #model#llm
